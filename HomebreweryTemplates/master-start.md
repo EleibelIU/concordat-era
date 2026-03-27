@@ -38,1055 +38,1119 @@ Note: If you import the theme this way, make sure to add the "DH Style Editor op
 Alternatively, you can create a copy of this brew and then modify that one, or copy and paste everything in the Style Editor and Snippets into a new brew.
 
 -------------------------------------------------------------------------
+
+NOTE: Page numbers in the Table of Contents are estimates. Adjust them after pasting into Homebrewery once you can see actual pagination.
+
 -->
-
-{{frontCover}}
-
-# Daggertheme
-
-{{logo}}
-
-![CoverBanner](https://i.imgur.com/2VLgcUJ.png) {position:absolute,left:10%,bottom:130px,width:80%,z-index:1}
-
-![Fantasy Castle](https://i.imgur.com/23HRmqv.jpeg){position:absolute,left:-50%,bottom:-15%,width:250%}
-
-\page
 
 {{CreditsPage}}
 
 ### Credits Page
 
-**ORIGINAL THEME (CLASS TEMPLATE):** Sax [(Homebrewery](https://homebrewery.naturalcrit.com/user/Sax?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/Sax-7777299/submitted/?sort=top) & PerfectlyCircularSeal [(Homebrewery](https://homebrewery.naturalcrit.com/user/Layoro?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/The_Sad_Optimist/?sort=top)
+**SETTING DESIGN:** [Your Name Here]
 
-**EXPANDED THEME:** AeronDrake [(Homebrewery](https://homebrewery.naturalcrit.com/user/draco?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/AeronDrake/)
+**HOMEBREWERY TEMPLATE:** AeronDrake [(Homebrewery](https://homebrewery.naturalcrit.com/user/draco?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/AeronDrake/)
+
+**ORIGINAL CLASS TEMPLATE:** Sax & PerfectlyCircularSeal
 
 **COVER IMAGE:** Fantasy Castle by Bob Greyvenstein.
 
-Some artwork © Grim Press, used with permission. All rights reserved.
-
-**VERSION 1.3** (01/15/2026)
-
-![DH SmallLogo](https://i.imgur.com/S4Dwwg0.png) {position:relative,height:1em,vertical-align:top,margin-right:0.24em} This product includes material from the Daggerheart System Reference Document 1.0, © Critical Role, LLC, under the terms of the Darrington Press Community Gaming License. 
-
-More at [https://www.daggerheart.com](https://www.daggerheart.com)
+This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old Republic*, *The Old Republic MMO*, and related media — adapted for original use. All Star Wars IP belongs to Lucasfilm/Disney. This is unofficial fan content for personal use.
 
 :::
 
-<!--
-This is the big logo in case you want to use it.
--->
-
 ![DH BigLogo](https://i.imgur.com/0XZ2xIv.png) {position:relative,height:5em,margin-left:2em}
 
-> **Tip:** You can delete the following section when you're ready to go, they're only instructions and details for using this theme template.
-
-### Brew Details & Information
-Hi there,
-
-This is a modified version of Sax & PerfectlyCircularSeal Daggerheart Class template.
-
-This version is a work in progress which includes a cover page, a credits page, and the configuration for the different colors of each chapter of the Daggerheart core rulebook + integration of the class theme which was the original homebrew used as base, allowing you to customize your brew and make it look like the DH rulebook as much as possible. In addition, there're various Brew Snippets to make formatting a bit easier and quicker.
-
-**Some details for using the features:**
-
-In the **Brew Snippets** you can find some templates for different parts of the brew, allowing you to quickly insert those parts into your brew.
-- **DH Homebrew Details & Information:** This is what you're reading now! useful to have it available if for some reason you lost it.
-- **DH Front Cover:** Inserts the code for the cover of your brew
-- **DH Credits Page:** Inserts a clean credits page
-- **DH Tip:** The Tip notes found in the DH Core Book.
-- **DH Footer + new page with Header Color option:** Inserts the number of page and footer text in the current page you're. It also creates a new page with the markdown code for the color of headers and content of that new page.
-- **DH Class + Subclass pages:** Adds preconfigured pages for a class with the subclasses + questions.
-- **DH White text footnote:** Adds a footnote that uses white text instead of the standard black one (this is used on pages where you have a different background and the black text is hard to read).
-- **DH Adversaries Statblock:** Generates a statblock using the Daggerheart Core Book format.
-- **DH Campaign Frame:** Generates all the pages of a Campaign Frame.
-- **DH Domain Card Reference:** Generates the list found at the appendix where you can find all the card details per domain. This can be configured to adjust the colors of each domain (domain "banners" not included).
-- **DH Style Editor options:** Paste this in the Style Editor if you're looking to adjust the colors for chapters and homebrew classes. This is mostly for those who imported the theme using the theme properties.
-
-I commented different parts in the Style Editor that should help to understand a bit the style code and which parts should be the ones you might want to modify.
-
-Also, here're some tips from the original Sax & PerfectlyCircularSeal theme that also might be useful:
-- The Subclass Sections need an additional class, which is either subRight or subLeft. These position the sections correctly on the page.
-- Artist credit use the classes aRight or aLeft to place them right or left, and use the classes aLight to change the color to white for contrast purposes.
-
-#### Importing the Theme
-If you want to use this theme in your brews, you can copy the Share link, then go to the Properties of your own brew, and in the Theme section paste the share link. This will apply automatically the style and import any snippets this theme have.
-
-> **Note:** If you import the theme this way, make sure to add the "DH Style Editor options" snippet to the Style Editor if you want to adjust or modify the colors for Chapters and Classes you're making.
-
-Alternatively, you can create a copy of this brew and then modify that one, or copy and paste everything in the Style Editor and Snippets into a new brew.
-
 \page
+
 {{TableofContent}}
 
 # Contents
 
 {{toc,wide
-- # [{{ Introduction}}{{ }}](#p4)
-  - [{{ Action Rolls (H3)}}{{ 4}}](#p4)
-  - [{{ OVERVIEW (H3)}}{{ 4}}](#p4)
-- # [{{ Chapter One:}}{{}}](#p5)
-  - [{{ Preparing for Adventure}}{{ 5}}](#p5)
-  - [{{ World Overview}}{{ 5}}](#p5)
-  - [{{ Core Realms}}{{ 5}}](#p5)
-    - [{{ Choose your Class}}{{ 5}}](#p5)
-    - [{{ Header}}{{ 6}}](#p6)
-  - [{{ Homebrewer}}{{}}](#p7)
-  - [{{ Homebrewer Subclasses}}{{ 7}}](#p7)
-    - [{{ Hobby Game Dev}}{{ 7}}](#p7)
-    - [{{ Forever GM}}{{ 8}}](#p8)
-    - [{{ Background Questions}}{{ 8}}](#p8)
-    - [{{ Connections}}{{ 8}}](#p8)
-- # [{{ Chapter Two: Playing an Adventure}}{{}}](#p9)
-  - [{{ Header}}{{ 9}}](#p9)
-    - [{{ Step 1:}}{{ 9}}](#p9)
-  - [{{ Header 1}}{{ 9}}](#p9)
-    - [{{ Step 2:}}{{ 9}}](#p9)
-  - [{{ Header 2}}{{ 9}}](#p9)
-  - [{{ Header 3}}{{ 9}}](#p9)
-- # [{{ Chapter Three: Running an Adventure}}{{}}](#p10)
-  - [{{ Header}}{{ 10}}](#p10)
-  - [{{ Header 1}}{{ 10}}](#p10)
-  - [{{ Header 2}}{{ 10}}](#p10)
-- # [{{ Chapter Four: Adversaries and Environments}}{{}}](#p11)
-  - [{{ Header}}{{ 11}}](#p11)
-  - [{{ Header 1}}{{ 11}}](#p11)
-    - [{{ Primary Weapons}}{{ 11}}](#p11)
-  - [{{ Header 4}}{{ 11}}](#p11)
-  - [{{ Tier 4 Adversaries (Levels 8-10)}}{{ 12}}](#p12)
-  - [{{ Arch-Necromancer}}{{ 12}}](#p12)
-    - [{{ Tier 4 Leader}}{{ 12}}](#p12)
-  - [{{ Fallen Shock Troop}}{{ 12}}](#p12)
-    - [{{ Tier 4 Minion}}{{ 12}}](#p12)
-  - [{{ Fallen Sorcerer}}{{ 12}}](#p12)
-    - [{{ Tier 4 Support}}{{ 12}}](#p12)
-  - [{{ Ambushed}}{{ 12}}](#p12)
-    - [{{ Tier 1 Event}}{{ 12}}](#p12)
-- # [{{ A Dagger to the Heart}}{{}}](#p13)
-  - [{{ The Pitch}}{{ 13}}](#p13)
-  - [{{ Tone & Feel}}{{ 13}}](#p13)
-  - [{{ Themes}}{{ 13}}](#p13)
-  - [{{ Touchstones}}{{ 13}}](#p13)
-  - [{{ A Dagger to the Heart}}{{ 14}}](#p14)
-  - [{{ Overview}}{{ 14}}](#p14)
-    - [{{ A Dagger to the Heart}}{{ 15}}](#p15)
-  - [{{ Communities}}{{ 15}}](#p15)
-  - [{{ Ancestries}}{{ 15}}](#p15)
-  - [{{ Classes}}{{ 15}}](#p15)
-    - [{{ A Dagger to the Heart}}{{ 16}}](#p16)
-  - [{{ Player Principles}}{{ 16}}](#p16)
-  - [{{ GM Principles}}{{ 16}}](#p16)
-    - [{{ A Dagger to the Heart}}{{ 17}}](#p17)
-  - [{{ Distinctions}}{{ 17}}](#p17)
-    - [{{ A Dagger to the Heart}}{{ 18}}](#p18)
-  - [{{ The Inciting Incident}}{{ 18}}](#p18)
-  - [{{ Campaign Mechanics}}{{ 18}}](#p18)
-    - [{{ A Dagger to the Heart Starting Equipment}}{{ 18}}](#p18)
-    - [{{ Primary Weapons}}{{ 18}}](#p18)
-  - [{{ Session Zero Questions}}{{ 18}}](#p18)
-- # [{{ Appendix}}{{}}](#p19)
-  - [{{ Domain Card Reference}}{{ 19}}](#p19)
-  - [{{ Arcana Domain}}{{ 19}}](#p19)
+- # [{{ Part I: Welcome}}{{ }}](#p4)
+  - [{{ Chapter 1: To the Players}}{{ 4}}](#p4)
+  - [{{ Chapter 2: How to Use This Book}}{{ 5}}](#p5)
+- # [{{ Part II: How We Got Here}}{{}}](#p6)
+  - [{{ Chapter 3: The Galaxy at a Glance}}{{ 6}}](#p6)
+  - [{{ Chapter 4: A History of the Concordat Era}}{{ 8}}](#p8)
+    - [{{ The War That Broke the Sky}}{{ 8}}](#p8)
+    - [{{ The Doctrine of Necessary Strength}}{{ 8}}](#p8)
+    - [{{ The Expansion}}{{ 9}}](#p9)
+    - [{{ The Razing of Cathar}}{{ 9}}](#p9)
+    - [{{ The Revanchists}}{{ 10}}](#p10)
+    - [{{ The Ashen Campaigns}}{{ 10}}](#p10)
+    - [{{ The Dhas'kara & The Concordat}}{{ 11}}](#p11)
+    - [{{ The Years Since}}{{ 11}}](#p11)
+- # [{{ Part III: The Galaxy Now}}{{}}](#p12)
+  - [{{ Chapter 5: Life in the Concordat Era}}{{ 12}}](#p12)
+  - [{{ Chapter 6: The Major Powers}}{{ 14}}](#p14)
+    - [{{ The Concordat}}{{ 14}}](#p14)
+    - [{{ The Revanchist Remnant}}{{ 15}}](#p15)
+    - [{{ The Neo-Mandalorian Coalition}}{{ 15}}](#p15)
+    - [{{ The Jedi Order}}{{ 16}}](#p16)
+    - [{{ The Sith}}{{ 16}}](#p16)
+    - [{{ Independent Powers}}{{ 17}}](#p17)
+  - [{{ Chapter 7: The Force in Crisis}}{{ 17}}](#p17)
+- # [{{ Part IV: Places}}{{}}](#p19)
+  - [{{ Chapter 8: Worlds, Regions, and Frontiers}}{{ 19}}](#p19)
+- # [{{ Part V: Peoples}}{{}}](#p22)
+  - [{{ Chapter 9: Peoples and Species}}{{ 22}}](#p22)
+- # [{{ Part VI: Belief and Meaning}}{{}}](#p25)
+  - [{{ Chapter 10: Belief, Religion, and Philosophy}}{{ 25}}](#p25)
+- # [{{ Part VII: The Material Galaxy}}{{}}](#p27)
+  - [{{ Chapter 11: War, Trade, Technology, and Survival}}{{ 27}}](#p27)
+- # [{{ Part VIII: Your Character}}{{}}](#p28)
+  - [{{ Chapter 12: Making a Character}}{{ 28}}](#p28)
+- # [{{ Part IX: Where We Begin}}{{}}](#p30)
+  - [{{ Chapter 13: Starting Scenarios}}{{ 30}}](#p30)
+- # [{{ Appendices}}{{}}](#p31)
+  - [{{ Appendix A: Glossary}}{{ 31}}](#p31)
+  - [{{ Appendix B: Suggested Reading}}{{ 33}}](#p33)
 }}
-
 
 \page
 
 {{Intro}}
 
-<!--
+# Part I: Welcome
+## Chapter 1: To the Players
 
-By changing the {{Intro}} will adjust the header, notes and side rectangle color will change to match the chapter you define. Each chapter have their own colors. You can adjust them or add new in the Style Editor if required. If you don't want to have the rectangle, remove the tab part (following the Daggerheart Core Book, introduction doesn't have a side rectangle).
+You are about to play in a galaxy where the old certainties have failed.
 
-- {{Intro}} Introduction (Yellow)   : #967b2f
-- {{Ch1}} Chapter 1 (Green)         : #536537
-- {{Ch2}} Chapter 2 (Orange)        : #b8551b
-- {{Ch3}} Chapter 3 (Purple)        : #763a87
-- {{Ch4}} Chapter 4 (Red)           : #ad2423
-- {{Ch5}} Chapter 5 (Cyan)          : #317080
-- {{app}} Appendix (Dark Gray)      : #231f20
+Twelve years ago, a war between the Republic and the Sith Empire cracked the Force itself. Five years after that, a second war between the Republic and the Mandalorian clans cracked everything else: the government, the economy, the military, the Jedi Order, and any remaining agreement about how civilization ought to work.
 
-- {{ClassBG}}{{tab}} : Adds the Class background color to the page + the side rectangle (green). There're additional options for this. More details in the Class snippet and the style editor.
+The Concordat Era is what grew in the wreckage. A new government, forged from a battlefield bargain between a Jedi general and a Mandalorian warlord, holds the galaxy's center. Two rival factions contest its authority from the margins. The Jedi Order is fractured. The Sith, presumed destroyed, are not gone. And the Force continues to deteriorate in ways no one fully understands, which means that medicine, travel, communication, warfare, religion, and daily life are all becoming less reliable in ways that most people can feel but few can explain.
 
--->
+All three major governments believe they're saving the galaxy. All three have done things that demand accounting. The Concordat provides stability through authoritarianism. The Revanchist Remnant fights for democratic ideals while its leader disappears into obsession. The Neo-Mandalorian Coalition defends a code of honor that may be killing its own people. A hidden faction works toward an end none of the others see coming.
 
-# Introduction
-## Welcome to Daggerheart
-A collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.
+Your characters enter this world with their own histories, loyalties, and convictions. Some of you will have fought in the Mandalorian Wars. Some of you will have grown up during them. Some of you will be too young to remember a galaxy that worked properly and will assume this is normal.
 
-## What is Daggerheart?
-Daggerheart is a tabletop roleplaying game for one Game Master (“GM”) and 2-5 players. Each game session lasts about 2-4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.
+Bring characters who believe things. Characters who owe debts they can't repay. Characters with scars, grudges, obligations, and reasons to get out of bed in the morning that have nothing to do with saving the galaxy. The campaign will give you opportunities to shape the fate of governments and peoples, but it will also ask you to decide what your character does when the kolto runs out, when the navigation computer fails in a dead zone, when the officer across the table offers a deal that would solve everything if you could live with the terms.
 
-During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters (“PCs”) encounter. The players, in turn, roleplay their PCs’ reactions to the scenario presented by the GM. If the outcome of a player’s action depends on fate or fortune, the GM calls for an action roll.
+If you know the Knights of the Old Republic games, the Old Republic MMO, or the Expanded Universe material set in this era, you will recognize names, places, and ideas adapted for this setting. The Concordat Era is not a retelling of those stories. It is an alternate history that asks: what if the choices went differently? What if the war never cleanly ended? What if the people you expected to become heroes or villains became something more complicated instead?
 
-When a player makes an action roll, they utilize Duality Dice—two differently colored 12-sided dice (“d12s”) representing Hope and Fear. The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a Difficulty set by the GM. If the total meets or beats the Difficulty, the player succeeds. If it’s lower, they fail. In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.
+If you don't know any of that material, you lose nothing. Every proper noun in this book is explained when it first appears. You need a character with opinions and a willingness to see where those opinions take you.
 
-## The Golden Rule
-The most important rule of Daggerheart is to make the game your own. The rules included in this SRD are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories. The rules should never get in the way of the story you want to tell, the characters you want to play, or the adventures you want to have. As long as your group agrees, everything can be adjusted to fit your play style. If there’s a rule you’d rather ignore or modify, feel free to implement any change with your table’s consent.
+The galaxy has not decided what it is yet. That decision belongs to the people living in it, and for the next several dozen sessions, some of those people are yours.
 
-## Rulings over rules
-While playing Daggerheart, the GM and players should always prioritize rulings over rules. This SRD offers answers for many questions your table may have about the game, but it won’t answer all of them. When you’re in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.
-
-For example, Daggerheart has a weapon called a grappler that lets you pull a target close to you. If you try to use it to pull an entire castle, the weapon text doesn’t forbid you from doing that—but it doesn’t make sense within the narrative. Instead, the GM might rule that you pull a few bricks out, or pull yourself toward the wall instead.
-
-Similarly, if your character does something that would logically result in immediate death—such as diving into an active volcano without protection—you might not get to make one of Daggerheart’s death moves, which normally give you control of your character’s fate in their final moments. This kind of consequence should be made clear before the action is completed, and it should always follow the logic of the world.
-
-As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the GM has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.
-
-## Making Moves & Taking Action
-Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
-
-### Action Rolls (H3)
-Any move where success would be trivial or failure would be boring automatically succeeds, but any move that’s difficult to accomplish or risky to attempt triggers an **action roll**.
-
-### OVERVIEW (H3)
-All action rolls require a pair of d12s called Duality Dice. These are two visually distinct twelve-sided dice, with one die representing Hope and the other representing Fear.
-
-To make an action roll, you roll the Duality Dice, sum the results, apply any relevant modifiers, and compare the total to a Difficulty number to determine the outcome:
-
-- **Success with Hope:** If your total meets or beats the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Success with Hope.” You succeed and gain a Hope.
-- **Success with Fear:** If your total meets or beats the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Success with Fear.” You succeed with a cost or complication, but the GM gains a Fear.
-- **Failure with Hope:** If your total is less than the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Failure with Hope.” You fail with a minor consequence and gain a Hope, then the spotlight swings to the GM.
-- **Failure with Fear:** If your total is less than the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Failure with Fear.” You fail with a major consequence and the GM gains a Fear, then the spotlight swings to the GM.
-- **Critical Success:** If the Duality Dice show matching results, you rolled a “Critical Success” (“Crit”). You automatically succeed with a bonus, gain a Hope, and clear a Stress. If this was an attack roll, you deal critical damage.
-
-After resolving the action roll, the table works together to weave the outcome into the narrative and play continues.
-
-{{footnote Introduction}}
+{{footnote Part I: Welcome}}
 {{pageNumber,auto}}
 
 \page
 
-{{Ch1,tab}}
+{{Intro}}
 
-# Chapter One:
-## Preparing for Adventure
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl. Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat.
+## Chapter 2: How to Use This Book
 
-## World Overview
-In suscipit arcu augue, non porttitor sem molestie maximus. Proin semper efficitur nulla vel hendrerit. Fusce eget convallis nibh, vitae porttitor mauris. Suspendisse ornare aliquet dui ac varius. Morbi egestas, erat vitae viverra egestas, erat dolor mattis massa, sit amet luctus justo mauris in velit. Etiam lobortis viverra tortor, a viverra est hendrerit sit amet. Donec mollis vel metus iaculis finibus. Mauris efficitur eleifend dolor vel cursus. Sed vehicula dapibus augue, eget varius nunc consectetur nec. Donec gravida purus libero.
+This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge, common opinion, and the kind of detail a well-traveled spacer or curious university student might have. Some of it is accurate. Some of it is propaganda that everyone has heard so often it passes for truth. Some of it is genuinely contested, and the book will tell you when reasonable people disagree.
+
+There are things this book does not contain. Hidden conspiracies that no one in the galaxy has uncovered. The true answer to what is killing the Force. The secret plans of people who have successfully kept their secrets. Your GM has that information. You will discover it in play, and the discoveries will mean more because you didn't read them in advance.
+
+**For character creation,** start with Chapter 3 for the broad picture, then read the factions in Chapter 6 to find where your character fits — or doesn't — in the political landscape. Chapter 9, on species and peoples, will help you understand your character's cultural background. Chapter 12 offers direct guidance for building a character suited to this campaign.
+
+**For understanding the setting,** read as much or as little as you want. Chapter 4 provides the full history. Chapter 5 describes daily life. Chapter 7 covers the Force crisis. None of these chapters will spoil the campaign's surprises, but together they'll give you the texture to make grounded, specific choices in play.
+
+**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. You will find references to aspects, skills, and stunts in Chapter 12 where they're relevant to character creation, but the setting material is system-agnostic. The political and cultural details matter more than any mechanical element. If you understand who your character is, what they believe, and who they owe, the system will follow.
 
 {{note
-##### YOUR VERY COOL HOUSE RULE
-In the DH Core Book, notes are used for optional rules and as a sumary of steps for something (like in the section "Flow of the game" in Chapter Two)
+##### A Note on Calendars
+This book uses two dating systems. BBY (Before the Battle of Yavin) is the standard galactic reference calendar used by historians and archivists. The Concordat uses its own calendar measured from the Concordat's signing: 1 CE, 2 CE, and so on.
+
+Which calendar a person uses tells you who they work for. Concordat officials say "Year Four." Remnant sympathizers say "3952 BBY." Mandalorians track time by their own reckoning.
+
+Your character's choice of calendar is a small, free piece of worldbuilding.
 }}
 
-## Core Realms
-Nunc a mauris a dolor mattis fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis erat nisi, eget maximus augue lacinia sit amet. Curabitur bibendum lorem vel neque imperdiet, eget vehicula magna sodales. Pellentesque efficitur nisi sit amet neque eleifend, vel rhoncus erat faucibus. Praesent semper eu enim eget vulputate. Vestibulum posuere erat quis nunc pretium venenatis. Donec posuere consectetur orci quis luctus. Maecenas nulla eros, pellentesque fermentum malesuada et, consequat malesuada nunc. Ut hendrerit risus arcu, et pretium felis pharetra ac. Nunc varius dolor vitae ligula pellentesque, vel laoreet massa interdum. Cras convallis tempor risus vitae malesuada. Duis ornare ornare lorem. In sagittis bibendum ipsum non hendrerit. Suspendisse vitae ante augue.
-
-### Step 1:
-## Choose your Class
-Vestibulum dictum lorem non diam fringilla venenatis. Aliquam erat volutpat. Aenean quis lectus orci. Vivamus commodo ac lorem at tristique. In ante leo, pretium ut nisi sed, sagittis sollicitudin erat. Vestibulum eleifend ex ac scelerisque suscipit. Nullam nulla felis, placerat a ultrices vel, scelerisque quis velit. Fusce sollicitudin eu lacus eget interdum. Fusce tempor dignissim ipsum. Aenean purus nunc, cursus eu velit quis, vehicula condimentum massa. Etiam ac nisi nisi. Mauris a aliquam mauris, sed consequat sem. Etiam eu euismod odio, eget fermentum mi. Ut feugiat tristique turpis, ut facilisis quam rutrum at.
-
-#### Header 4
-Aenean rhoncus commodo neque, ut viverra arcu ullamcorper eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras posuere neque erat, nec eleifend metus luctus sed. Etiam massa mi, aliquet ut pulvinar eget, lacinia a risus. Nullam dapibus efficitur elit, in dapibus eros. Sed cursus vehicula urna a tincidunt. Morbi arcu libero, commodo nec elementum et, iaculis id eros.
-
-##### Header 5
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl. Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat.
-
-In suscipit arcu augue, non porttitor sem molestie maximus. Proin semper efficitur nulla vel hendrerit. Fusce eget convallis nibh, vitae porttitor mauris. Suspendisse ornare aliquet dui ac varius. Morbi egestas, erat vitae viverra egestas, erat dolor mattis massa, sit amet luctus justo mauris in velit. Etiam lobortis viverra tortor, a viverra est hendrerit sit amet. Donec mollis vel metus iaculis finibus. Mauris efficitur eleifend dolor vel cursus. Sed vehicula dapibus augue, eget varius nunc consectetur nec. Donec gravida purus libero.
-
-{{descriptive
-**Example:** In the DH Core Book, this is used for presenting examples, but it can be used for other things too!
-}}
-
-###### Header 6
-Nunc a mauris a dolor mattis fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis erat nisi, eget maximus augue lacinia sit amet. Curabitur bibendum lorem vel neque imperdiet, eget vehicula magna sodales. Pellentesque efficitur nisi sit amet neque eleifend, vel rhoncus erat faucibus. Praesent semper eu enim eget vulputate. Vestibulum posuere erat quis nunc pretium venenatis. Donec posuere consectetur orci quis luctus. Maecenas nulla eros, pellentesque fermentum malesuada et, consequat malesuada nunc. Ut hendrerit risus arcu, et pretium felis pharetra ac. Nunc varius dolor vitae ligula pellentesque, vel laoreet massa interdum. Cras convallis tempor risus vitae malesuada. Duis ornare ornare lorem. In sagittis bibendum ipsum non hendrerit. Suspendisse vitae ante augue.
-
-{{footnote Chapter 1: Preparing for Adventure}}
+{{footnote Part I: Welcome}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch1,tab}}
 
-## Header
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet ex vitae sapien vestibulum tristique nec quis nisl. Curabitur tincidunt finibus sapien at feugiat. Ut at urna hendrerit lectus sodales pharetra. Aenean aliquet sagittis metus vel porttitor. Vivamus ullamcorper egestas placerat. Vivamus ac dignissim nisi. Vivamus sagittis mattis ex, quis placerat nunc laoreet eget. Morbi at sollicitudin leo. Donec vitae dapibus massa, id aliquam sem. Integer faucibus fermentum erat nec iaculis. In porttitor augue diam. Proin pharetra, ligula non pellentesque porta, nibh lorem gravida mauris, ut porta enim metus et dolor. Nam ut tortor maximus, ullamcorper magna quis, dictum sem. Pellentesque rutrum consequat eleifend. Curabitur non luctus augue, in semper purus.
+# Part II: How We Got Here
+## Chapter 3: The Galaxy at a Glance
 
-#### Header
-Nullam commodo porttitor urna vitae congue. Praesent magna eros, euismod et nisi at, viverra ullamcorper leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris aliquam semper diam ac euismod. Etiam condimentum commodo magna, consequat posuere dolor fringilla quis. Nam diam mauris, dapibus vel mauris at, faucibus facilisis felis. Donec luctus, orci et fringilla pharetra, dui lectus mollis sapien, quis sodales orci ante vel diam. Nunc suscipit nulla in elementum blandit. Sed imperdiet lacus vel lacus efficitur semper tincidunt eget risus. Maecenas laoreet arcu velit. Maecenas dictum ipsum sit amet condimentum fermentum. Mauris gravida molestie urna, vel vestibulum arcu cursus sit amet. Etiam bibendum tortor sem, non scelerisque nibh egestas nec. Mauris nec ligula cursus, laoreet mauris rhoncus, aliquam ligula. Proin convallis, augue in hendrerit accumsan, felis lacus pellentesque purus, non elementum sem leo at augue.
+The year is 3952 BBY. The fourth year of the Concordat Era. Twelve years since the Great Hyperspace War broke the Force. The galaxy functions, barely, and no one agrees on what should come next.
 
-#### Header
-Ut a condimentum ex, nec dictum justo. In accumsan, lectus eu condimentum semper, nisl quam suscipit dolor, eget tincidunt massa odio suscipit enim. Donec sodales nunc at ante bibendum, at consequat purus porttitor. Sed dui tellus, efficitur in finibus sit amet, consectetur sit amet ipsum. Donec a felis ut tortor feugiat tincidunt vitae ac purus. Curabitur non sapien eget ante iaculis ornare ut at magna. Aliquam vitae arcu feugiat, maximus dui sed, venenatis purus. Sed feugiat sollicitudin suscipit. Nullam mattis, metus vel tincidunt feugiat, purus tellus iaculis ante, a interdum quam sapien non lacus. Etiam hendrerit nisi sed felis faucibus tristique. Aenean scelerisque gravida est vel sollicitudin. Vestibulum efficitur sem vel massa hendrerit, id aliquam dolor rhoncus. Phasellus vitae tincidunt odio.
+### Three Governments, No Consensus
 
-| Clank   | Firbolg   | Human    |
-|:--------|:----------|:---------|
-| Drakona | Fungril   | Infernis |
-| Dwarf   | Galapa    | Katari   |
-| Elf     | Giant     | Orc      |
-| Faerie  | Goblin    | Ribbet   |
-| Faun    | Halfling  | Simiah   |
+The **Concordat** governs from Coruscant. Its leader is Supreme Chancellor-General Malak, a former Jedi general who ended the Mandalorian Wars by defeating Mandalore the Vindicated in single combat and forging an alliance between Republic administration and Mandalorian military strength. The Concordat holds the Core Worlds, most of the Inner Rim, and significant portions of the Mid Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors to contested systems, and maintains emergency powers with no expiration date.
 
-#### Header
-Maecenas ac arcu varius, condimentum eros vitae, porta erat. Praesent vel dui sit amet metus efficitur hendrerit a vitae nulla. Sed non eleifend lectus. Duis eget orci in nibh efficitur condimentum aliquam eu mi. Morbi consectetur lectus sit amet nisl molestie placerat. Maecenas aliquet scelerisque nunc, quis semper nibh semper non. Nulla rhoncus tincidunt turpis, sit amet eleifend metus consectetur quis. Sed vel nibh suscipit, ultrices eros eget, tincidunt magna. Nam mi ipsum, tempor in nisi quis, pellentesque finibus neque. Proin in sodales sem. Mauris non nulla tincidunt, iaculis nunc vitae, molestie leo.
+Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force. Half the galaxy calls him a savior. The other half calls him a dictator. Both halves are working with incomplete information.
 
-> **Tip:** Remember to hydrate.
+The **Revanchist Remnant** holds twenty-three systems in the Outer Rim and claims to be the legitimate Republic. Its figurehead is Revan, the philosopher-general who led the first Jedi revolt against the Council's inaction during the Mandalorian Wars. Revan spent two years in the Unknown Regions chasing ancient technology and has just returned, diminished and obsessed. The Remnant's actual operations are managed by Admiral Kaeranth. Its greatest weapon is the fact that every time the Concordat overreaches, someone in the affected system starts listening to Remnant recruiters.
 
-#### Header
-Praesent ac felis vel lacus ornare porta. Fusce quis vehicula leo, nec lobortis risus. Integer in accumsan lacus, ac finibus risus. Etiam sit amet scelerisque enim. Maecenas condimentum suscipit fermentum. Fusce euismod purus non magna pretium, id bibendum enim dapibus. Aenean vulputate pellentesque urna ut maximus. Nullam quis iaculis arcu. Nulla facilisi. Donec molestie orci eu molestie lacinia.
+The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a Mandalorian traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space, hitting both Concordat and Remnant shipping. Life in the Coalition is hard, proud, and increasingly unsustainable.
 
-{{DHTable,wide
-### Primary Weapons
-*The following primary weapons are also available in this campaign.*
-| **Name**            | **Trait** | **Range** | **Damage** | **Burden**  | **Feature**                                                |
-|:--------------------|:----------|:----------|:-----------|:------12%------|:---------------------------------------------------------|
-|  **Curved Sword**   | Finesse   | Melee     |    d6 phy  | One-Handed  | **Mooncut:** Curved sword goes swoosh. Spend 1 Hope to gain advantage on an attack roll.  |
-|  **Battle Axe**     | Strength  | Melee     |    d8 phy  | Two-Handed  | **Heartbreaker:** An axe strike to go deep to the heart.  |
-|  **Plasma Rifle**   | Agility   | Far       |    d10 phy | Two-Handed  | **Charged Blast:** Careful with overheating.  |
-|  **Composite Bow**  | Agility   | Far       |    d8 phy  | Two-Handed  | **Long Shot:** Just aim to the target far far away.  |
-|  **Dual Dagger**    | Finesse   | Melee     |    d6 phy  | One-Handed  | **Heart Strike:** What's better than one dagger to the heart? a dual dagger to the heart.  |
+None of these governments commands universal loyalty. Citizens across hundreds of worlds make daily choices about which authority to obey, which to resist, and which to ignore. On the frontier, the answer is often "none of the above."
+
+\column
+
+### The Force Is Dying
+
+Something is wrong with the Force, and no one agrees on what it is, how far it will go, or whether it can be stopped.
+
+Jedi healers find their abilities unreliable. A technique that worked yesterday fails today. Seers report fragmented visions, contradictory prophecies, and stretches of silence where the Force offers nothing. Combat-trained Jedi feel their precognition stutter in the middle of a fight, and soldiers who depended on that precognition to stay alive have learned to flinch whenever their Jedi commander pauses.
+
+Across the galaxy, dead zones mark places where the Force has gone entirely absent. In a dead zone, lightsabers still cut — they're plasma weapons, powered by crystals — but everything else fails. Precognition. Telekinesis. Healing. Force-sensitive species like the Miraluka, who perceive the world through the Force rather than through eyes, go blind.
+
+The zones are growing. Slowly, but measurably. Hyperspace navigation has become unreliable near dead-zone boundaries. Ships drop out of hyperspace days early. Some don't drop out at all.
+
+### A Galaxy in Transition
+
+The Concordat Era is not a post-apocalypse. The holonet still broadcasts. Freighters still carry cargo. Cantinas still serve drinks. But the foundations have shifted, and everyone can feel it.
+
+{{descriptive
+A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit. A veteran of the Ashen Campaigns works as a dock loader on Nar Shaddaa because the Revanchist military doesn't exist anymore and the Concordat doesn't want soldiers who know what they did. A Sith Pureblood professor on Coruscant teaches ancient history at the university and wears long sleeves to cover the red skin that makes strangers nervous. A Cathar teenager on a refugee transport practices with a vibroknife because Mandalorians destroyed her homeworld and no one is going to protect her so she'll protect herself.
 }}
 
+Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking and hasn't started healing.
 
-{{footnote, Chapter 1: Preparing for Adventure}}
+{{footnote Chapter 3: The Galaxy at a Glance}}
 {{pageNumber,auto}}
 
 \page
 
-{{ClassBG}}{{tab}}
+{{Ch1,tab}}
 
-<!--
-Change the BG color by replacing the {{ClassBG}} to one of the following. These are based on the different DH classes colors in the book. If you want to modify these or add your own, you can do it on the Style Editor.
+## Chapter 4: A History of the Concordat Era
 
-  - {{ClassBG}} : Homebrew color (Chocolate Dark Brown)
-  - {{ClassBG1}}  : Bard (Dark Brown)
-  - {{ClassBG2}}  : Druid & Ranger (Dark green)
-  - {{ClassBG3}}  : Guardian (Gray + Dark blue gradient)
-  - {{ClassBG4}}  : Rogue (Dark and Cool)
-  - {{ClassBG5}}  : Seraph (Dark Brown with slight redish tint)
-  - {{ClassBG6}}  : Sorcerer (Purple)
-  - {{ClassBG7}}  : Warrior (Dark Red)
-  - {{ClassBG8}}  : Wizard (Deep Sea Blue)
-  
-If you want to add an image as background (like the Rogue class from the Core Book), you can add it after the class "}}". There, in the image curly brackets, use the following: ClassBG-img,bottom:-50px,height:60%,z-index:-1,opacity:0.8. Change the bottom and height to fit your image, and adjust the opacity between 0 to 1 if you want to add or remove transparency to fit the background.
-  
--->
+### Prologue: The War That Broke the Sky
 
-{{Class
+Twelve years before the present, the Sith Empire invaded the Republic.
 
-# Homebrewer
-They say every story starts with a spark, but this one begins with a sideways glance, a broken compass, and a song no one remembers how to hum. What follows is entirely up to you, though this space right here is where the real introduction goes. The kind with drama, flavor, and a proper name drop. Copy your class intro here, let it strut, brood, or swagger as needed. Until then, consider this your official invitation to pretend something amazing was just said.
-:
-#### Domains
-Splendor and Grace
-:
-#### Starting Evasion
-10
-:
-#### Starting Hit Points
-5
-:
-#### Class Items
-An idea of something that doesn't exist yet or a nonsensical drawing on the back of an expired gift card
-:
-#### Homebrewer's Hope Feature
-***Think:*** **Spend 3 Hope** to write something that Matt Mercer himself would be proud of. 
-:
-#### Class Feature
-##### Brew A Home
-Once per long rest, you can put all of your creative energy into a piece of text that someone at your table might find cool enough to try out.
-:
-> **Tip:** Remember to hydrate.
+The Sith Empire was not a vague threat from ancient legend. It was a state, governed from Korriban and Ziost in the Stygian Caldera, ruled by a species called the Sith and by the hybrid descendants of Dark Jedi exiles who had conquered that species seven thousand years earlier. Under Naga Sadow, its Dark Lord, the Empire launched a coordinated assault on the Republic's Core Worlds, its Jedi defenders, and the basic structure of the Force itself.
 
-}}
+On Ossus, where the Jedi maintained their greatest library, ten thousand Jedi stood against the Sith war machine. When the massed rituals reached their peak, the defenders felt something no Jedi had ever felt before: silence. The Force vanished from the battlefield. Lightsabers flickered. Precognition evaporated. The silence lasted minutes, and in those minutes, the war's survivors would later say, the galaxy's old age ended.
 
-![Fantasy Castle](https://i.imgur.com/23HRmqv.jpeg){ClassBG-img,bottom:-50px,height:60%,z-index:-1,opacity:0.8}
+The Republic won because the Sith rituals were unstable. The sorcery consumed its own practitioners. Naga Sadow's forces collapsed, and the Republic counter-invasion drove the survivors into the Unknown Regions. The Treaty of Coruscant ended hostilities.
 
+The victory cost the Republic its confidence and the Jedi their certainty. The Force — the invisible architecture on which ten thousand years of civilization rested — was cracked. Places where the rituals had been performed became dead zones: regions where the Force was absent or corrupted, where Jedi abilities failed, where the natural connection between living things and the Force was gone.
 
-\column
+### The Doctrine of Necessary Strength
 
-{{subClass,subRight
+Three months after the treaty, Mandalore the Vindicated summoned every major clan to the jungle moon of Dxun. Ordo, Vizla, Skirata, Cadera, Fett, Kryze. They expected a call to arms. He showed them a hologram instead.
 
-## Homebrewer Subclasses
-Choose either the Hobby Game Dev or Forever GM subclass.
-:
-### Hobby Game Dev
-Play the Hobby Game Dev if you want to homebrew for internet points and play a little too sparsely in real life.
-:
-#### Spellcast Trait
-Knowledge
-:
-#### Foundation Features
-***Just For Fun:*** When you choose to start a new homebrew again, think to yourself if this will be for fun or feel like more work.
-:
-***Font of Creativity:*** When you lay in bed trying to sleep and you have something important in the morning, you gain an additional amount of cool ideas equal to your Knowledge.
-:
-#### Specialization Feature
-***Invoke Feedback:*** Whenever an adversary on Reddit comments something hurtful about your homebrew, you can try to read between the lines and turn it into something useful for your next homebrew.
-:
-#### Mastery Feature
-***Feel Revered:*** Once per session, when you post your homebrew online, it gains an unexpected amount of likes, granting you the benefits of happiness for 10 minutes.
-:
+The recording came from a battlefield unit on Ossus. A Twi'lek Jedi Master named Rell Odar fought Sith warriors with extraordinary skill. Then the Sith ritual hit. The lightsaber flickered and died. The speed vanished. The precognition evaporated. Rell Odar stood confused, briefly and entirely human, and blaster bolts cut him down.
 
-}}
+Mandalore replayed the recording three times.
 
-{{footnote,white Chapter 1: Character Creation}}
+His argument was simple. For ten thousand years, the galaxy had built everything on the assumption that the Force existed and that Force users would protect civilization. The Sith had just proved that assumption could be destroyed in seconds. The Mandalorians had never relied on the Force. They fought with iron, discipline, and will. They were the only people qualified to teach the galaxy what survival looked like without supernatural crutches.
+
+Jaden the Elder of Clan Skirata put it into words: *Strength is not given. Strength is forged. Those who rely on gifts from the cosmos will be weak when those gifts are taken away. Only those who forge their own strength can survive in a galaxy without mercy.*
+
+The clans adopted the Doctrine of Necessary Strength within days. Not unanimously — Clan Kryze argued that demonstration didn't require siege, and Cassus Fett saw territorial expansion dressed in philosophy and said so — but the core held. The Mandalorians would move outward. The galaxy would learn or fall.
+
+{{footnote Chapter 4: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
 
-{{tab}}
+{{Ch1,tab}}
 
-{{subClass,subLeft
+### The Expansion (3962–3960 BBY)
 
-### Forever GM
-Play the Forever GM if you want to channel the anguish of not being able to play your own brews yourself.
-:
-#### Spellcast Trait
-Presence
-:
-#### Foundation Features
-***God Amongst Men:*** You carry three handcrafted relics, each housing a force that empowers you. You can invoke each force once per session:
+The Mandalorians began with Taris, and they didn't fight the way anyone expected.
 
-- ***NPC Relic:*** Choose an unnamed NPC within Close range of a player. They immediately gain a silly name and the unforeseen protection and emotional investment of all players until it either dies or the campaign ends.
-- ***Rules Relic:*** When a player corrects you on a rule, you can overturn their correction by implementing a new rule on the spot and forego any damage to your ego.
-- ***Shushing Relic:*** Make a player within Melee range temporarily *Shushed*. While *Shushed*, they have disadvantage on anything they try to say against your plans for the game.
-:
-#### Specialization Feature
-***GM's Blessing:*** When a player does an exceptional job at playing by your rules, you can bestow them with the highest of blessings. While this player has this blessing, it is immune to any plot damage to their character.
-:
-#### Mastery Feature
-***Not My First Rodeo:*** Your connections to the spirits of GMs across the history of the world and your subreddit subscriptions have granted you the ability to halve the time you spend to prepare for a session.
-:
+They surrounded the ecumenopolis and issued a challenge: prove you can defend yourselves without the Republic. Then they waited. For four months, Coruscant promised relief that never arrived. When the Tarisian militia finally attempted to break the siege, the Mandalorians crushed them in six hours. Then they offered the survivors training.
 
+A third of the defeated militia accepted. Weeks later, those soldiers returned: disciplined, effective, dangerous. Taris surrendered not to conquest but to a proposition. The Mandalorians would provide protection that actually showed up. Two-thirds of the planet accepted. The Undercity — home to the displaced populations the Republic had already abandoned — accepted almost unanimously.
+
+Over the next three years, the template repeated across eighty systems. Onderon fell through combat: the beast-riders fought so fiercely that half of them earned alliance rather than subjugation. Dantooine fell without a shot: colonists walked across the plain to learn from instructors who taught blade combat rather than meditation. Serroco fell through a handshake.
+
+The Mandalorians could take worlds brilliantly. They could not run them at all. Taris experienced food distribution failures within months. Trade networks collapsed under military administration. Mandalorian culture had no framework for civilian governance, economic management, or the bureaucratic machinery a modern world requires.
+
+The Republic Senate, meanwhile, debated jurisdiction while worlds fell.
+
+### The Razing of Cathar (3959 BBY)
+
+The Cathar refused the Mandalorian offer. They fought a guerrilla campaign: decentralized, brutal, and devastating to Mandalorian supply lines. They used their homeworld's dense forests and canyon systems to ambush patrols. They poisoned water supplies. They targeted officers.
+
+Cassus Fett commanded the Cathar operation. He separated populations from their forest strongholds through controlled burning. He established concentration zones where civilians were held while his forces swept guerrilla networks.
+
+Fett did not order the massacre that followed. What happened at the Cathar Concentration at Ves'kaan was a breakdown of discipline, not a strategy. Forces under Clan Jendri, enraged after three months of ambushes that killed their chieftain's children, entered the Ves'kaan zone and killed approximately fourteen thousand Cathar civilians over two days.
+
+Fett classified the event as "collateral pacification" in his official report. He did not punish the perpetrators. He noted in private correspondence to Mandalore that "the Cathar problem is resolved" and moved to the next system.
+
+The galaxy learned about Ves'kaan from refugees who escaped through the forest. A Cathar teenager named Sylvar Juhani recorded the aftermath with a stolen Mandalorian unit: burning villages, mass graves, Mandalorian warriors firing into crowds. It was the first time most Republic citizens saw what the Expansion looked like when a world refused to cooperate.
+
+### The Revanchists (3959 BBY)
+
+Revan watched the Cathar footage in the Coruscant Temple. He'd been arguing with the Council for a year. The footage ended the argument.
+
+He walked out of the Temple with four hundred Jedi behind him.
+
+Some followed because they believed the Council's inaction was a betrayal of everything the Jedi were supposed to be. Some followed because they were young and angry and Revan was the most charismatic person they'd ever met. Some followed because they'd been watching the Force deteriorate and decided that passivity was killing them faster than war.
+
+Revan addressed his followers in the plaza outside the Temple. He did not give a rousing speech. He said: *"The Council believes that inaction will preserve the Force. I believe that the Force is dying because we have allowed suffering we could have prevented. Both positions may be wrong. But only one of them requires us to do nothing while fourteen thousand people are buried in mass graves."*
+
+Within three months, Republic military units joined the Revanchists: volunteers, defectors from garrisons ordered to stand down, fleet officers who'd filed protest reports that vanished into Senate committees.
+
+Then the Mandalorians demonstrated that Cathar was not an isolated failure of discipline. On Serroco, the Mandalorian garrison commander ordered orbital bombardment of the Stereb population centers. Not the Republic mining installations. Not the military facilities. The twelve largest Stereb cities. The cortosis mines were untouched.
+
+Cathar was a massacre born of rage. Serroco was a calculation.
+
+### Two Generals (3959–3957 BBY)
+
+The war revealed what Revan and Malak actually were.
+
+Revan understood war as a problem of knowledge. He identified which planets mattered, how to frame the conflict for public support, where to apply pressure to fracture Mandalorian alliances. His strategic plans were elegant, ambitious, and frequently disconnected from logistical reality.
+
+Malak understood supply lines, troop movements, attrition rates, and the mathematics of a war fought across hundreds of systems. When historians later reviewed Revanchist victories, they found Revan's name on the strategic directives and Malak's signature on the tactical execution orders. Revan inspired the troops. Malak kept them fed and alive.
+
+They needed each other. The problem was that Revan stopped needing the war.
+
+In captured Mandalorian archives, Revan found references to ruins in the Unknown Regions, structures built by an ancient civilization called the Rakata, who had built an empire on the Force and then lost it catastrophically. Revan became convinced that understanding the Rakatan collapse was the key to understanding the current Force crisis.
+
+{{footnote Chapter 4: A History of the Concordat Era}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch1,tab}}
+
+By late 3958 BBY, Revan spent more time in research than in command meetings. He acquired Sith holocrons from black-market dealers. He cross-referenced Rakatan architectural signatures with Sith historical records. Malak watched his commander vanish into scholarship while the war bled the Revanchists dry.
+
+{{footnote Chapter 4: A History of the Concordat Era}}
+{{pageNumber,auto}}
+
+### The Ashen Campaigns (3957–3956 BBY)
+
+From whatever research station he was operating from, Revan sent Malak a package: decoded techniques from a Sith holocron, a methodology for channeling the Force through multiple practitioners simultaneously, producing effects no individual user could achieve. The ancient Sith had used massed ritual to crack Jedi defenses during the Great Hyperspace War. Revan's attached note read: *They used this to destroy. We can use it to win. The difference is intent.*
+
+Malak tested the theory at the Battle of Omonoth: thirty-seven Revanchist Jedi channeling together to generate a telekinetic shockwave that disabled a Mandalorian orbital defense platform. It worked. The Jedi involved reported headaches, nosebleeds, and a hollow sensation in the Force that lasted days.
+
+The Revanchists built a tactical doctrine around what they called Ashfall Operations, named for the particulate debris that choked the atmosphere after a strike. Forty-one confirmed Ashen operations were conducted over fourteen months. The Revanchists won thirty-four of the associated engagements. Twelve planets sustained permanent Force damage. An estimated six hundred thousand civilians died in the operations or their immediate aftermath.
+
+Malak authorized every operation. He read the damage reports. He signed the next order.
+
+The campaigns reached their worst at the Second Siege of Onderon. A full Ashen strike — sixty Jedi channeling together against the Onderon jungle — shattered the Mandalorian perimeter and also killed the jungle. Thousands of square kilometers of forest died in minutes as the Force was ripped from the ecosystem. The beasts the riders had bonded with through the Force went mad, turning on their riders, on civilians, on each other. The beast-riders, who had earned Mandalorian respect through the purest form of Mandalorian honor, died screaming alongside their animals in a forest that was consuming itself.
+
+{{note
+##### Onderon: A Word That Ends Arguments
+Proponents say "Onderon" and mean the war's turning point. Opponents say "Onderon" and mean its lowest moment.
+
+Both are correct.
+
+Fourteen Jedi who participated in the strike were hospitalized. Two never recovered their Force sensitivity. A Miraluka named Veld Arannis, who perceived the world through the Force rather than through eyes, lost her Force sight permanently. She spent the rest of the war blind.
 }}
 
 \column
 
-{{questionSection
-{{block
+### The Dhas'kara (3955 BBY)
 
-### Background Questions
-Answer any of the following background questions. You can also create your own questions.
-- What moment made you fall in love with game design?
-- You once poured your heart into a project no one ever used. What was it, and how did it change you?
-- What unplaytested mechanic are you irrationally proud of?
-:
-### Connections
-Ask your fellow players one of the following questions for their character to answer, or create your own questions.
-- What part of my imagination do you admire the most?
-- I once asked you to try something I made. What happened, and how did it affect our bond?
-- What do you always ask me to homebrew, even though we both know it’s going to break the game?
-}}
-}}
+Malak had spent two years studying Mandalorian culture: honor codes, customs, the tradition of Dhas'kara. In Mandalorian law, a dispute between clans — or even a challenge to Mandalore himself — could be settled through single combat. Anyone could invoke the Right of Challenge by proving superior individual strength. No outsider had ever done so.
 
-{{footnote Chapter 1: Character Creation}}
+Malak sent a transmission directly to Mandalore the Vindicated. He invoked Dhas'kara. If Malak won, Mandalore would hear his terms. If Mandalore won, the Revanchists would surrender.
+
+Under Mandalorian law, refusing a properly invoked challenge destroyed the authority of the one who refused. Mandalore had no option.
+
+They fought in orbit above Dxun for four hours. No Force powers. Malak refused to use them. He insisted on meeting the Mandalorian standard: iron and will, nothing else.
+
+Mandalore the Vindicated shattered Malak's jaw with a beskad strike and severed his sword arm. Malak's blade found Mandalore's throat first.
+
+By rights, Malak could demand anything, including Mandalore's death. He demanded partnership.
+
+### The Concordat (3955 BBY)
+
+Malak stood over his defeated opponent with blood pouring from where his jaw had been and offered terms that no one on either side had expected.
+
+The Concordat would be a partnership. Mandalorian clans would provide military strength and maintain their warrior culture. Republic systems would provide economic administration and civilian governance. Each side would do what it was built for.
+
+Mandalore, alive through Malak's mercy and bound by Ka'halar — the life-debt owed by a defeated warrior to the victor who spares him — accepted.
+
+Not all the clans followed. Canderous Ordo saw surrender dressed in partnership and walked. He formed the Neo-Mandalorian Coalition. His sister, Veera Ordo, stayed. She'd argued for administrative partnership for years. Now she had an ally with the authority to build it.
+
+Admiral Kaeranth watched from the fringes. He'd served under both Revan and Malak during the war. He watched the Senate's authority erode. He watched Force-sensitive citizens placed under monitoring programs. He recognized the architecture: a republic hollowing itself out to make room for a strongman.
+
+When Revan returned from the Unknown Regions — alone, gaunt, carrying crates of datacrons and speaking in fragments — Kaeranth extracted him with three battlegroups. The Revanchist Remnant formed around Revan in the Outer Rim.
+
+\page
+{{Ch1,tab}}
+
+### The Years Since (3955–3952 BBY)
+
+Three years have passed. The Concordat has consolidated power across the Core Worlds and much of the Inner Rim. The Remnant has survived three years of guerrilla warfare through Kaeranth's competence. The Neo-Mandalorian Coalition has carved a nomadic existence out of the Outer Rim's margins. The Jedi Order has fractured beyond recognition.
+
+The Sith, presumed destroyed, are not gone. In the shadows, something is consolidating scattered Sith remnants toward a purpose that none of the three major governments have identified. The galaxy has forgotten about the Sith. The Sith have not forgotten about the galaxy.
+
+This is the galaxy in 3952 BBY. Everything after it is up to you.
+
+{{footnote Chapter 4: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch2,tab}}
 
-# Chapter Two:
-## Playing an Adventure
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl. Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat.
+# Part III: The Galaxy Now
+## Chapter 5: Life in the Concordat Era
 
-## Header
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet ex vitae sapien vestibulum tristique nec quis nisl. Curabitur tincidunt finibus sapien at feugiat. Ut at urna hendrerit lectus sodales pharetra. Aenean aliquet sagittis metus vel porttitor. Vivamus ullamcorper egestas placerat. Vivamus ac dignissim nisi. Vivamus sagittis mattis ex, quis placerat nunc laoreet eget. Morbi at sollicitudin leo. Donec vitae dapibus massa, id aliquam sem. Integer faucibus fermentum erat nec iaculis. In porttitor augue diam. Proin pharetra, ligula non pellentesque porta, nibh lorem gravida mauris, ut porta enim metus et dolor. Nam ut tortor maximus, ullamcorper magna quis, dictum sem. Pellentesque rutrum consequat eleifend. Curabitur non luctus augue, in semper purus.
+### What Normal Looks Like
 
-### Step 1:
-## Header 1
-Nullam commodo porttitor urna vitae congue. Praesent magna eros, euismod et nisi at, viverra ullamcorper leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris aliquam semper diam ac euismod. Etiam condimentum commodo magna, consequat posuere dolor fringilla quis. Nam diam mauris, dapibus vel mauris at, faucibus facilisis felis. Donec luctus, orci et fringilla pharetra, dui lectus mollis sapien, quis sodales orci ante vel diam. Nunc suscipit nulla in elementum blandit. Sed imperdiet lacus vel lacus efficitur semper tincidunt eget risus. Maecenas laoreet arcu velit. Maecenas dictum ipsum sit amet condimentum fermentum. Mauris gravida molestie urna, vel vestibulum arcu cursus sit amet. Etiam bibendum tortor sem, non scelerisque nibh egestas nec. Mauris nec ligula cursus, laoreet mauris rhoncus, aliquam ligula. Proin convallis, augue in hendrerit accumsan, felis lacus pellentesque purus, non elementum sem leo at augue.
+{{descriptive
+*A Concordat citizen in the Core Worlds wakes in an apartment that hasn't changed much since before the wars. The holonet plays the morning news: Senate proceedings, trade reports, a segment on kolto prices that nobody wants to hear.*
 
-### Step 2:
-## Header 2
-Ut a condimentum ex, nec dictum justo. In accumsan, lectus eu condimentum semper, nisl quam suscipit dolor, eget tincidunt massa odio suscipit enim. Donec sodales nunc at ante bibendum, at consequat purus porttitor. Sed dui tellus, efficitur in finibus sit amet, consectetur sit amet ipsum. Donec a felis ut tortor feugiat tincidunt vitae ac purus. Curabitur non sapien eget ante iaculis ornare ut at magna. Aliquam vitae arcu feugiat, maximus dui sed, venenatis purus. Sed feugiat sollicitudin suscipit. Nullam mattis, metus vel tincidunt feugiat, purus tellus iaculis ante, a interdum quam sapien non lacus. Etiam hendrerit nisi sed felis faucibus tristique. Aenean scelerisque gravida est vel sollicitudin. Vestibulum efficitur sem vel massa hendrerit, id aliquam dolor rhoncus. Phasellus vitae tincidunt odio.
+*She takes a transit shuttle to work, passes a recruitment poster for the Concordat Joint Defense Force featuring a human soldier and a Mandalorian warrior standing shoulder to shoulder — a pairing that would have been absurd five years ago — and arrives at an office where her supervisor is a former Republic administrator and her department head is a Mandalorian clan liaison who still wears partial armor to meetings.*
 
-| Attack | Easy     | Bonus |
-|:-------|:---------|:------|
-| Defend | Medium   | +2    |
-| Cover  | Easy     | +2    |
-| Run    | Easy     | +2    |
-| Aid    | Medium   | +2    |
-| Hide   | Hard     | +3    |
+*Normal, in the Core Worlds, means functioning.*
+}}
+:
+{{descriptive 
+*A citizen on the Outer Rim frontier lives a different life. She wakes in a prefab shelter on a mining world where the garrison changed hands twice in the last year.*
 
-## Header 3
-#### Header
-Maecenas ac arcu varius, condimentum eros vitae, porta erat. Praesent vel dui sit amet metus efficitur hendrerit a vitae nulla. Sed non eleifend lectus. Duis eget orci in nibh efficitur condimentum aliquam eu mi. Morbi consectetur lectus sit amet nisl molestie placerat. Maecenas aliquet scelerisque nunc, quis semper nibh semper non. Nulla rhoncus tincidunt turpis, sit amet eleifend metus consectetur quis. Sed vel nibh suscipit, ultrices eros eget, tincidunt magna. Nam mi ipsum, tempor in nisi quis, pellentesque finibus neque. Proin in sodales sem. Mauris non nulla tincidunt, iaculis nunc vitae, molestie leo.
+*The local authority might be a Concordat military governor, a Mandalorian clan chief, a corporate security outfit from Czerka, or nobody at all. Medical care means kolto if you can afford it and field surgery if you can't*. 
+}}
 
-###### Attack
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Between these extremes, the galaxy's Mid Rim exists in a state of negotiated uncertainty. A merchant planning a cargo run from Taris to Onderon must calculate which patrol zones she'll cross, which tariffs apply in each jurisdiction, whether her navigation charts account for the dead zone that appeared near the Perlemian Trade Route last month, and whether her Mandalorian transit papers will be honored by the Concordat naval checkpoint.
 
-###### Defend
-Nullam sit amet ex vitae sapien vestibulum tristique nec quis nisl. Curabitur tincidunt finibus sapien at feugiat. Ut at urna hendrerit lectus sodales pharetra. Aenean aliquet sagittis metus vel porttitor. Vivamus ullamcorper egestas placerat. Vivamus ac dignissim nisi. Vivamus sagittis mattis ex, quis placerat nunc laoreet eget. Morbi at sollicitudin leo. Donec vitae dapibus massa, id aliquam sem.
+### Medicine
 
-#### Header
-Praesent ac felis vel lacus ornare porta. Fusce quis vehicula leo, nec lobortis risus. Integer in accumsan lacus, ac finibus risus. Etiam sit amet scelerisque enim. Maecenas condimentum suscipit fermentum. Fusce euismod purus non magna pretium, id bibendum enim dapibus. Aenean vulputate pellentesque urna ut maximus. Nullam quis iaculis arcu. Nulla facilisi. Donec molestie orci eu molestie lacinia.
+Before the wars, a serious injury in Republic space meant a trip to a medical facility where Force healing and kolto therapy could restore a patient from near-death to functional health in days. Force healing is now unreliable. A Jedi healer might channel perfectly for one patient and fail for the next. The Jedi who still practice healing do so with kolto backup and surgical teams standing by.
 
-{{footnote Chapter 2: Playing an Adventure}}
+Kolto remains effective. A standard treatment that cost two hundred credits in 3964 BBY costs twelve hundred credits now. Military contracts consume the bulk of Manaan's output. Civilian hospitals ration. Frontier communities go without.
+
+Scarcity breeds a secondary market. Diluted kolto, counterfeit kolto, kolto stolen from military shipments and resold at markup, and experimental variants produced by off-book laboratories circulate across the Outer Rim.
+
+\column
+
+### Travel
+
+Hyperspace travel functions, but the margins of reliability have narrowed. Near dead zones, hyperspace routes degrade. A ship following a charted lane might drop out of hyperspace hours or days early. In the worst cases, ships have entered hyperspace on a standard route and never arrived.
+
+Astromech droids, which calculate hyperspace jumps through algorithmic rather than Force-based methods, have become more valuable than they've ever been.
+
+### Labor, Class, and Displacement
+
+The wars displaced millions. Cathar refugees scattered across the Mid and Outer Rim after the Razing. Onderon's beast-riders, those who survived the Second Siege, have no jungle to return to. Sith Pureblood populations displaced by the Republic's post-GHW counter-invasion live in diaspora communities across the galaxy, navigating prejudice and surveillance.
+
+The wars also produced veterans. Concordat veterans receive pensions and reintegration support. Remnant veterans receive what the Remnant can afford, which is little. Neo-Mandalorian veterans receive honor and poverty. Former Revanchist Jedi who participated in the Ashen Campaigns receive nothing, because no institution wants to claim them.
+
+Czerka Corporation operates mining operations on dozens of Outer Rim worlds with labor practices that honest observers call indentured servitude with better marketing. The Exchange, a criminal syndicate with operations spanning the Mid and Outer Rim, fills gaps in Concordat governance at prices that reflect the risk.
+
+### What People Argue About
+
+In cantinas, in Senate lobbies, in military barracks, in refugee shelters, people argue about the same questions:
+
+Is Malak a necessary strongman or a tyrant in the making? Was the Concordat worth the price? Is the Force dying, and does it matter? Are the Remnant freedom fighters or dead-enders? Are the Mandalorians allies or occupiers?
+
+{{note
+##### These Arguments Have No Correct Answers
+Your character's position on them is one of the most important things about them.
+
+A character who has thought about these questions and arrived at a nuanced position they'll defend under pressure is exactly what this campaign needs.
+}}
+
+{{footnote Chapter 5: Life in the Concordat Era}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+## Chapter 6: The Major Powers
+
+### 6.1 The Concordat
+
+**What they claim:** The Concordat is the legitimate successor to the Galactic Republic, enhanced by the military strength of the Mandalorian clans and the administrative reforms necessary to prevent the governance failures that allowed the Mandalorian Wars to happen. Emergency powers are temporary measures required by an ongoing security crisis.
+
+**What they do:** The Concordat governs approximately four hundred major systems. Core World governance resembles the old Republic with added security apparatus. Mid Rim governance operates through military governors with broad discretionary authority. Outer Rim territories are garrison states where Mandalorian clan forces provide security and Republic-trained administrators manage resource extraction.
+
+Force-sensitive citizens within Concordat territory are required to register with the Office of Force Affairs. The stated purpose is public safety. The unstated purpose is political control: Force users are the Remnant's most effective operatives, and the Concordat treats unregistered Force sensitives as potential insurgents.
+
+**Internal factions:** The **Integrationists**, led by Veera Ordo, want the Concordat to evolve into a permanent hybrid government. The **Restorationists** — former Republic senators and administrators — accepted the Concordat as wartime necessity and want full democratic governance restored. The **Militarists** are Malak's core supporters who believe effective governance matters more than participatory governance.
+
+**Mandalore the Vindicated** serves as Lord Marshal of the Concordat. His presence legitimizes the Concordat to Mandalorian clans, and his bond of Ka'halar to Malak guarantees their compliance. Both Malak and Mandalore understand this. Neither says it aloud.
+
+{{note
+##### Concordat Character Hooks
+- A military officer navigating the tensions between Republic and Mandalorian command traditions
+- A bureaucrat in the Office of Force Affairs who's started to doubt the program's purpose
+- A Mandalorian warrior serving in a joint unit who respects her Republic counterparts but wonders what she's fighting for
+- A Restorationist senator's aide who's discovered something about the emergency powers that the Senator needs to hear
+}}
+
+\column
+
+### 6.2 The Revanchist Remnant
+
+**What they claim:** The Remnant is the legitimate Republic. The Concordat is a military coup dressed in democratic language. Malak betrayed the principles the Revanchists fought for when he bargained with Mandalorians and consolidated power. The Remnant will restore democratic governance and end the military governor system.
+
+**What they do:** The Remnant holds twenty-three systems in the Outer Rim, connected by hidden hyperspace routes and guerrilla supply networks. Its military consists of three battle groups under Admiral Kaeranth: roughly forty capital ships and a network of hidden bases.
+
+The Remnant's functional leadership is Kaeranth, Jedi historian Master Dorak, and Captain Carth Onasi. Revan is the figurehead, the moral authority, and — since his return from the Unknown Regions — the most unpredictable variable. He speaks in long monologues about "the pattern" he perceives beneath the Force. He sketches diagrams on any available surface. He sometimes fails to recognize people he has known for years.
+
+{{note
+##### Remnant Character Hooks
+- A guerrilla pilot who's flown supply runs through Concordat patrols for three years and is running out of luck
+- A Jedi Commander who followed Revan out of the Temple and now isn't sure what she's following
+- A defector from the Concordat military who chose the Remnant because the alternative was complicity
+- An intelligence operative who's seen Revan's research notes and can't decide whether they're revelation or psychosis
+}}
+
+### 6.3 The Neo-Mandalorian Coalition
+
+**What they claim:** The Concordat is dishonor. Mandalore lost in single combat and accepted servitude rather than death, violating the deepest tenets of Mandalorian tradition. The Neo-Mandalorians will demonstrate true Mandalorian values through combat.
+
+**What they do:** The Coalition operates as a nomadic military force. Mobile bases on uninhabited moons and asteroid installations. A raiding fleet that hits Concordat and Remnant shipping. Canderous Ordo leads through personal combat prowess. He has killed seven challengers to his authority in three years and is growing tired of killing subordinates. The Coalition contains traditionalists who fight for honor, mercenaries who fight for pay, and refugees who fight because no one offered them anything better.
+
+{{footnote Chapter 6: The Major Powers}}
+{{pageNumber,auto}}
+
+
+\page
+
+{{Ch2,tab}}
+{{note
+##### Neo-Mandalorian Character Hooks
+- A warrior who's watched the Coalition's resources shrink and wonders if honor can sustain a people
+- A non-Mandalorian recruit who adopted the armor and the code because the Mandalorians were the only faction that treated strength as its own justification
+- A child of Concordat Mandalorians who defected because the Concordat's version of Mandalorian culture felt like a costume
+}}
+
+{{footnote Chapter 6: The Major Powers}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+### 6.4 The Jedi Order
+
+**What they claim:** The Force is in crisis. Using it carelessly accelerates the damage. The Jedi Order's duty is to study the crisis, preserve Jedi knowledge, and avoid actions that could make things worse. Neutrality in the Concordat political conflict is necessary because choosing a side would subordinate the Jedi's mission to a political agenda.
+
+**What they do:** Approximately five hundred Jedi remain loyal to the Council on Coruscant, led by Masters Vrook, Vandar, Zez-Kai Ell, and Lonna Vash. The Council authorized the Sentinel Program two years ago: an accelerated training initiative producing Force-sensitive field operatives in months instead of years. The program has produced approximately three hundred operatives. Thirty-seven are confirmed dead. Twelve have deserted. Eight show signs of dark-side instability.
+
+Atris, the program's designer, withdrew after its establishment and maintains a private academy on Telos with her Echani Handmaidens — elite warriors trained to fight and subdue Force users. She collects Sith holocrons to study the enemy. The boundary between studying the enemy and learning from the enemy has grown thin.
+
+**The Order in 3952 BBY is at least five groups wearing the same robes.** Council Loyalists follow the Masters' directive of restraint. Remnant Jedi serve with Revanchist military ranks. Concordat Advisors serve in medical and administrative roles. Sentinel Operatives serve in the field with accelerated training and minimal doctrine. Independents have renounced the Order and vanished into civilian life.
+
+{{note
+##### Jedi Character Hooks
+- A Council Loyalist who's starting to suspect the Council is wrong
+- A Remnant Jedi Commander who carries a blaster because her lightsaber only works half the time
+- A Concordat Advisor who heals patients in a government clinic and files reports to a security agency
+- A Sentinel operative with three months of training and a mission she doesn't fully understand
+- An Independent who left the Order, opened a cantina on Nar Shaddaa, and is trying very hard not to get involved
+}}
+
+\column
+
+### 6.5 The Sith
+
+**What most people know:** The Sith Empire was destroyed in the Great Hyperspace War. Its military was shattered. Its survivors were driven into exile.
+
+**What is actually happening:** The empire collapsed. The Sith did not.
+
+Scattered across the Outer Rim, Wild Space, and the galaxy's ungoverned margins, the remnants of the Sith military operate as independent flotillas: some as pirates, some as mercenaries, some as warlords governing small territories in sectors where no one else bothers to look. Sith Pureblood diaspora communities exist on dozens of worlds, navigating prejudice, displacement, and the complicated question of what "Sith" means when the Empire is ash.
+
+The **Sith Triumvirate** operates in this landscape, and most people do not know it exists. It is not a government. It is a network, coordinated by a former Jedi Master who has drawn conclusions about the Force that would terrify anyone who heard them, served by two beings who are less people than they are consequences of the wars. Its existence is a rumor that the galaxy's intelligence services have not yet confirmed.
+
+{{note
+##### Sith Character Hooks
+- A Pureblood veteran of the GHW who's been running a mercenary outfit for twelve years and just received a recruitment offer from someone who knows things about the Sith that no one should know
+- A Pureblood scholar in diaspora who stumbled onto something the Keepers of Adas have been protecting for millennia
+- A former Sith naval officer serving in the Concordat military under a false name
+- A non-Pureblood drawn to Sith philosophy as a framework for understanding passion, strength, and the will to survive
+}}
+
+### 6.6 Independent Powers
+
+**Hutt Space** encompasses approximately three hundred systems under Hutt clan authority. The Hutts have been neutral in the Concordat conflict, which means they've sold weapons, intelligence, kolto, and logistical support to every side while profiting from the chaos.
+
+**Czerka Corporation** is the galaxy's largest private resource extraction company. Its security forces are the de facto authority on several Outer Rim worlds where no government has established a garrison.
+
+**The Exchange** is a criminal syndicate with operations spanning the Mid and Outer Rim, filling the gaps in Concordat governance at prices that reflect the risk.
+
+**Manaan**, the sole source of kolto, maintains its independence through monopoly leverage and the credible threat of destroying its own processing infrastructure rather than letting any single faction control the supply.
+
+{{footnote Chapter 6: The Major Powers}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+## Chapter 7: The Force in Crisis
+
+### What Everyone Notices
+
+The Force crisis is not abstract. It touches daily life in ways that even people with no Force sensitivity can identify.
+
+Jedi are less effective than they used to be. Everyone knows this. The Jedi healers who once staffed Republic medical facilities with near-miraculous capability now fail as often as they succeed. The Jedi mediators who once resolved planetary disputes through Force-enhanced empathy now arrive at negotiations with the same blind spots as everyone else. The Jedi warriors who once moved with supernatural speed and foresight now hesitate, miscalculate, and die in engagements they would have won a decade ago.
+
+People who live near dead zones report specific, observable effects: mechanical failures in equipment that worked fine elsewhere, communication blackouts, navigation errors, and a pervasive unease that even non-Force-sensitive individuals describe as "wrongness." Animals avoid dead zones. Plants grow strangely in their periphery. Weather patterns shift near the larger ones in ways that meteorologists cannot account for through conventional atmospheric models.
+
+### What the Jedi Believe
+
+The Jedi Council's official position: the Force is damaged, possibly by the massed Sith rituals of the Great Hyperspace War, possibly compounded by the Ashen Campaigns. Using the Force carelessly in its weakened state may accelerate the deterioration. The correct response is caution, study, and minimal intervention.
+
+This position is not unanimous even within the Council. Master Vrook argues for strict non-intervention. Master Vandar favors cautious engagement. Master Zez-Kai Ell has privately suggested that the Council's understanding of the crisis may be fundamentally incomplete and that restraint based on incomplete understanding is indistinguishable from paralysis.
+
+### What the Sith Believed
+
+The Sith rituals of the Great Hyperspace War were not random acts of destruction. They were, in the Sith theological framework, applications of the Force at its highest intensity. That the rituals damaged the Force itself was not predicted by Sith theory, and the implications have fractured Sith thought in the decades since.
+
+A handful of scholars, working from traditions older than the Sith Empire itself, argue that the light-side/dark-side framework was always an oversimplification and that the Force's deterioration is the consequence of ten thousand years of Force users on both sides treating it as a tool rather than a relationship.
+
+\column
+
+### What Ordinary People Think
+
+Most people do not think about the Force in theological terms. They think about it in practical terms.
+
+{{descriptive
+The kolto medic on Taris thinks: *"Force healing doesn't work anymore, so I need more kolto, and kolto costs more every month."*
+
+The freighter captain thinks: *"The Perlemian run used to be safe. Now I drop out of hyperspace a day early and have to calculate the rest by hand. My astromech earns its maintenance."*
+
+The Mandalorian patrol sergeant thinks: *"We told them the Force was a crutch. We were right. They should have listened."*
+
+The Cathar refugee thinks: *"The Jedi couldn't save us because the Force was failing. Or the Jedi wouldn't save us because the Council was debating. I can't tell the difference and it doesn't matter."*
+
+The Miraluka navigator thinks: *"I see through the Force. When the Force fails, I go blind. When I go blind, my ship and everyone on it dies. I haven't told my crew how often the failures are happening."*
+}}
+
+### What It Means in Practice
+
+**Combat:** A Force-sensitive combatant cannot rely on precognition, telekinesis, or enhanced reflexes. Smart commanders plan for both contingencies. Soldiers who serve alongside Jedi have learned to operate as though Force support might vanish at any moment.
+
+**Governance:** Without reliable Force-enhanced truth-sensing and empathic communication, mediation is slower, less certain, and more susceptible to deception.
+
+**Spirituality:** Billions of beings understood the Force as the binding energy of life. Its deterioration has cracked open every religious tradition that touches it. The Jedi, the Sith, the Order of Shasa, the Baran Do Sages, village shamans on a hundred Outer Rim worlds — all asking whether the Force is dying, being killed, evolving, or punishing them.
+
+**Daily life:** The Force crisis registers as a background hum of anxiety. Things that used to work don't work as well. Institutions that used to be reliable aren't. The load-bearing walls are cracked. The building still stands. Everyone on the upper floors can feel the shift.
+
+{{footnote Chapter 7: The Force in Crisis}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch3,tab}}
 
-# Chapter Three:
-## Running an Adventure
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl. Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat.
+# Part IV: Places
+## Chapter 8: Worlds, Regions, and Frontiers
 
-## Header
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet ex vitae sapien vestibulum tristique nec quis nisl. Curabitur tincidunt finibus sapien at feugiat. Ut at urna hendrerit lectus sodales pharetra. Aenean aliquet sagittis metus vel porttitor. Vivamus ullamcorper egestas placerat. Vivamus ac dignissim nisi. Vivamus sagittis mattis ex, quis placerat nunc laoreet eget. Morbi at sollicitudin leo. Donec vitae dapibus massa, id aliquam sem. Integer faucibus fermentum erat nec iaculis. In porttitor augue diam. Proin pharetra, ligula non pellentesque porta, nibh lorem gravida mauris, ut porta enim metus et dolor. Nam ut tortor maximus, ullamcorper magna quis, dictum sem. Pellentesque rutrum consequat eleifend. Curabitur non luctus augue, in semper purus.
+*Each entry answers: who controls it, what happened there, why it matters now, and what kind of trouble finds you there.*
 
-## Header 1
-Nullam commodo porttitor urna vitae congue. Praesent magna eros, euismod et nisi at, viverra ullamcorper leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris aliquam semper diam ac euismod. Etiam condimentum commodo magna, consequat posuere dolor fringilla quis. Nam diam mauris, dapibus vel mauris at, faucibus facilisis felis. Donec luctus, orci et fringilla pharetra, dui lectus mollis sapien, quis sodales orci ante vel diam. Nunc suscipit nulla in elementum blandit. Sed imperdiet lacus vel lacus efficitur semper tincidunt eget risus. Maecenas laoreet arcu velit. Maecenas dictum ipsum sit amet condimentum fermentum. Mauris gravida molestie urna, vel vestibulum arcu cursus sit amet. Etiam bibendum tortor sem, non scelerisque nibh egestas nec. Mauris nec ligula cursus, laoreet mauris rhoncus, aliquam ligula. Proin convallis, augue in hendrerit accumsan, felis lacus pellentesque purus, non elementum sem leo at augue.
+### Coruscant
 
-{{note
-##### YOUR VERY COOL HOUSE RULE
-In the DH Core Book, notes are used for optional rules and as a sumary of steps for something (like in the section "Flow of the game" in Chapter Two)
-}}
+**Control:** Concordat capital. **Security:** High.
 
-## Header 2
-Ut a condimentum ex, nec dictum justo. In accumsan, lectus eu condimentum semper, nisl quam suscipit dolor, eget tincidunt massa odio suscipit enim. Donec sodales nunc at ante bibendum, at consequat purus porttitor. Sed dui tellus, efficitur in finibus sit amet, consectetur sit amet ipsum. Donec a felis ut tortor feugiat tincidunt vitae ac purus. Curabitur non sapien eget ante iaculis ornare ut at magna. Aliquam vitae arcu feugiat, maximus dui sed, venenatis purus. Sed feugiat sollicitudin suscipit. Nullam mattis, metus vel tincidunt feugiat, purus tellus iaculis ante, a interdum quam sapien non lacus. Etiam hendrerit nisi sed felis faucibus tristique. Aenean scelerisque gravida est vel sollicitudin. Vestibulum efficitur sem vel massa hendrerit, id aliquam dolor rhoncus. Phasellus vitae tincidunt odio.
+The galaxy's political center has not changed hands, but it has changed character. The Senate still meets in the same chamber. The Jedi Temple still stands, though its population has thinned to a fraction of pre-war numbers.
 
-#### Header
-Maecenas ac arcu varius, condimentum eros vitae, porta erat. Praesent vel dui sit amet metus efficitur hendrerit a vitae nulla. Sed non eleifend lectus. Duis eget orci in nibh efficitur condimentum aliquam eu mi. Morbi consectetur lectus sit amet nisl molestie placerat. Maecenas aliquet scelerisque nunc, quis semper nibh semper non. Nulla rhoncus tincidunt turpis, sit amet eleifend metus consectetur quis. Sed vel nibh suscipit, ultrices eros eget, tincidunt magna. Nam mi ipsum, tempor in nisi quis, pellentesque finibus neque. Proin in sodales sem. Mauris non nulla tincidunt, iaculis nunc vitae, molestie leo.
+Coruscant under the Concordat is a city of surfaces. The upper levels function as they always have: politics, commerce, culture, the apparatus of galactic governance. Below the surface, the security apparatus operates: the Office of Force Affairs, military intelligence, the network of monitoring stations that track Force-sensitive citizens. Mandalorian patrol ships in orbit are visible from the Senate plaza, a daily reminder that the Concordat's stability rests on a partnership between traditions that have no historical precedent for trusting each other.
 
-| Attack | Easy     | Bonus |
-|:-------|:---------|:------|
-| Defend | Medium   | +2    |
-| Cover  | Easy     | +2    |
-| Run    | Easy     | +2    |
-| Aid    | Medium   | +2    |
-| Hide   | Hard     | +3    |
+For a player character, Coruscant is where you make deals, trade information, and see the Concordat's contradictions up close.
 
-{{descriptive
-##### Time to Drop Knowledge
-Use descriptive boxes to highlight text that should be read aloud.
+### Taris
 
-**Tables and lists** both work within a descriptive box.
-}}
+**Control:** Concordat (Mandalorian administration). **Security:** Medium.
 
-#### Header
-Praesent ac felis vel lacus ornare porta. Fusce quis vehicula leo, nec lobortis risus. Integer in accumsan lacus, ac finibus risus. Etiam sit amet scelerisque enim. Maecenas condimentum suscipit fermentum. Fusce euismod purus non magna pretium, id bibendum enim dapibus. Aenean vulputate pellentesque urna ut maximus. Nullam quis iaculis arcu. Nulla facilisi. Donec molestie orci eu molestie lacinia.
+Taris was the first Mandalorian conquest and the first test of every promise the Expansion made. The upper city has stabilized under Mandalorian-Concordat governance. Trade flows. Infrastructure functions. The Undercity has improved more than the upper city will admit — Mandalorian infrastructure investment reached levels the Republic never provided.
 
-{{DHTable
-| **Scene**            | **Example**  |
-|:---------------------|:-------------|
-|  Overgrown Dungeon   | Goblin Cave  |
-|  Forgotten Dungeon   | Undead Crypt |
-|  Urban               | Town Center  |
-}}
+Between the levels, resentment simmers. Upper-city Tarisians resent Mandalorian authority. Undercity Tarisians resent upper-city Tarisians for caring about sovereignty more than survival. Mandalorian administrators resent the complexity of managing a world that doesn't think like a military camp.
 
-{{footnote Chapter 3: Running an Adventure}}
-{{pageNumber,auto}}
+### Onderon and Dxun
 
-\page
+**Control:** Concordat (contested). **Security:** Medium to Low.
 
-{{Ch4,tab}}
+Onderon bears the scars of the Second Siege. Thousands of square kilometers of jungle are dead, killed when the Ashen strike ripped the Force from the ecosystem. Nothing grows there. The beasts that survived the strike are feral, dangerous.
 
-# Chapter Four:
-## Adversaries and Environments
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl.
-
-## Header
-Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet ex vitae sapien vestibulum tristique nec quis nisl. Curabitur tincidunt finibus sapien at feugiat. Ut at urna hendrerit lectus sodales pharetra. Aenean aliquet sagittis metus vel porttitor. Vivamus ullamcorper egestas placerat. Vivamus ac dignissim nisi. Vivamus sagittis mattis ex, quis placerat nunc laoreet eget. Morbi at sollicitudin leo. Donec vitae dapibus massa, id aliquam sem. Integer faucibus fermentum erat nec iaculis. In porttitor augue diam. Proin pharetra, ligula non pellentesque porta, nibh lorem gravida mauris, ut porta enim metus et dolor. Nam ut tortor maximus, ullamcorper magna quis, dictum sem. Pellentesque rutrum consequat eleifend. Curabitur non luctus augue, in semper purus.
-
-## Header 1
-Nullam commodo porttitor urna vitae congue. Praesent magna eros, euismod et nisi at, viverra ullamcorper leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris aliquam semper diam ac euismod. Etiam condimentum commodo magna, consequat posuere dolor fringilla quis. Nam diam mauris, dapibus vel mauris at, faucibus facilisis felis. Donec luctus, orci et fringilla pharetra, dui lectus mollis sapien, quis sodales orci ante vel diam. Nunc suscipit nulla in elementum blandit. Sed imperdiet lacus vel lacus efficitur semper tincidunt eget risus. Maecenas laoreet arcu velit. Maecenas dictum ipsum sit amet condimentum fermentum. Mauris gravida molestie urna, vel vestibulum arcu cursus sit amet. Etiam bibendum tortor sem, non scelerisque nibh egestas nec. Mauris nec ligula cursus, laoreet mauris rhoncus, aliquam ligula. Proin convallis, augue in hendrerit accumsan, felis lacus pellentesque purus, non elementum sem leo at augue.
-
-{{DHTable,wide
-### Primary Weapons
-*The following primary weapons are also available in this campaign.*
-| **Name**            | **Trait** | **Range** | **Damage** | **Burden**  | **Feature**                                                |
-|:--------------------|:----------|:----------|:-----------|:------12%------|:---------------------------------------------------------|
-|  **Curved Sword**   | Finesse   | Melee     |    d6 phy  | One-Handed  | **Mooncut:** Curved sword goes swoosh. Spend 1 Hope to gain advantage on an attack roll.  |
-|  **Battle Axe**     | Strength  | Melee     |    d8 phy  | Two-Handed  | **Heartbreaker:** An axe strike to go deep to the heart.  |
-|  **Plasma Rifle**   | Agility   | Far       |    d10 phy | Two-Handed  | **Charged Blast:** Careful with overheating.  |
-|  **Composite Bow**  | Agility   | Far       |    d8 phy  | Two-Handed  | **Long Shot:** Just aim to the target far far away.  |
-|  **Dual Dagger**    | Finesse   | Melee     |    d6 phy  | One-Handed  | **Heart Strike:** What's better than one dagger to the heart? a dual dagger to the heart.  |
-}}
-
-## Header 4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl. Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat.
-
-#### Header
-Praesent ac felis vel lacus ornare porta. Fusce quis vehicula leo, nec lobortis risus. Integer in accumsan lacus, ac finibus risus. Etiam sit amet scelerisque enim. Maecenas condimentum suscipit fermentum. Fusce euismod purus non magna pretium, id bibendum enim dapibus. Aenean vulputate pellentesque urna ut maximus. Nullam quis iaculis arcu. Nulla facilisi. Donec molestie orci eu molestie lacinia.
-
-| Attack | Easy     | Bonus |
-|:-------|:---------|:------|
-| Defend | Medium   | +2    |
-| Cover  | Easy     | +2    |
-| Run    | Easy     | +2    |
-| Aid    | Medium   | +2    |
-| Hide   | Hard     | +3    |
-
-{{footnote Chapter Four: Adversaries and Environments}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch4,tab}}
-
-{{wide
-## Tier 4 Adversaries (Levels 8-10)
-}}
-
-{{adversary,
-## Arch-Necromancer
-### Tier 4 Leader
-*A decaying mage adorned in dark, tattered robes.*  
-**Motives & Tactics:** Corrupt, decay, flee to fight another day, resurrect
-
-{{descriptive
-**Difficulty:** 21 | **Thresholds:** 33/66 | **HP:** 9 | **Stress:** 8  
-**ATK:** +6 | **Necrotic Blast:** Far | 4d12+8 mag
-___
-**Experience:** Forbidden Knowledge +3, Wisdom of Centuries +3
-}}
-
-#### Features
-**Dance of Death - Action: Mark a Stress** to spotlight **1d4** allies. Attacks they make while spotlighted in this way deal half damage, or full damage if you **spend a Fear**.
-
-**Beam of Decay - Action: Mark 2 Stress** to cause all targets within Far range to make a Strength Reaction Roll. Targets who fail take **2d20+12** magic damage and you gain a Fear. Targets who succeed take half damage. A target who marks 2 or more HP must also mark **2 Stress** and becomes *Vulnerable* until they roll with Hope.
-
-**Open the Gates of Death - Action: Spend a Fear** to summon a Zombie Legion, which appears at Close range and immediately takes the spotlight.
-
-**Not Today, My Dears - Reaction:** When the Necromancer has marked 7 or more of their HP, you can **spend a Fear** to have them teleport away to a safe location to recover. A PC who succeeds on an Instinct Roll can trace the teleportation magic to their destination.
-
-**Your Life Is Mine - Reaction:** *Countdown (Loop 2d6)*. When the Necromancer has marked 6 or more of their HP, activate the countdown. When it triggers, deal **2d10+6** direct magic damage to a target within Close range. The Necromancer then **clears a number of Stress or HP** equal to the number of HP marked by the target from this attack.
-}}
-
-{{adversary,
-## Fallen Shock Troop
-### Tier 4 Minion
-*A cursed soul bound to the Fallen's will.*  
-**Motives & Tactics:** Crush, dominate, earn relief, punish
-
-{{descriptive
-**Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-**ATK:** +2 | **Cursed Axe:** Very Close | 12 phy
-___
-**Experience:** Forbidden Knowledge +3, Wisdom of Centuries +3
-}}
-
-#### Features
-**Minion (12) - Passive:** The Shock Troop is defeated when they take any damage. For every 12 damage a PC deals to the Shock Troop, defeat an additional Minion within range the attack would succeed against.
-
-**Aura of Doom - Passive:** When a PC marks HP from an attack by the Shock Troop, they lose a Hope.
-
-**Group Attack - Action: Spend a Fear** to choose a target and spotlight all Fallen Shock Troops within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 12 physical damage each. Combine this damage.
-}}
-
+For a player character, Onderon is a wound. The dead zone is physically present: you can walk to its edge and feel the Force vanish. Veterans of the Second Siege avoid it. Civilians cross it when they must and speak of headaches, nausea, and a sensation they describe as grief that isn't theirs.
 
 \column
 
-{{adversary,
-## Fallen Sorcerer
-### Tier 4 Support
-*A powerful mage bound by the bargains they made in life.*  
-**Motives & Tactics:** Acquire, dishearten, dominate, torment
+### Manaan
 
-{{descriptive
-**Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  
-**ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag
-___
-**Experience:** Ancient Knowledge +2
+**Control:** Independent (Selkath sovereignty). **Security:** High.
+
+The galaxy's most important neutral world. Manaan produces kolto, and the Selkath government in Ahto City sells it to every faction at prices they set.
+
+Beneath the surface, the Selkath maintain a relationship with their ocean that outsiders do not fully understand. The kolto deposits lie deep, near the Hrakert Rift, a deep-sea geological formation of immense significance to Selkath religion and science. The connection between kolto, the Rift, and the Force crisis is not a coincidence. The Selkath know more than they share.
+
+Internal Selkath politics are fracturing under the pressure. Isolationists want to reduce exports. Commercialists want to expand. Interventionists argue that Manaan's neutrality enables atrocities.
+
+### Korriban
+
+**Control:** Sith traditionalist garrison. **Security:** Low (dangerous).
+
+The tomb world of the Sith. The Force crisis has changed Korriban: ancient seals on tomb complexes have weakened, security systems dormant for centuries have activated, and the dark-side energy saturating the Valley of the Dark Lords has not diminished with the rest of the Force. If anything, it has concentrated — as though the Force's retreat has left the dark side pooled in the places where it was always strongest.
+
+A Rakatan Star Map, older than the Sith Empire, sits in the Valley. It has been drawing on dark-side energy for millennia. What it has become is unclear.
+
+### Dantooine
+
+**Control:** Contested (Concordat claim, Remnant presence, Mandalorian cultural footprint). **Security:** Low.
+
+A pastoral world on the Outer Rim, home to a Jedi Enclave that predates the Republic's colonial expansion. The Jedi Enclave remains operational but diminished. The surrounding settlements are split between Concordat-aligned administrators, Mandalorian-influenced farming communities, and Remnant sympathizers who use Dantooine's remoteness as cover for intelligence operations. Rakatan ruins near the Enclave contain a partially degraded Star Map.
+
+{{footnote Chapter 8: Worlds, Regions, and Frontiers}}
+{{pageNumber,auto}}
+
+\page
+{{Ch3,tab}}
+
+### Nar Shaddaa
+
+**Control:** Hutt Space (The Exchange, Hutt clans). **Security:** Low.
+
+The Smuggler's Moon. Nar Shaddaa is where the galaxy's margins meet: refugees, criminals, deserters, merchants, bounty hunters, spies, and anyone who needs a place where questions aren't asked. Everyone coexists through the Hutt principle of commerce: as long as credits flow, conflict is bad for business.
+
+For a player character, Nar Shaddaa is where you go when every other faction has a reason to arrest you.
+
+### The Outer Rim Frontier
+
+**Control:** Variable. **Security:** Null to Low.
+
+The frontier is where the campaign's starting scenarios take place. The frontier is where the Concordat Era's rules break down and the player characters' choices start to matter more than any government's policies.
+
+{{footnote Chapter 8: Worlds, Regions, and Frontiers}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch4,tab}}
+
+# Part V: Peoples
+## Chapter 9: Peoples and Species of the Concordat Era
+
+*Each entry covers what most people assume, what is actually true, how the Concordat Era has changed things, and why it matters for character creation.*
+
+### Humans
+
+**What people assume:** Humans are the default. The Republic was built by humans. Humans are everywhere, unremarkable, and culturally invisible.
+
+**What is true:** Humans are the galaxy's most politically powerful species, which is not the same as being the default. Mandalorian integration has complicated human identity in ways the old Republic never had to navigate. A human raised Mandalorian has more in common with a Twi'lek raised Mandalorian than with a human senator on Coruscant.
+
+{{note
+##### Human Character Hooks
+"I'm human" is not a character. "I'm a human freighter mechanic from Taris who grew up in the Undercity during the siege and learned to speak Mando'a before I learned to read Basic" is a character.
+
+A human character needs a specific origin, a specific region, a specific relationship to the war, and a specific set of opinions.
 }}
 
-#### Features
-**Conflagration - Action: Spend a Fear** to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take **2d10+6** direct magic damage.
+### Mandalorians
 
-**Nightmare Tableau - Action: Mark a Stress** to trap a target within Far range in a powerful illusion of their worst fears. While trapped, the target is Restrained and Vulnerable until they break free, ending both conditions, with a successful Instinct Roll.
+**What people assume:** Mandalorians are a warrior species. They wear armor. They fight. They conquer.
 
-**Slippery - Reaction:** When the Sorcerer takes damage from an attack, they can teleport up to Far range
+**What is true:** Mandalorians are a culture, not a species. Any individual of any species who swears to the Resol'nare — the six core tenets of Mandalorian identity — and is accepted by a clan is Mandalorian. Mandalorian demographics include humans, Twi'leks, Zabraks, Cathar (rare, and politically fraught), and dozens of other species adopted through the tradition of *gai bal manda*.
 
-**Shackles of Guilt - Reaction:** *Countdown (Loop 2d6)*. When the Sorcerer is in the spotlight for the fi rst time, activate the countdown. When it triggers, all targets within Far range become Vulnerable and must mark a Stress as they relive their greatest regrets. A target can break free from their regret with a successful Presence or Strength Roll. When a PC fails to break free, they lose a Hope.
+The Concordat split this culture down a fault line that was already present. Concordat Mandalorians maintain their traditions within the framework of Republic governance. Neo-Mandalorians maintain their traditions in exile: nomadic, resource-scarce, fiercely orthodox, and increasingly aware that orthodoxy alone doesn't feed children.
+
+{{note
+##### Mandalorian Character Hooks
+A Mandalorian character must choose which Mandalorian they are. Concordat or Coalition? Traditionalist or pragmatist? Born Mandalorian or adopted? Which clan? Do they see the Concordat as evolution or betrayal?
+
+These questions matter more than the armor.
 }}
 
-{{environment,
-## Ambushed
-### Tier 1 Event
-*An ambush is set to catch an unsuspecting party off -guard.*  
-**Impulses:** Overwhelm, scatter, surround
+\column
 
-{{descriptive
-**Difficulty:** Special (see "Relative Strenght")
+### Sith Purebloods
 
-**Potential Adversaries:** Any
+**What people assume:** The Sith are the enemy. Red-skinned, Force-sensitive, tied to the Empire that nearly destroyed the Republic. Dangerous by nature.
+
+**What is true:** The Sith are a people, not a philosophy. The species called Sith existed on Korriban for tens of thousands of years before the Dark Jedi Exiles arrived and conquered them. The word "Sith" was stolen from them by their conquerors.
+
+The old caste system organized Pureblood society into four groups: the **Kissai** (priests and scholars who practiced sorcery), the **Massassi** (warriors who channeled the Force through combat), the **Zuguruk** (engineers and builders), and the **Grotthu** (the enslaved lower caste). This system fractured when the Empire fell.
+
+The Keepers of Adas maintain pre-Exile cultural practices through oral tradition. They hold that the "true Sith" are the people, not the ideology, and that the Force traditions of the original Sith predated and were corrupted by the Dark Jedi Exiles' light-side/dark-side framework.
+
+{{note
+##### Sith Pureblood Character Hooks
+A Sith Pureblood character is one of the most complex options in the setting. Imperial loyalist or diaspora survivor? Kissai-descended scholar or Massassi-descended fighter? A Pureblood hiding their heritage in Concordat space? A Pureblood who's never seen Korriban and knows their culture only through their grandmother's stories?
 }}
 
-#### Features
-**Relative Strength - Passive:** The Diffi culty of this environment equals that of the adversary with the highest Difficulty.
+### Cathar
 
-*Who cues the ambush? What makes it clear they’re in charge?*
+**What people assume:** Victims. The species the Mandalorians tried to destroy.
 
-**Surprise! - Action:** The ambushers reveal themselves to the party, you gain 2 Fear, and the spotlight immediately shifts to one of the ambushing adversaries.
+**What is true:** The Cathar are a people defined by survival, not by victimhood. Every faction uses Cathar suffering to make its case. The Cathar themselves are tired of being someone else's argument. Some want justice. Some want revenge. Some want to be left alone. Some have joined the Mandalorians, the culture that destroyed their homeworld, because the Mandalorians respect strength and the refugee camps do not.
 
-*What do the ambushers want from the party? How do their tactics in the ambush reflect that?*
+{{note
+##### Cathar Character Hooks
+A Cathar character carries the Razing whether they want to or not. How they carry it defines them. Anger, determination, pragmatism, grief, or the refusal to be defined by what was done to their people.
 }}
 
-{{footnote Chapter Four: Adversaries and Environments}}
+{{footnote Chapter 9: Peoples and Species}}
+{{pageNumber,auto}}
+
+\page
+
+### Miraluka
+
+**What people assume:** Blind Force-seers. Mysterious. Spiritual.
+
+**What is true:** The Miraluka are a near-human species that perceives the world through the Force. They do not have functional eyes. Their connection to the Force is not a talent or a gift — it is their primary sense. A Miraluka who loses access to the Force loses the ability to see.
+
+The Force crisis is an existential threat to the Miraluka as a species. As dead zones proliferate, Miraluka individuals experience episodes of blindness. The homeworld of Alpheridies has not yet been affected, but the degradation is measurable and trending.
+
+{{footnote Chapter 9: Peoples and Species}}
+{{pageNumber,auto}}
+
+
+{{Ch4,tab}}
+
+### Selkath
+
+**The reputation:** The kolto people. Aquatic. Neutral. Wealthy.
+
+**The reality:** The Selkath are an amphibious species native to Manaan, and their relationship with kolto is more complex than an economic arrangement. Selkath religious traditions describe kolto as a gift from the ocean, connected to the life of the planet itself. The Order of Shasa maintains a spiritual relationship with the deep-sea ecology that produces kolto, including sites of Rakatan origin that predate Republic contact by millennia.
+
+Selkath neutrality is a political strategy, not a cultural disposition. Beneath the diplomatic surface, Selkath society is fracturing over questions of isolation, intervention, and the moral implications of selling healing substances to governments that use them to wage war.
+
+{{note
+##### Selkath Character Hooks
+A kolto merchant who knows exactly where her product goes. A member of the Order of Shasa who's discovered something about the deep-ocean Rakatan ruins that the Order's elders have been hiding. A Selkath diplomat who's concluded that neutrality is complicity.
+}}
+
+### Other Peoples
+
+The galaxy contains thousands of species. A few deserve brief mention for their relevance to the campaign:
+
+**Twi'leks** face ongoing exploitation across the galaxy. Twi'lek trafficking remains a persistent crime that the Concordat has reduced in Core territories and ignored in the Outer Rim.
+
+**Echani** martial culture treats combat as communication. Echani warriors serve in multiple factions, and the Echani combat tradition is the foundation of Atris's Handmaiden program on Telos.
+
+**Zabraks** and **Iridonians** maintain clan-based frontier cultures that have adapted through mercenary service, independent trade, and a pragmatic refusal to commit to any single faction.
+
+**Wookiees** on Kashyyyk face Czerka exploitation that the Concordat has done little to address. The dead zone left by the destruction of the Kashyyyk Star Map has complicated Wookiee relations with all Force-using factions.
+
+**Duros** spacefaring tradition gives them particular relevance in an era of degrading hyperspace routes. Duros navigators are in high demand across every faction.
+
+{{footnote Chapter 9: Peoples and Species}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch5,tab}}
 
-<!--
-For adjusting the vertical spacing of a campaign frame, add or remove ":". The circles in the complexity rating are the Unicode Character "⏺" (U+23FA).
+# Part VI: Belief and Meaning
+## Chapter 10: Belief, Religion, and Philosophy
 
-Also rembember to use "footnote,white" for white text in the footnote!
--->
+### The Jedi Way (and Its Fractures)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Jedi philosophy, in its pre-war form, held that the Force was a living energy connecting all things, that Jedi served as its guardians, and that peace, knowledge, serenity, and harmony were the guiding principles of that service.
 
-{{CampaignFrame
-{{wide
-# A Dagger to the Heart
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies faucibus orci. Nulla tortor arcu, condimentum ut tellus blandit, congue vulputate nisl. Nunc viverra sem bibendum enim tincidunt efficitur. Duis eget volutpat nulla, a imperdiet magna. 
+The Force crisis has broken this framework open. If the Force is dying, what does it mean to be its guardian? If the Force is unreliable, what does serenity accomplish? If the Jedi who went to war did more damage to the Force than the Jedi who stayed in the Temple, was the Council right all along? And if the Council was right, why does being right feel indistinguishable from doing nothing?
 
-Designed by Name1, Name2
+At least three Jedi theological positions have emerged from the wreckage:
 
-##### Complexity Rating: ⏺ ⏺ ⏺
-}}
+**Orthodox restraint** (the Council's position): the Force is damaged and must be allowed to heal. Patience and study are the Jedi's duty.
 
-### The Pitch
-*Read this section to your players to introduce them to the campaign.*
+**Active service** (the Remnant Jedi's position): the Force is damaged because people suffer. Inaction is itself a form of harm. The Jedi's duty is to protect, even at cost.
 
-Ut euismod, neque eu auctor porta, nibh nunc ultricies neque, in bibendum est velit non mi. Ut molestie nisl eget venenatis consequat. Pellentesque iaculis, nulla et cursus tempor, sapien nisi interdum ante, ac consectetur purus mi non neque. Praesent quis dui eget tellus aliquam commodo. Maecenas non vestibulum ante, id laoreet nulla. Nunc dapibus elit quis consectetur feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet ex vitae sapien vestibulum tristique nec quis nisl. Curabitur tincidunt finibus sapien at feugiat. Ut at urna hendrerit lectus sodales pharetra. Aenean aliquet sagittis metus vel porttitor. Vivamus ullamcorper egestas placerat. Vivamus ac dignissim nisi. Vivamus sagittis mattis ex, quis placerat nunc laoreet eget. Morbi at sollicitudin leo. Donec vitae dapibus massa, id aliquam sem.
+**Pragmatic instrumentalism** (common among Concordat Advisors and Sentinels): the Force is a tool that works intermittently. Theology is irrelevant. Use what works, carry a backup, and get the job done.
 
-\column
+### The Sith Tradition
 
-### Tone & Feel
-- *Epic, Heroic, High-Magic, Supernatural*
+Sith philosophy holds that passion is the path to the Force's full power. The Sith Code — *Peace is a lie, there is only passion* — is not a celebration of cruelty. It is a statement about the nature of power: that emotional intensity, ambition, and the willingness to struggle are more honest foundations for strength than the Jedi's cultivated detachment.
 
-### Themes
-- *Adventuring Guild, Good vs Bad, Zero to Hero*
-
-### Touchstones
-- *The Legend of Vox Machina*
-
-}}
-
-{{imageMaskEdge8,--offset:5%
-
-<!-- Dont change the mask edge 8, which is used as gradient for Campaign Frames. Use --offset to shift the mask away from page center (can use cm instead of %) -->
-
-![Fantasy Castle](https://i.imgur.com/23HRmqv.jpeg){position:absolute,right:0%,top:-5%,height:100%}
-}}
-
-{{artist,aLight,top:80px,right:30px
-##### Fantasy Castle
-[Bob Greyvenstein](https://www.vangoghmuseum.nl/en)
-}}
-
-{{footnote,white Chapter 5: A Dagger to the Heart}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch5,tab,CFrame}}
-
-{{FrameHeader,wide
-### A Dagger to the Heart
-## Overview
-*If your group decides to play this campaign, give your players the following information before character creation.*
-}}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer viverra pulvinar dignissim. Proin tristique imperdiet libero sed ultricies. Ut imperdiet odio sit amet elementum volutpat. Pellentesque congue egestas lacus, sed placerat justo aliquam ut. Sed lorem odio, facilisis vel odio sit amet, blandit sodales lectus. Vestibulum sapien nulla, interdum a viverra vel, blandit sed diam. Fusce tristique ante orci, eu feugiat dui lobortis eget. Pellentesque metus sem, rutrum nec consectetur eu, tristique vel sapien.
-
-Pellentesque maximus iaculis ex, et efficitur enim euismod vel. Integer dignissim est ac nisi tempus, sit amet dignissim elit lobortis. Praesent id dui rutrum velit pretium eleifend a venenatis magna. Praesent feugiat diam at sapien elementum, at fermentum nunc condimentum. Donec viverra venenatis placerat. Integer eget euismod erat, in efficitur felis. Vivamus hendrerit eget magna at porttitor. Praesent commodo arcu ac aliquam luctus.
-
-Phasellus mattis imperdiet neque vel bibendum. Phasellus vestibulum porta tellus. Aenean sollicitudin ullamcorper sapien ut ornare. Aliquam ac volutpat risus. Donec eget lacinia est, vel congue tortor. Sed sed enim non nisi dapibus imperdiet. Vivamus commodo in diam a facilisis. Sed ut velit ut erat sodales semper vitae vitae augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus laoreet odio eu ligula sodales, at facilisis odio elementum. Donec viverra laoreet turpis vitae faucibus. Ut vitae ipsum at arcu varius sollicitudin. Proin eros orci, accumsan nec eros eget, consectetur tincidunt nisi. Maecenas diam mauris, consequat ac neque id, porta tristique orci. Curabitur ut nibh nunc.
-
-Cras et lacus gravida, viverra dolor nec, mollis mi. Morbi pulvinar enim auctor ligula tincidunt pretium. Fusce lectus libero, lacinia mollis sem sit amet, egestas placerat est. Quisque congue quis nisl imperdiet tristique. In aliquam pharetra nunc, non luctus magna aliquam eget. Sed dapibus turpis et neque pellentesque accumsan. Pellentesque sodales volutpat augue, et finibus lectus scelerisque in. Quisque sit amet est laoreet, efficitur elit at, tincidunt mauris. Integer convallis id velit ultricies bibendum.
-
-Maecenas tincidunt est sed nisl scelerisque, et facilisis urna viverra. Vivamus pretium commodo metus sit amet dictum. Maecenas vestibulum risus quis massa commodo laoreet. Donec malesuada tincidunt tellus laoreet cursus. Donec imperdiet nunc enim, in aliquet mauris semper et. Pellentesque ac molestie massa, et posuere lorem. Pellentesque aliquam justo id mollis consequat.
-
-Curabitur leo diam, cursus quis leo pharetra, varius facilisis dui. Pellentesque vitae consequat dui. Sed eget luctus odio. Mauris eget quam sem. In hac habitasse platea dictumst. Aliquam ac condimentum enim. Donec rutrum risus eu vulputate pellentesque. Nulla maximus pulvinar fringilla. Nullam diam orci, auctor ac velit nec, sollicitudin molestie sem.
-
-Aenean tincidunt mauris arcu, ac dignissim mi eleifend in. Cras vel lectus pulvinar, eleifend ligula ac, semper nunc. Curabitur in sodales arcu. Pellentesque et metus maximus, elementum lectus et, bibendum risus. Vivamus facilisis lacinia ligula, eget fringilla dui ultricies varius. Proin eros ex, condimentum non aliquam quis, fringilla ac lacus. Proin sit amet ullamcorper nisi. Maecenas et ornare turpis.
-
-In scelerisque aliquet nunc, faucibus efficitur libero commodo a. Vivamus efficitur elit in eros consectetur, non placerat ex pretium. Quisque pulvinar bibendum tellus, et vulputate tellus ornare a. Curabitur nibh ex, aliquet eu consequat et, rutrum ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue, metus id ullamcorper commodo, elit ex egestas leo, id imperdiet risus purus mollis dui. Donec facilisis fringilla elit, et vestibulum nisi molestie nec. Morbi aliquet augue a lacus luctus finibus. Nunc mollis dolor sapien, sit amet consectetur dolor viverra at. Duis hendrerit ante in magna consequat accumsan.
-
-In et cursus tortor, et efficitur odio. Nam ultrices rutrum nunc vitae suscipit. Nulla accumsan dictum pretium. Donec ultrices tellus nec nisi fringilla, quis dignissim magna tempus. Duis luctus ac lorem et consequat. Curabitur fermentum risus quis velit porta, vel condimentum arcu semper. Duis a consectetur lacus. Integer ante elit, tincidunt et orci sit amet, bibendum porttitor magna. Donec vel neque tortor. Quisque volutpat nisl sed scelerisque rhoncus. Integer nec dui mollis, bibendum arcu venenatis, consequat felis. Vivamus maximus gravida tempor. Curabitur ante risus, vestibulum vulputate varius sit amet, ultrices a mi. Sed in felis urna. Aenean dictum arcu fermentum, gravida dolor ac, bibendum mi. Proin gravida neque ligula, quis dictum dolor pulvinar non.
-
-Sed non sagittis erat, nec ultrices massa. Fusce ornare volutpat mi, quis tristique velit tempor et. Donec id dictum nunc, et ultrices mauris. Aliquam erat volutpat. Nullam est odio, viverra ut pulvinar vel, porta et nisi. Donec dignissim in ipsum eget tempus. Curabitur sed nibh feugiat, facilisis justo eget, posuere ipsum. Ut efficitur lorem lacus. Mauris eget purus sed justo sodales tempor. Etiam eu lorem commodo, imperdiet enim non, auctor tellus. Pellentesque velit lacus, vulputate vitae placerat at, porta et est.
-
-{{footnote Chapter 5: A Dagger to the Heart}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch5,tab,CFrame}}
-
-{{FrameHeader,wide
-### A Dagger to the Heart
-## Communities
-*All communities are available, but some have unique aspects within a Dagger to the Heart campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
-}}
-
-#### All Communities
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer viverra pulvinar dignissim. Proin tristique imperdiet libero sed ultricies. Ut imperdiet odio sit amet elementum volutpat. Pellentesque congue egestas lacus, sed placerat justo aliquam ut. Sed lorem odio, facilisis vel odio sit amet, blandit sodales lectus. Vestibulum sapien nulla, interdum a viverra vel, blandit sed diam. Fusce tristique ante orci, eu feugiat dui lobortis eget. Pellentesque metus sem, rutrum nec consectetur eu, tristique vel sapien.
-
-#### Underborne
-Pellentesque maximus iaculis ex, et efficitur enim euismod vel. Integer dignissim est ac nisi tempus, sit amet dignissim elit lobortis. Praesent id dui rutrum velit pretium eleifend a venenatis magna. Praesent feugiat diam at sapien elementum, at fermentum nunc condimentum. Donec viverra venenatis placerat. Integer eget euismod erat, in efficitur felis. Vivamus hendrerit eget magna at porttitor. Praesent commodo arcu ac aliquam luctus.
+In the Concordat Era, Sith philosophy exists in fragments. The pre-Exile traditions maintained by the Keepers of Adas offer a different reading: the Force as an elemental relationship between the living and the natural world, shaped by passion but not owned by it, older and stranger than either the Jedi or the post-Exile Sith understood.
 
 \column
 
-#### Ridgeborne
-Phasellus mattis imperdiet neque vel bibendum. Phasellus vestibulum porta tellus. Aenean sollicitudin ullamcorper sapien ut ornare. Aliquam ac volutpat risus. Donec eget lacinia est, vel congue tortor. Sed sed enim non nisi dapibus imperdiet. Vivamus commodo in diam a facilisis. Sed ut velit ut erat sodales semper vitae vitae augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus laoreet odio eu ligula sodales, at facilisis odio elementum. Donec viverra laoreet turpis vitae faucibus. Ut vitae ipsum at arcu varius sollicitudin. Proin eros orci, accumsan nec eros eget, consectetur tincidunt nisi. Maecenas diam mauris, consequat ac neque id, porta tristique orci. Curabitur ut nibh nunc.
+### The Doctrine of Necessary Strength
 
-#### Loreborne
-Cras et lacus gravida, viverra dolor nec, mollis mi. Morbi pulvinar enim auctor ligula tincidunt pretium. Fusce lectus libero, lacinia mollis sem sit amet, egestas placerat est. Quisque congue quis nisl imperdiet tristique. In aliquam pharetra nunc, non luctus magna aliquam eget. Sed dapibus turpis et neque pellentesque accumsan. Pellentesque sodales volutpat augue, et finibus lectus scelerisque in. Quisque sit amet est laoreet, efficitur elit at, tincidunt mauris. Integer convallis id velit ultricies bibendum.
+The Mandalorian philosophical tradition has become the Concordat Era's most influential secular creed. The Doctrine holds that strength must be self-generated, that reliance on external gifts — including the Force — produces fragility, and that the galaxy's crisis is proof that civilizations dependent on supernatural power will collapse when that power fails.
 
-___ 
+The Doctrine has adherents outside Mandalorian culture. Former Jedi who've lost their Force connection. Secular intellectuals on Core Worlds. Frontier communities that have survived without institutional support. Anti-Force political movements that argue Force users have been a destabilizing influence throughout galactic history.
 
-<!-- The three underscores generates a wide dotted line to separate two parts -->
+The Doctrine is intellectually coherent and emotionally satisfying to people who feel betrayed by institutions that relied on the Force. It is also, in the hands of Concordat Militarists, a justification for Force-user surveillance and restriction.
 
-## Ancestries
-*All ancestries are available, but some have unique aspects within a A Dagger to the Heart campaign. As needed, provide the following information to your players.*
+### Local and Syncretic Traditions
 
-#### Clanks
-Curabitur leo diam, cursus quis leo pharetra, varius facilisis dui. Pellentesque vitae consequat dui. Sed eget luctus odio. Mauris eget quam sem. In hac habitasse platea dictumst. Aliquam ac condimentum enim. Donec rutrum risus eu vulputate pellentesque. Nulla maximus pulvinar fringilla. Nullam diam orci, auctor ac velit nec, sollicitudin molestie sem.
+The galaxy contains thousands of Force traditions beyond the Jedi and the Sith.
 
-#### Humans
-Curabitur leo diam, cursus quis leo pharetra, varius facilisis dui. Pellentesque vitae consequat dui. Sed eget luctus odio. Mauris eget quam sem. In hac habitasse platea dictumst. Aliquam ac condimentum enim. Donec rutrum risus eu vulputate pellentesque. Nulla maximus pulvinar fringilla. Nullam diam orci, auctor ac velit nec, sollicitudin molestie sem.
+The **Order of Shasa** on Manaan practices a Force tradition rooted in the Selkath relationship with their ocean. Their understanding of the Force emphasizes connection, balance, and the deep ecology that produces kolto. They may understand something about the Force crisis that larger traditions have missed.
+
+The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused on perceiving the future. The Force crisis has made their visions unreliable, and the Baran Do are debating whether to retreat from public life or engage with the galaxy's crisis directly.
+
+**Anti-Force secularism** has grown in the Concordat Era. Political movements on Core Worlds and Mid Rim systems argue that Force users — whether Jedi, Sith, or otherwise — have caused the galaxy's problems and that governance should be entirely secular. These movements range from principled humanism to crude speciesism directed at Force-sensitive peoples like the Miraluka and the Sith Purebloods.
+
+{{footnote Chapter 10: Belief, Religion, and Philosophy}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch5,tab}}
+
+# Part VII: The Material Galaxy
+## Chapter 11: War, Trade, Technology, and Survival
+
+### How War Is Fought
+
+Every military in the galaxy learned from the Mandalorian Wars and the Force's declining reliability. They learned different lessons.
+
+**Concordat military doctrine** combines Republic naval tradition with Mandalorian ground tactics. Joint training has produced a competent hybrid force, though command-culture friction remains at every level above the battalion.
+
+**Remnant military doctrine** is guerrilla warfare adapted for space. Kaeranth's three battle groups avoid direct engagement with Concordat fleets. They raid supply lines, conduct intelligence operations, and strike targets where the Concordat's garrison is thin. The Remnant Jedi serve as special operations units when their abilities cooperate and as conventional officers when they don't.
+
+**Neo-Mandalorian doctrine** is raiding. Fast ships, hard targets, and the discipline to disengage before the enemy's reinforcements arrive. The Coalition's warriors are individually superb and collectively under-resourced. They fight with what they have and scavenge what they need.
+
+Force users in all three forces operate as unreliable force multipliers. Smart commanders plan operations that succeed without Force support and benefit from it when it's available. Foolish commanders rely on Force support and lose soldiers when it fails.
+
+### Supply Chains
+
+Five resources keep the galaxy running:
+
+**Kolto** for medicine. Produced on Manaan, sold to all factions, never in sufficient supply.
+
+**Cortosis** for military-grade hull plating and personal armor. Cortosis has the additional property of disrupting lightsaber blades on contact, which makes it strategically significant in any conflict involving Force users.
+
+**Tibanna gas** for blaster weaponry. Every soldier who's watched a Jedi's precognition fail mid-battle wants a better blaster.
+
+**Hyperfuel** for starship drives. Dead-zone disruption and piracy have fractured the supply chains.
+
+**Food.** The most overlooked strategic resource. The Remnant's twenty-three agricultural worlds are its lifeline. The Concordat's Outer Rim territories produce surplus grain that feeds the Core. The Neo-Mandalorians raid food convoys because they have no agricultural base.
 
 \column
 
-## Classes
-*All classes are available, but some have unique aspects within A Dagger to the Heart campaign. As needed, provide the following information to your players.*
+### Technology
 
-#### All Classes
-Cras et lacus gravida, viverra dolor nec, mollis mi. Morbi pulvinar enim auctor ligula tincidunt pretium. Fusce lectus libero, lacinia mollis sem sit amet, egestas placerat est. Quisque congue quis nisl imperdiet tristique. In aliquam pharetra nunc, non luctus magna aliquam eget. Sed dapibus turpis et neque pellentesque accumsan. Pellentesque sodales volutpat augue, et finibus lectus scelerisque in. Quisque sit amet est laoreet, efficitur elit at, tincidunt mauris. Integer convallis id velit ultricies bibendum.
+Technology has not regressed. But the galaxy's dependence on specific technologies has shifted as the Force becomes unreliable.
 
-{{footnote Chapter 5: A Dagger to the Heart}}
+Droids have become more important as organic labor is scarce and Force-dependent functions fail. Astromech droids navigate hyperspace routes that Force-sensitive cartographers can no longer maintain. Medical droids supplement kolto treatment in clinics where Force healing is unavailable. Protocol droids handle diplomatic functions that Jedi mediators once performed.
+
+Weapons technology reflects the Force's decline. Cortosis-weave armor, once a specialist material for fighting Force users, has become standard military equipment. Sonic weapons, which bypass Force barriers, have found buyers in every military that fights Jedi or expects to. Personal shield generators are standard issue for Concordat special operations troops.
+
+{{note
+##### The Droid Market
+A good astromech navigator is worth its weight in cortosis. The droid market has responded accordingly.
+
+Characters who work in transportation, intelligence, or medicine will find that droids are no longer optional equipment. They are the difference between a reliable operation and a catastrophic failure.
+}}
+
+The holonet still connects Core and Mid Rim territories. On the Outer Rim, communications depend on relay stations that nobody has funded to maintain since the wars. A ship that drops out of hyperspace in the wrong sector might encounter Neo-Mandalorian raiders, Sith remnant warlords, Exchange smugglers, Czerka security corvettes protecting a mining claim, or nothing at all for parsecs in every direction.
+
+{{footnote Chapter 11: War, Trade, Technology, and Survival}}
 {{pageNumber,auto}}
 
 \page
 
-{{Ch5,tab,CFrame}}
+{{Ch5,tab}}
 
-{{FrameHeader,wide
-### A Dagger to the Heart
+# Part VIII: Your Character
+## Chapter 12: Making a Character for the Concordat Era
+
+### The Questions That Matter
+
+Character creation in the Concordat Era starts with questions, not statistics.
+
+**Where are you from?** The answer determines your character's baseline assumptions about the galaxy. A Core World citizen grew up with functioning institutions and considers the Concordat normal. An Outer Rim frontier resident grew up with none of the above and considers self-reliance normal. A Mandalorian from Dxun grew up in a warrior culture that trained her to fight since she could walk. A Sith Pureblood from Nar Shaddaa grew up hiding her heritage in a galaxy that considers her species a threat.
+
+**What did you do during the wars?** If your character is old enough to have served, which war? The Great Hyperspace War? The Mandalorian Wars? The Ashen Campaigns? Which side? What did they see? What did they do? If your character is too young to have fought, what happened to the people who raised them?
+
+**Who do you work for?** The Concordat? The Remnant? The Coalition? Nobody? Is your employment ideological or economic? Would you quit if you discovered your employer had done something unforgivable, or have you already made that discovery and stayed?
+
+**What do you believe about the Force?** Is it dying? Should it be saved? Is its death a catastrophe or a liberation? If you're Force-sensitive, what does the unreliability of your abilities mean to you? If you're not Force-sensitive, how has the Force crisis affected your life anyway?
+
+**What do you owe?** Debts, obligations, promises, oaths, grudges. Who saved your life? Who destroyed something you loved? Who is waiting for you to come home? The galaxy's political factions are abstractions. Debts are personal.
+
+**What are you afraid of?** Not what threatens your character's life. What threatens their sense of who they are? A Jedi who fears losing the Force. A Mandalorian who fears losing her honor. A Concordat officer who fears discovering that the government he serves is doing something indefensible.
+
+### Types of Characters That Fit
+
+**The Veteran.** Fought in the wars. Carries the experience in their body and their choices. What are they now?
+
+**The Operative.** Works for a faction's intelligence apparatus. The Concordat Era runs on information.
+
+**The Exile.** Left something behind. What drove them out, and what are they looking for?
+
+**The Believer.** Holds convictions strongly enough to act on them. The Concordat Era tests every belief system. What does yours look like after the test?
+
+**The Survivor.** Did not choose a side. The galaxy's political drama is someone else's problem, until it shows up in their cargo hold.
+
+**The Inheritor.** Too young to have fought. Old enough to live with the consequences. The war made the world they inherited. What will they do with it?
+
+
+### Why the Party Stays Together
+
+The Concordat Era's political fractures mean party members may come from opposing factions. A Concordat officer, a Remnant sympathizer, a Neo-Mandalorian warrior, and a Jedi Sentinel have no institutional reason to cooperate.
+
+Parties stay together for the same reason people in crisis form crews: necessity, shared survival, and the bonds that form when you depend on each other under pressure. The Freighter Incident is designed to establish these bonds. By the time the party escapes their first crisis, they've saved each other's lives, shared information that makes them liabilities to their respective factions, and discovered that the person across the table is more complicated than the uniform suggested.
+
+The campaign will test party cohesion. Let it. Characters who disagree about politics but trust each other in combat are more interesting than characters who agree about everything. Argue at the cantina table. Fight back-to-back when the shooting starts.
+
+### A Note on Fate
+
+This campaign uses **Fate Core** or **Fate Condensed** TTRPG Systems. Your character's high concept, trouble, and other aspects should reflect the setting's tensions.
+
+{{note
+##### Strong Aspects for This Campaign
+A high concept like "Disillusioned Concordat Intelligence Officer" carries more weight than "Skilled Spy."
+
+A trouble like "My Unit Committed War Crimes at Onderon" generates more play than "Has Enemies."
+
+Your aspects should make your character's relationship to the setting's central conflicts unavoidable.
 }}
 
-## Player Principles
-*If your group decides to play this campaign, give your players the following information before character creation.*
+Your skills and stunts should reflect what your character can actually do, not what the Force might let them do. In a galaxy where Force abilities are unreliable, a character whose competence rests on conventional skills — shooting, piloting, negotiation, medicine, engineering — is never helpless. A character who relies on the Force is sometimes extraordinary and sometimes nothing. Build accordingly.
 
-#### Principle One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer viverra pulvinar dignissim. Proin tristique imperdiet libero sed ultricies. Ut imperdiet odio sit amet elementum volutpat. Pellentesque congue egestas lacus, sed placerat justo aliquam ut. Sed lorem odio, facilisis vel odio sit amet, blandit sodales lectus. Vestibulum sapien nulla, interdum a viverra vel, blandit sed diam. Fusce tristique ante orci, eu feugiat dui lobortis eget. Pellentesque metus sem, rutrum nec consectetur eu, tristique vel sapien.
+{{footnote Chapter 12: Making a Character}}
+{{pageNumber,auto}}
 
-#### Principle Two
-Pellentesque maximus iaculis ex, et efficitur enim euismod vel. Integer dignissim est ac nisi tempus, sit amet dignissim elit lobortis. Praesent id dui rutrum velit pretium eleifend a venenatis magna. Praesent feugiat diam at sapien elementum, at fermentum nunc condimentum. Donec viverra venenatis placerat. Integer eget euismod erat, in efficitur felis. Vivamus hendrerit eget magna at porttitor. Praesent commodo arcu ac aliquam luctus.
+\page
 
-#### Principle Three
-Phasellus mattis imperdiet neque vel bibendum. Phasellus vestibulum porta tellus. Aenean sollicitudin ullamcorper sapien ut ornare. Aliquam ac volutpat risus. Donec eget lacinia est, vel congue tortor. Sed sed enim non nisi dapibus imperdiet. Vivamus commodo in diam a facilisis. Sed ut velit ut erat sodales semper vitae vitae augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus laoreet odio eu ligula sodales, at facilisis odio elementum.
+{{Ch5,tab}}
+
+# Part IX: Where We Begin
+## Chapter 13: Starting Scenarios
+
+### 13.1 The Freighter Incident
+
+**Premise:** You are aboard a freighter traveling a major hyperlane. The ship drops out of hyperspace six days early, stranded at the edge of a dead zone. The Force doesn't work here. Hyperspace navigation fails. Three other ships are stuck: a Concordat military transport, a Remnant courier vessel, and a Neo-Mandalorian raiding ship.
+
+Nobody can leave. The dead zone is expanding. In three days, it will engulf all four ships. You need to find a way out, which means working with people who are nominally your enemies.
+
+**Tone:** Tense, political, collaborative under pressure. A bottle episode where survival requires cooperation and cooperation requires trust that nobody has earned.
+
+**What kind of characters fit:** Crew, passengers, hired security, or stowaways. Mixed-faction parties are ideal: the scenario forces characters from different backgrounds to negotiate, argue, and depend on each other.
+
+**Themes:** The Force crisis as a practical threat. Faction loyalty tested by shared survival. Trust earned under pressure. The question of what you do when the rules that define your life stop working.
+
+{{note
+##### What You Know Going In
+Dead zones are real and dangerous. Hyperspace navigation fails near them. Force-sensitive characters will feel the dead zone's effects immediately. The people on the other ships are not your friends, but they're stuck in the same problem.
+
+Everyone on all four ships knows that none of them can leave without solving the same problem together.
+}}
 
 \column
 
-## GM Principles
-*Keep the following guidance in mind while you GM this campaign.*
+### 13.2 The Windfall Protocol
 
-#### GM Principle One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer viverra pulvinar dignissim. Proin tristique imperdiet libero sed ultricies. Ut imperdiet odio sit amet elementum volutpat. Pellentesque congue egestas lacus, sed placerat justo aliquam ut. Sed lorem odio, facilisis vel odio sit amet, blandit sodales lectus. Vestibulum sapien nulla, interdum a viverra vel, blandit sed diam. Fusce tristique ante orci, eu feugiat dui lobortis eget. Pellentesque metus sem, rutrum nec consectetur eu, tristique vel sapien.
+**Premise:** You are Sith-aligned operatives. You wake in kolto immersion tanks inside a blacked-out refining station on the seafloor of an ocean moon. The station is in lockdown. Emergency lighting only. The kolto in your tanks is wrong: cloudy, faintly luminescent, and it tastes like copper and ozone.
 
-#### GM Principle Two
-Pellentesque maximus iaculis ex, et efficitur enim euismod vel. Integer dignissim est ac nisi tempus, sit amet dignissim elit lobortis. Praesent id dui rutrum velit pretium eleifend a venenatis magna. Praesent feugiat diam at sapien elementum, at fermentum nunc condimentum. Donec viverra venenatis placerat. Integer eget euismod erat, in efficitur felis. Vivamus hendrerit eget magna at porttitor. Praesent commodo arcu ac aliquam luctus.
+None of you know each other. None of you remember arriving. Each of you was sent here by a different Sith authority, and your missions contradict. The last station log is three days old. One survivor remains: a dying Selkath foreman named Vossk. Six canisters of refined kolto sit in the docking bay, loaded onto a shuttle that seats one fewer than your party. A Republic patrol answered an automated distress beacon. It arrives in two hours.
 
-#### GM Principle Three
-Phasellus mattis imperdiet neque vel bibendum. Phasellus vestibulum porta tellus. Aenean sollicitudin ullamcorper sapien ut ornare. Aliquam ac volutpat risus. Donec eget lacinia est, vel congue tortor. Sed sed enim non nisi dapibus imperdiet. Vivamus commodo in diam a facilisis. Sed ut velit ut erat sodales semper vitae vitae augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus laoreet odio eu ligula sodales, at facilisis odio elementum.
+**Tone:** Claustrophobic, paranoid, and morally complex. A pressure cooker where secrets collide.
 
-{{footnote Chapter 5: A Dagger to the Heart}}
-{{pageNumber,auto}}
+**What kind of characters fit:** Sith-aligned characters with specific, secret agendas. This scenario works as a one-shot with pre-generated character hooks or as an alternate campaign entry for a party of Sith-faction characters.
 
-\page
+**Themes:** Dark-side characters forced into unwanted empathy. Competing loyalties within a single faction. The cost of secrecy. The question of whether people who've been trained to use each other can choose not to.
 
-{{Ch5,tab,CFrame}}
+{{note
+##### What You Know Going In
+You work for Sith interests. You were sent to this station for a reason. The others were sent for different reasons. The kolto is valuable. The station is compromised. Escape is limited.
 
-{{FrameHeader,wide
-### A Dagger to the Heart
-## Distinctions
-*Use this information to prepare your campaign. You can also share it with your players as needed.*
+Trust no one, and remember that the person you suspect the most may be the one you need the most.
 }}
 
-#### When the Dagger Strikes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra eros non sapien varius laoreet in vel tortor. Curabitur cursus eu urna sed congue. Vivamus suscipit lacinia neque, eget tristique orci facilisis fringilla. Ut egestas, diam eget gravida hendrerit, urna lectus aliquet nulla, quis blandit velit nisl nec augue. Aliquam erat volutpat. Mauris magna sem, condimentum et neque eu, facilisis porta nibh. In bibendum ante quis congue interdum. Aenean nec accumsan turpis. Curabitur leo odio, ornare eget hendrerit nec, accumsan nec enim. Sed ultricies justo sed quam aliquam, non sagittis neque venenatis. Quisque nunc risus, egestas quis ante quis, molestie pulvinar eros. Cras id tempus sem. Vivamus eu fermentum felis. Etiam posuere nisi eget odio fringilla tincidunt.
-
-- **Pellentesque maximus** iaculis ex, et efficitur enim euismod vel. Integer dignissim est ac nisi tempus, sit amet dignissim elit lobortis. Praesent id dui rutrum velit pretium eleifend a venenatis magna. 
-- **Praesent feugiat** diam at sapien elementum, at fermentum nunc condimentum. Donec viverra venenatis placerat. Integer eget euismod erat, in efficitur felis. Vivamus hendrerit eget magna at porttitor. Praesent commodo arcu ac aliquam luctus.
-- **Phasellus mattis** imperdiet neque vel bibendum. Phasellus vestibulum porta tellus. Aenean sollicitudin ullamcorper sapien ut ornare. Aliquam ac volutpat risus. Donec eget lacinia est, vel congue tortor. Sed sed enim non nisi dapibus imperdiet. Vivamus commodo in diam a facilisis. Sed ut velit ut erat sodales semper vitae vitae augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus laoreet odio eu ligula sodales, at facilisis odio elementum.
-
-#### Daggers and Hearts
-Maecenas egestas vel eros elementum pulvinar. Praesent felis risus, luctus nec viverra in, sodales in neque. Phasellus posuere dui quis laoreet tempor. Nulla facilisi. Quisque ultrices eros velit. Suspendisse consequat eros ut orci ornare fermentum. Integer aliquet at ligula id aliquam. Suspendisse ornare mollis condimentum.
-
-Cras nec dolor non lacus finibus rutrum. Curabitur at aliquet nunc, vel convallis neque. Pellentesque ornare augue in neque lacinia, ut eleifend leo elementum. Morbi vehicula diam vitae nunc vulputate, nec ultricies arcu venenatis. Morbi egestas eleifend pulvinar. Donec et dui et velit semper dignissim. Quisque at consectetur elit.
-
-Pellentesque lobortis pulvinar elementum. Quisque tincidunt, nisl commodo interdum dictum, nibh turpis iaculis magna, ut efficitur mi metus at erat. Nam mauris tortor, consequat ac purus eget, facilisis tempus ipsum. Quisque arcu mi, scelerisque nec pharetra eu, faucibus id lorem. Curabitur sapien leo, facilisis non nisl nec, ultrices bibendum neque. Proin fringilla ullamcorper erat vitae laoreet. Nunc id sem mattis felis porta molestie et nec orci. Vivamus lobortis sed neque quis pretium. Maecenas maximus rhoncus arcu. Maecenas suscipit metus et augue viverra dapibus eget ac elit. Donec aliquet odio at urna dictum, ut hendrerit enim posuere. Nunc placerat hendrerit diam in pulvinar. Sed consectetur sapien elit, vitae faucibus augue tincidunt non. Suspendisse molestie rhoncus neque eget lobortis. Sed semper ac odio in iaculis.
-
-| Attack | Easy     | Bonus |
-|:-------|:---------|:------|
-| Defend | Medium   | +2    |
-| Cover  | Easy     | +2    |
-| Run    | Easy     | +2    |
-| Aid    | Medium   | +2    |
-| Hide   | Hard     | +3    |
-
-#### Getting a Dagger
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel imperdiet dolor, non ultrices felis. Donec viverra nisi et magna varius maximus. Morbi hendrerit sem quis malesuada volutpat. Integer consequat, nisi blandit pharetra egestas, lectus nibh feugiat eros, quis vestibulum ipsum libero quis erat. Fusce ligula odio, consectetur vitae tempus vitae, porta id sem. Sed id nibh quis sem vulputate consequat. Nunc convallis quam viverra, luctus purus a, egestas magna. Vivamus id purus bibendum, semper ante et, consectetur mi. Integer ac cursus lectus. Proin fermentum placerat quam eu commodo. Donec non nibh feugiat, dignissim diam egestas, luctus urna. Sed enim sem, luctus nec turpis in, interdum dignissim dolor. Phasellus efficitur massa eu est laoreet, eu ultricies turpis imperdiet. Phasellus convallis sit amet ipsum eu auctor.
-
-{{footnote Chapter 5: A Dagger to the Heart}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch5,tab,CFrame}}
-
-{{FrameHeader,wide
-### A Dagger to the Heart
-## The Inciting Incident
-*You can use the prompt below to start your campaign, or create your own.*
-}}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra eros non sapien varius laoreet in vel tortor. Curabitur cursus eu urna sed congue. Vivamus suscipit lacinia neque, eget tristique orci facilisis fringilla. Ut egestas, diam eget gravida hendrerit, urna lectus aliquet nulla, quis blandit velit nisl nec augue. Aliquam erat volutpat. Mauris magna sem, condimentum et neque eu, facilisis porta nibh. In bibendum ante quis congue interdum. Aenean nec accumsan turpis. Curabitur leo odio, ornare eget hendrerit nec, accumsan nec enim. Sed ultricies justo sed quam aliquam, non sagittis neque venenatis. Quisque nunc risus, egestas quis ante quis, molestie pulvinar eros. Cras id tempus sem. Vivamus eu fermentum felis. Etiam posuere nisi eget odio fringilla tincidunt.
-
-Maecenas egestas vel eros elementum pulvinar. Praesent felis risus, luctus nec viverra in, sodales in neque. Phasellus posuere dui quis laoreet tempor. Nulla facilisi. Quisque ultrices eros velit. Suspendisse consequat eros ut orci ornare fermentum. Integer aliquet at ligula id aliquam. Suspendisse ornare mollis condimentum.
-
-{{wide
-## Campaign Mechanics
-*The following mechanics are unique to this campaign.*
-
-### A Dagger to the Heart Starting Equipment
-Cras nec dolor non lacus finibus rutrum. Curabitur at aliquet nunc, vel convallis neque. Pellentesque ornare augue in neque lacinia, ut eleifend leo elementum. Morbi vehicula diam vitae nunc vulputate, nec ultricies arcu venenatis. Morbi egestas eleifend pulvinar. Donec et dui et velit semper dignissim. Quisque at consectetur elit.
-}}
-
-{{DHTable,wide
-### Primary Weapons
-*The following primary weapons are also available in this campaign.*
-| **Name**            | **Trait** | **Range** | **Damage** | **Burden**  | **Feature**                                                                                |
-|:--------------------|:----------|:----------|:-----------|------------:|:-------------------------------------------------------------------------------------------|
-|  **Curved Sword**   | Finesse   | Melee     |    d6 phy  | One-Handed  | **Mooncut:** Curved sword goes swoosh. Spend 1 Hope to gain advantage on an attack roll.   |
-|  **Battle Axe**     | Strength  | Melee     |    d8 phy  | Two-Handed  | **Heartbreaker:** An axe strike to go deep to the heart.                                   |
-|  **Plasma Rifle**   | Agility   | Far       |    d10 phy | Two-Handed  | **Charged Blast:** Careful with overheating.                                               |
-|  **Composite Bow**  | Agility   | Far       |    d8 phy  | Two-Handed  | **Long Shot:** Just aim to the target far far away.                                        |
-|  **Dual Dagger**    | Finesse   | Melee     |    d6 phy  | One-Handed  | **Heart Strike:** What's better than one dagger to the heart? a dual dagger to the heart.  |
-}}
-
-###### RELICS
-Cras et lacus gravida, viverra dolor nec, mollis mi. Morbi pulvinar enim auctor ligula tincidunt pretium. Fusce lectus libero, lacinia mollis sem sit amet, egestas placerat est. Quisque congue quis nisl imperdiet tristique. In aliquam pharetra nunc, non luctus magna aliquam eget. Sed dapibus turpis et neque pellentesque accumsan. Pellentesque sodales volutpat augue, et finibus lectus scelerisque in. Quisque sit amet est laoreet, efficitur elit at, tincidunt mauris. Integer convallis id velit ultricies bibendum.
-
-## Session Zero Questions
-*Ask any of these questions to your players, or make your own.*
-
-- Cras et lacus gravida, viverra dolor nec, mollis mi. Morbi pulvinar enim auctor ligula tincidunt pretium. Fusce lectus libero, lacinia mollis sem sit amet, egestas placerat est. Quisque congue quis nisl imperdiet tristique. In aliquam pharetra nunc, non luctus magna aliquam eget. Sed dapibus turpis et neque pellentesque accumsan.
-- Pellentesque sodales volutpat augue, et finibus lectus scelerisque in. Quisque sit amet est laoreet, efficitur elit at, tincidunt mauris. Integer convallis id velit ultricies bibendum.
-- Maecenas egestas vel eros elementum pulvinar. Praesent felis risus, luctus nec viverra in, sodales in neque. Phasellus posuere dui quis laoreet tempor. Nulla facilisi. Quisque ultrices eros velit. Suspendisse consequat eros ut orci ornare fermentum. Integer aliquet at ligula id aliquam. Suspendisse ornare mollis condimentum.
-
-{{footnote Chapter 5: A Dagger to the Heart}}
+{{footnote Chapter 13: Starting Scenarios}}
 {{pageNumber,auto}}
 
 \page
 
 {{app,tab}}
 
-# Appendix
-This section contains additional information and reference sheets
+# Appendices
+## Appendix A: Glossary and Proper Noun Guide
 
-## Domain Card Reference
-
-<!-- 
-This section changes the colors of the squares next to the card references and the banner border of the domain:
-
-- {{CardRef1}} Arcana Domain (Purple)       : #753d89
-- {{CardRef2}} Blade Domain (Red)           : #af2526
-- {{CardRef3}} Bone Domain (Gray)           : #9aa0a4
-- {{CardRef4}} Codex Domain (Blue)          : #174b8a
-- {{CardRef5}} Grace Domain (Pink)          : #b33b7d
-- {{CardRef6}} Midnight Domain (Black)      : #232729
-- {{CardRef7}} Sage Domain (Green)          : #0f6e3a
-- {{CardRef8}} Splendor Domain (Yellow)     : #d9b227
-- {{CardRef9}} Valor Domain (Orange)        : #e16b26
-- {{CardRef10}} Dread Domain (Blue-purple)  : #463f8c
-
-You can copy/paste to create new domains if needed with custom colors and/or modify the colors here to adjust them to whatever you require.
- -->
- 
- 
-{{CardRef1,wide,column-count:3
-## Arcana Domain
-#### Rune Ward
-**Level 1 Arcana Spell** ::
-**Recall Cost: 0** ::
-
-You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it’s important to you. The ward’s holder can spend a Hope to reduce incoming damage by **1d8**.
-
-If the Ward Die result is 8, the ward’s power ends after it reduces damage this turn. It can be recharged for free on your next rest.
-
-#### Unleash Chaos
-**Level 1 Arcana Spell** ::
-**Recall Cost: 1** ::
-
-At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card.
-
-Make a Spellcast Roll against a target within Far range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of **d10s** equal to the tokens you spent and deal that much magic damage to the target. **Mark a Stress** to replenish this card with tokens (up to your Spellcast trait).
-
-At the end of each session, clear all unspent tokens.
-
-#### Wall Walk
-**Level 1 Arcana Spell** ::
-**Recall Cost: 1** ::
-
-Spend a Hope to allow a creature you can touch to climb on walls and ceilings as easily as walking on the ground. This lasts until the end of the scene or you cast Wall Walk again.
-
-\column
-
-#### Cinder Grasp
-**Level 2 Arcana Spell** ::
-**Recall Cost: 1** ::
-
-Make a Spellcast Roll against a target within Melee range. On a success, the target instantly bursts into flames, takes **1d20+3** magic damage, and is temporarily lit On Fire.
-
-When a creature acts while On Fire, they must take an extra **2d6** magic damage if they are still On Fire at the end of their action.
-
-#### Floating Eye
-**Level 2 Arcana Spell** ::
-**Recall Cost: 0** ::
-
-Spend a Hope to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you’re looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends.
-
-#### Counterspell
-**Level 3 Arcana Spell** ::
-**Recall Cost: 2** ::
-
-You can interrupt a magical effect taking place by making a reaction roll using your Spellcast trait. On a success, the effect stops and any consequences are avoided, and this card is placed in your vault.
-
-#### Flight
-**Level 3 Arcana Spell** ::
-**Recall Cost: 1** ::
-
-Make a **Spellcast Roll (15)**. On a success, place a number of tokens equal to your Agility on this card (minimum 1). When you make an
-action roll while flying, spend a token from this card. After the action that spends the last token is resolved,
-you descend to the ground directly below you.
-
-\column
-
-#### Blink Out
-**Level 4 Arcana Spell** ::
-**Recall Cost: 1** ::
-
-Make a **Spellcast Roll (12)**. On a success, **spend a Hope** to teleport to another point you can see within Far range. If any willing creatures are within Very Close range, spend an additional Hope for each creature to bring them with you.
-
-#### Preservation Blast
-**Level 4 Arcana Spell** ::
-**Recall Cost: 2** ::
-
-Make a **Spellcast Roll** against all targets within Melee range. Targets you succeed against are forced back to Far range and take **d8+3** magic damage using your Spellcast trait.
-
-#### Chain Lightning
-**Level 5 Arcana Spell** ::
-**Recall Cost: 1** ::
-
-**Mark 2 Stress** to make a **Spellcast Roll**, unleashing lightning on all targets within Close range. Targets you succeed against must make a reaction roll with a Difficulty equal to the result of your Spellcast Roll. Targets who fail take **2d8+4** magic damage. Additional adversaries not already targeted by Chain Lightning and within Close range of previous targets who took damage must also make the reaction roll. Targets who fail take **2d8+4** magic damage. This chain continues until there are no more adversaries within range.
-
-#### Premonition
-**Level 5 Arcana Spell** ::
-**Recall Cost: 2** ::
-
-You can channel arcane energy to have visions of the future. Once per long rest, immediately after the GM conveys the consequences of a roll you made, you can rescind the move and consequences like they never happened and make another move instead.
-
+{{DHTable,wide
+| **Term** | **Definition** |
+|:---------|:---------------|
+| **Ahto City** | The surface capital of Manaan, built on platforms above the planet-spanning ocean. Home to the Selkath government and foreign embassies from every major faction. |
+| **Aliit'alor** | Mandalorian term for "honoured integration": the status granted to a conquered world that earned Mandalorian respect through combat. |
+| **Ashen Campaigns** | Revanchist military operations (3957–3956 BBY) using coordinated Force-channeling strikes. Responsible for twelve planets' permanent Force damage and approximately six hundred thousand civilian deaths. |
+| **Atris** | Jedi scholar and Council member. Designer of the Sentinel Program. Maintains a private academy on Telos with her Echani Handmaidens. |
+| **Beskad** | Traditional Mandalorian saber. The weapon used by Mandalore the Vindicated in the Dhas'kara against Malak. |
+| **Beskar** | Mandalorian iron. A rare metal used in Mandalorian armor, prized for its durability and resistance to lightsaber strikes. |
+| **Canderous Ordo** | Leader of the Neo-Mandalorian Coalition. Traditionalist who rejected the Concordat as dishonor. |
+| **Cassus Fett** | Mandalorian strategist and logistician. Commanded the Cathar operation. Now aligned with the Concordat's Integrationist faction. |
+| **Concordat** | The political agreement (3955 BBY) merging Republic governance with Mandalorian military strength. Also refers to the government led by Supreme Chancellor-General Malak. |
+| **Concordat Era (CE)** | Calendar system used by the Concordat government, measured from the signing of the Concordat. The campaign begins in 4 CE (3952 BBY). |
+| **Cortosis** | A mineral that disrupts lightsaber blades and energy shields on contact. Strategically valuable. |
+| **Czerka Corporation** | The galaxy's largest private resource extraction company. Operates mining operations across the Outer Rim with aggressive labor practices. |
+| **Dead Zone** | A region where the Force is absent or severely distorted. Caused by Sith rituals, Ashen Campaign strikes, or unknown factors. |
+| **Dhas'kara** | Mandalorian single-combat challenge. Can resolve disputes between clans or challenge Mandalore's authority. |
+| **Doctrine of Necessary Strength** | Mandalorian philosophical framework holding that strength must be self-generated and reliance on the Force or other external gifts produces civilizational fragility. |
+| **Dxun** | Jungle moon of Onderon. Culturally significant to Mandalorians as the site of Mandalore the Vindicated's original gathering. |
+| **The Exchange** | Criminal syndicate operating across the Mid and Outer Rim. |
+| **Gai bal manda** | Mandalorian adoption tradition. Taking a being of any species into a clan as Mandalorian. |
+| **Great Hyperspace War (GHW)** | War between the Republic and the Sith Empire, ending 3964 BBY. Caused catastrophic Force damage through massed Sith ritual warfare. |
+| **Hrakert Rift** | Deep-sea geological formation on Manaan, near the kolto deposits. Spiritually significant to the Selkath. |
+| **Ka'halar** | Mandalorian life-debt owed by a defeated warrior to the victor who spares them. Binds Mandalore the Vindicated to Malak. |
+| **Kaeranth, Admiral** | Commander of the Revanchist Remnant's military forces. The Remnant's operational leader. |
+| **Keepers of Adas** | Sith Pureblood cultural tradition maintaining pre-Exile Sith practices and the memory of King Adas. |
+| **Kissai** | The priestly-scholarly caste of Sith Pureblood society. |
+| **Kolto** | The galaxy's primary healing substance. Produced on Manaan. Accelerates cellular regeneration. |
 }}
 
-{{footnote Appendix: Domain Card Reference}}
+{{footnote Appendix A: Glossary}}
+{{pageNumber,auto}}
+
+\page
+
+{{app,tab}}
+
+{{DHTable,wide
+| **Term** | **Definition** |
+|:---------|:---------------|
+| **Korriban** | Tomb world of the Sith. Home to the Valley of the Dark Lords and the ancient Sith academies. |
+| **Malak** | Supreme Chancellor-General of the Concordat. Former Jedi general. Defeated Mandalore the Vindicated in the Dhas'kara. Authorized the Ashen Campaigns. |
+| **Mandalore the Vindicated** | Leader of the Mandalorian clans who launched the Expansion. Defeated by Malak in the Dhas'kara. Now serves as Lord Marshal of the Concordat, bound by Ka'halar. |
+| **Massassi** | The warrior caste of Sith Pureblood society. |
+| **Miraluka** | Near-human species that perceives the world through the Force rather than through biological sight. The Force crisis is an existential threat to them as a species. |
+| **Neo-Mandalorian Coalition** | Faction led by Canderous Ordo, rejecting the Concordat as dishonor. Operates as a nomadic raiding force across the Outer Rim. |
+| **Order of Shasa** | Indigenous Selkath Force tradition on Manaan. |
+| **Rakata** | Ancient species that built the Infinite Empire on Force-based technology. Their civilization collapsed when their connection to the Force deteriorated — a pattern that concerns current Force scholars greatly. |
+| **Resol'nare** | The six core tenets of Mandalorian identity: wear armor, speak Mando'a, defend your clan, raise your children as Mandalorians, contribute to clan welfare, answer Mandalore's call. |
+| **Revan** | Former Jedi, founder of the Revanchists, figurehead of the Revanchist Remnant. Recently returned from the Unknown Regions. His mental state is uncertain. |
+| **Revanchist Remnant** | Government-in-exile claiming to be the legitimate Republic. Holds twenty-three Outer Rim systems under Admiral Kaeranth's military command. |
+| **Sentinel Program** | Jedi Council-authorized accelerated training program for Force-sensitive operatives. Designed by Atris, run by Master Kavar. Officially secret; practically public knowledge. |
+| **Sith Triumvirate** | A shadowy network consolidating Sith remnants toward an unknown purpose. Most people do not know it exists. |
+| **Star Forge** | A Rakatan factory of immense scale, reportedly capable of producing entire fleets by drawing on the Force. Its current location and status are unknown. |
+| **Star Maps** | Rakatan navigational monuments that record the location of the Star Forge. Five were scattered across the galaxy; their current status varies. |
+| **Veera Ordo** | Canderous Ordo's sister. Concordat Integrationist leader and advocate for Mandalorian-Republic administrative partnership. |
+| **Zuguruk** | The engineer caste of Sith Pureblood society. |
+}}
+
+{{footnote Appendix A: Glossary}}
+{{pageNumber,auto}}
+
+\page
+
+{{app,tab}}
+
+## Appendix B: Suggested Reading and Playing
+
+This setting draws on material from the *Star Wars* Expanded Universe, adapted and altered for the Concordat Era. None of it is required reading. All of it deepens your understanding of the traditions this campaign builds on.
+
+**Star Wars: Knights of the Old Republic** (video game, 2003). The baseline. The game that established the era's characters, worlds, and tone. Revan, Malak, Korriban, Dantooine, Manaan, Taris, and the Star Forge all originate here.
+
+**Star Wars: Knights of the Old Republic II — The Sith Lords** (video game, 2004). The philosophical spine. Kreia's arguments about the Force, the Sith Triumvirate, the Jedi's fracture, and the concept of wounds in the Force all inform this setting. Play it with the restored content mod.
+
+**Star Wars: The Old Republic** (MMO, 2011–present). Expands the era's species, worlds, and political factions. Sith Pureblood culture, Mandalorian clan politics, and the broader galactic landscape draw from this source.
+
+**The Kotor Comics** (2006–2010). Expand the Mandalorian Wars era with characters and events that inform this AU's history.
+
+\column
+
+### Historical Parallels
+
+For historical parallels: the Napoleonic Wars, the French Revolution's aftermath, the Congress of Vienna, and the Peninsular War all shaped this setting's political dynamics. Any good history of the period will reward a player looking for character inspiration.
+
+The Concordat's structure — a militarily enforced hybrid government following catastrophic conventional war — has analogues across dozens of historical periods. The texture of daily life in a galaxy recovering from war, where old institutions are discredited and new ones are not yet trusted, is the texture this campaign is going for.
+
+{{descriptive
+The Concordat Era is not a story about good versus evil. It is a story about people who have all done terrible things for reasons they could justify, living with the consequences and trying to decide what to do next.
+
+Every faction in this setting has blood on its hands. Every ideology has been used to justify something unforgivable. Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking and hasn't started healing.
+}}
+
+:
+
+{{note
+
+### A Note on Adaptation
+The Concordat Era is an alternate history. Some named characters behave differently than their canonical counterparts. Some events went differently. Some people who are important in the games are absent here.
+
+The adaptation is intentional. You are not playing through the KOTOR storyline. You are playing in the same era with different people making different choices.
+}}
+
+{{footnote Appendix B: Suggested Reading and Playing}}
 {{pageNumber,auto}}
