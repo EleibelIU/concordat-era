@@ -112,15 +112,13 @@ wide
 
 The Great Hyperspace War in this AU is not the distant ancient history it is in standard canon. It ended twelve years before the campaign starts. The veterans are middle-aged. The orphans are young adults. The trauma is living memory.
 
-## What Happened
+
 
 The Sith Empire under Naga Sadow launched an invasion of the Republic that came closer to succeeding than any official history admits. Sith battle fleets struck the Core Worlds. Sith sorcerers performed ritual warfare on a scale the galaxy had never seen: mass sacrifice, reality distortion, Force-severing techniques that could strip Jedi of their abilities mid-battle.
 
 On **Ossus**, the Jedi Archives burned. Ten thousand Jedi fought the Sith war machine, and when the massed rituals peaked, the defenders felt something unprecedented: silence. Not the quiet of a calm mind, but the silence of a severed connection. For minutes that stretched like hours, the Force vanished from Ossus. Jedi who had relied on precognition for decades suddenly fought blind. Jedi healers watched patients die under their hands. Some Jedi simply collapsed, unable to process the absence.
 
 The Republic won because the Sith rituals were unstable. The sorcery that severed Jedi also consumed Sith practitioners. Naga Sadow's forces imploded as their own weapons devoured them. The Republic counter-invasion shattered what remained of the Sith Empire and drove the survivors into the Unknown Regions and the fringes of Wild Space.
-
-\column
 
 ## What It Cost
 
@@ -161,8 +159,6 @@ The Doctrine of Necessary Strength was not a declaration of war. It was a philos
 
 The clans adopted it within days. Not unanimously. Clan Kryze argued that demonstration could be achieved through diplomacy rather than siege. Cassus Fett of Clan Fett saw an opportunity for territorial expansion dressed in ideological clothing and said so openly, earning both contempt and respect for his honesty. But the core held: the Mandalorians would move outward, and the galaxy would learn or fall.
 
-\column
-
 ## The Mandalorian Expansion: Years One Through Three (3962-3960 BBY)
 
 #### The Siege of Taris (3962 BBY)
@@ -185,18 +181,18 @@ Half of Onderon earned alliance through combat rather than subjugation. The beas
 
 The arrangement worked. Onderon became the model for what the Mandalorians called *aliit'alor* -- honoured integration. A conquered world that fought well was not subjugated but adopted.
 
-{{footnote SECTION 3: THE MANDALORIAN WARS}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch1,tab}}
-
 #### Dantooine (3961 BBY)
 
 **Dantooine** fell without a shot. The Mandalorians established a presence on the plains outside the Jedi Enclave and waited. Colonists came to them. Young farmers who looked at the enclave -- where Jedi Masters debated whether using the Force was accelerating its death -- and at the Mandalorian camp -- where instructors taught blade combat and survival skills to anyone willing -- and made a pragmatic choice.
 
 The Jedi Enclave Council protested. The Mandalorians invited them to stop the migration by offering something better. The Council debated this for three weeks. By then, half the settlement had relocated.
+
+{{footnote SECTION 3: THE MANDALORIAN WARS}}
+{{pageNumber,auto}}
+
+
+\page
+{{Ch1,tab}}
 
 #### Serroco (3960 BBY)
 
@@ -214,7 +210,6 @@ Veera Ordo, Canderous's younger sister, supported Fett. She'd been arguing for a
 
 The Republic, meanwhile, did nothing. The Senate debated jurisdiction while worlds fell. The Jedi Council argued about whether the Force was too damaged to risk using in combat, whether intervening would make the fractures worse, whether intervention was even possible when half their combat-trained Knights could no longer trust their precognition.
 
-\column
 
 ## Year Four: Cathar and the Turning (3959 BBY)
 
@@ -230,12 +225,6 @@ What happened at the Cathar Concentration at Ves'kaan was a breakdown of discipl
 
 The galaxy learned about Ves'kaan from refugees who escaped through the forest. The holonet footage -- recorded by a Cathar teenager named Sylvar Juhani with a stolen Mandalorian recorder -- showed burning villages, mass graves, and Mandalorian warriors firing into crowds. It was the first time most Republic citizens saw what the Expansion looked like when a world refused to cooperate.
 
-{{footnote SECTION 3: THE MANDALORIAN WARS}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch1,tab}}
 
 #### The Revanchists Form
 
@@ -257,7 +246,13 @@ The message was legible from orbit: the infrastructure matters. The people are r
 
 **Serroco** radicalized the Revanchists in ways that Cathar had not. Cathar was a massacre born of lost discipline. Serroco was a calculated strategic decision. Malak, who had been managing logistics and troop movements while Revan planned grand strategy, looked at Serroco and began thinking about how wars end. Not how you win battles, but how you make wars stop.
 
-\column
+{{footnote SECTION 3: THE MANDALORIAN WARS}}
+{{pageNumber,auto}}
+
+
+\page
+
+{{Ch1,tab}}
 
 ## The Revanchist War: Years Four Through Six (3959-3957 BBY)
 
@@ -277,12 +272,6 @@ Then he found references to the Star Forge.
 
 The trail began in Mandalorian records of pre-expansion scouting expeditions into the Unknown Regions. Mandalorian scouts had discovered ruins on several worlds -- structures too old to be Republic, too sophisticated to be Mandalorian, built by a species that had mastered technology the galaxy couldn't replicate. The Rakata. An ancient species that had built an empire powered by the Force itself, and whose technology might hold the key to understanding why the Force was dying.
 
-{{footnote SECTION 3: THE MANDALORIAN WARS}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch1,tab}}
 
 Revan became convinced that understanding the Rakata -- their technology, their relationship to the Force, why their civilization collapsed -- was the only path to stopping the Force's deterioration. He was not wrong about the connection. He was wrong about everything else.
 
@@ -304,7 +293,7 @@ Kreia did not point Revan at the Star Forge out of malice. She pointed him at th
 
 She was patient. She had been patient for a long time.
 
-\column
+
 
 ## The Ashen Campaigns: Years Six and Seven (3957-3956 BBY)
 
@@ -316,7 +305,12 @@ By Year Six, the Revanchist war effort was stalling. The Mandalorians recruited 
 
 Malak commissioned a study of Revanchist Force-user effectiveness. The results were classified. The summary: Force-augmented combat units had suffered a thirty-one percent decline in operational reliability over two years. Precognition failures had caused friendly-fire incidents. Healing failures had increased field mortality. The Force was not a force multiplier anymore. It was a liability that occasionally worked.
 
-Revan, from whatever research station he was operating from, sent Malak a package. Inside were the decoded techniques from a Sith holocron -- not a weapon, but a methodology. The ancient Sith had understood how to channel the Force through multiple practitioners simultaneously, creating effects that no individual user could achieve. The holocron described how the Sith had used massed ritual to crack Jedi defenses during the Great Hyperspace War.
+Revan, from whatever research station he was operating from, sent Malak a package. Inside were the decoded techniques from a Sith holocron -- not a weapon, but a methodology. The ancient Sith had understood how to channel the Force through multiple practitioners simultaneously, creating effects that no individual user could
+
+\page
+{{Ch1,tab}}
+
+achieve. The holocron described how the Sith had used massed ritual to crack Jedi defenses during the Great Hyperspace War.
 
 Revan's attached note read: *They used this to destroy. We can use it to win. The difference is intent.*
 
@@ -328,12 +322,6 @@ The second operation used the technique offensively on a planetary surface. The 
 
 By the fifth, the Revanchists had developed a tactical doctrine around coordinated Force strikes: *Ashfall Operations*, named for the particulate debris that choked the atmosphere after a strike. The Jedi who participated called them Ashen Campaigns. The name stuck.
 
-{{footnote SECTION 3: THE MANDALORIAN WARS}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch1,tab}}
 
 #### What the Ashen Campaigns Did
 
@@ -353,7 +341,6 @@ His reasoning was consistent: the Mandalorians would not stop. The Republic coul
 
 The mathematics were defensible. The mathematics were monstrous. Malak knew both things simultaneously and did not stop.
 
-\column
 
 #### The Second Siege of Onderon (3956 BBY)
 
@@ -378,13 +365,15 @@ Malak was not just winning battles. He was defeating the Doctrine of Necessary S
 {{footnote SECTION 3: THE MANDALORIAN WARS}}
 {{pageNumber,auto}}
 
+## Year Seven: The Dhas'kara (3955 BBY)
+
+Malak had spent two years studying Mandalorian culture while commanding the Revanchist military. He learned their honor codes, their customs, their respect for strength demonstrated through personal combat. He learned about Dhas'kara -- single combat challenges that could resolve disputes between clans, even challenges to Mandalore himself. 
+
 \page
 
 {{Ch1,tab}}
 
-## Year Seven: The Dhas'kara (3955 BBY)
-
-Malak had spent two years studying Mandalorian culture while commanding the Revanchist military. He learned their honor codes, their customs, their respect for strength demonstrated through personal combat. He learned about Dhas'kara -- single combat challenges that could resolve disputes between clans, even challenges to Mandalore himself. He understood the Right of Challenge: anyone could challenge Mandalorian authority by proving superior individual strength.
+He understood the Right of Challenge: anyone could challenge Mandalorian authority by proving superior individual strength.
 
 He did not tell Revan. Revan was deep in the Unknown Regions by then, chasing Star Map fragments, sending intermittent transmissions about Rakatan infinity engines. Their last substantive conversation had been six months prior.
 
@@ -403,8 +392,6 @@ Malak stood over Mandalore with blood pouring from where his jaw had been, his s
 The Concordat: Mandalorian clans provide military strength and maintain their warrior culture. Republic systems provide economic administration and civilian governance. Resources flow to where they're needed. Defense goes to worlds that maintain militias and contribute to collective security. No more Senate debates while worlds burn. No more Mandalorian warriors managing grain distribution.
 
 Mandalore, alive through Malak's mercy and bound by Ka'halar -- in Mandalorian tradition, the life-debt owed by a defeated opponent who is spared by his victor, a bond as binding as blood oath -- accepted.
-
-\column
 
 Not all the clans followed. Canderous Ordo and the traditionalists saw it as surrender dressed in alliance and walked. They formed the Neo-Mandalorian Coalition: a rejection of both the Concordat and the Remnant, committed to pure Mandalorian independence through honorable combat.
 
@@ -478,8 +465,6 @@ Kaeranth watched Malak consolidate power after the Concordat with the eye of a m
 
 He made quiet contact with officers who felt the same way. When Revan returned from the Unknown Regions -- alone, gaunt, carrying crates of datacrons and speaking in sentence fragments about things he'd seen -- Kaeranth was ready. He extracted Revan with three battlegroups, enough firepower to discourage pursuit, and enough loyalist personnel to establish a government-in-exile.
 
-\column
-
 At campaign start, Kaeranth is the Remnant's spine. He maintains fleet readiness. He manages the hidden base network. He negotiates quietly with sympathetic Concordat officers who might defect if the political winds shift. He is a military pragmatist who chose the Remnant out of principle and stays because someone has to keep the lights on while Revan is... whatever Revan is becoming.
 
 His relationship with Revan is strained. Kaeranth extracted a hero. What he got back was a man consumed by research, intermittently brilliant and frequently incoherent, who speaks about Rakatan technology and "the pattern beneath the Force" with the intensity of a prophet and the specificity of a fever dream.
@@ -519,8 +504,6 @@ The Neo-Mandalorians are not a unified faction. They are a coalition of:
 - **Ideological purists** who argue the Doctrine of Necessary Strength demands Mandalorian independence from all outsider governance
 - **Refugees and outcasts** who ended up with the Coalition because no one else would take them
 
-\column
-
 Life in the Coalition is hard. Resources are scarce. Discipline is enforced through combat challenges that leave the losers dead or maimed. Canderous's vision of Mandalorian purity is romantic and increasingly detached from the material reality of feeding and supplying a nomadic military force.
 
 The Neo-Mandalorians are not villains. They are people committed to an ideal that the galaxy may have outgrown, and they have not yet decided what they're willing to sacrifice to preserve it.
@@ -550,8 +533,6 @@ Kreia's next conclusion was the one that made her Darth Traya: if the Force was 
 
 She vanished from Jedi records in 3956 BBY -- during the height of the Ashen Campaigns. She had been watching her thesis proven correct in real time.
 
-\column
-
 ## The Triumvirate -- Reimagined
 
 Kreia did not build the Sith Triumvirate from Sith. She built it from the wreckage.
@@ -572,13 +553,6 @@ Kreia found him in a field hospital that the Revanchist medics had abandoned bec
 
 Sion serves as Traya's enforcer. He is not subtle. He is not political. He is rage given form, pointed at whoever Traya identifies as an obstacle. He is also, beneath the pain and the fury, a veteran who has never processed what was done to him and what he did in return.
 
-{{footnote SECTION 7: KREIA, THE TRIUMVIRATE, AND THE SHADOW}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch3,tab}}
-
 ## The Shadow Faction
 
 The Sith Triumvirate is not a government. It is not an army. It is a network.
@@ -587,7 +561,9 @@ Kreia operates through proxies, intermediaries, and carefully placed agents with
 
 The Triumvirate's military assets are small: a hidden fleet of perhaps thirty ships, crewed by a mixture of former Sith military personnel, disillusioned Revanchists, Mandalorian deserters, and Force-sensitive individuals who have been severed from the Force by the crisis and blame the Jedi, the Sith, or both.
 
-\column
+\page
+
+{{Ch3,tab}}
 
 Most people in the galaxy do not know the Triumvirate exists. They know about Sith remnants -- scattered former Sith Empire military units operating as pirates or mercenaries in the Outer Rim. They know about dark side cults -- fringe religious movements that have appeared in the wake of the Force crisis. They do not know that someone is coordinating these elements toward a unified purpose.
 
@@ -615,8 +591,6 @@ By the campaign start, "Sith military" is not a single organization. It's a spec
 - **Integrated Sith** -- former Sith military personnel who've been absorbed into the Concordat, the Remnant, or other factions and serve openly (with varying degrees of discrimination and suspicion)
 - **The Korriban garrison** -- a small force of Sith traditionalists who maintain the tomb world and its academies, operating largely independently and claiming religious authority over Sith cultural heritage
 
-\column
-
 ## Sith Purebloods in the Concordat Era
 
 The Sith species -- the red-skinned, Force-sensitive people who gave the Sith Order its name -- are a diaspora in search of an identity.
@@ -631,20 +605,11 @@ Surviving Massassi are scattered, traumatized, and angry. Some serve as mercenar
 
 **The Zuguruk** engineers adapted most successfully. Technical skills are portable, and the galaxy always needs people who can build and maintain things. Zuguruk engineers found work in Republic shipyards, Czerka industrial operations, and independent outfits across the galaxy. They are the most assimilated Sith caste -- and the most likely to deny their heritage publicly while maintaining it privately.
 
-{{footnote SECTION 8: THE SITH}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch4,tab}}
-
 The old caste system is dead in practice, but its ghost shapes Sith Pureblood identity. A Pureblood's caste background still determines how other Purebloods read them, even if the formal hierarchy no longer functions. A Kissai-descended Pureblood on Coruscant who works as a professor and a Massassi-descended Pureblood on Nar Shaddaa who works as a bouncer share a species, a homeworld of origin, and almost nothing else.
 
 **Blood ideology** -- the belief that Sith Pureblood heritage carries inherent Force sensitivity and spiritual significance -- persists among traditional communities and has been weaponized by multiple factions. The Triumvirate uses blood ideology to recruit Pureblood operatives. The Concordat uses blood ideology as a justification for monitoring Pureblood populations (Force-sensitive individuals from a historically hostile culture = security risk). Anti-Sith bigots use blood ideology to justify discrimination.
 
 Sith Purebloods who've integrated into Republic society navigate this daily. They are too Sith for the Republic and too Republican for the Sith. Their children face a choice: assimilate fully and lose their heritage, or maintain their identity and face suspicion. There is no comfortable middle ground.
-
-\column
 
 **Intermarriage** between Sith Purebloods and Humans (a practice as old as the original Dark Jedi Exiles who colonized Sith space thousands of years ago) has produced a large population of mixed-heritage individuals. In the old Empire, mixed heritage was a source of status if the Sith bloodline was strong and a source of shame if it was weak. In the Concordat Era, mixed-heritage individuals are sometimes the most effective cultural bridges between communities -- and sometimes the most ruthlessly discriminated against by purists on both sides.
 
@@ -682,8 +647,6 @@ The theory was elegant. The implementation was rushed, desperate, and ethically 
 
 The Sentinel Program identifies Force-sensitive individuals who fall outside the Jedi Order's traditional recruitment age and background. It trains them in accelerated courses -- months rather than years -- combining basic Force technique with martial combat, intelligence tradecraft, and field survival. The program produces operatives who can fight effectively when their Force abilities work and survive when they don't.
 
-\column
-
 **Master Kavar** runs the program's field operations and hates every moment. Kavar was a decorated Jedi Guardian who fought in the early stages of the Mandalorian Wars before the Council recalled him. He believes in the Sentinel Program's necessity and despises its methods. He watches teenagers learn in months what should take years, knowing he is creating future problems to solve present crises.
 
 The Sentinel Program has produced approximately three hundred operatives over two years. Of those:
@@ -702,10 +665,6 @@ Atris is not a villain. She is a scholar who has spent too long staring into the
 {{footnote SECTION 9: THE JEDI ORDER}}
 {{pageNumber,auto}}
 
-\page
-
-{{Ch4,tab}}
-
 ## Factional Views on the Sentinel Program
 
 **The Concordat** views the program as a hostile intelligence operation. Malak's security apparatus treats Sentinels as enemy agents: undertrained, ideologically compromised, and operating without accountability. Concordat intelligence has standing orders to identify, monitor, and -- if necessary -- eliminate Sentinels operating in Concordat territory. The irony that Malak monitors Force users while employing Mandalorian clans that explicitly reject the Force is not lost on his critics.
@@ -714,9 +673,10 @@ Atris is not a villain. She is a scholar who has spent too long staring into the
 
 **The Neo-Mandalorians** view the program as validation. The Jedi are creating warriors who don't depend on the Force -- which is exactly what the Doctrine of Necessary Strength prescribed. Canderous Ordo has been known to offer recruitment to captured Sentinels, arguing that they've already proven they can fight without supernatural crutches and should join the only faction that respects that ability.
 
-\column
-
 **The Sith Triumvirate** views the program as useful. Sentinels are undertrained Force-sensitives with minimal ethical grounding and maximal grievance. Kreia's recruiters consider them promising raw material.
+
+\page
+{{Ch4,tab}}
 
 **Sith Pureblood communities** have a more complicated reaction. The Sentinel Program trains non-traditional Force users, which creates a new category of Force-sensitive individual outside both Jedi and Sith frameworks. For Purebloods who've spent generations being defined by their Force heritage, the existence of Sentinels raises uncomfortable questions about what Force sensitivity means when anyone can be trained to use it, however poorly.
 
@@ -742,8 +702,6 @@ Mandalorian society before the wars was not wealthy. The clans controlled resour
 The social structure was pyramidal: Mandalore at the apex, the great houses (Ordo, Vizla, Fett, Skirata, Kryze, Cadera) as major political blocs, and hundreds of smaller clans as the base. Clans allied with houses, houses competed for influence, and Mandalore adjudicated disputes through a combination of personal authority and the Right of Challenge. It was a functional society, not a utopia. Domestic disputes, clan feuds, resource conflicts, and disagreements about the Resol'nare's interpretation were constant.
 
 Women and men held equivalent social status in most clans (warriors were warriors, farmers were farmers, and gender was less relevant than competence). Some clans maintained gendered divisions of labor; others did not. The Mandalorian adoption tradition -- *gai bal manda*, taking a child of any species into a clan -- meant that Mandalorian demographics were more diverse than outsiders assumed. A Twi'lek raised Mandalorian was Mandalorian. A human born on Coruscant who never wore armor was not.
-
-\column
 
 ## After the Concordat
 
@@ -788,7 +746,6 @@ This arrangement makes Manaan the most politically important neutral world in th
 
 The kolto itself comes from deep-sea deposits in the ocean beneath Ahto City, near the Hrakert Rift. The Selkath maintain that these deposits are connected to a deep ecological and spiritual system they are not obligated to explain to outsiders. They are correct, and this is not a negotiating tactic.
 
-\column
 
 ## Internal Manaan Politics
 
@@ -908,8 +865,3 @@ The galaxy operates on a security gradient:
 
 {{footnote SECTION 13: GALACTIC SCALE AND SOVEREIGNTY}}
 {{pageNumber,auto}}
-
-\page
-
-{{app,tab}}
-
