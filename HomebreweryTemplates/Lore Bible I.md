@@ -66,26 +66,46 @@ Freighter Incident details received from Elizabeth's Owen chat context. See Sect
 
 \page
 
-{{app,tab}}
+{{TableofContent}}
 
-# Table of Contents
+# Contents
 
 {{toc,wide
-- **Section 1:** BBY Timeline and Calendar .............. 4
-- **Section 2:** The Great Hyperspace War ............... 5
-- **Section 3:** The Mandalorian Wars ................... 6
-- **Section 4:** The Concordat Government ............... 11
-- **Section 5:** The Revanchist Remnant ................. 13
-- **Section 6:** The Neo-Mandalorian Coalition .......... 15
-- **Section 7:** Kreia, the Triumvirate, and the Shadow . 16
-- **Section 8:** The Sith ................................ 18
-- **Section 9:** The Jedi Order ......................... 20
-- **Section 10:** Mandalorian Life ...................... 22
-- **Section 11:** Kolto, Manaan, and Medicine ........... 24
-- **Section 12:** The Freighter Incident ................ 25
-- **Section 13:** Galactic Scale and Sovereignty ........ 27
-- **Section 14:** Open Questions ........................ 29
-- **Section 15:** Updated Table of Contents ............. 30
+- # [{{ Section 1: BBY Timeline and Calendar}}{{ }}](#p4)
+  - [{{ Dating Convention}}{{ 4}}](#p4)
+  - [{{ Absolute Timeline}}{{ 4}}](#p4)
+- # [{{ Sections 2–3: The Wars}}{{ }}](#p5)
+  - [{{ Section 2: The Great Hyperspace War}}{{ 5}}](#p5)
+  - [{{ Section 3: The Mandalorian Wars}}{{ 6}}](#p6)
+    - [{{ The Doctrine of Necessary Strength}}{{ 6}}](#p6)
+    - [{{ The Mandalorian Expansion: Years 1–3}}{{ 7}}](#p7)
+    - [{{ Year Four: Cathar and the Turning}}{{ 8}}](#p8)
+    - [{{ The Revanchist War: Years 4–6}}{{ 9}}](#p9)
+    - [{{ The Ashen Campaigns}}{{ 10}}](#p10)
+    - [{{ Year Seven: The Dhas'kara}}{{ 11}}](#p11)
+- # [{{ Sections 4–5: The Powers}}{{ }}](#p12)
+  - [{{ Section 4: The Concordat Government}}{{ 12}}](#p12)
+  - [{{ Section 5: The Revanchist Remnant}}{{ 14}}](#p14)
+    - [{{ Admiral Kaeranth}}{{ 14}}](#p14)
+    - [{{ Revan's Return}}{{ 15}}](#p15)
+- # [{{ Sections 6–7: The Fringes}}{{ }}](#p16)
+  - [{{ Section 6: The Neo-Mandalorian Coalition}}{{ 16}}](#p16)
+  - [{{ Section 7: Kreia, the Triumvirate, and the Shadow}}{{ 17}}](#p17)
+    - [{{ Kreia / Darth Traya}}{{ 17}}](#p17)
+    - [{{ The Triumvirate — Reimagined}}{{ 18}}](#p18)
+- # [{{ Sections 8–9: Force Traditions}}{{ }}](#p19)
+  - [{{ Section 8: The Sith}}{{ 19}}](#p19)
+  - [{{ Section 9: The Jedi Order}}{{ 21}}](#p21)
+    - [{{ The Fracture}}{{ 21}}](#p21)
+    - [{{ The Sentinel Program}}{{ 22}}](#p22)
+- # [{{ Sections 10–13: Life, Commerce, and Campaign}}{{ }}](#p23)
+  - [{{ Section 10: Mandalorian Life}}{{ 23}}](#p23)
+  - [{{ Section 11: Kolto, Manaan, and Medicine}}{{ 25}}](#p25)
+  - [{{ Section 12: The Freighter Incident}}{{ 27}}](#p27)
+  - [{{ Section 13: Galactic Scale and Sovereignty}}{{ 29}}](#p29)
+- # [{{ Sections 14–15: Reference}}{{ }}](#p31)
+  - [{{ Section 14: Open Questions}}{{ 31}}](#p31)
+  - [{{ Section 15: Updated Table of Contents}}{{ 32}}](#p32)
 }}
 
 {{footnote TABLE OF CONTENTS}}
