@@ -200,6 +200,35 @@ Your characters walk into this. Armed, opinionated, and connected to a galaxy th
 
 {{Ch1,tab}}
 
+{{wide
+# Timeline 
+}}
+
+{{DHTable,wide
+| BBY | Event | Concordat Calendar |
+|:----|:------|:-------------------|
+| 3964 | Great Hyperspace War ends. The Sith Empire collapses. The Force sustains catastrophic damage from massed Sith ritual warfare. | Pre-Concordat |
+| 3963 | Mandalore the Vindicated's gathering on Dxun. Adoption of the Doctrine of Necessary Strength. | Pre-Concordat |
+| 3962 | **Year One of the Mandalorian Wars.** Siege of Taris. The Mandalorian expansion begins. | Pre-Concordat |
+| 3961 | Onderon Campaign. Beast Riders earn alliance. Sixty systems under Mandalorian influence. | Pre-Concordat |
+| 3960 | Serroco Resource Pact. Eighty systems. Mandalorian administrative failures accelerate. | Pre-Concordat |
+| 3959 | **Year Four.** The Razing of Cathar. The Revanchists form under Revan. First Revanchist victories. | Pre-Concordat |
+| 3958 | The Battle of Jebble. Malak takes operational command. Revan's research into Sith artifacts intensifies. Serroco Atrocity. | Pre-Concordat |
+| 3957 | **The Ashen Campaigns begin.** Force weaponized at strategic scale. First confirmed wounds in the Force tied to combat operations. | Pre-Concordat |
+| 3956 | The Ashen Campaigns escalate. The Burning of Duro. The Siege of Onderon (Second). Dead zones proliferate. Kreia vanishes from all Jedi records. | Pre-Concordat |
+| 3955 | **Year Seven.** Malak's Dhas'kara challenge. The Concordat signed. Canderous Ordo forms the Neo-Mandalorian Coalition. | 1 CE |
+| 3954 | Concordat consolidation. Senate ratification. Malak appointed Supreme Chancellor-General. Admiral Kaeranth extracts Revan. Revanchist Remnant established. | 2 CE |
+| 3953 | Jedi Council authorizes the Sentinel Program under Master Kavar, designed by Atris. Sith Triumvirate consolidation in the shadows. | 3 CE |
+| **3952** | **Campaign start. Revan returns from the Unknown Regions. The Freighter Incident.** | **4 CE** |
+}}
+
+{{footnote Chapter 3: The Galaxy at a Glance}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch1,tab}}
+
 # Chapter 4
 
 ## A History of the Concordat Era

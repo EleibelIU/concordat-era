@@ -96,10 +96,7 @@ In-universe, the calendar is political. Using Concordat Era dating signals loyal
 }}
 
 
-{{wide
 The campaign begins in 3952 BBY, four years after the Concordat was signed. Long enough for the new order to have calcified into something real, short enough that the wounds of the war are still raw.
-wide 
-}}
 
 {{footnote SECTION 1: BBY TIMELINE AND CALENDAR}}
 {{pageNumber,auto}}
