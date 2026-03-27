@@ -1007,7 +1007,7 @@ Trust no one, and remember that the person you suspect the most may be the one y
 {{app,tab}}
 
 # Appendices
-## Appendix A: Glossary and Proper Noun Guide
+## Appendix A: Glossary
 
 {{DHTable,wide
 | **Term** | **Definition** |
