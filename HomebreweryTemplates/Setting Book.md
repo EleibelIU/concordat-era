@@ -55,10 +55,13 @@ NOTE: Page numbers in the Table of Contents are estimates. Adjust them after pas
 
 ### Credits Page
 
-**SETTING DESIGN:** Elizabeth Colburn
+**SETTING DESIGN:** [Your Name Here]
 
 **HOMEBREWERY TEMPLATE:** AeronDrake [(Homebrewery](https://homebrewery.naturalcrit.com/user/draco?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/AeronDrake/)
 
+**ORIGINAL CLASS TEMPLATE:** Sax & PerfectlyCircularSeal
+
+**COVER IMAGE:** Fantasy Castle by Bob Greyvenstein.
 
 This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old Republic*, *The Old Republic MMO*, and related media — adapted for original use. All Star Wars IP belongs to Lucasfilm/Disney. This is unofficial fan content for personal use.
 
@@ -113,7 +116,6 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
 
 \page
 
-{{Intro,tab}}
 
 <!--
 For adjusting the vertical spacing of a campaign frame, add or remove ":".
