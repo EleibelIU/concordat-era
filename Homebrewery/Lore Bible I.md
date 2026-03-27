@@ -1,7 +1,3 @@
-{{frontCover}}
-
-\page
-
 {{CreditsPage}}
 
 ### Lore Bible
