@@ -52,9 +52,13 @@ concordat-era/
 
 Formatted source files live in [Homebrewery/](Homebrewery/). Layout uses [KOTOR_DH_STYLE.css](Homebrewery/Style/KOTOR_DH_STYLE.css), derived from the original Daggerheart theme.
 
+Homebrewery is the renderer, not the source of truth. It has persistent syncing issues and drifts from the canonical text. The files in this repo are always current. Assume Homebrewery is behind.
+
 | Book | Homebrewery |
 |------|-------------|
 | Setting Book | [Edit](https://homebrewery.naturalcrit.com/edit/8Bh534CEmzPy) |
+| Lore Bible I | [Edit](https://homebrewery.naturalcrit.com/edit/PuSZMHesu1EL) |
+| Lore Bible II | [Edit](https://homebrewery.naturalcrit.com/edit/GzvXtMiO5Hzs) |
 
 ## Status
 

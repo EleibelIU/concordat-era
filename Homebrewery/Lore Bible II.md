@@ -75,13 +75,6 @@ The parallels are not subtle, and Revan was not the first person to notice them.
 
 The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated catastrophically in the twelve years since the Great Hyperspace War. Something is different this time. Whether that difference is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified yet is the campaign's central mystery.
 
-{{footnote SECTION A: THE RAKATA, THE STAR FORGE, AND THE STAR MAPS}}
-{{pageNumber,auto}}
-
-\page
-
-{{Intro,tab}}
-
 ### The Star Maps
 
 The Rakata built Star Maps as navigational monuments: self-sustaining holographic systems, powered by the Force, that recorded the location of the Star Forge and other key Infinite Empire installations. Five Star Maps were scattered across the galaxy on worlds significant to the Rakata: Dantooine, Kashyyyk, Manaan, Tatooine, and Korriban.
@@ -99,10 +92,10 @@ Destroyed. Revan's forces located the Star Map in the Shadowlands during Year Fi
 ##### Manaan
 Intact and hidden. The Star Map on Manaan is submerged deep beneath Ahto City, in the ocean trenches near the Hrakert Rift, the deep-sea geological formation where kolto is produced. The Selkath know about the Rakatan ruins. They have known for longer than the Republic has existed. The Order of Shasa (the Selkath Force tradition) maintains the site as a sacred place and does not discuss it with outsiders. The connection between the Star Map, the Hrakert Rift, and kolto's Force-resonant properties is not a coincidence, and the Selkath know more about this relationship than they share.
 
-\column
-
 ##### Tatooine
 Destroyed. Malak's forces located this map during Year Six, acting on intelligence separate from Revan's research. Malak did not destroy the map for the same reasons Revan destroyed the Kashyyyk map. Malak destroyed it because he recognized what the Star Forge represented: an infinite factory powered by the Force. He concluded that in a galaxy where the Force was dying, an engine that consumed the Force to produce weapons was the last thing anyone needed. His destruction of the Tatooine map was a strategic decision. It was also, possibly, the most morally clear decision Malak has ever made.
+
+\page
 
 ##### Korriban
 Intact but corrupted. The Star Map in the Valley of the Dark Lords has been there since before the Dark Jedi Exiles arrived to found the Sith Empire. It predates everything the Sith built on Korriban. The tomb builders constructed around it. Sith sorcerers drew on its residual Force energy for millennia without understanding its origin. By the Concordat Era, the Korriban map is saturated with dark-side energy accumulated over thousands of years of Sith ritual practice. Whether it still functions as a navigational tool is unclear. What it has become, a Force artifact soaked in millennia of death, is something else entirely.
