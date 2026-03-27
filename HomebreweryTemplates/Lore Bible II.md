@@ -1,51 +1,4 @@
-<!--
-
-Hi there,
-
-This is a modified version of Sax & PerfectlyCircularSeal Daggerheart Class template.
-
-This version is a work in progress which includes a cover page, a credits page, and the configuration for the different colors of each chapter of the Daggerheart core rulebook + integration of the class theme which was the original homebrew used as base, allowing you to customize your brew and make it look like the DH rulebook as much as possible. In addition, there're various Brew Snippets to make formatting a bit easier and quicker.
-
-Some details for using the features:
-
-In the Brew Snippets you can find some templates for different parts of the brew, allowing you to quickly insert those parts into your brew.
-- DH Homebrew Details & Information: This is what you're reading now! useful to have it available if for some reason you lost it.
-- DH Front Cover: Inserts the code for the cover of your brew
-- DH Credits Page: Inserts a clean credits page
-- DH Tip: The Tip notes found in the DH Core Book.
-- DH Footer + new page with Header Color option: Inserts the number of page and footer text in the current page you're. It also creates a new page with the markdown code for the color of headers and content of that new page.
-- DH Class + Subclass pages: Adds preconfigured pages for a class with the subclasses + questions.
-- DH White text footnote: Adds a footnote that uses white text instead of the standard black one (this is used on pages where you have a different background and the black text is hard to read).
-- DH Adversaries Statblock: Generates a statblock using the Daggerheart Core Book format.
-- DH Campaign Frame: Generates all the pages of a Campaign Frame.
-- DH Domain Card Reference: Generates the list found at the appendix where you can find all the card details per domain. This can be configured to adjust the colors of each domain (domain "banners" not included).
-- DH Style Editor options: Paste this in the Style Editor if you're looking to adjust the colors for chapters and homebrew classes. This is mostly for those who imported the theme using the theme properties.
-
-I commented different parts in the Style Editor that should help to understand a bit the style code and which parts should be the ones you might want to modify.
-
-Also, here're some tips from the original Sax & PerfectlyCircularSeal theme that also might be useful:
-- The Subclass Sections need an additional class, which is either subRight or subLeft. These position the sections correctly on the page.
-- Artist credit use the classes aRight or aLeft to place them right or left, and use the classes aLight to change the color to white for contrast purposes.
-
-Credits: r/AeronDrake. Sax & PerfectlyCircularSeal for the amazing class theme I used as base to build all of this. You can find the original here: https://www.reddit.com/r/daggerheart/comments/1lh9pg8/daggerheart_homebrewery_class_template_created_by/
-
--------------- How to import this theme into your own brew --------------
-
-If you want to use this theme in your brews, you can copy the Share link, then go to the Properties of your own brew, and in the Theme section paste the share link. This will apply automatically the style and import any snippets this theme have.
-
-Note: If you import the theme this way, make sure to add the "DH Style Editor options" snippet to the Style Editor if you want to adjust or modify the colors for Chapters and Classes you're making.
-
-Alternatively, you can create a copy of this brew and then modify that one, or copy and paste everything in the Style Editor and Snippets into a new brew.
-
--------------------------------------------------------------------------
-
-NOTE: Page numbers in the Table of Contents are estimates. Adjust them after pasting into Homebrewery once you can see actual pagination.
-
--->
-
-{{frontCover}}
-
-\page
+<!-- {{frontCover}}
 
 {{CreditsPage}}
 
@@ -61,11 +14,11 @@ This is a GM reference document for The Concordat Era campaign setting. Do not d
 
 ![DH BigLogo](https://i.imgur.com/0XZ2xIv.png) {position:relative,height:5em,margin-left:2em}
 
-\page
+-->
 
 {{toc,wide
 
-# Table of Contents
+
 
 | Section | Page |
 |:--------|-----:|
@@ -77,6 +30,25 @@ This is a GM reference document for The Concordat Era campaign setting. Do not d
 | Section F: Campaign Framing | 17 |
 
 }}
+
+:
+
+## Goals
+
+By the end of this book, a player should be able to:
+
+1. Name every major faction and articulate why a reasonable person would support or oppose each one.
+2. Explain the Force crisis in the terms their character would use.
+3. Build a character with specific loyalties, specific enemies, specific fears, and specific hopes.
+4. Understand the military, political, and economic landscape well enough to make informed in-character decisions.
+5. Feel the setting's weight without being crushed by it: know that the galaxy is broken and believe that their character might be part of what comes next.
+
+{{note
+Supplement II complete. All original open questions are now resolved. The lore bible (base document + this supplement) constitutes the full design authority for Phase 2 drafting.
+
+Ready to begin writing the actual book on your signal.
+}}
+
 
 \page
 
@@ -403,7 +375,7 @@ This setting is grimdark in its history and materially honest in its present. It
 
 **Grimdark means:** The institutions are broken. The leaders are compromised. The wars produced atrocities that no faction can justify and every faction tries to. The Force is dying and no one knows how to stop it. Power corrupts. Idealism gets people killed. The galaxy is run by exhausted pragmatists, traumatized veterans, and true believers whose faith makes them dangerous.
 
-**Not nihilistic means:** People still fall in love. Parents still protect their children. A Mandalorian warrior teaches a refugee kid to fight and doesn't ask for anything in return. A Jedi healer works in a Concordat clinic knowing the government monitors her and heals people anyway. A Sith Pureblood engineer on Nar Shaddaa builds water purifiers for a slum community because someone has to. A Republic soldier who served in the Ashen Campaigns adopts a war orphan from a world his unit destroyed.
+People still fall in love. Parents still protect their children. A Mandalorian warrior teaches a refugee kid to fight and doesn't ask for anything in return. A Jedi healer works in a Concordat clinic knowing the government monitors her and heals people anyway. A Sith Pureblood engineer on Nar Shaddaa builds water purifiers for a slum community because someone has to. A Republic soldier who served in the Ashen Campaigns adopts a war orphan from a world his unit destroyed.
 
 The setting's horror gives the heroism weight. The heroism gives the horror meaning. Without the darkness, courage is trivial. Without the courage, darkness is a parody.
 
@@ -411,17 +383,15 @@ The setting's horror gives the heroism weight. The heroism gives the horror mean
 
 When drafting the setting book:
 
-1. **History is honest.** The Mandalorian Wars, the Ashen Campaigns, Cathar, Serroco: describe them with unflinching specificity. Do not sanitize. Do not moralize. Let the reader feel the weight and draw their own conclusions.
+**History is honest.** The Mandalorian Wars, the Ashen Campaigns, Cathar, Serroco: describe them with unflinching specificity. Do not sanitize. Do not moralize. Let the reader feel the weight and draw their own conclusions.
 
-2. **The present is contested.** The current moment is not hopeless. It is volatile. Things could get better or worse depending on what people do. Every chapter about the present should contain at least one thread of genuine possibility: a reform movement, an act of courage, a community that works despite everything.
+**The present is contested.** The current moment is not hopeless. It is volatile. Things could get better or worse depending on what people do. Every chapter about the present should contain at least one thread of genuine possibility: a reform movement, an act of courage, a community that works despite everything.
 
-3. **Characters are complicated.** Malak is building something monstrous and something functional simultaneously. Revan is losing his mind and may be the only person who understands what's happening to the Force. Canderous is fighting for a beautiful idea that is killing his people. Kreia may be right about everything except the part that matters most. Write every major figure as someone a player could admire and fear in the same conversation.
+**Characters are complicated.** Malak is building something monstrous and something functional simultaneously. Revan is losing his mind and may be the only person who understands what's happening to the Force. Canderous is fighting for a beautiful idea that is killing his people. Kreia may be right about everything except the part that matters most. Write every major figure as someone a player could admire and fear in the same conversation.
 
-\column
+**Small moments carry the weight.** The setting book should include moments of ordinary human (and alien) dignity alongside the political and military material. A kolto medic sharing her rations with a patient. A Mandalorian father singing his daughter to sleep in armor he hasn't taken off in three days. A Jedi Sentinel sitting alone in a cantina, trying to remember what it felt like when the Force worked. These moments are not softening. They are the point.
 
-4. **Small moments carry the weight.** The setting book should include moments of ordinary human (and alien) dignity alongside the political and military material. A kolto medic sharing her rations with a patient. A Mandalorian father singing his daughter to sleep in armor he hasn't taken off in three days. A Jedi Sentinel sitting alone in a cantina, trying to remember what it felt like when the Force worked. These moments are not softening. They are the point.
-
-5. **The Force crisis is grief.** For Force-sensitive characters, the dying Force is not an abstract strategic problem. It is like losing a sense. Like going deaf in a world built for music. Write it that way. The political and military consequences of the Force crisis matter, but the personal devastation is what makes it real.
+**The Force crisis is grief.** For Force-sensitive characters, the dying Force is not an abstract strategic problem. It is like losing a sense. Like going deaf in a world built for music. Write it that way. The political and military consequences of the Force crisis matter, but the personal devastation is what makes it real.
 
 {{footnote SECTION E: TONE CALIBRATION}}
 {{pageNumber,auto}}
@@ -439,31 +409,16 @@ The first Concordat Era actual play (the podcast Elizabeth will host and cast) w
 
 In practice, this means:
 
-**Faction politics get the most page space.** The Concordat, the Remnant, the Neo-Mandalorians, and the Triumvirate should each feel like organizations a player character could serve, oppose, infiltrate, or reshape. Their internal contradictions should generate plot hooks on every page.
+##### Faction politics get the most page space 
+The Concordat, the Remnant, the Neo-Mandalorians, and the Triumvirate should each feel like organizations a player character could serve, oppose, infiltrate, or reshape. Their internal contradictions should generate plot hooks on every page.
 
-**Military material is grounded and specific.** Fleet sizes, supply logistics, the security gradient, garrison life, mercenary culture: all of this should feel real enough that a player running a military character has material to work with. Not a wargaming supplement, but enough texture that "my character is a Concordat naval officer" or "my character deserted from the Remnant" comes with specific, playable context.
+##### Military material is grounded and specific 
+Fleet sizes, supply logistics, the security gradient, garrison life, mercenary culture: all of this should feel real enough that a player running a military character has material to work with. Not a wargaming supplement, but enough texture that "my character is a Concordat naval officer" or "my character deserted from the Remnant" comes with specific, playable context.
 
-**Space opera tone in the present tense.** The setting's present should feel like a galaxy where things happen at opera scale: grand betrayals, impossible alliances, desperate missions behind enemy lines, duels that decide the fate of systems. The grimdark history provides the foundation; the present-tense writing should have the energy and forward momentum of a story that hasn't been decided yet.
+##### Space opera tone in the present tense
+The setting's present should feel like a galaxy where things happen at opera scale: grand betrayals, impossible alliances, desperate missions behind enemy lines, duels that decide the fate of systems. The grimdark history provides the foundation; the present-tense writing should have the energy and forward momentum of a story that hasn't been decided yet.
 
-**Force mystery runs underneath.** The Force crisis is the setting's spine, but it should function as an ongoing background mystery rather than the primary focus of every chapter. It comes up everywhere, in medicine, in politics, in daily life, but the book doesn't dwell on it. It haunts. It's the question no one can answer, present in every conversation about the future.
+##### The Force is "Mythical"
+The Force crisis is the setting's spine, but it should function as an ongoing background mystery rather than the primary focus of every chapter. It comes up everywhere, in medicine, in politics, in daily life, but the book doesn't dwell on it. It haunts. It's the question no one can answer, present in every conversation about the future.
 
-\column
-
-### What the Book Promises the Reader
-
-By the end of this book, a player should be able to:
-
-1. Name every major faction and articulate why a reasonable person would support or oppose each one.
-2. Explain the Force crisis in the terms their character would use.
-3. Build a character with specific loyalties, specific enemies, specific fears, and specific hopes.
-4. Understand the military, political, and economic landscape well enough to make informed in-character decisions.
-5. Feel the setting's weight without being crushed by it: know that the galaxy is broken and believe that their character might be part of what comes next.
-
-{{note
-Supplement II complete. All original open questions are now resolved. The lore bible (base document + this supplement) constitutes the full design authority for Phase 2 drafting.
-
-Ready to begin writing the actual book on your signal.
-}}
-
-{{footnote SECTION F: CAMPAIGN FRAMING}}
 {{pageNumber,auto}}
