@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# InDesign working files
+*.idlk
+*.indb.lock
+
+# Package folders (InDesign packages)
+*_Package/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Export artifacts (regenerate from source)
+exports/
+
+# Font caches
+.fontcache/
