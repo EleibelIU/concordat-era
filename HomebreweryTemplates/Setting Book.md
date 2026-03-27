@@ -177,11 +177,8 @@ There are things this book does not contain. Hidden conspiracies that no one in 
 
 {{note
 ##### A Note on Calendars
-This book uses two dating systems. BBY (Before the Battle of Yavin) is the standard galactic reference calendar used by historians and archivists. The Concordat uses its own calendar measured from the Concordat's signing: 1 CE, 2 CE, and so on.
+This book uses two dating systems. BBY (Before the Battle of Yavin) is the standard galactic reference calendar used by historians and archivists. The Concordat uses its own calendar measured from the Concordat's signing: 1 CE, 2 CE, and so on. Given BBY refers to events that are meta-knowledge (That is, they are from movies that take place long after the Old Republic era), expect to hear C.E. for most events in game. 
 
-Which calendar a person uses tells you who they work for. Concordat officials say "Year Four." Remnant sympathizers say "3952 BBY." Mandalorians track time by their own reckoning.
-
-Your character's choice of calendar is a small, free piece of worldbuilding.
 }}
 
 {{footnote Part I: Welcome}}
@@ -541,9 +538,6 @@ The Remnant's functional leadership is Kaeranth, Jedi historian Master Dorak, an
 {{footnote Chapter 6: The Major Powers}}
 {{pageNumber,auto}}
 
-\page
-
-{{Ch2,tab}}
 
 ### 6.4 The Jedi Order
 
