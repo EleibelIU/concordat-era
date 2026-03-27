@@ -1051,7 +1051,7 @@ Everyone on all four ships knows that none of them can leave without solving the
 
 ### 13.2 The Windfall Protocol
 
-**Premise:** You are Sith-aligned operatives. You wake in kolto immersion tanks inside a blacked-out refining station on the seafloor of an ocean moon. The station is in lockdown. Emergency lighting only. The kolto in your tanks is wrong: cloudy, faintly luminescent, and it tastes like copper and ozone.
+**Premise:** You are Sith-aligned operatives. You wake in kolto immersion tanks inside a blacked-out refining station on the seafloor of an ocean moon. The station is in lockdown. Emergency lighting only. The kolto in your tanks isn't normal: cloudy, faintly luminescent, but it tastes sweet and tart.
 
 None of you know each other. None of you remember arriving. Each of you was sent here by a different Sith authority, and your missions contradict. The last station log is three days old. One survivor remains: a dying Selkath foreman named Vossk. Six canisters of refined kolto sit in the docking bay, loaded onto a shuttle that seats one fewer than your party. A Republic patrol answered an automated distress beacon. It arrives in two hours.
 
