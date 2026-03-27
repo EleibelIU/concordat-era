@@ -38,6 +38,7 @@ concordat-era/
 
 ### GM-Facing
 - **GM Guide** — Six campaign genres, three Sith/evil campaign variants, five alternate timeframes, and an opinionated GM philosophy drawing on the Alexandrian, Sly Flourish, and Burning Wheel design traditions.
+- **Lore Bible** — Expanded GM reference: full timeline, deep faction history, Kreia/Triumvirate, Sith remnants, Jedi fractures, kolto economics, the Freighter Incident scenario, and open design questions. Currently split across `lore-bible.md` and `lore-bible-supplement.md` — to be merged into one document.
 
 ### Production
 - **Style Guide** — Complete visual specifications for InDesign layout: fonts, colors, type hierarchy, master pages, section-specific tonal shifts, template recommendations.
@@ -52,10 +53,14 @@ The formatted setting book lives at: https://homebrewery.naturalcrit.com/edit/8B
 
 ## Status
 
-All writing phases (1-6) complete. Currently in production/layout phase.
+Writing ongoing. Core documents complete; lore bible merge and structural revisions in progress. Currently in production/layout phase.
 
 ## TODO
 
+- [ ] Merge `lore-bible.md` and `lore-bible-supplement.md` into a single GM reference document
+- [ ] Revise setting book structure: remove Part/Chapter hierarchy, use Chapters only
 - [ ] Add additional planets to Chapter 8: Worlds, Regions, and Frontiers
 - [ ] Create galactic map: Pre-Concordat era
 - [ ] Create galactic map: Post-Concordat era
+- [ ] Add all art assets to `/assets` folder in GitHub
+- [ ] Credit all artists used in cover art and other illustrations; obtain permission where not already cleared
