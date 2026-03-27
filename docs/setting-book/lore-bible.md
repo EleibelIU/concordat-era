@@ -12,23 +12,25 @@ Freighter Incident details received from Elizabeth's Owen chat context. See Sect
 
 ### Dating Convention
 
-The book will use standard BBY (Before the Battle of Yavin) dating for absolute chronology, consistent with KOTOR-era material. The Concordat government maintains its own internal calendar measured from the signing of the Concordat (1 CE, Concordat Era), which the Revanchist Remnant refuses to recognize.
+The book will use standard BBY (Before the Battle of Yavin) dating for absolute chronology, consistent with KOTOR-era material. The Concordat government maintains its own internal calendar measured from the signing of the Concordat: **CE** (Concordat Era) for years after, and **BC** (Before Concordat) applied retroactively to years before — a historian's convention. The Revanchist Remnant refuses to recognize either designation.
 
-In-universe, the calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. This is deliberate: how a character dates a letter tells you who they answer to.
+The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.* Assign months to specific events as needed; only anchor dates require precision.
+
+In-universe, the calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
 
 ### Absolute Timeline
 
 | BBY | Event | Concordat Calendar |
 |-----|-------|--------------------|
-| 3964 | Great Hyperspace War ends. The Sith Empire collapses. The Force sustains catastrophic damage from massed Sith ritual warfare. | Pre-Concordat |
-| 3963 | Mandalore the Vindicated's gathering on Dxun. Adoption of the Doctrine of Necessary Strength. | Pre-Concordat |
-| 3962 | **Year One of the Mandalorian Wars.** Siege of Taris. The Mandalorian expansion begins. | Pre-Concordat |
-| 3961 | Onderon Campaign. Beast Riders earn alliance. Sixty systems under Mandalorian influence. | Pre-Concordat |
-| 3960 | Serroco Resource Pact. Eighty systems. Mandalorian administrative failures accelerate. | Pre-Concordat |
-| 3959 | **Year Four.** The Razing of Cathar. The Revanchists form under Revan. First Revanchist victories. | Pre-Concordat |
-| 3958 | The Battle of Jebble. Malak takes operational command. Revan's research into Sith artifacts intensifies. Serroco Atrocity. | Pre-Concordat |
-| 3957 | **The Ashen Campaigns begin.** Force weaponized at strategic scale. First confirmed wounds in the Force tied to combat operations. | Pre-Concordat |
-| 3956 | The Ashen Campaigns escalate. The Burning of Duro. The Siege of Onderon (Second). Dead zones proliferate. Kreia vanishes from all Jedi records. | Pre-Concordat |
+| 3964 | Great Hyperspace War ends. The Sith Empire collapses. The Force sustains catastrophic damage from massed Sith ritual warfare. | 9 BC |
+| 3963 | Mandalore the Vindicated's gathering on Dxun. Adoption of the Doctrine of Necessary Strength. | 8 BC |
+| 3962 | **Year One of the Mandalorian Wars.** Siege of Taris. The Mandalorian expansion begins. | 7 BC |
+| 3961 | Onderon Campaign. Beast Riders earn alliance. Sixty systems under Mandalorian influence. | 6 BC |
+| 3960 | Serroco Resource Pact. Eighty systems. Mandalorian administrative failures accelerate. | 5 BC |
+| 3959 | **Year Four.** The Razing of Cathar. The Revanchists form under Revan. First Revanchist victories. | 4 BC |
+| 3958 | The Battle of Jebble. Malak takes operational command. Revan's research into Sith artifacts intensifies. Serroco Atrocity. | 3 BC |
+| 3957 | **The Ashen Campaigns begin.** Force weaponized at strategic scale. First confirmed wounds in the Force tied to combat operations. | 2 BC |
+| 3956 | The Ashen Campaigns escalate. The Burning of Duro. The Siege of Onderon (Second). Dead zones proliferate. Kreia vanishes from all Jedi records. | 1 BC |
 | 3955 | **Year Seven.** Malak's Dhas'kara challenge. The Concordat signed. Canderous Ordo forms the Neo-Mandalorian Coalition. | 1 CE |
 | 3954 | Concordat consolidation. Senate ratification. Malak appointed Supreme Chancellor-General. Admiral Kaeranth extracts Revan. Revanchist Remnant established. | 2 CE |
 | 3953 | Jedi Council authorizes the Sentinel Program under Master Kavar, designed by Atris. Sith Triumvirate consolidation in the shadows. | 3 CE |

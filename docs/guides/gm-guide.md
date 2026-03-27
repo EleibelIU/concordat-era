@@ -236,7 +236,7 @@ The setting book describes the Concordat Era at 3952 BBY. The GM is not obligate
 
 **GM note:** This frame requires the GM to be comfortable with political worldbuilding on the fly. The factions are forming. Their policies aren't set. The party's actions can shape the Concordat, the Remnant, and the Neo-Mandalorians into different versions of what the setting book describes.
 
-### Frame 2: The Ashen Campaigns (3957-3956 BBY)
+### Frame 2: The Ashen Campaigns (3957-3956 BBY / 2-1 BC)
 
 **When:** The Mandalorian Wars are at their most desperate. Malak has just discovered coordinated Force-channeling. The first Ashen strikes are being tested. Revan is in the Unknown Regions or unreachable. The war is grinding both sides to dust.
 

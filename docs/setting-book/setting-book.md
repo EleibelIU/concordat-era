@@ -912,7 +912,7 @@ None of you know each other. None of you remember arriving. Each of you was sent
 
 **Concordat** — The political agreement (3955 BBY) merging Republic governance with Mandalorian military strength. Also refers to the government that emerged from it, led by Supreme Chancellor-General Malak.
 
-**Concordat Era (CE)** — Calendar system used by the Concordat government, measured from the signing of the Concordat. The campaign begins in 4 CE (3952 BBY).
+**Before Concordat (BC) / Concordat Era (CE)** — Calendar system used by the Concordat government. BC (Before Concordat) is applied retroactively to years before the signing: 9 BC (Great Hyperspace War), down to 1 BC. CE (Concordat Era) counts from the signing: 1 CE, 2 CE, etc. The campaign begins in 4 CE (3952 BBY).
 
 **Cortosis** — A mineral that disrupts lightsaber blades and energy shields on contact. Strategically valuable for military applications.
 

@@ -30,40 +30,41 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
   - [{{ Chapter 2: How to Use This Book}}{{ 5}}](#p5)
 - # [{{ Part II: How We Got Here}}{{}}](#p6)
   - [{{ Chapter 3: The Galaxy at a Glance}}{{ 6}}](#p6)
+  - [{{ Timeline at a Glance}}{{ 7}}](#p7)
   - [{{ Chapter 4: A History of the Concordat Era}}{{ 8}}](#p8)
     - [{{ The War That Broke the Sky}}{{ 8}}](#p8)
     - [{{ The Doctrine of Necessary Strength}}{{ 8}}](#p8)
-    - [{{ The Expansion}}{{ 9}}](#p9)
-    - [{{ The Razing of Cathar}}{{ 9}}](#p9)
-    - [{{ The Revanchists}}{{ 10}}](#p10)
-    - [{{ The Ashen Campaigns}}{{ 10}}](#p10)
-    - [{{ The Dhas'kara & The Concordat}}{{ 11}}](#p11)
-    - [{{ The Years Since}}{{ 11}}](#p11)
-- # [{{ Part III: The Galaxy Now}}{{}}](#p12)
-  - [{{ Chapter 5: Life in the Concordat Era}}{{ 12}}](#p12)
-  - [{{ Chapter 6: The Major Powers}}{{ 14}}](#p14)
-    - [{{ The Concordat}}{{ 14}}](#p14)
-    - [{{ The Revanchist Remnant}}{{ 15}}](#p15)
-    - [{{ The Neo-Mandalorian Coalition}}{{ 15}}](#p15)
-    - [{{ The Jedi Order}}{{ 16}}](#p16)
-    - [{{ The Sith}}{{ 16}}](#p16)
-    - [{{ Independent Powers}}{{ 17}}](#p17)
-  - [{{ Chapter 7: The Force in Crisis}}{{ 17}}](#p17)
-- # [{{ Part IV: Places}}{{}}](#p19)
-  - [{{ Chapter 8: Worlds, Regions, and Frontiers}}{{ 19}}](#p19)
-- # [{{ Part V: Peoples}}{{}}](#p22)
-  - [{{ Chapter 9: Peoples and Species}}{{ 22}}](#p22)
-- # [{{ Part VI: Belief and Meaning}}{{}}](#p25)
-  - [{{ Chapter 10: Belief, Religion, and Philosophy}}{{ 25}}](#p25)
-- # [{{ Part VII: The Material Galaxy}}{{}}](#p27)
-  - [{{ Chapter 11: War, Trade, Technology, and Survival}}{{ 27}}](#p27)
-- # [{{ Part VIII: Your Character}}{{}}](#p28)
-  - [{{ Chapter 12: Making a Character}}{{ 28}}](#p28)
-- # [{{ Part IX: Where We Begin}}{{}}](#p30)
-  - [{{ Chapter 13: Starting Scenarios}}{{ 30}}](#p30)
-- # [{{ Appendices}}{{}}](#p31)
-  - [{{ Appendix A: Glossary}}{{ 31}}](#p31)
-  - [{{ Appendix B: Suggested Reading}}{{ 33}}](#p33)
+    - [{{ The Expansion}}{{ 8}}](#p8)
+    - [{{ The Razing of Cathar}}{{ 8}}](#p8)
+    - [{{ The Revanchists}}{{ 9}}](#p9)
+    - [{{ The Ashen Campaigns}}{{ 9}}](#p9)
+    - [{{ The Dhas'kara & The Concordat}}{{ 10}}](#p10)
+    - [{{ The Years Since}}{{ 10}}](#p10)
+- # [{{ Part III: The Galaxy Now}}{{}}](#p11)
+  - [{{ Chapter 5: Life in the Concordat Era}}{{ 11}}](#p11)
+  - [{{ Chapter 6: The Major Powers}}{{ 12}}](#p12)
+    - [{{ The Concordat}}{{ 12}}](#p12)
+    - [{{ The Revanchist Remnant}}{{ 12}}](#p12)
+    - [{{ The Neo-Mandalorian Coalition}}{{ 12}}](#p12)
+    - [{{ The Jedi Order}}{{ 13}}](#p13)
+    - [{{ The Sith}}{{ 13}}](#p13)
+    - [{{ Independent Powers}}{{ 13}}](#p13)
+  - [{{ Chapter 7: The Force in Crisis}}{{ 14}}](#p14)
+- # [{{ Part IV: Places}}{{}}](#p15)
+  - [{{ Chapter 8: Worlds, Regions, and Frontiers}}{{ 15}}](#p15)
+- # [{{ Part V: Peoples}}{{}}](#p17)
+  - [{{ Chapter 9: Peoples and Species}}{{ 17}}](#p17)
+- # [{{ Part VI: Belief and Meaning}}{{}}](#p19)
+  - [{{ Chapter 10: Belief, Religion, and Philosophy}}{{ 19}}](#p19)
+- # [{{ Part VII: The Material Galaxy}}{{}}](#p20)
+  - [{{ Chapter 11: War, Trade, Technology, and Survival}}{{ 20}}](#p20)
+- # [{{ Part VIII: Your Character}}{{}}](#p21)
+  - [{{ Chapter 12: Making a Character}}{{ 21}}](#p21)
+- # [{{ Part IX: Where We Begin}}{{}}](#p22)
+  - [{{ Chapter 13: Starting Scenarios}}{{ 22}}](#p22)
+- # [{{ Appendices}}{{}}](#p23)
+  - [{{ Appendix A: Glossary}}{{ 23}}](#p23)
+  - [{{ Appendix B: Suggested Reading}}{{ 25}}](#p25)
 }}
 
 \page
@@ -133,8 +134,13 @@ There are things this book does not contain. Hidden conspiracies that no one in 
 
 {{note
 ##### A Note on Calendars
-This book uses two dating systems. BBY (Before the Battle of Yavin) is the standard galactic reference calendar used by historians and archivists. The Concordat uses its own calendar measured from the Concordat's signing: 1 CE, 2 CE, and so on. Given BBY refers to events that are meta-knowledge (That is, they are from movies that take place long after the Old Republic era), expect to hear C.E. for most events in game. 
+This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment.
 
+**Out of character:** The Battle of Yavin is the destruction of the Galactic Empire's Death Star above Yavin 4, the climactic battle of the Galactic Civil War depicted in *A New Hope*. It is Year Zero of the BBY/ABY calendar system. Nobody in 3952 BBY has any knowledge of it. BBY appears in this book as an orientation tool for readers who know the broader Star Wars canon.
+
+In-world, characters use the **Concordat Era calendar**. Events before the Concordat's signing use **BC** (Before Concordat): 9 BC at the Great Hyperspace War's end, counting down to 1 BC. Events after use **CE** (Concordat Era): 1 CE, 2 CE, and so on. The campaign begins in 4 CE.
+
+The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.* Expect these in play when timing matters.
 }}
 
 {{footnote Part I: Welcome}}
@@ -207,15 +213,15 @@ Your characters walk into this. Armed, opinionated, and connected to a galaxy th
 {{DHTable,wide
 | BBY | Event | Concordat Calendar |
 |:----|:------|:-------------------|
-| 3964 | Great Hyperspace War ends. The Sith Empire collapses. The Force sustains catastrophic damage from massed Sith ritual warfare. | Pre-Concordat |
-| 3963 | Mandalore the Vindicated's gathering on Dxun. Adoption of the Doctrine of Necessary Strength. | Pre-Concordat |
-| 3962 | **Year One of the Mandalorian Wars.** Siege of Taris. The Mandalorian expansion begins. | Pre-Concordat |
-| 3961 | Onderon Campaign. Beast Riders earn alliance. Sixty systems under Mandalorian influence. | Pre-Concordat |
-| 3960 | Serroco Resource Pact. Eighty systems. Mandalorian administrative failures accelerate. | Pre-Concordat |
-| 3959 | **Year Four.** The Razing of Cathar. The Revanchists form under Revan. First Revanchist victories. | Pre-Concordat |
-| 3958 | The Battle of Jebble. Malak takes operational command. Revan's research into Sith artifacts intensifies. Serroco Atrocity. | Pre-Concordat |
-| 3957 | **The Ashen Campaigns begin.** Force weaponized at strategic scale. First confirmed wounds in the Force tied to combat operations. | Pre-Concordat |
-| 3956 | The Ashen Campaigns escalate. The Burning of Duro. The Siege of Onderon (Second). Dead zones proliferate. Kreia vanishes from all Jedi records. | Pre-Concordat |
+| 3964 | Great Hyperspace War ends. The Sith Empire collapses. The Force sustains catastrophic damage from massed Sith ritual warfare. | 9 BC |
+| 3963 | Mandalore the Vindicated's gathering on Dxun. Adoption of the Doctrine of Necessary Strength. | 8 BC |
+| 3962 | **Year One of the Mandalorian Wars.** Siege of Taris. The Mandalorian expansion begins. | 7 BC |
+| 3961 | Onderon Campaign. Beast Riders earn alliance. Sixty systems under Mandalorian influence. | 6 BC |
+| 3960 | Serroco Resource Pact. Eighty systems. Mandalorian administrative failures accelerate. | 5 BC |
+| 3959 | **Year Four.** The Razing of Cathar. The Revanchists form under Revan. First Revanchist victories. | 4 BC |
+| 3958 | The Battle of Jebble. Malak takes operational command. Revan's research into Sith artifacts intensifies. Serroco Atrocity. | 3 BC |
+| 3957 | **The Ashen Campaigns begin.** Force weaponized at strategic scale. First confirmed wounds in the Force tied to combat operations. | 2 BC |
+| 3956 | The Ashen Campaigns escalate. The Burning of Duro. The Siege of Onderon (Second). Dead zones proliferate. Kreia vanishes from all Jedi records. | 1 BC |
 | 3955 | **Year Seven.** Malak's Dhas'kara challenge. The Concordat signed. Canderous Ordo forms the Neo-Mandalorian Coalition. | 1 CE |
 | 3954 | Concordat consolidation. Senate ratification. Malak appointed Supreme Chancellor-General. Admiral Kaeranth extracts Revan. Revanchist Remnant established. | 2 CE |
 | 3953 | Jedi Council authorizes the Sentinel Program under Master Kavar, designed by Atris. Sith Triumvirate consolidation in the shadows. | 3 CE |
@@ -1050,7 +1056,7 @@ Trust no one, and remember that the person you suspect the most may be the one y
 | **Canderous Ordo** | Leader of the Neo-Mandalorian Coalition. Traditionalist who rejected the Concordat as dishonor. |
 | **Cassus Fett** | Mandalorian strategist and logistician. Commanded the Cathar operation. Now aligned with the Concordat's Integrationist faction. |
 | **Concordat** | The political agreement (3955 BBY) merging Republic governance with Mandalorian military strength. Also refers to the government led by Supreme Chancellor-General Malak. |
-| **Concordat Era (CE)** | Calendar system used by the Concordat government, measured from the signing of the Concordat. The campaign begins in 4 CE (3952 BBY). |
+| **Before Concordat (BC) / Concordat Era (CE)** | Calendar system used by the Concordat government. BC (Before Concordat) is applied retroactively to years before the signing: 9 BC (Great Hyperspace War), down to 1 BC. CE (Concordat Era) counts from the signing: 1 CE, 2 CE, etc. The campaign begins in 4 CE (3952 BBY). |
 | **Cortosis** | A mineral that disrupts lightsaber blades and energy shields on contact. Strategically valuable. |
 | **Czerka Corporation** | The galaxy's largest private resource extraction company. Operates mining operations across the Outer Rim with aggressive labor practices. |
 | **Dead Zone** | A region where the Force is absent or severely distorted. Caused by Sith rituals, Ashen Campaign strikes, or unknown factors. |
