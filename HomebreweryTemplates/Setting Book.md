@@ -43,6 +43,14 @@ NOTE: Page numbers in the Table of Contents are estimates. Adjust them after pas
 
 -->
 
+{{frontCover}}
+
+![Fantasy Castle](https://temp-image.com/ib/DXeqBBwOpw0svxA_1774584330.png){position:absolute,top:0,left:0,width:100%,height:100%,z-index:-1}
+
+
+\page
+
+
 {{CreditsPage}}
 
 ### Credits Page
