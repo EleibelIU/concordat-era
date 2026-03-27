@@ -6,8 +6,6 @@ The Concordat Era reimagines the post-Mandalorian Wars galaxy through Napoleonic
 
 **System:** Fate Condensed. The Force is an Extra costing 1 stunt slot, interacting with the setting's dead zone system and compel economy.
 
----
-
 ## Documents
 
 ### Player-Facing
@@ -26,9 +24,8 @@ The Concordat Era reimagines the post-Mandalorian Wars galaxy through Napoleonic
 | [Lore Bible](docs/setting-book/lore-bible.md) | Full timeline, deep faction history, Kreia/Triumvirate, Sith remnants, Jedi fractures, kolto economics, the Freighter Incident scenario, and open design questions. Split across two files pending merge. |
 | [Style Guide](docs/production/style-guide.md) | Visual specifications for InDesign layout: fonts, colors, type hierarchy, master pages, and section-specific tonal shifts. |
 
----
 
-## Homebrewery
+##Homebrewery
 
 > **This repo is the source of truth.** Homebrewery has persistent syncing issues and drifts from the canonical text. Always assume the Homebrewery versions are behind. Use them for rendering only.
 
@@ -40,9 +37,8 @@ Formatted source files live in [Homebrewery/](Homebrewery/). Layout uses [KOTOR_
 | Lore Bible I | [Homebrewery/Lore Bible I.md](Homebrewery/Lore%20Bible%20I.md) | [Edit](https://homebrewery.naturalcrit.com/edit/PuSZMHesu1EL) |
 | Lore Bible II | [Homebrewery/Lore Bible II.md](Homebrewery/Lore%20Bible%20II.md) | [Edit](https://homebrewery.naturalcrit.com/edit/GzvXtMiO5Hzs) |
 
----
 
-## Status & TODO
+##Status & TODO
 
 Writing ongoing. Core documents complete; lore bible merge and structural revisions in progress. Currently in production/layout phase.
 
