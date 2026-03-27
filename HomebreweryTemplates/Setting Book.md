@@ -119,30 +119,51 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
 
 \page
 
-{{Intro}}
+{{Intro,tab}}
 
-# Part I: Welcome
-## Chapter 1: To the Players
+<!--
+For adjusting the vertical spacing of a campaign frame, add or remove ":".
+Use "footnote,white" for white text on the dark CampaignFrame background.
+-->
+
+:::::::::::::::::::::::::::::::::::::::
+
+{{CampaignFrame
+{{wide
+# The Concordat Era
+*A letter to the players*
+}}
 
 You are about to play in a galaxy where the old certainties have failed.
 
 Twelve years ago, a war between the Republic and the Sith Empire cracked the Force itself. Five years after that, a second war between the Republic and the Mandalorian clans cracked everything else: the government, the economy, the military, the Jedi Order, and any remaining agreement about how civilization ought to work.
 
-The Concordat Era is what grew in the wreckage. A new government, forged from a battlefield bargain between a Jedi general and a Mandalorian warlord, holds the galaxy's center. Two rival factions contest its authority from the margins. The Jedi Order is fractured. The Sith, presumed destroyed, are not gone. And the Force continues to deteriorate in ways no one fully understands, which means that medicine, travel, communication, warfare, religion, and daily life are all becoming less reliable in ways that most people can feel but few can explain.
+The Concordat Era is what grew in the wreckage. A new government, forged from a battlefield bargain between a Jedi general and a Mandalorian warlord, holds the galaxy's center. Two rival factions contest its authority from the margins. The Jedi Order is fractured. The Sith, presumed destroyed, are not gone. The Force continues to deteriorate in ways no one fully understands, making medicine, travel, communication, warfare, and daily life all less reliable in ways most people can feel but few can explain.
 
 All three major governments believe they're saving the galaxy. All three have done things that demand accounting. The Concordat provides stability through authoritarianism. The Revanchist Remnant fights for democratic ideals while its leader disappears into obsession. The Neo-Mandalorian Coalition defends a code of honor that may be killing its own people. A hidden faction works toward an end none of the others see coming.
 
-Your characters enter this world with their own histories, loyalties, and convictions. Some of you will have fought in the Mandalorian Wars. Some of you will have grown up during them. Some of you will be too young to remember a galaxy that worked properly and will assume this is normal.
+Your characters enter this world with their own histories, loyalties, and convictions. Some of you will have fought in the Mandalorian Wars. Some will have grown up during them. Some will be too young to remember a galaxy that worked properly and will assume this is normal.
 
-Bring characters who believe things. Characters who owe debts they can't repay. Characters with scars, grudges, obligations, and reasons to get out of bed in the morning that have nothing to do with saving the galaxy. The campaign will give you opportunities to shape the fate of governments and peoples, but it will also ask you to decide what your character does when the kolto runs out, when the navigation computer fails in a dead zone, when the officer across the table offers a deal that would solve everything if you could live with the terms.
+Bring characters who believe things. Characters who owe debts they can't repay, carrying scars, grudges, and obligations with reasons to get out of bed in the morning that have nothing to do with saving the galaxy. The campaign will give you opportunities to shape the fate of governments and peoples. It will also ask what your character does when the kolto runs out, when the navigation computer fails in a dead zone, when the officer across the table offers a deal that would solve everything if you could live with the terms.
 
-If you know the Knights of the Old Republic games, the Old Republic MMO, or the Expanded Universe material set in this era, you will recognize names, places, and ideas adapted for this setting. The Concordat Era is not a retelling of those stories. It is an alternate history that asks: what if the choices went differently? What if the war never cleanly ended? What if the people you expected to become heroes or villains became something more complicated instead?
+If you know *Knights of the Old Republic*, the Old Republic MMO, or the Expanded Universe material from this era, you will recognize names, places, and ideas adapted for this setting. The Concordat Era is not a retelling of those stories. It asks: what if the choices went differently? What if the war never cleanly ended? What if the people expected to become heroes or villains became something more complicated instead?
 
-If you don't know any of that material, you lose nothing. Every proper noun in this book is explained when it first appears. You need a character with opinions and a willingness to see where those opinions take you.
+If you don't know any of that material, you lose nothing. Every proper noun is explained when it first appears. Bring a character with opinions and a willingness to follow where those opinions lead.
 
 The galaxy has not decided what it is yet. That decision belongs to the people living in it, and for the next several dozen sessions, some of those people are yours.
 
-{{footnote Part I: Welcome}}
+\column
+
+}}
+
+{{imageMaskEdge8,--offset:5%
+
+<!-- Don't change the mask edge 8, which is used as gradient for Campaign Frames. Use --offset to shift the mask away from page center (can use cm instead of %) -->
+
+![The Concordat Era](https://temp-image.com/ib/kmTb8aZJ2VcnNFF_1774585840.png){position:absolute,right:0%,top:0%,height:100%}
+}}
+
+{{footnote,white Part I: Welcome}}
 {{pageNumber,auto}}
 
 \page

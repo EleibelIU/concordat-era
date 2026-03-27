@@ -49,3 +49,9 @@ Fate Condensed. The Force is implemented as a mechanical Extra that costs 1 stun
 ## Status
 
 All writing phases (1-6) complete. Currently in production/layout phase.
+
+## TODO
+
+- [ ] Add additional planets to Chapter 8: Worlds, Regions, and Frontiers
+- [ ] Create galactic map: Pre-Concordat era
+- [ ] Create galactic map: Post-Concordat era
