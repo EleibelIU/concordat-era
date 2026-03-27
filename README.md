@@ -46,6 +46,16 @@ concordat-era/
 
 Fate Condensed. The Force is implemented as a mechanical Extra that costs 1 stunt slot and interacts with the setting's dead zone system and compel economy.
 
+## Homebrewery
+
+The formatted setting book lives at: https://homebrewery.naturalcrit.com/edit/8Bh534CEmzPy
+
 ## Status
 
 All writing phases (1-6) complete. Currently in production/layout phase.
+
+## TODO
+
+- [ ] Add additional planets to Chapter 8: Worlds, Regions, and Frontiers
+- [ ] Create galactic map: Pre-Concordat era
+- [ ] Create galactic map: Post-Concordat era
