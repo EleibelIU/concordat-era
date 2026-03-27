@@ -67,9 +67,8 @@ Freighter Incident details received from Elizabeth's Owen chat context. See Sect
 {{Ch1,tab}}
 
 {{wide
-# Section 1: BBY Timeline and Calendar
+# Section 1: Calendar
 
-## Dating Convention
 
 The book uses standard BBY (Before the Battle of Yavin) dating for absolute chronology, consistent with KOTOR-era material. The Concordat government maintains its own internal calendar measured from the signing of the Concordat (1 CE, Concordat Era), which the Revanchist Remnant refuses to recognize.
 
@@ -96,7 +95,11 @@ In-universe, the calendar is political. Using Concordat Era dating signals loyal
 | **3952** | **Campaign start. Revan returns from the Unknown Regions. The Freighter Incident.** | **4 CE** |
 }}
 
+
+{{wide
 The campaign begins in 3952 BBY, four years after the Concordat was signed. Long enough for the new order to have calcified into something real, short enough that the wounds of the war are still raw.
+wide 
+}}
 
 {{footnote SECTION 1: BBY TIMELINE AND CALENDAR}}
 {{pageNumber,auto}}
