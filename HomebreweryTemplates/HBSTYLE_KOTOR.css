@@ -1,0 +1,1670 @@
+/*---------------------------------------------
+-----------------------------------------------
+
+I commented different parts in the Style Editor that should help to understand a bit the style code and which parts should be the ones you might want to modify.
+
+If you want to change colors of the chapters and Class Backgrounds, check the CHAPTER COLOR CONFIGURATION SETTINGS and CLASS COLOR CONFIGURATION SETTINGS. You can use Ctrl+F to bring a search bar in the code and find these sections (or any other).
+
+-----------------------------------------------
+---------------------------------------------*/
+
+/*----------------- FONT IMPORT -----------------*/
+
+
+@import url('https://rawcdn.githack.com/Sax-A2/Questa-Sans-Font/b06499e3ffd67e3a800d3d9558397e759f5100c1/Questa%20Sans%20FULL%20FREAKING%20FAMILY/stylesheet.css');
+
+@import url('https://rawcdn.githack.com/Sax-A2/Eleveth-Clean-Regular-Thin-Bold/037a7a4c96281271f662adfb957af08677a1a3a5/Eleveth%20Clean%20Regular-Thin-Bold/Eleveth%20Clean%20Thin%20and%20Regular.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+
+@import url("https://use.typekit.net/bpk4qqo.css");
+
+
+/*----------------- FRONT COVER -----------------*/
+.page {
+  &:has(.frontCover) {
+
+    .logo {
+      all                 : unset;
+      display             : inline-block;
+      width               : 60px;
+      height              : 60px;
+      margin              : 900px 0px 0px 0px;
+      background-image    : url('https://i.imgur.com/S4Dwwg0.png');
+      background-size     : contain;
+      background-position-x : center;
+      background-repeat   : no-repeat;
+      filter              : drop-shadow(0 0 0.1px #242a63); /*delete this line to remove the blur behind the DH Homebrew logo. You might use it or modify to contrast the logo with the bagckground.*/
+    }
+    
+    h1 {
+      position            : absolute;
+      left                : 0;
+      right               : 0;
+      top                 : 50px;
+      font-family         : 'Poller One', serif;
+      font-weight         : 400;
+      font-style          : normal;
+      font-size           : 70px;
+      letter-spacing      : -6px;
+      background          : -webkit-linear-gradient(0deg,#242a63, #242a63, #242a63, #0ca7cd, #0ca7cd);
+                            -webkit-background-clip: text;
+                            -webkit-text-fill-color: transparent;
+                            -webkit-text-stroke : 0mm white; /*change this to modify the header outline. Leave it on 0mm to remove it*/
+      filter              : drop-shadow(0 0 0.2mm #7483a9); /*delete this line to remove the blur behind the title. You might use it or modify to contrast the text with the bagckground.*/
+    }
+  }
+}
+
+/*----------------- CREDITS PAGE SETTING -----------------*/
+
+.page {
+  &:has(.CreditsPage):after {
+  display     : none;
+  visibility  : hidden;
+  border      : none;
+    }
+  }
+  .CreditsPage  {
+    position: absolute;
+  + h3 {
+    color       : #536537 !important;
+    font-weight : 600 !important;
+    background  : transparent !important;
+    }
+}
+
+  /*------------ This is the dpcrCredits code if you want to use it instead
+  
+  .dpcrCredits{
+    position:absolute;
+    width: 40em;
+    bottom: 4em;
+    left: 4.5em;
+    font-size: 0.74em;
+  }
+
+/*----------------- NOTES & BLOCKQUOTES -----------------*/
+
+  .page .note {
+    border        : none;
+    border-radius : 15px;
+    box-shadow    : none;
+    background    : #f1f1f2;
+    padding       : 1em;
+    margin-top    : 0.3em;
+    margin-bottom : -0.3em;
+  }
+    
+  .page .descriptive {
+    border        : 2px solid #000;
+    border-width  : 1px 0px 1px 0px;
+    border-color  : #000;
+    background    : #f1f1f2;
+    padding       : 1em;
+    margin-top    : 0.5em;
+    margin-bottom : -0.5em;
+  }
+
+  .page .note h5, .page .descriptive h5 {
+    font-size   : 1em;
+  }
+
+  .page .descriptive p {
+    line-height : 1em;
+  }
+
+  blockquote{
+    border-left: 0.4em solid #d8b14f;
+    padding-left: 0.8em;
+    font-style: italic;
+  }
+
+/*----------------- BACKGROUND -----------------*/
+
+  /* Page Background Textures. The first part changes the BG image to even pages, allowing you to have two different (eg: mirroed) BGs. */
+  .page:nth-of-type(even) {
+      background-image  : url(https://www.daggerheart.com/wp-content/uploads/2025/05/white-page-background.jpg);
+  }
+  .page {
+      background-image  : url(https://www.daggerheart.com/wp-content/uploads/2025/05/white-page-background.jpg);
+      background-size   : cover;
+  }
+
+/*----------------- PAGE STYLE -----------------*/
+
+.page {
+  gap: 15px;
+  font-family: 'questa_sanslight';
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 0.74em;
+  color: #222;
+  font-variant-numeric: lining-nums;
+
+  p {
+    margin-bottom: 0.5em;
+    letter-spacing: 0.05px;
+  }
+
+  p + p, ul + p, ol + p { /* Remove the indent of paragraphs. */
+    text-indent: 0em;
+    margin-bottom: 0.5em;
+  }
+
+  ul {
+    margin: 0.2em 1em 0.5em 0.4em;
+  }
+
+  li, ol {
+    margin: 0.3em 0em;
+    list-style: disc;
+    padding: 0px;
+    list-style-position: inside;
+    text-indent: -1em;
+  }
+  
+  li::marker {
+    font-size: 0.8em;
+  }
+  
+  ol::marker {
+    font-size: 0.8em;
+  }
+
+  h1, h2, h3, h4, h5{
+    color: inherit;
+  }
+
+  h1, h2, h3, h4{
+    text-transform: uppercase;
+  }
+
+  h1, h2, h3 {
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  h1, h1 + h2, h1 + h2 + p { /* This makes the h1, followed by an h2 and a pharagrap uses all the page and not 1 column. Used for the beginning of each chapter!. */
+    column-span: all;
+    -webkit-column-span: all;
+    display: block;
+    margin-bottom: 0.1em;
+  }
+
+  h1 + h2 {
+    font-size: 2.3em;
+  }
+
+  h1 + h2 + p { /* Italics and bigger size for the 1st paragraph after a h1 and h2 like the core book. */
+    font-size: 1.35em;
+    font-style: italic;
+    
+    + h2 { /* Makes the 1st h2 after the h1+h2+p combo a bit bigger and black. */
+    color: black !important;
+    font-size: 1.8em;
+    margin-bottom: 0.1em;
+  }
+}
+
+  strong {
+    font-family: 'questa_sansbold', sans-serif;
+  }
+
+/*----------------- ARTIST CREDITS -----------------*/
+
+  .artist {
+    color: black;
+    bottom: 40px;
+    font-family: 'questa_sanslight_italic', sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 1em;
+    
+    h5 {
+      color: black !important;
+      font-family: 'questa_sanslight_italic', sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+      font-size: 1.3em;
+      margin-bottom: 0.2em;
+    }
+  }
+  
+  .aLight {
+     color: white;
+      h5 {
+        color: white !important;
+      }
+  }
+  
+  .aLeft {
+    left: 30px;
+  }
+  
+  .aRight {
+    right: 30px;
+  }
+
+/*----------------- HEADER STYLE -----------------*/
+
+  h1{
+    font-family: 'evelethclean_thin', sans-serif;
+    font-weight: 300;
+    margin-bottom: 0.1em;
+    font-size: 3.1em;
+    letter-spacing: 0.25px;
+    
+    + p {
+      margin-bottom: 0.4em;
+      font-weight: 250;
+      font-style: italic;
+      column-span: all;
+      
+    &::first-letter, &::first-line { /* Removes the big letter and caps for the 1st paragraph line after a h1 */
+        font-family: 'questa_sanslight', sans-serif;
+        font-optical-sizing: auto;
+        color: inherit;
+        font-size: inherit;
+        font-variant: normal;
+        float: none;
+      }
+    }
+  }
+
+  h2{
+    font-family: 'evelethclean_regular', sans-serif;  
+    font-weight: 820;
+    margin-bottom: .5em;
+    font-size: 1.38em;
+    letter-spacing: 0.6px;
+  }
+
+  h3{
+    font-family: 'evelethclean_thin', sans-serif;
+    font-weight: 350;
+    margin-bottom: 0.4em;
+    font-size: 1.4em;
+    letter-spacing: 0.2px;
+    padding: 0.25em;
+    border: none; /* Removes the underline from the DnD style*/
+  }
+
+  h4{
+    font-family: 'questa_sansbold', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.22em;
+    letter-spacing: 0.2px;
+    margin-bottom: 0.3em;
+  }
+
+    h4:before { /* Square before the H4 text */
+    position: relative;
+    content: '';
+    display: inline-block;
+    height: 0.75em;
+    width: 0.75em;
+    margin-right: 0.4em;
+    color: transparent;
+    background: #d8b14f;
+  }
+
+  h5 {    
+    font-family: 'questa_sanslight', sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 1.05em;
+  }
+  
+  h6 {    
+    color: #967b2f;
+    font-family: 'questa_sanslight', sans-serif;
+  }
+
+}
+
+/*----------------- FOOTNOTE & PAGE NUMBERS -----------------*/
+
+.page .footnote, .page .pageNumber {
+    font-weight     : 600;
+    color           : #000;
+    letter-spacing  : 0.1mm;
+    }
+
+.page .footnote.white {
+    color : #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 1);
+    }
+    
+.page .footnote {
+    width       : 100%;
+    bottom      : 25px;
+    font-size   : 10px;
+    }
+
+.page .pageNumber {
+    bottom    : 28px;
+    font-size : 10px;
+    }
+
+.page:nth-child(even) .footnote { 
+    position: absolute; 
+    left: 130px; 
+    }
+
+.page:nth-child(even) .pageNumber { 
+    position: absolute; 
+    left: 75px; 
+    }
+
+.page:nth-child(odd) .footnote { 
+    position: absolute; 
+    right: 130px; 
+    }
+
+.page:nth-child(odd) .pageNumber { 
+    position: absolute; 
+    right: 75px; 
+    }
+
+  /* Footer Image Settings */
+.page:after{ 
+    position            : absolute;
+    z-index             : -1;
+    background-image    : url('https://i.imgur.com/05C2fgj.png');
+    background-repeat   : no-repeat;
+    background-position : right 0px bottom -6px;
+    background-size     : 95%;
+    }
+
+/*----------------- COLORED RECTANGLE ON EACH PAGE -----------------*/
+
+.page:nth-child(even) .tab {
+    position: absolute;
+    background: #000;
+    left: 0px;
+    z-index: -1;
+    top: 16.5em;
+    width: 1.4em;
+    height: 16.5em;
+  }
+
+.page:nth-child(odd) .tab {
+    position: absolute;
+    background: #000;
+    right: 0px;
+    z-index: -1;
+    top: 16.5em;
+    width: 1.4em;
+    height: 16.5em;
+  }
+
+/*----------------- TABLE OF CONTENTS ADJUSTMENT -----------------*/
+
+/* Toc font to italics */
+.page .toc {
+  font-style: italic;
+}
+
+.page .toc ul span:last-child {
+  display: inline-block;
+  align-self: flex-end;
+  font-family: 'questa_sanslight';
+  font-size: 1em;
+  font-weight: normal;
+  color: #000000;
+}
+
+/* Toc 3 column adjustment when wide */
+.page .toc {
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.page .toc.wide {
+  column-count: 3;
+  column-width: auto;
+  column-gap: 0.8cm;
+
+  -webkit-column-count: 3;
+  -webkit-column-width: auto;
+}
+
+.page .toc h1 {
+  break-inside: avoid-column;
+}
+
+/* adjust H1 bottom margin */
+.page .toc h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.page .toc li:not(:first-of-type) > h1 {
+  margin-top: 0.5em;
+}
+
+/* H1 font adjustment */
+.toc h1 {
+  column-span: unset;
+  font-family: 'questa_sansbold', sans-serif ;
+  font-size: 1.22em;
+  }
+
+/* Left align H1 */
+.page .toc h1 > a {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: auto;
+}
+
+.page .toc h1 > a span {
+  display: block;
+  text-align: left;
+}
+
+/* Square before the H1 text */
+.page .toc h1 > a::before {
+  content: '';
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  margin-top: 0.2em;
+  margin-right: 0.4em;
+  background: #d8b14f;
+  flex-shrink: 0;
+  }
+
+/* Disable dots after the H1 text */
+.page .toc h1 span::after {
+  content: none !important;
+}
+
+/* Disable bullet points */
+.page .toc li::marker {
+  content: none;
+}
+
+/* Indent toc lines to be aligned with the headers */
+.page .toc ul ul {
+  padding-left: 1.15em;
+}
+
+/* Adjust toc list to column margins */
+.page .toc ul {
+    margin: 0.2em 0em 0.5em 0.4em;
+  }
+
+/* Adjust toc ordered lists and lines marigns */
+.page .toc li, .page .toc ol {
+    margin: 0em 0em;
+  }
+
+
+/* Colored Squares as the chapter they're associated. You can add more if you have additional chapters */
+
+/* Introduction */
+.page .toc > ul > li:nth-of-type(1) h1 > a::before {
+  background: #967b2f;
+}
+
+/* Chapter One */
+.page .toc > ul > li:nth-of-type(2) h1 > a::before {
+  background: #536537;
+}
+
+/* Chapter Two */
+.page .toc > ul > li:nth-of-type(3) h1 > a::before {
+  background: #b8551b;
+}
+
+/* Chapter Three */
+.page .toc > ul > li:nth-of-type(4) h1 > a::before {
+  background: #763a87;
+}
+
+/* Chapter Four */
+.page .toc > ul > li:nth-of-type(5) h1 > a::before {
+  background: #ad2423;
+}
+
+/* Chapter Five */
+.page .toc > ul > li:nth-of-type(6) h1 > a::before {
+  background: #317080;
+}
+
+/* Appendix */
+.page .toc > ul > li:nth-of-type(7) h1 > a::before {
+  background: #231f20;
+}
+
+
+/*----------------- TABLE -----------------*/
+
+.page table {
+    font-family: 'questa_sanslight';
+  }
+
+.page table th {
+    font-weight: normal;
+    background: #f1f1f2;
+  }
+
+.page table tbody tr:nth-child(odd) {
+   background: none;
+   }
+   
+.page table tbody tr:nth-child(even) {
+   background: #f1f1f2;
+   }
+
+.page table thead tr th {
+    border-top: 1px solid #6d6e71;
+    }
+
+/*----------------- CLASS SECTION -----------------*/
+/*----------------- This is a slightly modified Class & Subclass theme made by Sax & PerfectlyCircularSeal to integrate it with the rest of the style and format -----------------*/
+  
+  .page {
+    &:has(.Class) {
+      padding: 3em 3.2em;
+      gap: 0px;
+
+      p {
+        margin-bottom: 0.1em;
+        letter-spacing: 0.05px;
+      }
+      
+      .tab {
+        background: #536537;
+        top: 16em;
+      }
+    }
+  }
+
+  .Class {
+      color: white;
+      padding-right: 42em;
+    
+    h1 {
+      margin-bottom: 0.4em
+    }
+    
+    h4 {
+      font-family: 'questa_sanslight', sans-serif;
+    }
+
+    h4:before { /* Diable the square before the H4 text */
+      content: none;
+    }
+
+    h4, h5 {
+      + p {
+        margin-left: 1.2em;
+        margin-bottom: 0.5em;
+      }
+    }
+  }
+
+  .page {
+    &:has(.subClass) {
+      padding: 3em 3.2em;
+      gap: 0px;
+
+      p {
+        margin-bottom: 0.1em;
+        letter-spacing: 0.05px;
+      }
+      
+      .tab {
+        background: #536537;
+        top: 16em;
+      }
+    }
+  }
+
+  .subClass {
+    padding: 3.5em 3em 0em 0em;
+       
+    h2, h3, h4{
+    color: #907731;
+    }
+    
+    h4:before {
+      position: relative;
+      content: '';
+      display: inline-block;
+      height: 0.75em;
+      width: 0.75em;
+      margin-right: 0.4em;
+      color: transparent;
+      background: #d8b14f;
+    }
+     
+    h3 {
+      background: #f4f0e7;
+    
+      + p {
+        font-style: italic;
+      }
+    } 
+  }
+
+  .subLeft{
+    padding-left: 5em;
+    padding-right: 0em;
+  }
+
+  .subRight{
+    padding-left: 2.25em;
+  }
+
+  .questionSection{
+    padding: 3.5em 4em 0em 0em;
+    margin-left: 1.25em;
+    
+    .block{
+    background: #eee7d9;
+    padding: 1.4em 1.2em;
+    }
+    
+    h2, h3, h4{
+    color: #907731;
+    background: none;
+    padding: 0em;
+    }
+  }
+
+/*----------------- CAMPAIGN FRAMES SECTION -----------------*/
+
+.page{
+  .CampaignFrame {
+      color: white;
+      display: block;
+
+      li {
+        list-style: none;
+        padding-left: 1em;
+      }
+      
+      h1, h2, h3, h4, h5 {
+        color: white !important;
+      }
+
+      h3 {
+        font-size: 1em;
+      }
+      
+      h5 {
+        font-size: 1.3em;
+        font-weight: 400;
+      }
+
+      h1, h1 + p {
+        column-span: all;
+        display: block;
+      }
+
+      h1 + p { /* Italics and bigger size for the 1st paragraph after a h1 and h2 like the core book. */
+        font-size: 1.35em;
+        font-style: italic;
+        
+        &::first-letter, &::first-line { /* Italics for the 1st line after the H1 (Campaing Frame name) */
+          font-style: italic;
+        }
+    
+        + p { /* Makes the "Designed by" paragraph smaller. */
+          font-size: .8em;
+        }
+      }
+    }
+  }
+
+  .page {
+    &:has(.CampaignFrame) {
+      background: linear-gradient(to bottom, #295369, #295369);
+    }
+  }
+
+  .page .imageMaskEdge8 {
+    --wc: url(https://i.imgur.com/RAIVKPm.png);
+    --rotation:180
+  }
+
+  .FrameHeader {
+    h3 {
+      background: #eaf0f2;
+    }
+  }
+
+  .page:nth-of-type(odd) {
+    .FrameHeader {
+      h3 {
+        text-align: end;
+      }
+    }
+  }
+
+  .page {
+    &:has(.CFrame) {
+      h4 {
+      text-transform: math-auto;
+    }
+   }
+  }
+
+  .page hr {
+    border: none;
+    border-top: 1px dotted #000;
+    width: 100%;
+    column-span: all;
+    -webkit-column-span: all;
+    margin: 1em 0;
+    visibility: visible;
+  }
+
+/*----------------- DAGGERHEART CUSTOM TABLES -----------------*/
+ 
+  .DHTable table thead tr th {
+    border-top: none;
+    background-color: black;
+  }
+    
+  .DHTable thead th {
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  
+  .DHTable table thead th {
+    padding-left: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+  }
+
+  /* These two lines makes that DH Tables with two header rows don't have padding between lines */
+  .DHTable:has(thead tr:nth-child(2)) thead tr:nth-child(1) th {
+    padding-bottom: 0;
+  }
+
+  .DHTable:has(thead tr:nth-child(2)) thead tr:nth-child(2) th {
+    padding-top: 0;
+  }
+
+/*----------------- ADVERSARIES STATBLOCK -----------------*/
+ 
+  .adversary {
+    border        : 2px solid #000;
+    border-width  : 1.5px 1.5px 1.5px 1.5px;
+    border-color  : #dacdb3;
+    border-radius : 5px;
+    background    : #f5f1e8;
+    padding       : 0.5em;
+    margin-top    : 0.5em;
+    margin-bottom : 0.5em;
+
+    p, strong {
+      letter-spacing: -0.4px;
+
+    }
+
+    h2 {
+      font-size: 1.4em;
+    }
+    
+    h2, h3, h4 {
+      color: black !important;
+    }
+    
+    h3 {
+      font-family: 'slabo-27px';
+      font-size: 1em;
+      font-weight: 600;
+      font-style: italic;
+      text-transform: none;
+      margin-top: -0.8em;
+      margin-bottom: -0.8em;
+      text-indent: -0.3em;
+    }
+
+    h4 {
+      font-size: 1.2em;
+      margin-bottom: -0.2em;
+    }
+
+    .descriptive {
+      border        : 2px solid #000;
+      border-width  : 1px 0px 1px 0px;
+      border-color  : #dacdb3 !important;
+      background    : #ffffff !important;
+      padding       : 0.5em;
+      margin-top    : -0.2em;
+      margin-bottom : -1em;
+      
+      p, strong {
+        letter-spacing: -0.4px;
+      }
+    }
+    
+      h4:before { /* Diable the square before the H4 text */
+        content: none;
+    }
+   }
+
+  .adversary .descriptive hr {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+
+    width: calc(100% + 1em);
+    border: none;
+    border-top: 1px dotted #dacdb3;
+  }    
+
+  .adversary h4 ~ p {
+    padding-left: 0.5em;
+    text-indent: -0.5em;
+  }
+
+/*----------------- ENVIRONMENTS STATBLOCK -----------------*/
+ 
+  .environment {
+    border        : 2px solid #000;
+    border-width  : 1.5px 1.5px 1.5px 1.5px;
+    border-color  : #bbbcbf;
+    border-radius : 5px;
+    background    : #ececed;
+    padding       : 0.5em;
+    margin-top    : 0.5em;
+    margin-bottom : 0.5em;
+
+    p, strong {
+      letter-spacing: -0.4px;
+
+    }
+
+    h2 {
+      font-size: 1.4em;
+    }
+    
+    h2, h3, h4 {
+      color: black !important;
+    }
+    
+    h3 {
+      font-family: 'slabo-27px';
+      font-size: 1em;
+      font-weight: 600;
+      font-style: italic;
+      text-transform: none;
+      margin-top: -0.8em;
+      margin-bottom: -0.8em;
+      text-indent: -0.3em;
+    }
+
+    h4 {
+      font-size: 1.2em;
+      margin-bottom: -0.2em;
+    }
+
+    .descriptive {
+      border        : 2px solid #000;
+      border-width  : 1px 0px 1px 0px;
+      border-color  : #231f20 !important;
+      background    : #ffffff !important;
+      padding       : 0.5em;
+      margin-top    : -0.2em;
+      margin-bottom : -1em;
+      
+      p, strong {
+        letter-spacing: -0.4px;
+      }
+    }
+    
+      h4:before { /* Diable the square before the H4 text */
+        content: none;
+    }
+   }
+
+  .environment .descriptive hr {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+
+    width: calc(100% + 1em);
+    border: none;
+    border-top: 1px dotted #dacdb3;
+  }    
+
+  .environment h4 ~ p {
+    padding-left: 0.5em;
+    text-indent: 0;
+  }
+
+  .environment h4 ~ p:has(> strong:first-of-type) {
+    padding-left: 0.5em;
+    text-indent: -0.5em;
+  }
+
+
+/*----------------- APPENDIX EXTRA CONFIG -----------------*/
+      
+  .page {
+    &:has(.app) {
+      h1 + p {
+        font-size: 1.35em;
+      }
+      
+      h1 + p + h2 { /* This makes the h1, followed by a pharagrap and an h2 to use all the page and not 1 column. */
+        column-span: all;
+        -webkit-column-span: all;
+        display: block;
+        margin-bottom: 1em;
+        font-size: 2em;
+      }
+    }
+  }
+
+/*----------------- CHAPTER COLOR CONFIGURATION SETTINGS -----------------*/
+
+/* This section changes the colors of headers, notes, tables and others by chapter:
+
+- {{intro}} Introduction (Yellow)   : #967b2f
+- {{Ch1}} Chapter 1 (Green)         : #536537
+- {{Ch2}} Chapter 2 (Orange)        : #b8551b
+- {{Ch3}} Chapter 3 (Purple)        : #763a87
+- {{Ch4}} Chapter 4 (Red)           : #ad2423
+- {{Ch5}} Chapter 5 (Cyan)          : #317080
+- {{app}} Appendix (Dark Gray)      : #231f20
+
+You can copy/paste to create new chapters if needed with custom colors and/or modify the colors here to adjust them to whatever you require.
+
+-------------------------------------*/
+
+  .TableofContent, .Intro, .Ch1, .Ch2, .Ch3, .Ch4, .Ch5, .app, .Class, .CFrame {
+    position: absolute;
+  }
+
+  .page {
+    &:has(.TableofContent) {
+      h1, h2, h3, h4, h5 {
+        color : #967b2f;
+      }
+      
+    .toc h1, .toc h2, .toc h3, .toc h4, .toc h5 {
+    color: inherit;      
+      }
+    }
+  }
+
+  .page {
+    &:has(.Intro) {
+      h1, h2, h3, h4, h5 {
+        color : #967b2f;
+      }
+      
+      .note {
+        background:#fbfaf6;
+      }
+      
+      .descriptive {
+        background:#fbfaf6;
+        border-color:#967b2f;
+      }
+    }
+  }
+
+  .page {
+    &:has(.Ch1) {
+      h1, h2, h3, h4, h5 {
+        color : #536537;
+      }
+      
+      .note {
+        background:#f3f4ef;
+      }
+      
+      .descriptive {
+        background:#f3f4ef;
+        border-color:#9ba084;
+      }
+      
+      .tab {
+        background: #536537;
+        top: 16em;
+      }
+      
+      table th {
+        background: #e8e9e0;
+      }
+      
+      table tbody tr:nth-child(even) {
+        background: #e8e9e0;
+      }
+
+      table thead tr th {
+        border-top: 1px solid #1c2916;
+      }
+      
+      .DHTable table thead tr th {
+        border-top: none;
+        background-color: #536537;
+      }
+     
+      .DHTable tr:nth-child(even) {
+        background-color: #e8e9e0 !important;
+      }
+    }
+  }
+
+  .page {
+    &:has(.Ch2) {
+      h1, h2, h3, h4, h5 {
+        color : #b8551b;
+      }
+      
+      .note {
+        background:#f8efe6;
+      }
+      
+      .descriptive {
+        background:#f8efe6;
+        border-color:#d99d76;
+      }
+      
+      .tab {
+        background: #b8551b;
+        top: 26em;
+      }
+
+      table th {
+        background: #f6e9dc;
+      }
+      
+      table tbody tr:nth-child(even) {
+        background: #f6e9dc;
+      }
+
+      table thead tr th {
+        border-top: none;
+        border-top: 1px solid #d99d76;
+      }
+
+      .DHTable table thead tr th {
+        background-color: #b8551b;
+      }
+     
+      .DHTable tr:nth-child(even) {
+        background-color: #f6e9dc !important;
+      }
+    }
+  }
+
+  .page {
+    &:has(.Ch3) {
+      h1, h2, h3, h4, h5 {
+        color : #763a87;
+      }
+      
+      .note {
+        background:#f6f2f7;
+      }
+      
+      .descriptive {
+        background:#f6f2f7;
+        border-color:#ad8fb8;
+      }
+
+      .tab {
+        background: #763a87;
+        top: 36em;
+      }
+      
+      table th {
+        background: #ebe5ef;
+      }
+      
+      table tbody tr:nth-child(even) {
+        background: #ebe5ef;
+      }
+
+      table thead tr th {
+        border-top: none;
+        border-top: 1px solid #ad8fb8;
+      }
+      
+      .DHTable table thead tr th {
+        border-top: none;
+        background-color: #8a5c99;
+      }
+     
+      .DHTable tr:nth-child(even) {
+        background-color: #ebe5ef !important;
+      }
+
+    }
+  }
+
+  .page {
+    &:has(.Ch4) {
+      h1, h2, h3, h4, h5 {
+        color : #ad2423;
+      }
+      
+      .note {
+        background:#f9f1ec;
+      }
+      
+      .descriptive {
+        background:#f9f1ec;
+        border-color:#d08a73;
+      }
+    
+      .tab {
+        background: #ad2423;
+        top: 46em;
+      }
+
+      table th {
+        background: #f4e3d9;
+      }
+      
+      table tbody tr:nth-child(even) {
+        background: #f4e3d9;
+      }
+
+      table thead tr th {
+        border-top: none;
+        border-top: 1px solid #d08a73;
+      }
+
+      .DHTable table thead tr th {
+        border-top: none;
+        background-color: #ba513d;
+      }
+     
+      .DHTable tr:nth-child(even) {
+        background-color: #f4e3d9 !important;
+      }
+      
+    }
+  }
+
+  .page {
+    &:has(.Ch5) {
+      h1, h2, h3, h4, h5 {
+        color : #317080;
+      }
+      
+      .note {
+        background:#f7f7f8;
+      }
+      
+      .descriptive {
+        background:#f7f7f8;
+        border-color:#8da8b3;
+      }
+    
+      .tab {
+        background: #317080;
+        top: 56em;
+      }
+      
+      table th {
+        background: #e4ebef;
+      }
+      
+      table tbody tr:nth-child(even) {
+        background: #e4ebef;
+      }
+
+      table thead tr th {
+        border-top: none;
+        border-top: 1px solid #8da8b3;
+      }
+      
+      .DHTable table thead tr th {
+        border-top: none;
+        background-color: #578594;
+      }
+     
+      .DHTable tr:nth-child(even) {
+        background-color: #e4ebef !important;
+      }
+    }
+  }
+
+.page {
+    &:has(.app) {
+      h1, h2, h3, h4, h5 {
+        color : #231f20;
+      }
+      
+      .note {
+        background:#f1f1f2;
+      }
+      
+      .descriptive {
+        background:#f1f1f2;
+        border-color:#6d6e71;
+      }
+    
+      .tab {
+        background: #231f20;
+        top: 66em;
+      }
+    }
+  }
+
+/*----------------- CLASS COLOR CONFIGURATION SETTINGS -----------------*/
+
+/* This section changes the color of the class background
+
+  The homebrew default is: linear-gradient(90deg,rgba(80, 50, 20, 0.98) 0%, rgba(80, 50, 20, 0.98) 51%, rgba(255, 255, 255, 0) 0%)
+  
+  !! Note that it uses a linear-gradient which only works with rgba values *NOT* with hexcodes. !!
+  
+  If you're only creating 1 Class, modifying the .ClassBG will be enough.
+  
+  The other options (ClassBG1, ClassBG2, and so on) gives you other color options based on the Core Book classes. You can copy/paste or modify the colors here to adjust them to whatever you require.
+  - ClassBG : Homebrew color (Chocolate Dark Brown)
+  - ClassBG1: Bard (Dark Brown)
+  - ClassBG2: Druid & Ranger (Dark green)
+  - ClassBG3: Guardian (Gray + Dark blue gradient)
+  - ClassBG4: Rogue (Dark and Cool)
+  - ClassBG5: Seraph (Dark Brown with slight redish tint)
+  - ClassBG6: Sorcerer (Purple)
+  - ClassBG7: Warrior (Dark Red)
+  - ClassBG8: Wizard (Deep Sea Blue)
+
+-------------------------------------*/
+
+  .ClassBG {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 382px;
+    background: rgba(80, 50, 20, 0.98);
+    z-index: -2;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  
+  .ClassBG1 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(37, 30, 28, 0.98) 0%, rgba(37, 30, 28, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG2 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(28, 41, 22, .98) 0%, rgba(28, 41, 22, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG3 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(36, 46, 59, .98) 0%, rgba(11, 12, 25, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG4 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(34, 43, 45, .98) 0%, rgba(34, 43, 45, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG5 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(85, 61, 54, .98) 0%, rgba(85, 61, 54, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG6 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(61, 32, 73, .98) 0%, rgba(61, 32, 73, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG7 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(74, 20, 17, .98) 0%, rgba(74, 20, 17, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+  .ClassBG8 {
+    position: absolute;
+    inset: 0;
+    width: 382px;
+    z-index: -3;
+    background: linear-gradient(90deg,rgba(33, 45, 80, .98) 0%, rgba(33, 45, 80, 0.98) 100%, rgba(255, 255, 255, 0) 0%);
+    overflow: hidden;
+  }
+
+/*----------------- CLASS BACKGROUND IMAGE -----------------*/
+
+.ClassBG-img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 382px;
+  height: 100%;
+  z-index: -3;
+  object-fit: cover;
+  pointer-events: none;
+  -webkit-mask-image: url('https://i.imgur.com/o9BEctG.png');
+  -webkit-mask-size: 100% 100%;
+  -webkit-mask-repeat: no-repeat;
+  mask-image: url('https://i.imgur.com/o9BEctG.png');
+  mask-size: 100% 100%;
+  mask-repeat: no-repeat;
+ }
+
+/*----------------- APPENDIX CARD REFERENCE SECTION -----------------*/
+
+/* This section changes the colors of the squares next to the card references and the banner border of the domain:
+
+- {{CardRef1}} Arcana Domain (Purple)       : #753d89
+- {{CardRef2}} Blade Domain (Red)           : #af2526
+- {{CardRef3}} Bone Domain (Gray)           : #9aa0a4
+- {{CardRef4}} Codex Domain (Blue)          : #174b8a
+- {{CardRef5}} Grace Domain (Pink)          : #b33b7d
+- {{CardRef6}} Midnight Domain (Black)      : #232729
+- {{CardRef7}} Sage Domain (Green)          : #0f6e3a
+- {{CardRef8}} Splendor Domain (Yellow)     : #d9b227
+- {{CardRef9}} Valor Domain (Orange)        : #e16b26
+- {{CardRef10}} Dread Domain (Blue-purple)  : #463f8c
+
+You can copy/paste to create new domains if needed with custom colors and/or modify the colors here to adjust them to whatever you require.
+
+-------------------------------------*/
+
+  .CardRef1 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #753d89;
+      border-bottom: 1px solid #753d89;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+    h4:before { /* Square before the H4 text */
+      background: #753d89;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef2 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #af2526;
+      border-bottom: 1px solid #af2526;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #af2526;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef3 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #9aa0a4;
+      border-bottom: 1px solid #9aa0a4;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #9aa0a4;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef4 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #174b8a;
+      border-bottom: 1px solid #174b8a;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #174b8a;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef5 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #b33b7d;
+      border-bottom: 1px solid #b33b7d;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #b33b7d;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef6 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #232729;
+      border-bottom: 1px solid #232729;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #232729;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef7 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #0f6e3a;
+      border-bottom: 1px solid #0f6e3a;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #0f6e3a;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+   
+  .CardRef8 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #d9b227;
+      border-bottom: 1px solid #d9b227;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #d9b227;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef9 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #e16b26;
+      border-bottom: 1px solid #e16b26;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #e16b26;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+  .CardRef10 {
+    h2 {
+      column-span: all;
+      background: #f5f1e8;
+      border-top: 1px solid #463f8c;
+      border-bottom: 1px solid #463f8c;
+      padding-top: 0.2em;
+      padding-left: 0.2em;
+      padding-bottom: 0.2em;
+    }
+    
+      h4:before { /* Square before the H4 text */
+      background: #463f8c;
+    }
+    
+    h2 + h4 {
+      margin-top: 0;
+    }
+
+    dl, p {
+      margin-left: 1.5em;
+      display: block;
+    }
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
