@@ -51,7 +51,7 @@ NOTE: Page numbers in the Table of Contents are estimates. Adjust them after pas
 
 ### Lore Bible
 
-**SETTING DESIGN:** [Your Name Here]
+**SETTING DESIGN:** Liz Colburn
 
 **HOMEBREWERY TEMPLATE:** AeronDrake
 
@@ -63,8 +63,6 @@ Freighter Incident details received from Elizabeth's Owen chat context. See Sect
 }}
 
 :::
-
-![DH BigLogo](https://i.imgur.com/0XZ2xIv.png) {position:relative,height:5em,margin-left:2em}
 
 \page
 
@@ -941,47 +939,3 @@ The galaxy operates on a security gradient:
 
 {{app,tab}}
 
-# Section 14: Open Questions
-
-Most of the original twelve questions are now resolved. Remaining items that need your input:
-
-## 1. The Freighter Incident
-**RESOLVED.** Integrated from Elizabeth's Owen chat context. See Section 12.
-
-## 2. Revan's Discoveries
-What, specifically, did Revan find in the Unknown Regions? I've written him as returning with Star Map fragments and evidence of the Rakatan collapse, plus deteriorating mental health. Do you want the Star Forge to exist in this AU? Is Revan's obsession with a real artifact, or has his quest become its own kind of madness where the goal may not exist?
-
-## 3. Kreia's Relationship to Revan at Campaign Start
-I've written Kreia as Revan's former teacher who deliberately pointed him at the Star Forge research. Does Kreia know Revan has returned? Has she made contact? Is their relationship part of the campaign's active plotline, or is it backstory that the PCs may uncover?
-
-\column
-
-## 4. Specific Campaign Themes You Want Foregrounded
-The setting now supports multiple campaign shapes: political intrigue, military campaign, Force mystery investigation, frontier survival. Do you have a preferred emphasis for the book's framing, or should it present all four as equally viable?
-
-## 5. Tone Calibration on "Grimdark"
-You asked for grimdark. I've written the Ashen Campaigns, Cathar, and Serroco as genuinely horrific events with no clean hands. But your memory file notes that you value "everybody lives" heroic outcomes and avoid themes that might be personally difficult for players. How do you want me to calibrate the book's tone? Grimdark history with heroic present-tense possibilities? Or grimdark all the way through?
-
-{{footnote SECTION 14: OPEN QUESTIONS}}
-{{pageNumber,auto}}
-
-\page
-
-{{app,tab}}
-
-# Section 15: Updated Table of Contents
-
-The table of contents from Phase 1 remains valid. The following adjustments reflect the expanded lore:
-
-- **Chapter 4 (History)** will now include a detailed sub-section on the Ashen Campaigns as the AU's defining atrocity, replacing the need for a single "Malachor" event
-- **Chapter 6 (Major Powers)** now includes a deeper Sith Triumvirate section with Nihilus and Sion's reimagined origins
-- **Chapter 8 (Worlds)** adds Duro as a significant dead-zone world and adjusts Onderon's entry to reflect the Second Siege
-- **Chapter 9 (Peoples)** now has substantially deeper Sith Pureblood material, including caste diaspora and blood ideology
-- **Chapter 10 (Belief)** now integrates Kreia's philosophy as a thematic throughline, with the Doctrine of Necessary Strength as its secular parallel
-
-\column
-
-Estimated total word count remains 36,000-50,000 words. The lore bible you're reading now is approximately 8,000 words of design authority; the final book will expand, dramatize, and translate this material into polished player-facing prose.
-
-{{footnote SECTION 15: UPDATED TABLE OF CONTENTS}}
-{{pageNumber,auto}}
