@@ -4,8 +4,6 @@ A Star Wars KOTOR-era alternate history TTRPG setting for Fate Condensed, built 
 
 The Concordat Era reimagines the post-Mandalorian Wars galaxy through Napoleonic historical parallels. Malak rules as a pragmatic authoritarian consul. Revan has vanished into the Unknown Regions. The Force is dying, and no one agrees on why. Three governments, five Jedi factions, a hidden Sith network, and a galaxy full of people trying to survive the aftermath of a war that broke everything.
 
----
-
 ## Repository Structure
 
 ```
@@ -34,9 +32,9 @@ concordat-era/
 └── README.md
 ```
 
----
-
 ## Documents
+
+**System:** Fate Condensed. The Force is an Extra costing 1 stunt slot, interacting with the setting's dead zone system and compel economy.
 
 ### Player-Facing
 
@@ -47,37 +45,20 @@ concordat-era/
 ### GM-Facing
 
 - [GM Guide](docs/guides/gm-guide.md) — Six campaign genres, three Sith/evil campaign variants, five alternate timeframes, and an opinionated GM philosophy drawing on the Alexandrian, Sly Flourish, and Burning Wheel design traditions.
-- [Lore Bible](docs/setting-book/lore-bible.md) — Expanded GM reference: full timeline, deep faction history, Kreia/Triumvirate, Sith remnants, Jedi fractures, kolto economics, the Freighter Incident scenario, and open design questions. Split across two files pending merge.
-
-### Production
-
-- [Style Guide](docs/production/style-guide.md) — Complete visual specifications for InDesign layout: fonts, colors, type hierarchy, master pages, section-specific tonal shifts, template recommendations.
-
----
-
-## System
-
-Fate Condensed. The Force is an Extra that costs 1 stunt slot and interacts with the setting's dead zone system and compel economy.
-
----
+- [Lore Bible](docs/setting-book/lore-bible.md) — Full timeline, deep faction history, Kreia/Triumvirate, Sith remnants, Jedi fractures, kolto economics, the Freighter Incident scenario, and open design questions. Split across two files pending merge.
+- [Style Guide](docs/production/style-guide.md) — Visual specifications for InDesign layout: fonts, colors, type hierarchy, master pages, and section-specific tonal shifts.
 
 ## Homebrewery
 
-Formatted versions of the books live in [Homebrewery/](Homebrewery/). The custom CSS that drives the layout is [KOTOR_DH_STYLE.css](Homebrewery/Style/KOTOR_DH_STYLE.css), derived from the original Daggerheart theme.
+Formatted source files live in [Homebrewery/](Homebrewery/). Layout uses [KOTOR_DH_STYLE.css](Homebrewery/Style/KOTOR_DH_STYLE.css), derived from the original Daggerheart theme.
 
-Published versions:
-
-| Book | Homebrewery Link |
-|------|-----------------|
+| Book | Homebrewery |
+|------|-------------|
 | Setting Book | [Edit](https://homebrewery.naturalcrit.com/edit/8Bh534CEmzPy) |
-
----
 
 ## Status
 
 Writing ongoing. Core documents complete; lore bible merge and structural revisions in progress. Currently in production/layout phase.
-
----
 
 ## TODO
 
