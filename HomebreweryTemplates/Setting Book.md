@@ -211,10 +211,16 @@ The zones are growing. Slowly, but measurably. Hyperspace navigation has become 
 The Concordat Era is not a post-apocalypse. The holonet still broadcasts. Freighters still carry cargo. Cantinas still serve drinks. But the foundations have shifted, and everyone can feel it.
 
 {{descriptive
-A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit. A veteran of the Ashen Campaigns works as a dock loader on Nar Shaddaa because the Revanchist military doesn't exist anymore and the Concordat doesn't want soldiers who know what they did. A Sith Pureblood professor on Coruscant teaches ancient history at the university and wears long sleeves to cover the red skin that makes strangers nervous. A Cathar teenager on a refugee transport practices with a vibroknife because Mandalorians destroyed her homeworld and no one is going to protect her so she'll protect herself.
+*A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit.*
+
+*A veteran of the Ashen Campaigns works as a dock loader on Nar Shaddaa because the Revanchist military doesn't exist anymore and the Concordat doesn't want soldiers who know what they did.* 
+
+*A crimson Twi'lek professor on Coruscant teaches ancient history at the university and wears long sleeves to cover their sith-like skin that makes strangers nervous.* 
+
+*A Cathar teenager on a refugee transport practices with a vibroknife because Mandalorians destroyed her homeworld and no one is going to protect her, so she'll protect herself.*
 }}
 
-Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking and hasn't started healing.
+Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking.
 
 {{footnote Chapter 3: The Galaxy at a Glance}}
 {{pageNumber,auto}}
