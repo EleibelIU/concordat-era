@@ -55,19 +55,13 @@ NOTE: Page numbers in the Table of Contents are estimates. Adjust them after pas
 
 ### Credits Page
 
-**SETTING DESIGN:** [Your Name Here]
+**SETTING DESIGN:** Elizabeth Colburn
 
 **HOMEBREWERY TEMPLATE:** AeronDrake [(Homebrewery](https://homebrewery.naturalcrit.com/user/draco?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/AeronDrake/)
 
-**ORIGINAL CLASS TEMPLATE:** Sax & PerfectlyCircularSeal
-
-**COVER IMAGE:** Fantasy Castle by Bob Greyvenstein.
 
 This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old Republic*, *The Old Republic MMO*, and related media — adapted for original use. All Star Wars IP belongs to Lucasfilm/Disney. This is unofficial fan content for personal use.
 
-:::
-
-![DH BigLogo](https://i.imgur.com/0XZ2xIv.png) {position:relative,height:5em,margin-left:2em}
 
 \page
 
@@ -156,11 +150,11 @@ The galaxy has not decided what it is yet. That decision belongs to the people l
 
 }}
 
-{{imageMaskEdge8,--offset:5%
+{{imageMaskEdge8,--offset:-8cm
 
 <!-- Don't change the mask edge 8, which is used as gradient for Campaign Frames. Use --offset to shift the mask away from page center (can use cm instead of %) -->
 
-![The Concordat Era](https://temp-image.com/ib/kmTb8aZJ2VcnNFF_1774585840.png){position:absolute,right:0%,top:0%,height:100%}
+![The Concordat Era](https://temp-image.com/ib/SlwUWEB8gnO99h8_1774586568.png){position:absolute,top:-1,left:0,width:100%,height:120%,z-index:-1}
 }}
 
 {{footnote,white Part I: Welcome}}
