@@ -64,8 +64,9 @@ Freighter Incident details received from Elizabeth's Owen chat context. See Sect
 
 \page
 
-{{Intro,tab}}
+{{Ch1,tab}}
 
+{{wide
 # Section 1: BBY Timeline and Calendar
 
 ## Dating Convention
@@ -74,9 +75,8 @@ The book uses standard BBY (Before the Battle of Yavin) dating for absolute chro
 
 In-universe, the calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. This is deliberate: how a character dates a letter tells you who they answer to.
 
-\column
-
 ## Absolute Timeline
+}}
 
 {{DHTable,wide
 | BBY | Event | Concordat Calendar |
