@@ -282,6 +282,7 @@ If you want to change colors of the chapters and Class Backgrounds, check the CH
     font-family: 'Playfair Display', serif;
     font-weight: 700;
     margin-bottom: .5em;
+    padding-left: 0.15em;
     font-size: 1.38em;
     letter-spacing: 0.6px;
   }

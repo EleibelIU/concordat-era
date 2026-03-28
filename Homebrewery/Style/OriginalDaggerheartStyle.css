@@ -273,7 +273,7 @@ If you want to change colors of the chapters and Class Backgrounds, check the CH
   }
 
   h2{
-    font-family: 'evelethclean_regular', sans-serif;  
+    font-family: 'evelethclean_regular', sans-serif;
     font-weight: 820;
     margin-bottom: .5em;
     font-size: 1.38em;
@@ -286,7 +286,6 @@ If you want to change colors of the chapters and Class Backgrounds, check the CH
     margin-bottom: 0.4em;
     font-size: 1.4em;
     letter-spacing: 0.2px;
-    padding: 0.25em;
     border: none; /* Removes the underline from the DnD style*/
   }
 
