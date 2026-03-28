@@ -1764,13 +1764,14 @@ Revan wanted knowledge the Council would not give. Revan left to find it. The Co
 
 The Code teaches that the Force connects all living beings. The Force binds creation together. The Jedi serve the Force, not institutions.
 
-The Order teaches that Jedi serve the Council. The Council interprets the Force's will. Jedi follow the Council's guidance.
-
-These two teachings conflict. If the Force binds all beings, then the Force's will is not contained within the Council. If Jedi serve the Force itself, they serve something larger than institutional loyalty.
 
 \page
 
 {{Ch4,tab}}
+
+The Order teaches that Jedi serve the Council. The Council interprets the Force's will. Jedi follow the Council's guidance.
+
+These two teachings conflict. If the Force binds all beings, then the Force's will is not contained within the Council. If Jedi serve the Force itself, they serve something larger than institutional loyalty.
 
 Revan walked out when these teachings conflicted. Four hundred followed. The Council ordered them to stand down. The Revanchists argued that the Force itself called them to war. The Council's authority could not override the Force's call.
 
@@ -1796,7 +1797,7 @@ Understanding the Sith requires holding three meanings simultaneously. The word 
 
 These three meanings overlap. They also conflict. A Sith Pureblood character might follow Sith philosophy, or might reject the Order that enslaved their ancestors, or might practice the pre-Exile traditions that the Order suppressed. Chapter 12 covers the Sith as a political faction. This chapter covers what they believe.
 
-### The Sith Code
+## The Sith Code
 
 > *Peace is a lie, there is only passion.*
 *Through passion, I gain strength.*
@@ -1824,7 +1825,7 @@ Sith philosophy understands passion as authentic engagement with reality. The Je
 This is Sith philosophy as the modern Order teaches it. It is also, in many ways, a corruption of what came before.
 
 
-### The Keepers of Adas: What Came Before
+## The Keepers of Adas
 
 {{descriptive
 The oldest Sith temples on Korriban contain tombs within tombs. The outermost chambers held slaves and soldiers. Deeper, priests rested in darkness. The deepest tombs belonged to the ancient lords, spaces carved so far below the surface that the bedrock itself pulsed with power. The Keepers of Adas maintained these depths for seven thousand years before the Exiles came.
@@ -1838,13 +1839,17 @@ Passion was not excess or derangement. Passion was authentic engagement with you
 
 #### The Chaining
 
-Keepers bound spirits to locations using carved runestones called *tuk'ata markers*, thick pylons of worked stone, each one three meters tall, inscribed with the true names of the dead. The process demanded specificity. Blood from a living Sith species member, spoken invocation in Old Sith matching the spirit's burial name, physical contact between the Keeper and the burial site itself. The spirit then chose whether to answer. Spirits lied frequently. Keepers spent decades learning which ancient lords were reliable, which ones twisted answers, which ones went dormant for decades then demanded tribute. This skill, reading a spirit's nature through the Force and negotiating with the dead, was foundational Keeper knowledge. A poor reader bound themselves to a vicious ghost and suffered for generations.
+Keepers bound spirits to locations using carved runestones called *tuk'ata markers*, thick pylons of worked stone, each one three meters tall, inscribed with the true names of the dead. The process demanded specificity. Blood from a living Sith species member, spoken invocation in Old Sith matching the spirit's burial name, physical contact between the Keeper and the burial site itself. The spirit then chose whether to answer. Spirits lied frequently. 
+
+\page
+
+{{Ch4,tab}}
+
+Keepers spent decades learning which ancient lords were reliable, which ones twisted answers, which ones went dormant for decades then demanded tribute. This skill, reading a spirit's nature through the Force and negotiating with the dead, was foundational Keeper knowledge. A poor reader bound themselves to a vicious ghost and suffered for generations.
 
 #### Meditation of Erosion
 
 Keepers sat in concentrated dark side energy and allowed it to permeate through them over years or decades. Like stone absorbing sustained heat. The technique deepened Force connection without emotional extremes, meditation rather than ecstasy, listening rather than shouting. The physical cost accumulated. Bones became brittle. Light sensitivity intensified. Lifespans contracted. Korriban gave power and took flesh. The oldest Keepers became pale, thin, bent, moving through tombs by touch and Force sense alone.
-
-\page
 
 #### Korriban as Partner
 
@@ -1862,8 +1867,6 @@ At solstice points, collective vocal rituals gathered groups of Keepers in the v
 
 The most dangerous divination. Unlike the Chaining, where a Keeper called a bound spirit from a distance, the Asking required a Keeper to open their mind to a specific dead lord's presence and venture into their tomb unshielded. The Keeper went to the spirit. Success meant visions, fragments of lost knowledge, glimpses of ancient wars, mathematical truths the lord had mastered, whatever the spirit chose to show. Failure meant possession, madness, or death. The greatest Keepers performed Askings of Marka Ragnos, the long-dead progenitor of Sith rulership. Those sessions lasted days. Keepers emerged speaking languages dead for millennia, knowing calculations that made Jedi mathematicians collapse in confusion.
 
-\column
-
 #### The Exile and Corruption
 
 The Dark Jedi Exiles arrived seven thousand years ago and brought domination ideology. They came from a tradition of Force-sensitives trained to master, to command, to enforce hierarchy. They looked at Keeper practices and saw slavery of the dead. They conquered the Sith species, enslaved them, rewrote traditions, imposed a caste system, and created the Master-Apprentice dyadic structure that would dominate Sith history for millennia.
@@ -1874,7 +1877,7 @@ The Kissai priestly caste preserved fragments of sorcery in oral forms. The Zugu
 
 A handful of Keepers operate in secret across the Outer Rim. They reconstruct practices from fragments written in code on stone, from oral traditions passed through generations, from intuition and experimentation. They are archaeologists of their own tradition. A Keeper on Korriban today walks the Valley and sits in a tomb that should hum with power, that ancient lords should fill with presence, and feels nothing. The Force is failing. The tombs are failing with it. Some Keepers believe they are the last people alive who remember what the old practices meant. Others believe they are the first people in seven thousand years with the freedom to remember at all.
 
-### Why Someone Would Follow This Path
+## Allure of the Sith
 
 The standard answer is straightforward: because power is the only honest truth in a galaxy where all other institutions fail. The Jedi promised peace and delivered war. The Republic promised stability and collapsed. Only power endures.
 
@@ -1883,6 +1886,8 @@ The deeper answer comes from the Keepers. The Sith path, in the Keeper reading, 
 The Sith answer is to stay angry. Not destructively. Honestly. The Mandalorians conquered worlds. The Force destabilizes. The Jedi counsel acceptance. The Sith refuse acceptance. They feel their rage at injustice and use it to fuel action.
 
 The modern Sith Order teaches power through dominance. The Keepers teach power through alignment. Both claim descent from the same tradition. Both cite the same Code. One path leads toward freedom. The other leads toward chains so absolute you stop noticing them.
+
+\page
 
 In the Concordat Era, when the Republic crumbles and the Force grows unstable, the Sith tradition offers something no other belief system does: the promise that you need not surrender to what is. You need only find the strength to oppose it.
 
@@ -1893,17 +1898,20 @@ In the Concordat Era, when the Republic crumbles and the Force grows unstable, t
 
 {{Ch4,tab}}
 
-## Chapter 16: Sith Sorcery & Alchemy
+# Chapter 16
+### Sith Sorcery & Alchemy
 
 {{descriptive
-The tombs of the dead lords remain sealed in vaults beneath Korriban and in smaller caches across a dozen worlds. Inside these vaults, objects pulse with dark side energy centuries after their forging. Creatures twisted at the genetic level breed in isolation. Rituals carved into stone remain incomplete, missing crucial components, waiting for the hands or voices of practitioners who will never come. The Jedi Council classified all of this under a single heading: Sith Sorcery. Easier to ban something when you give it one name.
+*The tombs of the dead lords remain sealed in vaults beneath Korriban and in smaller caches across a dozen worlds. Inside these vaults, objects pulse with dark side energy centuries after their forging. Creatures twisted at the genetic level breed in isolation. Rituals carved into stone remain incomplete, missing crucial components, waiting for the hands or voices of practitioners who will never come.* 
+
+*The Jedi Council classifies all of this under a single heading: Sith Sorcery. Easier to ban something when you give it one name.*
 }}
 
 Sith sorcery describes two separate disciplines with different histories, methods, and practitioners. The ancient Sith made no distinction. The Jedi conflated them deliberately. The conqueror Sith used the unified label to consolidate their mythology. Modern practitioners know they are two different animals.
 
-### The Kissai School: Ritual Channeling
+## The Kissai Channeling School
 
-The Kissai were the priestly caste of the original Sith species. They did not forge or build. They channeled and shaped. Their sorcery required groups, three practitioners minimum, more for significant workings. A single Kissai accomplished minor effects. Real power emerged when three or more synchronized their emotions and forced them outward into the Force in unison.
+The **Kissai** were the priestly caste of the original Sith species. They did not forge or build. They channeled and shaped. Their sorcery required groups, three practitioners minimum, more for significant workings. A single Kissai accomplished minor effects. Real power emerged when three or more synchronized their emotions and forced them outward into the Force in unison.
 
 The mechanism: spoken incantations in Old Sith. Ritual circles drawn with blood and crushed bone. Physical contact between participants, hands linked or touching. The Kissai pushed emotion collectively, rage, sorrow, hunger, despair, into the Force like stoking a furnace. The group's combined will shaped what emerged.
 
@@ -1911,15 +1919,13 @@ Kissai workings produced several categories of effects. Perceptual illusions alt
 
 The visual signature of Kissai work was unmistakable to anyone trained to recognize it. Shadows that bent the wrong direction. Air that vibrated at the wrong frequency. The stench of ozone and scorched flesh despite no visible fire.
 
-\column
-
 The discipline is now almost lost. Fragments survive in oral traditions held by scattered Sith species communities. Most reconstruction attempts fail. Someone discovers ritual inscriptions carved into a tomb wall, attempts to replicate a working without understanding its context or the emotional calibration required, and produces catastrophic results: misdirected power that burns out the practitioner's nervous system or warps the surrounding area into environmental dead zones.
 
 The greatest danger: partial knowledge is more lethal than complete ignorance. A group with fragmentary training might trigger a working they cannot control or shut down.
 
-### The Zuguruk School: Alchemy
+## The Zuguruk Alchemical School
 
-The Zuguruk were the builder caste. They forged, cultivated, and engineered. Unlike Kissai work, alchemical practice was individual labor. A single alchemist, alone or with assistants, infused objects and living creatures with dark side energy through sustained Force manipulation. The process took weeks, months, years, one item, one creature, one working at a time.
+The **Zuguruk** were the builder caste. They forged, cultivated, and engineered. Unlike Kissai work, alchemical practice was individual labor. A single alchemist, alone or with assistants, infused objects and living creatures with dark side energy through sustained Force manipulation. The process took weeks, months, years, one item, one creature, one working at a time.
 
 The mechanism required specificity. Forges burning with dark side energy hotter than natural fire. Laboratories containing carved stone vessels and alchemical reagents derived from Korriban's geology. Vivisection chambers where creatures were reshaped through exposure and surgical modification. The alchemist sustained Force channeling continuously while physically working the material, heating, cooling, shaping, cutting, treating. The dark side seeped into every layer.
 
@@ -1927,13 +1933,15 @@ Zuguruk capabilities far exceeded Kissai scope. They created Sith swords, blades
 
 The critical distinction: Zuguruk creations persisted after the alchemist died. A Kissai ritual ended when the group stopped chanting. A Zuguruk sword remained lethal millennia later. A terentatek corrupted three thousand years ago remained a predator. This is why Korriban's tombs remain dangerous across geological timescales. The workings are done. The alchemists are dust. The objects still kill.
 
-\page
+
 
 The discipline is the most feared because its artifacts survived. Sith swords surface on black markets. Corrupted creatures emerge from deep caves. Talismans appear in collections. No one alive understands the forging techniques in full. Knowledge died with practitioners, texts burned in purges, oral traditions broke under persecution. Partial knowledge circulates among Sith researchers and black market dealers. Attempts at reconstruction produce unstable creations that fail in explosive or unpredictable ways. The Concordat classifies all confirmed Zuguruk artifacts as military-grade contraband. Possession carries the same charges as carrying a thermal detonator.
 
-### Why Everyone Is Afraid
+## Dissenters
 
 The Jedi fear sorcery because it proves the dark side accomplishes things the light side cannot replicate. The Concordat fears Zuguruk artifacts because they function without a Force-sensitive wielder. A soldier with no Force training can carry a Sith sword. The Revanchists remember that Revan witnessed sorcery during the Mandalorian Wars and never spoke about what he saw afterward. The Mandalorians fought sithspawn on Korriban's surface and lost entire companies to creatures that ignored armor and conventional tactics.
+
+\page
 
 The real question: nobody knows what happens to existing sorcery when the Force fluctuates. Do old Kissai workings embedded in stone weaken? Do Zuguruk artifacts destabilize? Does a sorcerous tomb become more dangerous when the Force fails around it? The answer matters if the Force collapse accelerates. Several people are going to have to find out.
 
@@ -1948,35 +1956,36 @@ The real question: nobody knows what happens to existing sorcery when the Force 
 
 {{Ch4,tab}}
 
-## Chapter 17: The Mandalorian Creed
+# Chapter 17
+### The Mandalorian Creed
 
 {{descriptive
-The Mandalorian does not pray. She cleans her armor.
+*The Mandalorian does not pray. She cleans her armor*
 
-This daily ritual, removing the dust of the settlement, checking seals, maintaining the weapon systems, is how she practices faith. The armor represents the philosophy encoded in steel and beskar. It is the statement that the galaxy is dangerous and you have chosen to meet it prepared. It is the refusal of comfort. The statement that you belong to something larger than yourself and this belonging requires sacrifice.
+*This daily ritual, removing the dust of the settlement, checking seals, maintaining the weapon systems, is how she practices faith. The armor represents the philosophy encoded in steel and beskar. It is the statement that the galaxy is dangerous and you have chosen to meet it prepared. It is the refusal of comfort. The statement that you belong to something larger than yourself and this belonging requires sacrifice.*
 
-The armor is the creed made visible. Every Mandalorian who wears it practices the same philosophy through the same object.
+*The armor is the creed made visible. Every Mandalorian who wears it practices the same philosophy through the same object.*
 }}
 
-The Mandalorian Creed is not theology. It is praxis: a system of action and commitment that produces a specific kind of person. The **Resol'nare**, the Six Actions, defines what it means to be Mandalorian:
+The Mandalorian Creed is praxis: a system of action and commitment that produces a specific kind of person. The **Resol'nare**, the Six Actions, defines what it means to be Mandalorian:
 
-**One: Wear the armor.** Not as costume. As acknowledgment. The galaxy operates on a simple rule: the strong take from the weak. The Mandalorian armor says, "I have accepted this rule. I will not be weak." The armor is uncomfortable. It restricts movement. It marks you as a warrior, inviting confrontation. A Mandalorian wears it anyway, because the alternative is pretending the galaxy is safer than it is.
+**Wear the armor.** Not as costume. As acknowledgment. The galaxy operates on a simple rule: the strong take from the weak. The Mandalorian armor says, "I have accepted this rule. I will not be weak." The armor is uncomfortable. It restricts movement. It marks you as a warrior, inviting confrontation. A Mandalorian wears it anyway, because the alternative is pretending the galaxy is safer than it is.
 
-**Two: Speak Mando'a.** This preserves a shared language that binds beings of countless species into a single culture. A Mandalorian can be Zabrak, Duros, Human, or any of a hundred other species. If they speak Mando'a, if they teach their children Mando'a, if they conduct the intimate details of their life in Mando'a, they belong to a people that transcends biology. The language is the skeleton of the culture.
+**Speak Mando'a.** This preserves a shared language that binds beings of countless species into a single culture. A Mandalorian can be Zabrak, Duros, Human, or any of a hundred other species. If they speak Mando'a, if they teach their children Mando'a, if they conduct the intimate details of their life in Mando'a, they belong to a people that transcends biology. The language is the skeleton of the culture.
 
-**Three: Defend your clan.** The galaxy will not protect you. Governments fall. Armies abandon you. Allies betray you. The only reliable protection is your clan, the beings who bound themselves to you through shared code and mutual sacrifice. You maintain it because your survival depends on it.
+**Defend your clan.** The galaxy will not protect you. Governments fall. Armies abandon you. Allies betray you. The only reliable protection is your clan, the beings who bound themselves to you through shared code and mutual sacrifice. You maintain it because your survival depends on it.
 
-**Four: Raise your children as Mandalorians.** The culture must transmit itself. If you fail to teach your children the Resol'nare, to train them in armor and weapon, to instill in them the understanding that strength must be earned, they will fall to the illusions that bury other peoples. They will believe government can protect them. They will believe the Force will provide.
+**Raise your children as Mandalorians.** The culture must transmit itself. If you fail to teach your children the Resol'nare, to train them in armor and weapon, to instill in them the understanding that strength must be earned, they will fall to the illusions that bury other peoples. They will believe government can protect them. They will believe the Force will provide.
 
-**Five: Contribute to your clan's welfare.** No parasites. No dependents who do not work. Every Mandalorian who wears the armor produces something, wealth, security, or knowledge, that strengthens the collective. The creed does not permit idleness.
+**Contribute to your clan's welfare.** No parasites. No dependents who do not work. Every Mandalorian who wears the armor produces something, wealth, security, or knowledge, that strengthens the collective. The creed does not permit idleness.
 
-**Six: Answer Mandalore's call.** There is a hierarchy. Mandalore, the ruler, represents the people's collective will. When Mandalore issues a command, you respond, because Mandalore represents the survival of all Mandalorians. Individual desire submits to collective necessity.
+**Answer Mandalore's call.** There is a hierarchy. Mandalore, the ruler, represents the people's collective will. When Mandalore issues a command, you respond, because Mandalore represents the survival of all Mandalorians. Individual desire submits to collective necessity.
 
 These six actions, practiced daily, constitute the Mandalorian Way. They are not suggestions. They are obligations. A being who breaks them ceases to be Mandalorian. They become *dar'manda*: without identity, cast out, dead to their people.
 
 \column
 
-### The Doctrine of Necessary Strength
+## Doctrine of Necessary Strength
 
 The creed flows from a single insight.
 
@@ -2000,11 +2009,15 @@ Others find it suffocating. A Mandalorian warrior serving the Concordat is an em
 
 **Independents** have left the creed entirely. They keep their armor and their language but abandon the obligations. They survive by mercenary work, by individual strength, by refusing all claims on their loyalty.
 
-### Why Someone Would Choose This Path
+## Mandalorian Appeal
 
 The Mandalorian creed offers something no other tradition in the setting does: a framework for living that does not depend on the Force, on governments, or on anyone's permission.
 
 The Jedi depend on belief that the Force will provide. The Sith depend on belief that power will free them. The Mandalorian depends on nothing but their own capacity to endure, their own willingness to work, their own commitment to the people they have chosen as family.
+
+\page
+
+{{Ch4,tab}}
 
 In a galaxy where every other institution is failing, where the Force destabilizes, where government collapses, where power proves hollow, the person who can feed themselves, fight for themselves, and build community through shared discipline has something no one can take away.
 
@@ -2012,14 +2025,11 @@ The creed does not promise happiness. It promises survival. It promises that if 
 
 It promises that you will never be helpless.
 
-{{footnote Chapter 17: The Mandalorian Creed}}
-{{pageNumber,auto}}
-
 \page
-
 {{Ch4,tab}}
 
-## Chapter 18: Other Traditions
+# Chapter 18
+### Fringe Traditions
 
 The galaxy contains thousands of Force traditions beyond the Jedi and the Sith.
 
@@ -2034,7 +2044,7 @@ The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused
 
 \page
 
-{{Ch4,tab}}
+{{Ch5,tab}}
 
 # Part IV: Where You Live
 
@@ -2054,7 +2064,7 @@ The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused
 
 Between these extremes, the galaxy's Mid Rim exists in a state of negotiated uncertainty. A merchant planning a cargo run from Taris to Onderon must calculate which patrol zones she'll cross, which tariffs apply in each jurisdiction, whether her navigation charts account for the dead zone that appeared near the Perlemian Trade Route last month, and whether her Mandalorian transit papers will be honored by the Concordat naval checkpoint.
 
-### Medicine and Kolto
+## Medicine and Kolto
 
 Before the wars, a serious injury in Republic space meant a trip to a medical facility where Force healing and kolto therapy could restore a patient from near-death to functional health in days. Force healing is now unreliable. Kolto remains effective — but a standard treatment that cost two hundred credits in 3964 BBY costs twelve hundred credits now.
 
@@ -2066,25 +2076,30 @@ Counterfeit kolto is worse. Labs on Nar Shaddaa and in Hutt Space produce synthe
 
 Multiple factions have attempted to synthesize kolto outside Manaan. All have failed to replicate the substance's full effectiveness. Synthetic variants heal physical wounds but lack kolto's deeper regenerative properties — the ones the Selkath attribute to the substance's connection to Manaan's ecosystem and, by extension, to the Force. Czerka Corporation's bioengineering division on Telos has spent four years and an undisclosed budget on the problem. Their best product, marketed as "Czerka MedGel," handles surface trauma and minor infections. For anything deeper, field medics still reach for the real thing.
 
-\column
 
-### Travel
+## Travel
 
 Hyperspace travel functions, but the margins of reliability have narrowed. Near dead zones, hyperspace routes degrade. A ship following a charted lane might drop out of hyperspace hours or days early. In the worst cases, ships have entered hyperspace on a standard route and never arrived.
 
 Astromech droids, which calculate hyperspace jumps through algorithmic rather than Force-based methods, have become more valuable than they've ever been.
 
-### Labor, Class, and Displacement
+## Class and Displacement
 
 The wars displaced millions. Cathar refugees scattered across the Mid and Outer Rim after the Razing (see Chapter 14 for the Cathar community in detail). Onderon's beast-riders, those who survived the Second Siege, have no jungle to return to. Some settled in Iziz's lower quarters. Others scattered to frontier worlds where the land is cheap and nobody asks questions. A beast-rider community on Dantooine raises livestock and keeps the old riding traditions alive on animals that aren't Drexl.
 
 Sith Pureblood populations displaced by the Republic's post-GHW counter-invasion live in diaspora communities across the galaxy, navigating prejudice and surveillance. On Nar Shaddaa, a Pureblood neighborhood in the Refugee Sector operates its own security because the Hutt enforcers don't patrol it. Sith cultural centers double as mutual aid organizations: pooling credits for medical expenses, maintaining legal funds for members detained by Concordat security on suspicion of Sith sympathies, teaching the Sith language to children who've never seen Korriban. Concordat law does not prohibit Sith cultural practice, but Concordat intelligence monitors it, and the line between "cultural gathering" and "security concern" shifts depending on which officer is filing the report.
 
-The wars also produced veterans. Concordat veterans receive pensions and reintegration support, though the support varies: a decorated officer in the Core Worlds receives a comfortable stipend, while an enlisted trooper resettled to the Mid Rim receives paperwork and a waiting list. Remnant veterans receive what the Remnant can afford, which is little. Neo-Mandalorian veterans receive honor and poverty. Former Revanchist Jedi who participated in the Ashen Campaigns receive nothing, because no institution wants to claim them. Some have changed their names. A few serve in Concordat military units under assumed identities, their Force abilities a poorly kept secret their commanding officers choose not to investigate.
+The wars also produced veterans. Concordat veterans receive pensions and reintegration support, though the support varies: a decorated officer in the Core Worlds receives a comfortable stipend, while an enlisted trooper resettled to the Mid Rim receives paperwork and a waiting list. Remnant veterans receive what the Remnant can afford, which is little. Neo-Mandalorian veterans receive honor and poverty. Former Revanchist Jedi who participated in the Ashen Campaigns receive nothing, because no institution wants to claim them. Some have changed their names. 
+
+\page
+{{Ch5,tab}}
+
+
+A few serve in Concordat military units under assumed identities, their Force abilities a poorly kept secret their commanding officers choose not to investigate.
 
 Czerka Corporation operates mining operations on dozens of Outer Rim worlds with labor practices that honest observers call indentured servitude with better marketing. Workers sign multi-year contracts with housing and food deductions that ensure most miners owe more at the end of their contract than at the beginning. The Exchange fills gaps in Concordat governance at prices that reflect the risk.
 
-### What People Argue About
+### Everyday Politics
 
 In cantinas, in Senate lobbies, in military barracks, in refugee shelters, people argue about the same questions:
 
@@ -2097,7 +2112,7 @@ Your character's position on them is one of the most important things about them
 A character who has thought about these questions and arrived at a nuanced position they'll defend under pressure is exactly what this campaign needs.
 }}
 
-### The Sovereignty Gradient
+## Sovereignty Gradient
 
 Control thins as you move outward from the Core. The galaxy operates on a sliding scale of governance that determines what kind of trouble you encounter and what resources you can count on.
 
@@ -2109,18 +2124,13 @@ Control thins as you move outward from the Core. The galaxy operates on a slidin
 
 **Frontier.** Outer Rim regions with minimal governance: the Remnant's twenty-three systems, Neo-Mandalorian operating territory, Hutt Space border regions. Limited infrastructure, unreliable communications, danger from pirates, warlords, wildlife, and dead zones. Survival is the primary concern. Combat is expected.
 
+
 **Ungoverned Space.** Beyond the frontier. No government services, no reliable hyperspace routes, no medical infrastructure, no law. Sith remnant territories, unexplored systems, deep frontier. Kolto is whatever you brought with you. Law is whatever you enforce. Combat is just another day.
 
 Where your character lives on this gradient shapes what "normal" means to them. A Coruscant bureaucrat considers a locked door the boundary between safe and dangerous. A frontier mechanic considers a charged blaster the same boundary.
 
-{{footnote Chapter 19: Life, Trade, and Survival}}
-{{pageNumber,auto}}
 
-\page
-
-{{Ch4,tab}}
-
-### Supply Chains
+## Supply Chains
 
 Five resources keep the galaxy running:
 
@@ -2134,7 +2144,7 @@ Five resources keep the galaxy running:
 
 **Food.** The most overlooked strategic resource. The Remnant's twenty-three agricultural worlds are its lifeline. The Concordat's Outer Rim territories produce surplus grain that feeds the Core. The Neo-Mandalorians raid food convoys because they have no agricultural base.
 
-### Technology
+## Technology
 
 Technology has not regressed. But the galaxy's dependence on specific technologies has shifted as the Force becomes unreliable.
 
@@ -2149,13 +2159,15 @@ A good astromech navigator is worth its weight in cortosis. The droid market has
 Characters who work in transportation, intelligence, or medicine will find that droids are no longer optional equipment. They are the difference between a reliable operation and a catastrophic failure.
 }}
 
-\column
-
-### The Security Gradient
+## The Security Gradient
 
 The galaxy operates on a security gradient:
 
-**High Security** zones (Core Worlds, major Concordat systems) are patrolled by Concordat military forces and Republic-legacy law enforcement. Crime exists but is suppressed. Force-sensitive individuals are monitored. Military governor authority overrides civilian courts in designated territories.
+**High Security** zones (Core Worlds, major Concordat systems) are patrolled by Concordat military forces and Republic-legacy law enforcement. Crime exists but is suppressed. 
+\page
+{{Ch5,tab}}
+
+Force-sensitive individuals are monitored. Military governor authority overrides civilian courts in designated territories.
 
 **Medium Security** zones (Mid Rim, contested territories) are policed by whoever holds the local garrison — Concordat military, Mandalorian clan patrols, Remnant guerrilla forces, or corporate security operations. Law enforcement is inconsistent and politically determined.
 
@@ -2165,7 +2177,7 @@ The galaxy operates on a security gradient:
 
 The holonet still connects Core and Mid Rim territories. On the Outer Rim, communications depend on relay stations that nobody has funded to maintain since the wars. A ship that drops out of hyperspace in the wrong sector might encounter Neo-Mandalorian raiders, Sith remnant warlords, Exchange smugglers, Czerka security corvettes protecting a mining claim, or nothing at all for parsecs in every direction.
 
-### How War Is Fought
+## How War Is Fought
 
 Every military in the galaxy learned from the Mandalorian Wars and the Force's declining reliability. They learned different lessons.
 
@@ -2184,7 +2196,8 @@ Force users in all three forces operate as unreliable force multipliers. Smart c
 
 {{Ch4,tab}}
 
-## Chapter 20: Worlds and Frontiers
+# Chapter 20
+### Worlds and Frontiers
 
 Each world entry lists two tags: **Control** and **Security**. These are orientation tools for GMs and players.
 
@@ -2192,7 +2205,7 @@ Each world entry lists two tags: **Control** and **Security**. These are orienta
 
 **Security** describes how safe the world is for civilians and travelers. **High** means functional law enforcement, patrol coverage, and institutional stability. **Medium** means law enforcement exists but is inconsistent, politically compromised, or stretched thin. **Low** means the local authority is weak, corrupt, or absent, and personal armament is advisable. **Null** means no organized authority exists and survival depends on your crew and your ship.
 
-### Coruscant
+## Coruscant
 
 **Control:** Concordat capital. **Security:** High.
 
@@ -2202,7 +2215,7 @@ Coruscant under the Concordat is a city of surfaces. The upper levels function a
 
 For a player character, Coruscant is where you make deals, trade information, and see the Concordat's contradictions up close.
 
-### Taris
+## Taris
 
 **Control:** Concordat (Mandalorian administration). **Security:** Medium.
 
@@ -2210,7 +2223,7 @@ Taris was the first Mandalorian conquest and the first test of every promise the
 
 Between the levels, resentment simmers. Upper-city Tarisians resent Mandalorian authority. Undercity Tarisians resent upper-city Tarisians for caring about sovereignty more than survival. Mandalorian administrators resent the complexity of managing a world that doesn't think like a military camp.
 
-### Onderon and Dxun
+## Onderon and Dxun
 
 **Control:** Concordat (contested). **Security:** Medium to Low.
 
@@ -2218,9 +2231,7 @@ Onderon bears the scars of the Second Siege. Thousands of square kilometers of j
 
 For a player character, Onderon is a wound. The dead zone is present: you can walk to its edge and feel the Force vanish. Veterans of the Second Siege avoid it. Civilians cross it when they must and speak of headaches, nausea, and a sensation they describe as grief that isn't theirs.
 
-\column
-
-### Manaan
+## Manaan
 
 **Control:** Independent (Selkath sovereignty). **Security:** High.
 
@@ -2228,7 +2239,7 @@ The galaxy's most important neutral world and the sole source of kolto (see Chap
 
 Beneath the surface, the Selkath maintain a relationship with their ocean that outsiders do not understand. The kolto deposits lie deep, near the Hrakert Rift, a geological formation of immense significance to Selkath religion and science. The connection between kolto, the Rift, and the Force crisis is not a coincidence.
 
-### Korriban
+## Korriban
 
 **Control:** Sith traditionalist garrison. **Security:** Low (dangerous).
 
@@ -2236,13 +2247,13 @@ The tomb world of the Sith. The Force crisis has changed Korriban: ancient seals
 
 A Rakatan Star Map, older than the Sith Empire, sits in the Valley. It has been drawing on dark-side energy for millennia. What it has become is unclear.
 
-### Dantooine
+## Dantooine
 
 **Control:** Contested (Concordat claim, Remnant presence, Mandalorian cultural footprint). **Security:** Low.
 
 A pastoral world on the Outer Rim, home to a Jedi Enclave that predates the Republic's colonial expansion. The Jedi Enclave remains operational but diminished. The surrounding settlements are split between Concordat-aligned administrators, Mandalorian-influenced farming communities, and Remnant sympathizers who use Dantooine's remoteness as cover for intelligence operations. Rakatan ruins near the Enclave contain a partially degraded Star Map.
 
-### Nar Shaddaa
+## Nar Shaddaa
 
 **Control:** Hutt Space (The Exchange, Hutt clans). **Security:** Low.
 
@@ -2257,7 +2268,7 @@ For a player character, Nar Shaddaa is where you go when every other faction has
 
 {{Ch4,tab}}
 
-### Kashyyyk
+## Kashyyyk
 
 **Control:** Czerka Corporation (de facto). **Security:** Low.
 
@@ -2269,7 +2280,7 @@ In the deep Shadowlands, a dead zone marks where the Kashyyyk Star Map stood bef
 
 For a player character, Kashyyyk is a world where exploitation and ecological mystery overlap. The Czerka labor camps, the dead zone, the Wookiee resistance networks that operate beneath Czerka's notice, and the ancient Rakatan ruins that Czerka's archaeologists are excavating without telling anyone what they've found.
 
-### Duro
+## Duro
 
 **Control:** Concordat (military administration). **Security:** Medium (surface), Null (dead zone).
 
@@ -2281,7 +2292,7 @@ Three years later, Duro is a salvage economy. Scrappers in hardened envirosuits 
 
 The Concordat maintains a military station in high orbit, above the dead zone's ceiling. Refugees from Duro's orbital cities have scattered across the Mid Rim. A Duros community on Nar Shaddaa numbers thirty thousand and produces some of the galaxy's best independent navigators, people who learned astronavigation the hard way when their home vanished.
 
-### Serroco
+## Serroco
 
 **Control:** Concordat (Czerka subcontract). **Security:** Medium.
 
@@ -2295,7 +2306,6 @@ Stereb culture was oral, tied to specific geographical features that no longer e
 
 For a player character, Serroco is a wound that keeps producing resources. The cortosis that armors Concordat soldiers comes from mines built on mass graves.
 
-\column
 
 ### Telos
 
@@ -2305,17 +2315,8 @@ Telos was devastated during the Mandalorian Wars — not by a single strike but 
 
 The Telos Restoration Project is the Concordat's showcase: proof that the new government can rebuild what the wars destroyed. Automated terraforming stations, funded by Concordat bonds and Czerka engineering contracts, are slowly regenerating Telos's biosphere. Progress is visible from orbit — green spreading across grey — and the Concordat's propaganda ministry ensures the holonet sees it regularly.
 
-Beneath the showcase, the politics are vicious. Lorso uses Telos's reconstruction needs to extract concessions from Malak while publicly opposing his emergency powers. Czerka's engineering teams have embedded themselves so thoroughly in the restoration infrastructure that removing them would set the project back years. Atris's academy sits in a polar facility that the Concordat tolerates because Atris is too dangerous to evict and too useful to antagonize.
+Beneath the showcase, the politics are vicious. Lorso uses Telos's reconstruction needs to extract concessions from Malak while publicly opposing his emergency powers. Czerka's engineering teams have embedded themselves so thoroughly in the restoration infrastructure that removing them would set the project back years. 
 
-Atris's Echani Handmaidens patrol the facility's perimeter. They do not answer to the Concordat garrison. They do not answer to the Jedi Council. They answer to Atris. The garrison commander has filed seven formal complaints about jurisdictional overlap. Atris has not responded to any of them.
-
-### Jebble
-
-**Control:** Concordat (garrison). **Security:** Medium.
-
-A cold industrial world in the Outer Rim that most people couldn't find on a star chart before the Battle of Jebble made it famous. Malak's first major independent victory happened here — nine days of fighting that broke a Mandalorian supply nexus and proved the Revanchists could win without Revan in the room.
-
-Jebble's significance now is logistical. Its orbital shipyards, captured intact, service Concordat fleet operations across the northern Outer Rim. The population is transient: shipyard workers on rotation, naval personnel between deployments, and the service economy that follows military spending. Three cantinas serve the docking ring. Two of them are Concordat intelligence fronts. The third is an Exchange operation that Concordat intelligence knows about and tolerates because it produces better signals intelligence than their own people do.
 
 {{footnote Chapter 20: Worlds and Frontiers}}
 {{pageNumber,auto}}
@@ -2324,17 +2325,21 @@ Jebble's significance now is logistical. Its orbital shipyards, captured intact,
 
 {{Ch4,tab}}
 
-### The Remnant Fringe
 
-The Revanchist Remnant's twenty-three systems are scattered across the Outer Rim like beads from a broken necklace. They share no continuous border. Hyperspace routes between them thread through Concordat-patrolled space, requiring Remnant pilots to run silent or use hidden lanes that add days to every transit.
+Atris's academy sits in a polar facility that the Concordat tolerates because Atris is too dangerous to evict and too useful to antagonize.
 
-**Vardos** is the Remnant's breadbasket: a temperate agricultural world whose colonial-era irrigation systems produce enough grain to feed the Remnant's military and civilian population. Vardos's farmers did not choose the Remnant out of ideology. They chose it because the Concordat military governor assigned to their sector requisitioned sixty percent of their harvest for Core World distribution, and Admiral Kaeranth offered a defense guarantee in exchange for thirty percent. The math was simple.
+Atris's Echani Handmaidens patrol the facility's perimeter. They do not answer to the Concordat garrison. They do not answer to the Jedi Council. They answer to Atris. The garrison commander has filed seven formal complaints about jurisdictional overlap. Atris has not responded to any of them.
 
-**Ralos Station** serves as Kaeranth's mobile headquarters — a decommissioned Republic fleet tender converted into a command ship that relocates every forty days on a schedule known only to Kaeranth's inner circle. The station's crew of eight hundred includes military personnel, intelligence analysts, Jedi advisors, and a civilian support staff who haven't set foot on solid ground in three years. Morale is maintained by Kaeranth's competence and eroded by Revan's increasingly erratic transmissions from wherever he's holed up.
+## Jebble
 
-**Deralia** is a former Jedi enclave world where the local Jedi chapter defected to the Remnant rather than follow the Council's non-intervention directive. Forty Jedi and their support staff operate from the enclave, running training programs for Remnant volunteers and providing Force-healing services that draw patients from across the Remnant's territory. The enclave's senior Jedi, Master Nayama Voss, has adapted her teaching to the Force crisis: students spend as much time learning conventional medicine as Force technique, and every healing session begins with a kolto backup standing ready.
+**Control:** Concordat (garrison). **Security:** Medium.
 
-### The Outer Rim Frontier
+A cold industrial world in the Outer Rim that most people couldn't find on a star chart before the Battle of Jebble made it famous. Malak's first major independent victory happened here — nine days of fighting that broke a Mandalorian supply nexus and proved the Revanchists could win without Revan in the room.
+
+Jebble's significance now is logistical. Its orbital shipyards, captured intact, service Concordat fleet operations across the northern Outer Rim. The population is transient: shipyard workers on rotation, naval personnel between deployments, and the service economy that follows military spending. Three cantinas serve the docking ring. Two of them are Concordat intelligence fronts. The third is an Exchange operation that Concordat intelligence knows about and tolerates because it produces better signals intelligence than their own people do.
+
+
+## The Outer Rim Frontier
 
 **Control:** Variable to none. **Security:** Null to Low.
 
@@ -2348,6 +2353,17 @@ The people who live here didn't choose the frontier because they love freedom. S
 
 The frontier is where your characters become the most important people in the room, because on the frontier, everyone in the room is running out of options.
 
+# The Remnant Fringe
+
+The Revanchist Remnant's twenty-three systems are scattered across the Outer Rim like beads from a broken necklace. They share no continuous border. Hyperspace routes between them thread through Concordat-patrolled space, requiring Remnant pilots to run silent or use hidden lanes that add days to every transit.
+
+**Vardos** is the Remnant's breadbasket: a temperate agricultural world whose colonial-era irrigation systems produce enough grain to feed the Remnant's military and civilian population. Vardos's farmers did not choose the Remnant out of ideology. They chose it because the Concordat military governor assigned to their sector requisitioned sixty percent of their harvest for Core World distribution, and Admiral Kaeranth offered a defense guarantee in exchange for thirty percent. The math was simple.
+
+**Ralos Station** serves as Kaeranth's mobile headquarters — a decommissioned Republic fleet tender converted into a command ship that relocates every forty days on a schedule known only to Kaeranth's inner circle. The station's crew of eight hundred includes military personnel, intelligence analysts, Jedi advisors, and a civilian support staff who haven't set foot on solid ground in three years. Morale is maintained by Kaeranth's competence and eroded by Revan's increasingly erratic transmissions from wherever he's holed up.
+
+**Deralia** is a former Jedi enclave world where the local Jedi chapter defected to the Remnant rather than follow the Council's non-intervention directive. Forty Jedi and their support staff operate from the enclave, running training programs for Remnant volunteers and providing Force-healing services that draw patients from across the Remnant's territory. The enclave's senior Jedi, Master Nayama Voss, has adapted her teaching to the Force crisis: students spend as much time learning conventional medicine as Force technique, and every healing session begins with a kolto backup standing ready.
+
+
 {{footnote Chapter 20: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
@@ -2355,11 +2371,10 @@ The frontier is where your characters become the most important people in the ro
 
 {{Ch4,tab}}
 
-## Chapter 21: Peoples and Species
+# Chapter 21
+### **Peoples and Species**
 
-*Each entry covers what most people assume, what is true, how the Concordat Era has changed things, and why it matters for character creation.*
-
-### Humans
+## Humans
 
 **What people assume:** Humans are the default. The Republic was built by humans. Humans are everywhere, unremarkable, and culturally invisible.
 
@@ -2372,7 +2387,7 @@ The frontier is where your characters become the most important people in the ro
 A human character needs a specific origin, a specific region, a specific relationship to the war, and a specific set of opinions.
 }}
 
-### Mandalorians
+## Mandalorians
 
 **What people assume:** Mandalorians are a warrior species. They wear armor. They fight. They conquer.
 
@@ -2387,9 +2402,8 @@ A Mandalorian character must choose which Mandalorian they are. Concordat or Coa
 These questions matter more than the armor.
 }}
 
-\column
 
-### Sith Purebloods
+## Sith Purebloods
 
 **What people assume:** The Sith are the enemy. Red-skinned, Force-sensitive, tied to the Empire that nearly destroyed the Republic. Dangerous by nature.
 
@@ -2406,7 +2420,7 @@ The Keepers of Adas maintain pre-Exile cultural practices through oral tradition
 A Sith Pureblood character is one of the most complex options in the setting. Imperial loyalist or diaspora survivor? Kissai-descended scholar or Massassi-descended fighter? A Pureblood hiding their heritage in Concordat space? A Pureblood who's never seen Korriban and knows their culture through their grandmother's stories?
 }}
 
-### Cathar
+## Cathar
 
 **What people assume:** Victims. The species the Mandalorians tried to destroy.
 
@@ -2416,21 +2430,20 @@ Cathar refugees are concentrated in Mid Rim resettlement communities and in the 
 
 Some Cathar have joined the Mandalorians, the culture that destroyed their homeworld. The logic is pragmatic: Mandalorian culture respects strength. The refugee camps do not. A Cathar warrior who swears the Resol'nare and earns a place in a clan has resources, protection, and a future. She also eats meals beside people whose clans burned her mother's village. The psychological cost is not discussed.
 
-Other Cathar have joined the Remnant, drawn by the promise that the Remnant will hold the Mandalorians accountable for Ves'kaan. Others want no part of any faction's politics and are rebuilding what they can in exile — recording the oral traditions that survived, teaching their children the old songs, planting cathar-root gardens in hydroponic bays on space stations that smell nothing like home.
+Other Cathar have joined the Remnant, drawn by the promise that the Remnant will hold the Mandalorians accountable
+
+\page
+
+{{Ch4,tab}}
+for Ves'kaan. Others want no part of any faction's politics and are rebuilding what they can in exile — recording the oral traditions that survived, teaching their children the old songs, planting cathar-root gardens in hydroponic bays on space stations that smell nothing like home.
 
 {{note
 ##### Cathar Character Hooks
 A Cathar character carries the Razing whether they want to or not. How they carry it defines them. A refugee community organizer holding her people together on Taris. A warrior who joined the Mandalorians and has not yet been asked to explain herself to another Cathar. A young Cathar who has never seen the homeworld and is tired of living inside someone else's grief.
 }}
 
-{{footnote Chapter 21: Peoples and Species}}
-{{pageNumber,auto}}
 
-\page
-
-{{Ch4,tab}}
-
-### Miraluka
+## Miraluka
 
 **What people assume:** Blind Force-seers. Mysterious. Spiritual.
 
@@ -2440,7 +2453,7 @@ The Force crisis is an existential threat to the Miraluka as a species. As dead 
 
 The homeworld of Alpheridies has not yet been directly affected, but the degradation is measurable and trending. Miraluka communities have begun developing adaptation techniques: echolocation training for children, tactile navigation systems for ships, and partnerships with astromech droids that serve as seeing-eye companions during blackout episodes. Some Miraluka have left their communities entirely, taking work as dead-zone cartographers — mapping the boundaries and fluctuation patterns of Force-absent regions. They are uniquely qualified because they can feel the exact line where the Force ends. They are also uniquely damaged by the work. The Miraluka word for dead-zone surveyor translates roughly as "the one who walks to the edge of herself."
 
-### Selkath
+## Selkath
 
 **The reputation:** The kolto people. Aquatic. Neutral. Wealthy.
 
@@ -2453,7 +2466,7 @@ Selkath neutrality is a political strategy, not a cultural disposition. Beneath 
 A kolto merchant who knows exactly where her product goes. A member of the Order of Shasa who's discovered something about the deep-ocean Rakatan ruins that the Order's elders have been hiding. A Selkath diplomat who's concluded that neutrality is complicity.
 }}
 
-### Other Peoples
+## Other Peoples
 
 **Twi'leks** face ongoing exploitation across the galaxy. Twi'lek trafficking remains a persistent crime — the Exchange runs the largest networks, but Hutt clan operations and independent slavers account for a significant share. The Concordat has reduced trafficking in Core territories through the Office of Sentient Rights, a bureau that is underfunded, understaffed, and politically inconvenient. In the Outer Rim, trafficking operates openly. Twi'lek communities on Ryloth and in diaspora have developed mutual protection networks: coded communications, safe houses on trade routes, and a reputation for making slavers disappear. A Twi'lek character in the Concordat Era navigates a galaxy that has failed their people at every institutional level and that their people have survived anyway.
 
@@ -2463,6 +2476,11 @@ A kolto merchant who knows exactly where her product goes. A member of the Order
 
 **Duros** have been spacefaring longer than most species have had writing. In an era of degrading hyperspace routes, Duros navigators have become the galaxy's most valuable civilian professionals. Every faction recruits them. Duros navigation guilds have leveraged this demand into political influence: the Duros Navigation Compact, based out of the Duros diaspora community on Nar Shaddaa, sets rates, certifies navigators, and maintains the most current independent hyperspace charts in the galaxy. Hiring a Compact-certified Duros navigator costs five times what it did before the Force crisis. Not hiring one costs more.
 
+
+\page
+
+{{Ch5,tab}}
+
 **Zabraks** and **Iridonians** maintain clan-based frontier cultures that have adapted through mercenary service, independent trade, and a pragmatic refusal to commit to any single faction. Iridonian Zabrak communities on the Outer Rim have become de facto neutral zones, valued by all factions as stable trading posts.
 
 
@@ -2470,9 +2488,10 @@ A kolto merchant who knows exactly where her product goes. A member of the Order
 
 {{Ch5,tab}}
 
-## Chapter 22: Starting Scenarios
+# Chapter 22
+### Starting Scenarios
 
-### 22.1 The Freighter Incident
+## The Freighter Incident
 
 **Premise:** You are aboard a freighter traveling a major hyperlane. The ship drops out of hyperspace six days early, stranded at the edge of a dead zone. The Force doesn't work here. Hyperspace navigation fails. Three other ships are stuck: a Concordat military transport, a Remnant courier vessel, and a Neo-Mandalorian raiding ship.
 
@@ -2491,9 +2510,7 @@ Dead zones are real and dangerous. Hyperspace navigation fails near them. Force-
 Everyone on all four ships knows that none of them can leave without solving the same problem together.
 }}
 
-\column
-
-### 22.2 The Windfall Protocol
+## The Windfall Protocol
 
 **Premise:** You are Sith-aligned operatives. You wake in kolto immersion tanks inside a blacked-out refining station on the seafloor of an ocean moon. The station is in lockdown. Emergency lighting only. The kolto in your tanks isn't normal: cloudy, faintly luminescent, but it tastes sweet and tart.
 
@@ -2512,11 +2529,7 @@ You work for Sith interests. You were sent to this station for a reason. The oth
 Trust no one, and remember that the person you suspect the most may be the one you need the most.
 }}
 
-\page
-
-{{Ch1,tab}}
-
-### 22.3 The Proving of Clan Veshok
+## 22.3 The Proving of Clan Veshok
 
 **Premise:** You are members or recent inductees of Clan Veshok, a small Neo-Mandalorian clan operating from a converted cargo hauler called the *Tra'cysur* ("Star-Grave"). Mandalore Canderous Ordo has called a gathering of the clans at Dxun. For small clans like yours, a gathering is a test: prove your worth through combat trials and you gain standing, territory assignments, and access to the Coalition's shared armories. Fail, and Clan Veshok gets absorbed into a larger clan or scattered.
 
@@ -2610,35 +2623,4 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 }}
 
 {{footnote Appendix A: Glossary}}
-{{pageNumber,auto}}
-
-
-
-\page
-
-{{app,tab}}
-
-## Appendix B: Suggested Reading
-
-This setting draws on material from the *Star Wars* Expanded Universe, adapted and altered for the Concordat Era. None of it is required reading. All of it deepens your understanding of the traditions this campaign builds on.
-
-**Star Wars: Knights of the Old Republic** (video game, 2003). The baseline. The game that established the era's characters, worlds, and tone. Revan, Malak, Korriban, Dantooine, Manaan, Taris, and the Star Forge all originate here. See Chapter 4 for a full summary.
-
-**Star Wars: Knights of the Old Republic II — The Sith Lords** (video game, 2004). The philosophical spine. Kreia's arguments about the Force, the Sith Triumvirate, the Jedi's fracture, and the concept of wounds in the Force all inform this setting. Play it with the restored content mod. See Chapter 4 for a full summary.
-
-**Star Wars: The Old Republic** (MMO, 2011–present). Expands the era's species, worlds, and political factions. Sith Pureblood culture, Mandalorian clan politics, and the broader galactic landscape draw from this source.
-
-**The Kotor Comics** (2006–2010). Expand the Mandalorian Wars era with characters and events that inform this AU's history.
-
-### Historical Parallels
-
-For historical parallels: the Napoleonic Wars, the French Revolution's aftermath, the Congress of Vienna, and the Peninsular War all shaped this setting's political dynamics. These parallels are not required knowledge. They may reward a player looking for character inspiration, but a strong character comes from engaging with the setting as written, not from outside research.
-
-The Concordat's structure, a military-enforced hybrid government following catastrophic war, has analogues across dozens of historical periods. Life in a galaxy recovering from war, where old institutions are discredited and new ones are not yet trusted, is what this campaign is going for.
-
-**The Concordat Era is a story about people who have all done terrible things for reasons they could justify, living with the consequences and trying to decide what to do next.**
-
-Every faction in this setting has blood on its hands. Every ideology has been used to justify something unforgivable. Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking and hasn't started healing.
-
-{{footnote Appendix B: Suggested Reading}}
 {{pageNumber,auto}}
