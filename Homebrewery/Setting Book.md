@@ -57,6 +57,9 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
   - [{{ Chapter 14: Peoples, Culture, and Belief}}{{ 50}}](#p50)
 - # [{{ Part VI: Where We Begin}}{{}}](#p55)
   - [{{ Chapter 15: Starting Scenarios}}{{ 55}}](#p55)
+    - [{{ The Freighter Incident}}{{ 55}}](#p55)
+    - [{{ The Windfall Protocol}}{{ 55}}](#p55)
+    - [{{ The Proving of Clan Veshok}}{{ 56}}](#p56)
 - # [{{ Appendices}}{{}}](#p57)
   - [{{ Appendix A: Glossary}}{{ 57}}](#p57)
   - [{{ Appendix B: Suggested Reading}}{{ 60}}](#p60)
@@ -119,15 +122,15 @@ The galaxy has not decided what it is yet. That decision belongs to the people l
 
 :
 
-The year is 3952 BBY. The fourth year of the Concordat Era. Twelve years since the Great Hyperspace War broke the Force. The galaxy functions, barely, and no one agrees on what should come next.
+The year is 3952 BBY. The fourth year of the Concordat Era. Twelve years since the Great Hyperspace War broke the Force, the energy field that connects all living things and that has powered civilizations, religions, and warfare across the galaxy for millennia. The galaxy functions, barely, and no one agrees on what should come next.
 
-The **Concordat** governs from Coruscant. Its leader is Supreme Chancellor-General Malak, a former Jedi general who ended the Mandalorian Wars by defeating Mandalore the Vindicated in single combat and forging an alliance between Republic administration and Mandalorian military strength. The Concordat holds the Core Worlds, most of the Inner Rim, and significant portions of the Mid Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors to contested systems, and maintains emergency powers with no expiration date.
+The **Concordat** governs from Coruscant, the galaxy's capital world. Its leader is Supreme Chancellor-General Malak, a former general of the Jedi Order, the Force-trained guardians who served as the Republic's peacekeepers and mediators for thousands of years. Malak ended the Mandalorian Wars by defeating Mandalore the Vindicated in single combat and forging an alliance between Republic administration and Mandalorian military strength. The Concordat holds the Core Worlds (the galaxy's wealthy, densely populated center), most of the Inner Rim, and significant portions of the Mid Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors to contested systems, and maintains emergency powers with no expiration date.
 
 Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force. Half the galaxy calls him a savior. The other half calls him a dictator. Both halves are working with incomplete information.
 
-The **Revanchist Remnant** holds twenty-three systems in the Outer Rim and claims to be the legitimate Republic. Its figurehead is Revan, the philosopher-general who led the first Jedi revolt against the Council's inaction during the Mandalorian Wars. Revan spent two years in the Unknown Regions chasing ancient technology and has just returned, diminished and obsessed. The Remnant's actual operations are managed by Admiral Kaeranth. Its greatest weapon is the fact that every time the Concordat overreaches, someone in the affected system starts listening to Remnant recruiters.
+The **Revanchist Remnant** holds twenty-three systems in the Outer Rim (the galaxy's underdeveloped frontier) and claims to be the legitimate Republic. Its figurehead is Revan, the philosopher-general who led the first Jedi revolt against the Council's inaction during the Mandalorian Wars. Revan spent two years in the Unknown Regions chasing ancient technology and has just returned, diminished and obsessed. The Remnant's actual operations are managed by Admiral Kaeranth. Its greatest weapon is the fact that every time the Concordat overreaches, someone in the affected system starts listening to Remnant recruiters.
 
-The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a Mandalorian traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space, hitting both Concordat and Remnant shipping. Life in the Coalition is hard, proud, and increasingly unsustainable.
+The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a Mandalorian traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space, hitting both Concordat and Remnant shipping. Life in the Coalition is hard, proud, and unsustainable.
 
 None of these governments commands universal loyalty. Citizens across hundreds of worlds make daily choices about which authority to obey, which to resist, and which to ignore. On the frontier, the answer is often "none of the above."
 
@@ -138,18 +141,18 @@ Something is wrong with the Force, and no one agrees on what it is, how far it w
 
 Jedi healers find their abilities unreliable. A technique that worked yesterday fails today. Seers report fragmented visions, contradictory prophecies, and stretches of silence where the Force offers nothing. Combat-trained Jedi feel their precognition stutter in the middle of a fight, and soldiers who depended on that precognition to stay alive have learned to flinch whenever their Jedi commander pauses.
 
-Across the galaxy, dead zones mark places where the Force has gone entirely absent. In a dead zone, lightsabers still cut — they're plasma weapons, powered by crystals — but everything else fails. Precognition. Telekinesis. Healing. Force-sensitive species like the Miraluka, who perceive the world through the Force rather than through eyes, are blinded.
+Across the galaxy, dead zones mark places where the Force has gone absent. In a dead zone, lightsabers still cut (they're plasma weapons, powered by crystals), but everything else fails. Precognition. Telekinesis. Healing. Force-sensitive species like the Miraluka, who perceive the world through the Force rather than through eyes, are blinded.
 
 The zones are growing. Slowly, but measurably.
 
 ::
 
-Hyperspace navigation has become unreliable. Ships drop out of hyperspace days early. Some don't drop out at all.
+Hyperspace, the faster-than-light dimension that makes interstellar travel possible, has become unreliable. Ships drop out of hyperspace days early. Some don't drop out at all.
 
 
 ### A Galaxy in Transition
 
-The Concordat Era is not a post-apocalypse. The holonet still broadcasts. Freighters still carry cargo. Cantinas still serve drinks. But the foundations have shifted, and everyone can feel it.
+The Concordat Era is not a post-apocalypse. The holonet, the galaxy-wide communication and broadcast network, still functions. Freighters still carry cargo. Cantinas still serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
 
 {{descriptive
 *A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit.*
@@ -172,13 +175,17 @@ Your characters walk into this. Armed, opinionated, and connected to a galaxy th
 
 ### How to Use This Book
 
-This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge, common opinion, and the kind of detail a well-traveled spacer or curious university student might have. Some of it is accurate. Some of it is propaganda that everyone has heard so often it passes for truth. Some of it is genuinely contested, and the book will tell you when reasonable people disagree.
+This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge, common opinion, and the kind of detail a well-traveled spacer or curious university student might have. Some of it is accurate. Some of it is propaganda that everyone has heard so often it passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
 
 There are things this book does not contain. Hidden conspiracies that no one in the galaxy has uncovered. The true answer to what is killing the Force. The secret plans of people who have successfully kept their secrets. Your GM has that information. You will discover it in play, and the discoveries will mean more because you didn't read them in advance.
 
-**For character creation,** start with Chapter 3 for the questions your character needs to answer, then read the faction chapters (5 through 10) to find where your character fits — or doesn't — in the political landscape. Chapter 14 covers species and peoples. Come back to Chapter 3 when you're ready to finalize.
+**For character creation,** start with Chapter 3 for the questions your character needs to answer, then read the faction chapters (5 through 10) to find where your character fits in the political landscape. Chapter 14 covers species and peoples. Come back to Chapter 3 when you're ready to finalize.
 
 **For understanding the setting,** read as much or as little as you want. Chapter 4 provides the full history. Chapter 11 covers the Force crisis. Chapter 12 describes daily life. None of these chapters will spoil the campaign's surprises, but together they'll give you the texture to make grounded, specific choices in play.
+
+**If you've never played KOTOR or read Star Wars Expanded Universe material,** you lose nothing. This book explains every term, faction, and historical event from scratch. You do not need prior knowledge. The setting is designed to work for players who have never heard of the Old Republic and for players who can recite the Sith Code from memory.
+
+**If you have played KOTOR,** read the Adaptation Note in Appendix B. This setting changes the canon timeline and several major characters. The biggest shift: the Great Hyperspace War, which in the games occurred roughly a thousand years before the events of KOTOR, happened twelve years ago in this setting. That single change transforms the Sith Empire's fall from ancient history into living trauma, and everything downstream follows from it. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names and places appear, but the choices went differently.
 
 **On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. You will find references to aspects, skills, and stunts in Chapter 3 where they're relevant to character creation, but the setting material is system-agnostic. The political and cultural details matter more than any mechanical element. If you understand who your character is, what they believe, and who they owe, the system will follow.
 
@@ -257,7 +264,7 @@ A trouble like "My Unit Committed War Crimes at Onderon" generates more play tha
 Your aspects should make your character's relationship to the setting's central conflicts unavoidable.
 }}
 
-Your skills and stunts should reflect what your character can actually do, not what the Force might let them do. In a galaxy where Force abilities are unreliable, a character whose competence rests on conventional skills — shooting, piloting, negotiation, medicine, engineering — is never helpless. A character who relies on the Force is sometimes extraordinary and sometimes nothing. Build accordingly.
+Your skills and stunts should reflect what your character can do, not what the Force might let them do. In a galaxy where Force abilities are unreliable, a character whose competence rests on conventional skills — shooting, piloting, negotiation, medicine, engineering — is never helpless. A character who relies on the Force is sometimes extraordinary and sometimes nothing. Build accordingly.
 
 {{footnote Chapter 3: Making a Character}}
 {{pageNumber,auto}}
@@ -313,7 +320,7 @@ On **Ossus**, the Jedi Archives burned. Ten thousand Jedi fought the Sith war ma
 
 The Republic won because the Sith rituals were unstable. The sorcery that severed Jedi also consumed Sith practitioners. Naga Sadow's forces imploded as their own weapons devoured them. The Republic counter-invasion shattered what remained of the Sith Empire and drove the survivors into the Unknown Regions and the fringes of Wild Space.
 
-The victory was pyrrhic. Trade routes were severed. Entire sectors were depopulated. The Core Worlds bore bombardment scars that would take generations to repair. And the Jedi whispered about something worse: the Force itself was damaged. Not on Ossus alone, but spreading. Places where Sith rituals had been performed became dead zones: regions where the Force was absent or distorted, where Jedi abilities failed, where the natural connection between living things and the Force was gone.
+The victory was pyrrhic. The war severed trade routes and depopulated entire sectors. The Core Worlds bore bombardment scars that would take generations to repair. And the Jedi whispered about something worse: the Force itself was damaged. Not on Ossus alone, but spreading. Places where Sith rituals had been performed became dead zones. The zones kept growing.
 
 The Republic needed resources to rebuild. Cortosis for hull plating. Durasteel for infrastructure. Kolto for the millions of wounded. Fuel for the shattered fleet. Food for the displaced.
 
@@ -354,13 +361,13 @@ The clans adopted it within days. Not unanimously. Clan Kryze argued that demons
 
 #### The Siege of Taris (3962 BBY)
 
-**Taris** was the template. The Mandalorians surrounded the ecumenopolis, issued a challenge — prove you can defend yourselves without the Republic — and waited. For four months they held the perimeter while Coruscant promised relief that never came.
+**Taris** was the template. The Mandalorians surrounded the city-world, issued a challenge — prove you can defend yourselves without the Republic — and waited. For four months they held the perimeter while Coruscant promised relief that never came.
 
 When the Tarisian militia tried to break the siege, the Mandalorians crushed them in six hours. Then they did something no one expected: they offered the survivors training. A third accepted. When those soldiers returned weeks later, they were transformed. Disciplined, effective, dangerous. They still lost the rematch, but they'd earned something the Republic had never given them: Mandalorian respect.
 
 Taris surrendered not because it was conquered but because the Mandalorians offered something the Republic couldn't: protection that arrived. In exchange, Taris provided resources and a commitment to self-defense infrastructure.
 
-Two-thirds of Taris accepted the arrangement. The Undercity — the lowest levels, home to the displaced and the desperate — accepted almost unanimously. For people the Republic had already abandoned, Mandalorian pragmatism was an improvement.
+Two-thirds of Taris accepted the arrangement. The Undercity, the lowest levels where the displaced and the desperate lived, accepted almost unanimously. For people the Republic had already abandoned, Mandalorian pragmatism was an improvement.
 
 The upper city resisted. Tarisian nobles who'd relied on Republic trade agreements and Senate connections found themselves irrelevant. Some fled to Coruscant. Some hired mercenaries. Some adapted.
 
@@ -374,7 +381,7 @@ The arrangement worked. Onderon became the model for what the Mandalorians calle
 
 #### Dantooine (3961 BBY)
 
-**Dantooine** fell without a shot. The Mandalorians established a presence on the plains outside the Jedi Enclave and waited. Colonists came to them. Young farmers who looked at the enclave — where Jedi Masters debated whether using the Force was accelerating its death — and at the Mandalorian camp — where instructors taught blade combat and survival skills to anyone willing — and made a pragmatic choice.
+**Dantooine** fell without a shot. The Mandalorians established a presence on the plains outside the Jedi Enclave and waited. Colonists came to them. Young farmers looked at the enclave, where Jedi Masters debated whether using the Force was accelerating its death, and then at the Mandalorian camp, where instructors taught blade combat and survival skills to anyone willing. They made a pragmatic choice.
 
 The Jedi Enclave Council protested. The Mandalorians invited them to stop the migration by offering something better. The Council debated this for three weeks. By then, half the settlement had relocated.
 
@@ -409,9 +416,9 @@ The Republic, meanwhile, did nothing. The Senate debated jurisdiction while worl
 
 The Cathar refused the Mandalorian offer. Not with negotiation or with the organized militia resistance Taris had attempted. The Cathar fought a guerrilla campaign — brutal, decentralized, and devastating to Mandalorian supply lines. They used their homeworld's dense forests and canyon systems to ambush Mandalorian patrols. They poisoned water supplies. They targeted officers.
 
-The Mandalorian response escalated over months. What began as a standard pacification became a systematic campaign against the civilian infrastructure that supported the guerrillas. Mandalorian doctrine held that a people who refused to fight honorably — in open combat, with identifiable combatants — forfeited the protections of honorable war. The Cathar fought as insurgents, and the Mandalorians treated them as insurgents.
+The Mandalorian response escalated over months. What began as a standard pacification became a systematic campaign against the civilian infrastructure that supported the guerrillas. Mandalorian doctrine held that a people who refused to fight in open combat with identifiable combatants forfeited the protections of honorable war. The Cathar fought as insurgents, and the Mandalorians treated them as insurgents.
 
-Cassus Fett commanded the Cathar operation. His methods were efficient and monstrous. He separated Cathar populations from their forest strongholds through controlled burning. He established concentration zones where civilians were held while Mandalorian forces swept the guerrilla networks. He did not order the massacre that followed.
+Cassus Fett commanded the Cathar operation. His methods were efficient and monstrous. He separated Cathar populations from their forest strongholds through controlled burning. He established concentration zones where his troops held civilians while Mandalorian forces swept the guerrilla networks. He did not order the massacre that followed.
 
 What happened at the Cathar Concentration at Ves'kaan was a breakdown of discipline, not a strategy. Mandalorian forces under Clan Jendri, enraged after three months of insurgent ambushes that had killed their chieftain's children, entered the Ves'kaan zone and killed approximately fourteen thousand Cathar civilians over two days. Fett's official report classified it as "collateral pacification." He did not punish the perpetrators. He noted in private correspondence to Mandalore that "the Cathar problem is resolved" and moved to the next system.
 
@@ -433,7 +440,7 @@ Within three months, Republic military units joined the Revanchists: volunteers,
 
 #### The Serroco Atrocity (3958 BBY)
 
-The Mandalorians demonstrated that Cathar was not an isolated failure of discipline. When the native Stereb population of Serroco began aiding Revanchist intelligence operations, the Mandalorian garrison commander — acting on standing orders to maintain security at any cost — ordered the orbital bombardment of Serroco's native cities. Not the Republic mining installations. Not the military facilities. The twelve largest Stereb population centers. The cortosis mines were untouched.
+The Mandalorians demonstrated that Cathar was not an isolated failure of discipline. When the native Stereb population of Serroco began aiding Revanchist intelligence operations, the Mandalorian garrison commander, acting on standing orders to maintain security at any cost, ordered the orbital bombardment of Serroco's native cities. Not the Republic mining installations. Not the military facilities. The twelve largest Stereb population centers. The cortosis mines were untouched.
 
 The message was legible from orbit: the infrastructure matters. The people are replaceable.
 
@@ -452,7 +459,7 @@ Serroco radicalized the Revanchists in ways that Cathar had not. Malak, who had 
 
 #### Revan and Malak: The Division
 
-The war revealed what Revan and Malak were. Revan was a philosopher-general who understood war as a problem of knowledge. He identified which planets mattered, how to frame the conflict for public support, where to apply pressure to fracture Mandalorian alliances. His strategic plans were elegant, ambitious, and frequently disconnected from the logistical reality of feeding an army in contested space.
+Two years of fighting showed who Revan and Malak were. Revan was a philosopher-general who understood war as a problem of knowledge. He identified which planets mattered, how to frame the conflict for public support, where to apply pressure to fracture Mandalorian alliances. His strategic plans were elegant, ambitious, and frequently disconnected from the logistical reality of feeding an army in contested space.
 
 Malak understood supply lines, troop movements, attrition rates, and the brutal mathematics of a war fought across hundreds of systems. When historians later reviewed Revanchist victories, they found Revan's name on the strategic directives and Malak's signature on the tactical execution orders. Revan inspired the troops. Malak kept them fed and alive.
 
@@ -462,7 +469,7 @@ They needed each other. The problem was that Revan stopped needing the war.
 
 #### Revan's Obsession
 
-In captured Mandalorian archives, Revan found references to ruins in the Unknown Regions — structures built by an ancient civilization called the Rakata, who had built an empire on the Force and then lost it catastrophically. Revan became convinced that understanding the Rakatan collapse was the key to understanding the current Force crisis.
+In captured Mandalorian archives, Revan found references to ruins in the Unknown Regions — structures built by an ancient civilization called the Rakata, who had built an empire on the Force and then lost it. Revan became convinced that understanding the Rakatan collapse was the key to understanding the current Force crisis.
 
 He chased Star Map fragments across the Outer Rim. He acquired Sith holocrons from black-market dealers and from Korriban tomb raiders. He cross-referenced Rakatan architectural signatures with Sith historical records. His personal journal from this period reads like the work of a man who found a thread in a tapestry and believed that if he pulled hard enough, the entire design would reveal itself.
 
@@ -472,7 +479,7 @@ By late 3958, Revan spent more time in research than in command meetings. Malak 
 
 ### The Ashen Campaigns: Years Six and Seven (3957–3956 BBY)
 
-By Year Six, the Revanchist war effort was stalling. The Mandalorians recruited from every conquered world, turning former Republic citizens into effective soldiers within weeks. Force abilities were becoming unreliable: Malak had felt his own powers flicker in combat, had seen dead zones where Jedi abilities stopped working mid-engagement. The Revanchists were fighting with conventional forces supplemented by increasingly unpredictable Force users.
+By Year Six, the Revanchist war effort was stalling. The Mandalorians recruited from every conquered world, turning former Republic citizens into effective soldiers within weeks. Force abilities were becoming unreliable: Malak had felt his own powers flicker in combat, had seen dead zones where Jedi abilities stopped working mid-engagement. The Revanchists were fighting with conventional forces supplemented by unpredictable Force users.
 
 Malak commissioned a study of Revanchist Force-user effectiveness. The results were classified. The summary: Force-augmented combat units had suffered a thirty-one percent decline in operational reliability over two years. Precognition failures had caused friendly-fire incidents. Healing failures had increased field mortality. The Force was not a force multiplier anymore. It was a liability that occasionally worked.
 
@@ -507,7 +514,7 @@ The Ashen Campaigns were effective. They broke Mandalorian defensive positions t
 
 They also tore wounds in the Force that have never healed.
 
-Each coordinated Force strike consumed something. Not the energy of the practitioners alone, but something in the fabric of the Force itself. The Jedi who participated described it as spending currency that couldn't be replenished. After an Ashen strike, the affected area became a dead zone — a region where the Force was absent or distorted, where Force-sensitive individuals felt nauseous or disoriented, where the connection between living things and the Force was severed.
+Each coordinated Force strike consumed something. The Jedi who participated described it as spending currency that could not be replenished. After an Ashen strike, the affected area became a dead zone.
 
 The first dead zones were small. A battlefield. A crater. A few square kilometers. By the end of the Ashen Campaigns, entire regions of space were compromised. The Burning of **Duro** — an Ashen strike aimed at a Mandalorian shipyard in orbit — created a dead zone that encompassed the planet's upper atmosphere. Duro's surface, already polluted by centuries of industry, became a world where the Force was gone, where Force-sensitive refugees reported constant pain, where the ecosystem began dying in ways that biologists couldn't explain because the mechanisms were metaphysical.
 
@@ -517,7 +524,7 @@ Malak authorized every operation. He read the damage reports. He signed the next
 
 His reasoning was consistent: the Mandalorians would not stop. The Republic could not sustain a conventional war. The Force was dying anyway. If using it as a weapon accelerated the death of something that was already dying, the calculation was acceptable. Every Ashen strike shortened the war. Every shortened week saved conventional casualties that would have been spent in grinding attrition.
 
-The mathematics were defensible. The mathematics were monstrous. Malak knew both things simultaneously and did not stop.
+The mathematics were defensible. The mathematics were monstrous. Malak knew both things and did not stop.
 
 \column
 
@@ -620,15 +627,15 @@ Malak's model was not tyranny. It was the Consulate: a government that maintaine
 
 ### Malak the Man
 
-Malak wears prosthetics for his jaw and arm. In Mandalorian culture, prosthetics mark a warrior who paid the price for victory. In Republic culture, they mark a man who is no longer whole. Malak exists in both readings simultaneously, and the ambiguity is useful.
+Malak wears prosthetics for his jaw and arm. In Mandalorian culture, prosthetics mark a warrior who paid the price for victory. In Republic culture, they mark a man who is no longer whole. Malak occupies both readings at once, and the ambiguity is useful.
 
 He governs from Coruscant, from the same Senate chambers where Republic Chancellors governed before him. He holds audiences. He meets with senators. He reviews military reports. He sleeps four hours a night and drinks caf that his aide, Lieutenant Commander Vynn Telos, describes as "weaponized."
 
-He is not a monster. He is a man who made a series of decisions that each seemed necessary at the time and that, taken together, have built something that looks increasingly like an authoritarian state. He monitored Force-sensitive individuals because unreliable Force users were a genuine security risk. He expanded military governor authority because contested territories needed rapid decision-making. He curtailed press freedoms because wartime propaganda was destabilizing newly integrated Mandalorian worlds.
+He is not a monster. He is a man who made a series of decisions that each seemed necessary at the time and that, taken together, have built something that looks like an authoritarian state. He monitored Force-sensitive individuals because unreliable Force users posed a security risk. He expanded military governor authority because contested territories needed rapid decision-making. He curtailed press freedoms because wartime propaganda was destabilizing newly integrated Mandalorian worlds.
 
 Each decision had a defensible justification. Each decision made the next one easier.
 
-Malak is aware of what he is becoming. He has private conversations — recorded in journals that are not public — where he asks himself whether the Concordat is a transitional government or a permanent one. He does not have an answer. The galaxy is not stable enough to test the question.
+Malak is aware of what he is becoming. He has private conversations, recorded in journals that are not public, where he asks himself whether the Concordat is a transitional government or a permanent one. He does not have an answer. The galaxy is not stable enough to test the question.
 
 {{footnote Chapter 5: The Concordat}}
 {{pageNumber,auto}}
@@ -684,15 +691,15 @@ He made quiet contact with officers who felt the same way. When Revan returned f
 
 \column
 
-At campaign start, Kaeranth is the Remnant's spine. He maintains fleet readiness. He manages the hidden base network. He negotiates quietly with sympathetic Concordat officers who might defect if the political winds shift. He is a military pragmatist who chose the Remnant out of principle and stays because someone has to keep the lights on while Revan is... whatever Revan is becoming.
+At campaign start, Kaeranth is the Remnant's spine. He maintains fleet readiness. He manages the hidden base network. He negotiates through back channels with sympathetic Concordat officers who might defect if the political winds shift. He is a military pragmatist who chose the Remnant out of principle and stays because someone has to keep the lights on while Revan is... whatever Revan is becoming.
 
 His relationship with Revan is strained. Kaeranth extracted a hero. What he got back was a man consumed by research, intermittently brilliant and frequently incoherent, who speaks about Rakatan technology and "the pattern beneath the Force" with the intensity of a prophet and the specificity of a fever dream.
 
-Kaeranth protects Revan from the Remnant's rank and file. He filters Revan's communications. He interprets Revan's strategic directives into actionable orders when they're coherent and quietly shelves them when they're not. He does this because the Remnant needs its figurehead, and because he still believes — against mounting evidence — that the person he followed into war is still in there somewhere.
+Kaeranth protects Revan from the Remnant's rank and file. He filters Revan's communications. He interprets Revan's strategic directives into actionable orders when they're coherent and shelves them when they're not. He does this because the Remnant needs its figurehead, and because he still believes, against mounting evidence, that the person he followed into war is still in there somewhere.
 
 ### Revan's Return
 
-Revan spent approximately two years in the Unknown Regions, chasing fragments of Rakatan Star Maps and the trail of the Star Forge. He found things. He has not shared all of what he found, and what he has shared does not always make sense.
+Revan spent two years in the Unknown Regions, chasing fragments of Rakatan Star Maps and the trail of the Star Forge. He found things. He has not shared all of what he found, and what he has shared does not always make sense.
 
 He believes the Rakatan collapse and the current Force crisis share a common mechanism. He speaks in long monologues about "the pattern" — a structure he claims to perceive beneath the Force, something deeper than the light-side/dark-side binary. He sketches diagrams on any available surface. He sometimes fails to recognize people he's known for years. He sometimes demonstrates insights so precise and so far ahead of anyone else in the room that Kaeranth wonders if genius and madness are the same thing viewed from different angles.
 
@@ -737,7 +744,7 @@ Canderous rejected the Concordat for reasons that are ideological and personal i
 
 He leads the Coalition through combat prowess and personal conviction. Seven challengers in four years. Each one forced him to kill a subordinate to retain command. Mandalorian law permits this. Mandalorian culture respects it. Canderous does not sleep well after any of them. He has begun to suspect that a leader who must kill his own people to maintain authority is not leading but surviving, and that the distinction matters.
 
-His sister Veera chose the Concordat. They have not spoken since the split. Canderous keeps a holographic message she sent him — three sentences, asking him to come home — in a compartment in his vambrace. He has never played it. He has never deleted it.
+His sister Veera chose the Concordat. They have not spoken since the split. Canderous keeps a holographic message she sent him, three sentences asking him to come home, in a compartment in his vambrace. He has never played it. He has never deleted it.
 
 ### Mandalorian Life: A Culture Divided
 
@@ -745,7 +752,7 @@ Before the wars, Mandalorian life was defined by three things: the clan, the Res
 
 The **Resol'nare** — the six core tenets of Mandalorian identity — required every Mandalorian to wear armor, speak Mando'a, defend their clan, raise their children as Mandalorians, contribute to the clan's welfare, and answer the call of Mandalore. These were not abstractions. They structured daily life the way religious law structures an observant community.
 
-A Mandalorian farmer on **Dxun** woke before dawn, worked the kkanmur grain fields (a hardy Dxun cereal crop that grows in the moon's dense humidity) in beskar-composite work armor (functional, not ceremonial — the climate on Dxun required it), spoke Mando'a at home and Basic for trade, trained with weapons for an hour each evening, and taught their children to do the same. The rhythm was agricultural and martial simultaneously.
+A Mandalorian farmer on **Dxun** woke before dawn, worked the kkanmur grain fields (a hardy Dxun cereal crop that grows in the moon's dense humidity) in beskar-composite work armor (functional, not ceremonial — the climate on Dxun required it), spoke Mando'a at home and Basic for trade, trained with weapons for an hour each evening, and taught their children to do the same. The rhythm was agricultural and martial at once.
 
 \column
 
@@ -770,7 +777,7 @@ Others find it suffocating. The armor is the same, but the meaning has changed. 
 
 **Neo-Mandalorian** life is harder and freer. Canderous Ordo's Coalition operates as a nomadic military force: mobile bases, raiding fleets, and temporary settlements on uninhabited moons and asteroids. Resources are scarce. Discipline is maintained through combat challenges. The Resol'nare is observed with fierce orthodoxy because it's the only structure they have left.
 
-A Neo-Mandalorian warrior wakes in a barracks carved into an asteroid, trains with whatever weapons are available, raids a supply convoy if the fleet commanders have identified a target, and spends the evening maintaining armor that is increasingly difficult to repair without access to Mandalorian forges that the Concordat now controls.
+A Neo-Mandalorian warrior wakes in a barracks carved into an asteroid, trains with whatever weapons are available, raids a supply convoy if the fleet commanders have identified a target, and spends the evening maintaining armor that is harder to repair each month without access to Mandalorian forges that the Concordat now controls.
 
 Children born into the Coalition know nothing but this life. They are raised hard, trained young, and told that they are the true inheritors of Mandalorian tradition. Whether this is liberation or deprivation depends on who you ask.
 
@@ -874,9 +881,9 @@ Their critics (which is everyone) call this cowardice dressed as wisdom.
 Serve Revan's government-in-exile. Maintain the Revanchist military structure and continue to use Jedi Commander and Jedi Captain ranks. They see themselves as the Jedi Order's martial tradition preserved and applied. The Council sees them as the militarization problem made permanent.
 
 ##### 3. The Concordat Advisors (~80 Jedi)
-Serve Malak's government in various capacities: military advisors, healers in Concordat medical facilities, administrators in post-war reconstruction. Most did not join Malak out of enthusiasm. They joined because the Council offered no path to meaningful action and the Remnant offered only guerrilla warfare.
+Serve Malak's government as military advisors, healers in Concordat medical facilities, administrators in post-war reconstruction. Most did not join Malak out of enthusiasm. They joined because the Council offered no path to meaningful action and the Remnant offered only guerrilla warfare.
 
-These Jedi exist in a difficult position. Malak's Force-monitoring programs treat them as simultaneously useful and suspect. Some have rationalized this: Malak provides order, and order is a precondition for healing the Force. Some are quietly miserable. A few feed information to the Remnant or the Council.
+These Jedi exist in a difficult position. Malak's Force-monitoring programs treat them as useful and suspect in equal measure. Some have rationalized this: Malak provides order, and order is a precondition for healing the Force. Some are miserable. A few feed information to the Remnant or the Council.
 
 {{footnote Chapter 8: The Jedi Order}}
 {{pageNumber,auto}}
@@ -886,12 +893,12 @@ These Jedi exist in a difficult position. Malak's Force-monitoring programs trea
 {{Ch2,tab}}
 
 ##### 4. The Sentinel Program Operatives (~300, not all fully Jedi-trained)
-Atris's creation, Kavar's responsibility. Force-sensitive individuals trained in accelerated courses to serve as field operatives. Many are not traditional Jedi at all: they were recruited outside normal channels, from populations the Order had overlooked or rejected. A significant number are non-human species, including some Sith Purebloods (which created enormous controversy within the Council when it became known).
+Atris's creation, Kavar's responsibility. Force-sensitive individuals trained in accelerated courses to serve as field operatives. Many are not traditional Jedi at all: Atris recruited them outside normal channels, from populations the Order had overlooked or rejected. Many are non-human species, including some Sith Purebloods (which created enormous controversy within the Council when it became known).
 
 The Sentinels are the most diverse and least doctrinally coherent Jedi-adjacent group. Some have absorbed Jedi philosophy. Some have absorbed the military pragmatism of their trainers. Some have absorbed nothing but technique and are Force-capable mercenaries with Council authorization.
 
-The Sentinel Program has produced approximately three hundred operatives over two years. Of those:
-- Roughly two hundred are deployed in the field across Remnant-adjacent territories
+The Sentinel Program has produced about three hundred operatives over two years. Of those:
+- About two hundred are deployed in the field across Remnant-adjacent territories
 - Thirty-seven have been killed in action
 - Twelve have deserted, their current locations unknown
 - Eight have shown signs of dark-side corruption
@@ -906,7 +913,7 @@ The **Concordat** treats Sentinels as enemy agents and has standing orders to id
 \column
 
 ##### 5. The Independents (~several dozen confirmed, unknown total)
-Jedi who have left the Order entirely. Some renounced their vows publicly. Some stopped reporting. Some disappeared into civilian life on frontier worlds. Some became bounty hunters, merchants, teachers, or farmers.
+Jedi who have left the Order. Some renounced their vows publicly. Some stopped reporting. Some disappeared into civilian life on frontier worlds. Some became bounty hunters, merchants, teachers, or farmers.
 
 The Independents are not a faction. They are an absence: the Jedi the Order failed to hold.
 
@@ -918,7 +925,7 @@ She conceived the Sentinel Program. A Jedi historian and Council member, Atris h
 
 The theory was elegant. The implementation was rushed, desperate, and ethically catastrophic. **Master Kavar** runs the program's field operations and hates every moment.
 
-Atris did not remain with the program after its establishment. She returned to her private academy on **Telos**, where she trains Echani Handmaidens — approximately thirty elite warriors trained to fight and subdue Force users. Their combat methodology draws on Echani tradition (where physical movement is communication and expression) and on Atris's research into Force-suppression techniques. They are, in effect, an anti-Jedi strike team created by a Jedi.
+Atris did not remain with the program after its establishment. She returned to her private academy on **Telos**, where she trains Echani Handmaidens — thirty elite warriors trained to fight and subdue Force users. Their combat methodology draws on Echani tradition (where physical movement is communication and expression) and on Atris's research into Force-suppression techniques. They are, in effect, an anti-Jedi strike team created by a Jedi.
 
 She has collected Sith holocrons to study the enemy. The boundary between studying the enemy and learning from the enemy has grown thin. Atris is not a villain. She is a scholar who has spent too long staring into the dark and is beginning to mistake the dark for clarity.
 
@@ -942,7 +949,7 @@ She has collected Sith holocrons to study the enemy. The boundary between studyi
 
 **What most people know:** The Sith Empire was destroyed in the Great Hyperspace War. Its military was shattered. Its survivors were driven into exile.
 
-**What is actually happening:** The empire collapsed. The Sith did not.
+**What is happening:** The empire collapsed. The Sith did not.
 
 ### The Empire's Remnants
 
@@ -1062,7 +1069,7 @@ Internal Selkath politics are fracturing under the pressure:
 - **Isolationists** want to reduce exports and focus on Selkath self-sufficiency
 - **Commercialists** want to expand exports and build Manaan into a galactic financial center
 - **Interventionists** argue that neutrality enables atrocities and want to use the kolto monopoly as leverage to force peace negotiations
-- **The Order of Shasa** — the Selkath Force tradition — argues that kolto's connection to the Force means the Force crisis is a Selkath problem, not merely a galactic one
+- **The Order of Shasa** — the Selkath Force tradition — argues that kolto's connection to the Force means the Force crisis is a Selkath problem, not a galactic abstraction
 
 Foreign embassies in Ahto City compete for influence. Intelligence operatives from every faction circulate through the city's markets and cantinas.
 
@@ -1077,9 +1084,9 @@ Foreign embassies in Ahto City compete for influence. Intelligence operatives fr
 
 ## Chapter 11: The Force in Crisis
 
-The Force crisis is not abstract. It touches daily life in ways that even people with no Force sensitivity can identify.
+Chapter 2 introduced the Force crisis. Here is what it looks like on the ground.
 
-Jedi are less effective than they used to be. Everyone knows this. The Jedi healers who once staffed Republic medical facilities with near-miraculous capability now fail as often as they succeed. The Jedi mediators who once resolved planetary disputes through Force-enhanced empathy now arrive at negotiations with the same blind spots as everyone else. The Jedi warriors who once moved with supernatural speed and foresight now hesitate, miscalculate, and die in engagements they would have won a decade ago.
+Jedi are less effective than they used to be. The Jedi healers who once staffed Republic medical facilities with near-miraculous capability now fail as often as they succeed. The Jedi mediators who once resolved planetary disputes through Force-enhanced empathy now arrive at negotiations with the same blind spots as everyone else. The Jedi warriors who once moved with supernatural speed and foresight now hesitate, miscalculate, and die in engagements they would have won a decade ago.
 
 People who live near dead zones report specific, observable effects: mechanical failures in equipment that worked fine elsewhere, communication blackouts, navigation errors, and a pervasive unease that even non-Force-sensitive individuals describe as "wrongness." Animals avoid dead zones. Plants grow strangely in their periphery. Weather patterns shift near the larger ones in ways that meteorologists cannot account for through conventional atmospheric models.
 
@@ -1087,7 +1094,7 @@ People who live near dead zones report specific, observable effects: mechanical 
 
 The Jedi Council's official position: the Force is damaged, possibly by the massed Sith rituals of the Great Hyperspace War, possibly compounded by the Ashen Campaigns. Using the Force carelessly in its weakened state may accelerate the deterioration. The correct response is caution, study, and minimal intervention.
 
-This position is not unanimous even within the Council. Master Vrook argues for strict non-intervention. Master Vandar favors cautious engagement. Master Zez-Kai Ell has privately suggested that the Council's understanding of the crisis may be fundamentally incomplete and that restraint based on incomplete understanding is indistinguishable from paralysis.
+This position is not unanimous even within the Council. Master Vrook argues for strict non-intervention. Master Vandar favors cautious engagement. Master Zez-Kai Ell has privately suggested that the Council's understanding of the crisis may be incomplete and that restraint based on incomplete understanding is indistinguishable from paralysis.
 
 ### What the Sith Believed
 
@@ -1140,7 +1147,7 @@ Thirty thousand years before the Concordat Era, the Rakata ruled a galaxy-spanni
 
 The Star Forge orbits a star in the Lehon system, deep in the Unknown Regions. It is a factory the size of a small moon. It draws energy from the star it orbits and from the Force itself, converting both into raw material: ships, weapons, droids, armor, anything its operators can conceive. At its height, the Star Forge produced entire fleets in days. It won the Rakata their empire and then consumed them.
 
-The Rakata's collapse followed a pattern that Force scholars recognized: they used the Force as a resource, and the resource ran out. The Star Forge amplified its operators' aggression and channeled dark-side energy back into them, accelerating a feedback loop of conquest, consumption, and corruption. The Rakata's slave species revolted. A plague swept through the Rakata population. Their Force sensitivity deteriorated. Without the Force, their technology stopped working. Without their technology, their empire collapsed.
+The Rakata's collapse followed a pattern that Force scholars recognized: they used the Force as a resource, and the resource ran out. Operators who used the Star Forge grew more aggressive as dark-side energy fed back into them, accelerating a feedback loop of conquest, consumption, and corruption. The Rakata's slave species revolted. A plague swept through the Rakata population. Their Force sensitivity deteriorated. Without the Force, their technology stopped working. Without their technology, their empire collapsed.
 
 Within a few centuries, the Rakata went from ruling the galaxy to squatting in the ruins of their own monuments, unable to open the doors their ancestors had built.
 
@@ -1148,11 +1155,11 @@ Within a few centuries, the Rakata went from ruling the galaxy to squatting in t
 
 The Rakatan collapse is the historical precedent for the current Force crisis. A civilization that built everything on the Force, lost the Force, and died.
 
-The parallels are not subtle, and Revan was not the first person to notice them. The Jedi Archives on Ossus contained fragmentary references to the Infinite Empire before they burned in the Great Hyperspace War. Sith scholars on Korriban maintained their own records of Rakatan ruins found in the Stygian Caldera (the nebula surrounding Sith space) and interpreted them through a Sith theological lens: the Rakata were a warning about what happens when a civilization relies on Force power without the discipline to sustain it.
+Revan noticed the parallels. He was not the first. The Jedi Archives on Ossus contained fragmentary references to the Infinite Empire before they burned in the Great Hyperspace War. Sith scholars on Korriban maintained their own records of Rakatan ruins found in the Stygian Caldera (the nebula surrounding Sith space) and interpreted them through a Sith theological lens: the Rakata were a warning about what happens when a civilization relies on Force power without the discipline to sustain it.
 
 \column
 
-The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated catastrophically in the twelve years since the Great Hyperspace War. Something is different this time. Whether that difference is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified yet is the campaign's central mystery.
+The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated in the twelve years since the Great Hyperspace War at a rate no model predicts. Whether the cause is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified yet is the campaign's central mystery.
 
 ### The Star Forge: Legend With Teeth
 
@@ -1222,7 +1229,7 @@ Intact but corrupted. The Star Map in the Valley of the Dark Lords has been ther
 {{descriptive
 *A Concordat citizen in the Core Worlds wakes in an apartment that hasn't changed much since before the wars. The holonet plays the morning news: Senate proceedings, trade reports, a segment on kolto prices that nobody wants to hear.*
 
-*She takes a transit shuttle to work, passes a recruitment poster for the Concordat Joint Defense Force featuring a human soldier and a Mandalorian warrior standing shoulder to shoulder — a pairing that would have been absurd five years ago — and arrives at an office where her supervisor is a former Republic administrator and her department head is a Mandalorian clan liaison who still wears partial armor to meetings.*
+*She takes a transit shuttle to work, passes a recruitment poster for the Concordat Joint Defense Force featuring a human soldier and a Mandalorian warrior standing shoulder to shoulder — a pairing that would have been absurd five years ago, and arrives at an office where her supervisor is a former Republic administrator and her department head is a Mandalorian clan liaison who still wears partial armor to meetings.*
 
 *Normal, in the Core Worlds, means functioning.*
 
@@ -1255,7 +1262,7 @@ Astromech droids, which calculate hyperspace jumps through algorithmic rather th
 
 ### Labor, Class, and Displacement
 
-The wars displaced millions. Cathar refugees scattered across the Mid and Outer Rim after the Razing. The largest Cathar communities outside the homeworld cluster on Taris's Lower City, where three generations now share overcrowded housing blocks originally built for temporary use. A Cathar community council governs the district, negotiates with Taris's Upper City authorities for utilities and medical access, and maintains a cultural archive: holographic records of villages, oral histories from elders, a registry of the dead that grows longer each year as survivors age and children born in exile learn the names of places they will never visit. Onderon's beast-riders, those who survived the Second Siege, have no jungle to return to. Some settled in Iziz's lower quarters. Others scattered to frontier worlds where the land is cheap and nobody asks questions. A beast-rider community on Dantooine raises livestock and keeps the old riding traditions alive on animals that aren't Drexl.
+The wars displaced millions. Cathar refugees scattered across the Mid and Outer Rim after the Razing (see Chapter 14 for the Cathar community in detail). Onderon's beast-riders, those who survived the Second Siege, have no jungle to return to. Some settled in Iziz's lower quarters. Others scattered to frontier worlds where the land is cheap and nobody asks questions. A beast-rider community on Dantooine raises livestock and keeps the old riding traditions alive on animals that aren't Drexl.
 
 Sith Pureblood populations displaced by the Republic's post-GHW counter-invasion live in diaspora communities across the galaxy, navigating prejudice and surveillance. On Nar Shaddaa, a Pureblood neighborhood in the Refugee Sector operates its own security because the Hutt enforcers don't patrol it. Sith cultural centers double as mutual aid organizations: pooling credits for medical expenses, maintaining legal funds for members detained by Concordat security on suspicion of Sith sympathies, teaching the Sith language to children who've never seen Korriban. Concordat law does not prohibit Sith cultural practice, but Concordat intelligence monitors it, and the line between "cultural gathering" and "security concern" shifts depending on which officer is filing the report.
 
@@ -1324,7 +1331,7 @@ The galaxy operates on a security gradient:
 
 **Low Security** zones (Outer Rim frontiers, raiding corridors) are policed by whoever has the most guns in local space. Hutt enforcers, Exchange syndicates, Mandalorian raiding fleets, independent bounty hunters, and Sith remnant warlords all fill the vacuum in different sectors. "Law" is whatever the local power structure says it is.
 
-**Null Security** zones (Wild Space, Unknown Regions, dead zones) have no organized authority. Survival depends entirely on the crew you have and the ship you're flying.
+**Null Security** zones (Wild Space, Unknown Regions, dead zones) have no organized authority. Survival depends on the crew you have and the ship you're flying.
 
 The holonet still connects Core and Mid Rim territories. On the Outer Rim, communications depend on relay stations that nobody has funded to maintain since the wars. A ship that drops out of hyperspace in the wrong sector might encounter Neo-Mandalorian raiders, Sith remnant warlords, Exchange smugglers, Czerka security corvettes protecting a mining claim, or nothing at all for parsecs in every direction.
 
@@ -1373,7 +1380,7 @@ Between the levels, resentment simmers. Upper-city Tarisians resent Mandalorian 
 
 Onderon bears the scars of the Second Siege. Thousands of square kilometers of jungle are dead, killed when the Ashen strike ripped the Force from the ecosystem. Nothing grows there. The beasts that survived the strike are feral, dangerous.
 
-For a player character, Onderon is a wound. The dead zone is physically present: you can walk to its edge and feel the Force vanish. Veterans of the Second Siege avoid it. Civilians cross it when they must and speak of headaches, nausea, and a sensation they describe as grief that isn't theirs.
+For a player character, Onderon is a wound. The dead zone is present: you can walk to its edge and feel the Force vanish. Veterans of the Second Siege avoid it. Civilians cross it when they must and speak of headaches, nausea, and a sensation they describe as grief that isn't theirs.
 
 \column
 
@@ -1381,9 +1388,9 @@ For a player character, Onderon is a wound. The dead zone is physically present:
 
 **Control:** Independent (Selkath sovereignty). **Security:** High.
 
-The galaxy's most important neutral world. Manaan produces kolto, and the Selkath government in Ahto City sells it to every faction at prices they set.
+The galaxy's most important neutral world and the sole source of kolto (see Chapter 10 for Selkath politics and the kolto monopoly's mechanics).
 
-Beneath the surface, the Selkath maintain a relationship with their ocean that outsiders do not fully understand. The kolto deposits lie deep, near the Hrakert Rift, a deep-sea geological formation of immense significance to Selkath religion and science. The connection between kolto, the Rift, and the Force crisis is not a coincidence. The Selkath know more than they share.
+Beneath the surface, the Selkath maintain a relationship with their ocean that outsiders do not understand. The kolto deposits lie deep, near the Hrakert Rift, a geological formation of immense significance to Selkath religion and science. The connection between kolto, the Rift, and the Force crisis is not a coincidence.
 
 ### Korriban
 
@@ -1424,7 +1431,7 @@ Czerka holds a resource extraction contract that predates the Mandalorian Wars a
 
 In the deep Shadowlands, a dead zone marks where the Kashyyyk Star Map stood before Revan's forces destroyed it. Wookiee rangers who patrol the perimeter report the dead zone is stable but wrong: plants grow toward it rather than away, animals circle its edge in patterns that suggest navigation rather than avoidance, and the wroshyr trees nearest the boundary have stopped producing seeds. Wookiee elders call the site *Kachirho-naa*, the place where the forest forgot itself.
 
-For a player character, Kashyyyk is a world where exploitation and ecological mystery overlap. The Czerka labor camps, the dead zone, the Wookiee resistance networks that operate beneath Czerka's notice, and the ancient Rakatan ruins that Czerka's archaeologists are quietly excavating without telling anyone what they've found.
+For a player character, Kashyyyk is a world where exploitation and ecological mystery overlap. The Czerka labor camps, the dead zone, the Wookiee resistance networks that operate beneath Czerka's notice, and the ancient Rakatan ruins that Czerka's archaeologists are excavating without telling anyone what they've found.
 
 ### Duro
 
@@ -1432,7 +1439,7 @@ For a player character, Kashyyyk is a world where exploitation and ecological my
 
 Duro was an industrial world before the Burning. It had been polluted for centuries, its surface mostly abandoned, its population living in orbital cities while automated factories processed materials below. The Ashen Campaign strike that targeted a Mandalorian shipyard in orbit created the galaxy's largest confirmed dead zone, encompassing the planet's upper atmosphere and extending into the orbital shell.
 
-The orbital cities evacuated. Some made it to neighboring systems. Some didn't. The surface factories stopped producing when the workers who maintained them couldn't survive prolonged dead-zone exposure. Duro's industrial output, which had supplied a significant fraction of the Republic's wartime manufacturing, dropped to zero overnight.
+The orbital cities evacuated. Some made it to neighboring systems. Some didn't. The surface factories stopped producing when the workers who maintained them couldn't survive prolonged dead-zone exposure. Duro's industrial output, which had supplied a quarter of the Republic's wartime manufacturing, dropped to zero overnight.
 
 Three years later, Duro is a salvage economy. Scrappers in hardened envirosuits descend to the surface to strip factories for parts and materials. They work in shifts timed to dead-zone fluctuation patterns that no one fully understands — the zone pulses, expanding and contracting on a cycle that seems connected to stellar activity but that Force-sensitive observers insist has a rhythm that feels deliberate. Scrappers who stay too long report headaches, disorientation, and a persistent sense of being watched.
 
@@ -1448,7 +1455,7 @@ The cortosis mines operate at full capacity. The labor force is no longer Stereb
 
 The Stereb survivors who remain on-world live in two resettlement zones administered by the Concordat's post-conflict reconstruction office. The zones have medical facilities (understaffed), schools (underfunded), and a garrison of Concordat troops whose primary function is preventing Stereb protest movements from disrupting cortosis shipments. The Stereb word for the resettlement zones translates roughly as "the apology that isn't sorry."
 
-Stereb culture was oral, tied to specific geographical features that no longer exist. Elders who survived the bombardment are recording stories, songs, and place-memories for children who will never see the cities those stories describe. A Stereb cultural preservation project, funded by a Coruscant university grant and quietly monitored by Concordat intelligence, has become a focal point for Stereb political organization.
+Stereb culture was oral, tied to specific geographical features that no longer exist. Elders who survived the bombardment are recording stories, songs, and place-memories for children who will never see the cities those stories describe. A Stereb cultural preservation project, funded by a Coruscant university grant and monitored by Concordat intelligence, has become a focal point for Stereb political organization.
 
 For a player character, Serroco is a wound that keeps producing resources. The cortosis that armors Concordat soldiers comes from mines built on mass graves.
 
@@ -1462,7 +1469,7 @@ Telos was devastated during the Mandalorian Wars — not by a single strike but 
 
 The Telos Restoration Project is the Concordat's showcase: proof that the new government can rebuild what the wars destroyed. Automated terraforming stations, funded by Concordat bonds and Czerka engineering contracts, are slowly regenerating Telos's biosphere. Progress is visible from orbit — green spreading across grey — and the Concordat's propaganda ministry ensures the holonet sees it regularly.
 
-Beneath the showcase, the politics are vicious. Lorso uses Telos's reconstruction needs to extract concessions from Malak while publicly opposing his emergency powers. Czerka's engineering teams have embedded themselves so thoroughly in the restoration infrastructure that removing them would set the project back years. And Atris's academy sits in a polar facility that the Concordat tolerates because Atris is too dangerous to evict and too useful to antagonize.
+Beneath the showcase, the politics are vicious. Lorso uses Telos's reconstruction needs to extract concessions from Malak while publicly opposing his emergency powers. Czerka's engineering teams have embedded themselves so thoroughly in the restoration infrastructure that removing them would set the project back years. Atris's academy sits in a polar facility that the Concordat tolerates because Atris is too dangerous to evict and too useful to antagonize.
 
 Atris's Echani Handmaidens patrol the facility's perimeter. They do not answer to the Concordat garrison. They do not answer to the Jedi Council. They answer to Atris. The garrison commander has filed seven formal complaints about jurisdictional overlap. Atris has not responded to any of them.
 
@@ -1533,9 +1540,9 @@ A human character needs a specific origin, a specific region, a specific relatio
 
 **What people assume:** Mandalorians are a warrior species. They wear armor. They fight. They conquer.
 
-**What is true:** Mandalorians are a culture, not a species. Any individual of any species who swears to the Resol'nare — the six core tenets of Mandalorian identity — and is accepted by a clan is Mandalorian. Mandalorian demographics include humans, Twi'leks, Zabraks, Cathar (rare, and politically fraught), and dozens of other species adopted through the tradition of *gai bal manda*.
+**What is true:** Mandalorians are a culture, not a species. Any individual of any species who swears to the Resol'nare and is accepted by a clan is Mandalorian. Demographics include humans, Twi'leks, Zabraks, Cathar (rare, and politically fraught), and dozens of other species adopted through *gai bal manda*.
 
-The Concordat split this culture down a fault line that was already present. Concordat Mandalorians maintain their traditions within the framework of Republic governance. Neo-Mandalorians maintain their traditions in exile: nomadic, resource-scarce, fiercely orthodox, and increasingly aware that orthodoxy alone doesn't feed children.
+The Concordat split this culture down a fault line that was already present. Concordat Mandalorians maintain their traditions within the framework of Republic governance. Neo-Mandalorians maintain their traditions in exile: nomadic, resource-scarce, fiercely orthodox, and aware that orthodoxy alone does not feed children.
 
 {{note
 ##### Mandalorian Character Hooks
@@ -1556,7 +1563,7 @@ The old caste system — **Kissai** (priests and scholars), **Massassi** (warrio
 
 The Keepers of Adas maintain pre-Exile cultural practices through oral tradition. They hold that the "true Sith" are the people, not the ideology, and that the Force traditions of the original Sith predated and were corrupted by the Dark Jedi Exiles' light-side/dark-side framework.
 
-**Intermarriage** between Sith Purebloods and Humans (a practice as old as the Dark Jedi Exiles) has produced a large population of mixed-heritage individuals. In the old Empire, mixed heritage was a source of status if the Sith bloodline was strong and a source of shame if it was weak. In the Concordat Era, mixed-heritage individuals are sometimes the most effective cultural bridges between communities — and sometimes the most ruthlessly discriminated against by purists on both sides.
+**Intermarriage** between Sith Purebloods and Humans (a practice as old as the Dark Jedi Exiles) has produced a large population of mixed-heritage individuals. In the old Empire, mixed heritage was a source of status if the Sith bloodline was strong and a source of shame if it was weak. In the Concordat Era, mixed-heritage individuals are sometimes the most effective cultural bridges between communities — and sometimes the most hated by purists on both sides.
 
 {{note
 ##### Sith Pureblood Character Hooks
@@ -1569,9 +1576,9 @@ A Sith Pureblood character is one of the most complex options in the setting. Im
 
 **What is true:** The Cathar are a people defined by survival, not by victimhood. Every faction uses Cathar suffering to make its case. The Cathar themselves are tired of being someone else's argument.
 
-Cathar refugees are concentrated in Mid Rim resettlement communities and in the lower levels of ecumenopolises that were already overcrowded before fourteen thousand more displaced people arrived. On Taris, the Cathar quarter in the Undercity has become the largest Cathar community outside the homeworld — three thousand people in converted utility corridors, governed by an elected council of elders who spend half their time negotiating with Mandalorian district administrators and the other half trying to prevent their young people from joining either the Mandalorians or the Remnant.
+Cathar refugees are concentrated in Mid Rim resettlement communities and in the lower levels of ecumenopolises that were overcrowded before fourteen thousand more displaced people arrived. On Taris, the Cathar quarter in the Undercity has become the largest Cathar community outside the homeworld: three thousand people in converted utility corridors, three generations deep, governed by an elected council of elders who split their time between negotiating with Mandalorian district administrators for utilities and medical access and trying to prevent their young people from joining either the Mandalorians or the Remnant. The council maintains a cultural archive in a converted storage bay: holographic records of villages that no longer exist, oral histories from elders, a registry of the dead that grows longer each year as survivors age and children born in exile learn the names of places they will never visit.
 
-Some Cathar have joined the Mandalorians, the culture that destroyed their homeworld. The logic is brutally pragmatic: Mandalorian culture respects strength. The refugee camps do not. A Cathar warrior who swears the Resol'nare and earns a place in a clan has resources, protection, and a future. She also eats meals beside people whose clans burned her mother's village. The psychological cost is not discussed.
+Some Cathar have joined the Mandalorians, the culture that destroyed their homeworld. The logic is pragmatic: Mandalorian culture respects strength. The refugee camps do not. A Cathar warrior who swears the Resol'nare and earns a place in a clan has resources, protection, and a future. She also eats meals beside people whose clans burned her mother's village. The psychological cost is not discussed.
 
 Other Cathar have joined the Remnant, drawn by the promise that the Remnant will hold the Mandalorians accountable for Ves'kaan. Others want no part of any faction's politics and are rebuilding what they can in exile — recording the oral traditions that survived, teaching their children the old songs, planting cathar-root gardens in hydroponic bays on space stations that smell nothing like home.
 
@@ -1667,7 +1674,7 @@ The **Order of Shasa** on Manaan practices a Force tradition rooted in the Selka
 
 The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused on perceiving the future. The Force crisis has made their visions unreliable, and the Baran Do are debating whether to retreat from public life or engage with the galaxy's crisis directly.
 
-**Anti-Force secularism** has grown in the Concordat Era. Political movements on Core Worlds and Mid Rim systems argue that Force users — whether Jedi, Sith, or otherwise — have caused the galaxy's problems and that governance should be entirely secular. These movements range from principled humanism to crude speciesism directed at Force-sensitive peoples like the Miraluka and the Sith Purebloods.
+**Anti-Force secularism** has grown in the Concordat Era. Political movements on Core Worlds and Mid Rim systems argue that Force users — whether Jedi, Sith, or otherwise — have caused the galaxy's problems and that governance should be secular. These movements range from principled humanism to crude speciesism directed at Force-sensitive peoples like the Miraluka and the Sith Purebloods.
 
 {{footnote Chapter 14: Peoples, Culture, and Belief}}
 {{pageNumber,auto}}
@@ -1839,7 +1846,7 @@ This setting draws on material from the *Star Wars* Expanded Universe, adapted a
 
 For historical parallels: the Napoleonic Wars, the French Revolution's aftermath, the Congress of Vienna, and the Peninsular War all shaped this setting's political dynamics. Any good history of the period will reward a player looking for character inspiration.
 
-The Concordat's structure — a militarily enforced hybrid government following catastrophic conventional war — has analogues across dozens of historical periods. The texture of daily life in a galaxy recovering from war, where old institutions are discredited and new ones are not yet trusted, is the texture this campaign is going for.
+The Concordat's structure, a military-enforced hybrid government following catastrophic war, has analogues across dozens of historical periods. Life in a galaxy recovering from war, where old institutions are discredited and new ones are not yet trusted, is what this campaign is going for.
 
 **The Concordat Era is not a story about good versus evil.** It is a story about people who have all done terrible things for reasons they could justify, living with the consequences and trying to decide what to do next.
 
@@ -1851,9 +1858,19 @@ Every faction in this setting has blood on its hands. Every ideology has been us
 {{note
 
 ### A Note on Adaptation
-The Concordat Era is an alternate history. Some named characters behave differently than their canonical counterparts. Some events went differently. Some people who are important in the games are absent here.
+The Concordat Era is an alternate history. The major divergences from KOTOR canon:
 
-The adaptation is intentional. You are not playing through the KOTOR storyline. You are playing in the same era with different people making different choices.
+**The Great Hyperspace War moved forward by roughly a thousand years.** In canon, the GHW (Naga Sadow's invasion of the Republic) occurred around 5000 BBY, a millennium before the events of KOTOR. In this setting, it ended in 3964 BBY, twelve years before the campaign starts. The Sith Empire's collapse is living memory, not ancient lore. Veterans of that war walk the streets. This single change makes the Sith a present wound rather than a historical footnote, and it connects the Force crisis directly to events that characters can remember.
+
+**Malak never fell to the dark side.** In the games, Malak became Darth Malak, a Sith Lord who waged war on the Republic. Here, he remained a Jedi general who ended the Mandalorian Wars through single combat and political negotiation, then became the Concordat's Supreme Chancellor-General. His moral complexity comes from authoritarianism, not Sith corruption.
+
+**Revan was never captured or mind-wiped.** In KOTOR, the Jedi Council captured Revan and erased his memories. Here, Revan left for the Unknown Regions voluntarily, chasing Rakatan technology, and returned diminished and obsessed. His story is about intellectual ambition consuming a brilliant mind, not about identity and redemption.
+
+**The Mandalorian Wars ended through the Concordat, not the Star Forge.** In the games, the wars ended when Revan seized the Star Forge and turned it against the Mandalorians. Here, Malak challenged Mandalore to single combat, won, and forged a political alliance. The Star Forge may or may not exist. Its status is a campaign mystery.
+
+**The Jedi Civil War never happened.** In canon, Revan and Malak turned on the Republic after the Mandalorian Wars. That war does not occur in this setting. Instead, the galaxy fractured into three competing governments, each led by people who believe they're doing the right thing.
+
+Named characters, places, and concepts appear throughout, but the choices went differently. You are not replaying KOTOR. You are playing in the same galaxy with different outcomes.
 }}
 
 {{footnote Appendix B: Suggested Reading and Playing}}
