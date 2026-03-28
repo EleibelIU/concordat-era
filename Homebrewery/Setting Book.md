@@ -2565,18 +2565,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Blood ideology** | Belief that Sith Pureblood heritage carries inherent Force sensitivity and spiritual significance. Weaponized by multiple factions for surveillance or discrimination. | 31, 32, 53 |
 | **Breath of the Whills** | Oldest Jedi meditation form. Seated, feeling the Force move in and out with breath. Foundation of contemplative practice. | 34 |
 | **Burning of Duro** | Ashen Campaign strike on Mandalorian shipyards (3957 BBY). Created the galaxy's largest dead zone in Duro's upper atmosphere. Birthplace of Nihilus's transformation. | 21, 23, 32, 51 |
-}}
-
-{{footnote Appendix A: Glossary & Index}}
-{{pageNumber,auto}}
-
-\page
-
-{{app,tab}}
-
-{{DHTable,wide
-| **Term** | **Definition** | **Pg** |
-|:--|:--|:--|
 | **Canderous Ordo** | Leader of the Neo-Mandalorian Coalition. Fought at Onderon in Year Two. Rejected the Concordat as a betrayal of Mandalorian honor. Has killed seven challengers. | 4, 10, 22, 26, 27, 45, 56 |
 | **Carth Onasi** | Republic captain who defected after the Senate ratification vote. Serves as the Remnant's diplomatic liaison and intelligence coordinator. | 10, 25 |
 | **Cassus Fett** | Mandalorian strategist. Commanded the Cathar operation. Cold-eyed logistician who saw the Concordat's economic logic first. Now a Concordat Integrationist. | 19, 20, 22, 23 |
@@ -2589,6 +2577,18 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Clan Ordo** | Canderous and Veera Ordo's clan. Led the Onderon assault. Split between Concordat and Coalition. | 19, 26, 27 |
 | **Clan Skirata** | Mandalorian clan. Jaden the Elder provided the Doctrine of Necessary Strength its canonical language. | 19 |
 | **Clan Veshok** | Small Neo-Mandalorian clan in the Proving scenario. Lost aliit'alor Korath Veshok to counterfeit kolto. Ship: *Tra'cysur*. | 56 |
+}}
+
+{{footnote Appendix A: Glossary & Index}}
+{{pageNumber,auto}}
+
+\page
+
+{{app,tab}}
+
+{{DHTable,wide
+| **Term** | **Definition** | **Pg** |
+|:--|:--|:--|
 | **Clan Vizla** | Mandalorian clan that joined the Concordat alongside Cassus Fett's faction. | 22 |
 | **Commercialists (Selkath)** | Selkath faction led by Trade Minister Jhosa favoring expanded exports and building Manaan into a galactic financial center. | 33, 50 |
 | **Concordat, the** | Government merging Republic administration with Mandalorian military strength, led by Supreme Chancellor-General Malak (founded 3955 BBY / 1 CE). | 3, 4, 22, 23, 24 |
@@ -2603,18 +2603,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Council Loyalists** | ~200 Jedi following the Jedi Council's non-intervention directive. Study the Force crisis, minimize use, avoid faction alignment. | 29, 35 |
 | **Czerka Corporation** | Galaxy's largest resource extraction company. De facto authority on some Outer Rim worlds. Runs Serroco mines and Kashyyyk logging operations. | 19, 33, 47, 48, 51, 52, 55 |
 | **Czerka MedGel** | Czerka's synthetic kolto alternative. Handles surface trauma and minor infections but lacks kolto's deeper regenerative properties. | 47, 48 |
-}}
-
-{{footnote Appendix A: Glossary & Index}}
-{{pageNumber,auto}}
-
-\page
-
-{{app,tab}}
-
-{{DHTable,wide
-| **Term** | **Definition** | **Pg** |
-|:--|:--|:--|
 | **Dantooine** | Pastoral Outer Rim world. Jedi Enclave and Star Map location. Contested territory between Concordat, Remnant, and Mandalorian presence. | 5, 10, 15, 17, 19, 29, 36, 47, 50 |
 | **Dantooine Open-Sky method** | Jedi meditation performed lying under open sky, expanding awareness in concentric circles. Develops sense of scale and dissolves claustrophobia. | 34, 35 |
 | **Dar'manda** | Mandalorian: "without identity." Cast out from the creed, dead to their people. The status of one who breaks the Resol'nare. | 44 |
@@ -2629,12 +2617,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Doctrine of Necessary Strength** | Mandalorian philosophy: strength must be self-generated; reliance on the Force produces civilizational fragility. Adopted after Mandalore showed the clans a Jedi's death at Ossus. | 7, 18, 19, 21, 26, 44 |
 | **Dorak, Master** | Jedi historian who left the Council. Manages Remnant civilian administration from the government-in-exile. | 25 |
 | **Doris Fennel, Master** | Former Consular serving as Malak's primary Force advisor in the Concordat. Detests the position. | 29 |
-| **Dreshdae Compact** | Three Sith remnant commanders holding a garrison on Korriban, claiming custodial authority over the tomb world. | 32 |
-| **Drexl** | Beast-rider mounts on Onderon. Bonded to their riders through the Force; went mad during the Second Siege when the Ashen strike severed the connection. | 19, 21, 50 |
-| **Duro** | Industrial world. Site of the galaxy's largest confirmed dead zone after the Burning. Salvage economy. | 21, 23, 51 |
-| **Duros** | One of the galaxy's oldest spacefaring species. Exceptional navigators. Homeworld Duro devastated by the Burning. | 51, 55 |
-| **Duros Navigation Compact** | Duros diaspora navigator guild based on Nar Shaddaa. Sets rates, certifies navigators, maintains independent hyperspace charts. | 55 |
-| **Dxun** | Jungle moon of Onderon. Mandalorian cultural site and gathering location. Where Mandalore convened the clans to adopt the Doctrine of Necessary Strength. | 5, 18, 22, 26, 50, 56 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2647,6 +2629,11 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
+| **Drexl** | Beast-rider mounts on Onderon. Bonded to their riders through the Force; went mad during the Second Siege when the Ashen strike severed the connection. | 19, 21, 50 |
+| **Duro** | Industrial world. Site of the galaxy's largest confirmed dead zone after the Burning. Salvage economy. | 21, 23, 51 |
+| **Duros** | One of the galaxy's oldest spacefaring species. Exceptional navigators. Homeworld Duro devastated by the Burning. | 51, 55 |
+| **Duros Navigation Compact** | Duros diaspora navigator guild based on Nar Shaddaa. Sets rates, certifies navigators, maintains independent hyperspace charts. | 55 |
+| **Dxun** | Jungle moon of Onderon. Mandalorian cultural site and gathering location. Where Mandalore convened the clans to adopt the Doctrine of Necessary Strength. | 5, 18, 22, 26, 50, 56 |
 | **Echani** | Near-human species and culture from Eshan. Treat physical combat as communication and language. Read opponents through fighting style. | 29, 52, 55 |
 | **Echani Handmaidens** | Thirty elite warriors trained by Atris to fight and subdue Force users. An anti-Jedi strike team created by a Jedi. Stationed on Telos. | 29, 30, 52, 55 |
 | **Eshan** | Inner Rim homeworld of the Echani. | 55 |
@@ -2661,15 +2648,17 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Haruun Kal** | World where the Korunnai jungle-seers have stopped receiving visions for the first time in recorded memory due to the Force crisis. | 15 |
 | **Hrakert Rift** | Deep-sea geological formation on Manaan near kolto deposits. Connected to Rakatan ruins of unknown age. The Selkath know more than they share. | 17, 50 |
 | **Hundred-Year Darkness** | Ancient conflict after which the Dark Jedi Exiles were banished from the Jedi Order, eventually reaching Korriban. | 31, 39 |
-| **Hutt Space** | ~300 systems under Hutt clan authority. Neutral war profiteers who sell to every faction. | 33, 48, 51 |
-| **Hydian Way** | Major hyperspace route. Telos is located on it, making the world strategically valuable. | 9, 52 |
-| **Independents (Jedi)** | Jedi who left the Order entirely. Scattered into civilian life. An absence, not a faction. | 29, 35 |
-| **Infinite Empire** | Rakatan civilization that ruled the galaxy ~30,000 years ago. Built on Force-powered technology. Collapsed when they lost the Force. | 16 |
-| **Integrationists** | Concordat faction favoring genuine Mandalorian-Republic administrative partnership. Led by Veera Ordo with support from Cassus Fett's faction. | 23 |
-| **Interventionists (Selkath)** | Selkath faction arguing neutrality enables atrocities. Want to use Manaan's kolto monopoly as leverage to force peace negotiations. | 33, 50 |
-| **Iridonia** | Zabrak homeworld. Source of the rite-of-passage tattoo and combat traditions. Iridonians run neutral trading posts. | 55 |
-| **Isolationists (Selkath)** | Selkath faction led by Speaker Shelkar favoring reduced kolto exports and national self-sufficiency. | 33, 50 |
-| **Iziz** | Capital city of Onderon. Surviving beast-riders settled in the lower quarters after the Second Siege. | 50 |
+| **Echani** | Near-human species and culture from Eshan. Treat physical combat as communication and language. Read opponents through fighting style. | 29, 52, 55 |
+| **Echani Handmaidens** | Thirty elite warriors trained by Atris to fight and subdue Force users. An anti-Jedi strike team created by a Jedi. Stationed on Telos. | 29, 30, 52, 55 |
+| **Eshan** | Inner Rim homeworld of the Echani. | 55 |
+| **Exchange, The** | Criminal syndicate operating across the Mid and Outer Rim. Largest kolto black-market distribution network. | 9, 33, 47, 48, 49, 52 |
+| **Force Crisis** | Central crisis of the Concordat Era: the Force failing, dead zones expanding, abilities growing unreliable. No faction has identified the cause. | 4, 12, 15, 16, 25, 28, 33, 34, 36 |
+| **Free Sith Captains** | Independent former Sith naval officers operating 1-3 vessels as raiders, smugglers, or mercenaries across the Outer Rim. | 32 |
+| **Freighter Incident, the** | Starting scenario (4 CE): four ships stranded at the edge of a dead zone with multi-faction complications. | 56 |
+| **Gai bal manda** | Mandalorian adoption tradition. Taking any being of any species into a clan as Mandalorian. A Twi'lek raised Mandalorian is Mandalorian. | 26, 44, 53, 56 |
+| **Galactic Republic** | Democratic federation governing most of known space for thousands of years from Coruscant. Fractured by the wars; succeeded by competing governments. | 3, 4, 18 |
+| **Great Hyperspace War (GHW)** | War between the Republic and Sith Empire under Naga Sadow, ending 3964 BBY (9 BC). Caused catastrophic Force damage. Living memory in the Concordat Era. | 3, 4, 10, 15, 18, 31 |
+| **Grotthu** | Enslaved lower caste of Sith Pureblood society. Freed by the Empire's collapse. Descendants carry Sith features and no memory of why. | 31, 53 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2682,6 +2671,18 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
+| **Haruun Kal** | World where the Korunnai jungle-seers have stopped receiving visions for the first time in recorded memory due to the Force crisis. | 15 |
+| **Hrakert Rift** | Deep-sea geological formation on Manaan near kolto deposits. Connected to Rakatan ruins of unknown age. The Selkath know more than they share. | 17, 50 |
+| **Hundred-Year Darkness** | Ancient conflict after which the Dark Jedi Exiles were banished from the Jedi Order, eventually reaching Korriban. | 31, 39 |
+| **Hutt Space** | ~300 systems under Hutt clan authority. Neutral war profiteers who sell to every faction. | 33, 48, 51 |
+| **Hydian Way** | Major hyperspace route. Telos is located on it, making the world strategically valuable. | 9, 52 |
+| **Independents (Jedi)** | Jedi who left the Order entirely. Scattered into civilian life. An absence, not a faction. | 29, 35 |
+| **Infinite Empire** | Rakatan civilization that ruled the galaxy ~30,000 years ago. Built on Force-powered technology. Collapsed when they lost the Force. | 16 |
+| **Integrationists** | Concordat faction favoring genuine Mandalorian-Republic administrative partnership. Led by Veera Ordo with support from Cassus Fett's faction. | 23 |
+| **Interventionists (Selkath)** | Selkath faction arguing neutrality enables atrocities. Want to use Manaan's kolto monopoly as leverage to force peace negotiations. | 33, 50 |
+| **Iridonia** | Zabrak homeworld. Source of the rite-of-passage tattoo and combat traditions. Iridonians run neutral trading posts. | 55 |
+| **Isolationists (Selkath)** | Selkath faction led by Speaker Shelkar favoring reduced kolto exports and national self-sufficiency. | 33, 50 |
+| **Iziz** | Capital city of Onderon. Surviving beast-riders settled in the lower quarters after the Second Siege. | 50 |
 | **Jaden the Elder** | Clan Skirata elder who gave the Doctrine of Necessary Strength its canonical language at the Dxun gathering. | 18, 19 |
 | **Jebble** | Cold Outer Rim industrial world. Malak's first major independent victory (3958 BBY). Now a Concordat orbital shipyard and logistics hub. | 21, 52 |
 | **Jedi Code** | Five-tenet core teaching: "There is no emotion, there is peace; there is no ignorance, there is knowledge; there is no passion, there is serenity; there is no chaos, there is harmony; there is no death, there is the Force." | 34, 35, 37, 38 |
@@ -2698,18 +2699,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Kaeranth, Admiral (Saul)** | Commander of the Revanchist Remnant's military forces. Career naval officer who served under both Revan and Malak. Extracted Revan from the Unknown Regions. Runs the Remnant's actual operations. | 4, 22, 25, 52 |
 | **Kashyyyk** | Wookiee homeworld. Vertical wroshyr-tree civilization, Shadowlands. Dead zone where Revan's forces destroyed the Star Map. Under Czerka corporate occupation. | 10, 17, 51 |
 | **Katarr** | Miraluka colony destroyed by Darth Nihilus, who consumed the entire world's Force energy. Killed the population. | 9, 11, 32 |
-| **Kavar, Master** | Jedi Council Guardian and decorated combat veteran. Runs the Sentinel Program's field operations. Hates every moment of it. | 18, 29 |
-| **Keepers of Adas** | Sith Pureblood tradition maintaining pre-Exile practices and the memory of King Adas. Believe the light/dark binary is a category error imposed by outsiders. | 13, 17, 32, 39, 40, 53 |
-| **Kel Dor** | Species native to Dorin. Home to the Baran Do Sages contemplative Force tradition. | 15, 46 |
-| **King Adas** | Ancient Sith ruler who united the Sith species and repelled the Rakata ~27,000 years ago. Subject of Keeper oral tradition and Asking rituals. | 17, 32, 39 |
-| **Kissai** | Priestly-scholarly caste of Sith Pureblood society. Practitioners of sorcery, channeling, and theological maintenance. | 31, 39, 40, 42, 53 |
-| **Kissai Channeling School** | Group sorcery: spoken Old Sith incantations, ritual circles of three or more practitioners. Produces illusions, dark-side energy storms, battlefield-scale effects. Nearly lost. | 42 |
-| **Kleef** | Rodian Exchange boss on a frontier free port. Has never killed anyone personally but employs people who have. | 52 |
-| **Kolto** | Galaxy's primary healing substance, produced on Manaan alone. Accelerates cellular regeneration. Supply increasingly unstable. With Force healing unreliable, kolto is the galaxy's most valuable resource. | 4, 8, 15, 17, 33, 47, 48, 50, 54, 56 |
-| **Korath Veshok** | Aliit'alor of Clan Veshok who died from a wound treated with counterfeit kolto, three days before the Proving scenario begins. | 56 |
-| **Korriban** | Tomb world of the Sith. Valley of the Dark Lords and ancient academies. Star Map saturated with millennia of dark-side energy. Dark-side concentration has increased as the Force recedes elsewhere. | 4, 12, 17, 31, 39, 40, 50, 53 |
-| **Korunnai** | Jungle-seers on Haruun Kal. Have stopped receiving Force visions for the first time in recorded memory. | 15 |
-| **Kreia / Darth Traya** | Former Jedi Master, Revan's first teacher, and former Sith Lord. Built the Sith Triumvirate. Believes the Force is a cosmic prison binding all living things. Pursuing managed severance. | 10, 13, 32 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2722,6 +2711,18 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
+| **Kavar, Master** | Jedi Council Guardian and decorated combat veteran. Runs the Sentinel Program's field operations. Hates every moment of it. | 18, 29 |
+| **Keepers of Adas** | Sith Pureblood tradition maintaining pre-Exile practices and the memory of King Adas. Believe the light/dark binary is a category error imposed by outsiders. | 13, 17, 32, 39, 40, 53 |
+| **Kel Dor** | Species native to Dorin. Home to the Baran Do Sages contemplative Force tradition. | 15, 46 |
+| **King Adas** | Ancient Sith ruler who united the Sith species and repelled the Rakata ~27,000 years ago. Subject of Keeper oral tradition and Asking rituals. | 17, 32, 39 |
+| **Kissai** | Priestly-scholarly caste of Sith Pureblood society. Practitioners of sorcery, channeling, and theological maintenance. | 31, 39, 40, 42, 53 |
+| **Kissai Channeling School** | Group sorcery: spoken Old Sith incantations, ritual circles of three or more practitioners. Produces illusions, dark-side energy storms, battlefield-scale effects. Nearly lost. | 42 |
+| **Kleef** | Rodian Exchange boss on a frontier free port. Has never killed anyone personally but employs people who have. | 52 |
+| **Kolto** | Galaxy's primary healing substance, produced on Manaan alone. Accelerates cellular regeneration. Supply increasingly unstable. With Force healing unreliable, kolto is the galaxy's most valuable resource. | 4, 8, 15, 17, 33, 47, 48, 50, 54, 56 |
+| **Korath Veshok** | Aliit'alor of Clan Veshok who died from a wound treated with counterfeit kolto, three days before the Proving scenario begins. | 56 |
+| **Korriban** | Tomb world of the Sith. Valley of the Dark Lords and ancient academies. Star Map saturated with millennia of dark-side energy. Dark-side concentration has increased as the Force recedes elsewhere. | 4, 12, 17, 31, 39, 40, 50, 53 |
+| **Korunnai** | Jungle-seers on Haruun Kal. Have stopped receiving Force visions for the first time in recorded memory. | 15 |
+| **Kreia / Darth Traya** | Former Jedi Master, Revan's first teacher, and former Sith Lord. Built the Sith Triumvirate. Believes the Force is a cosmic prison binding all living things. Pursuing managed severance. | 10, 13, 32 |
 | **Lehon** | Star system deep in the Unknown Regions where the Star Forge orbits a star. Revan believes he located it during his two-year expedition. | 8, 16, 25 |
 | **Lekku** | Twi'lek head-tails. Sensory organs enabling a secondary communication channel of emotional and social signals that non-Twi'leks cannot read without training. | 53, 54 |
 | **Leviathan Group** | Five Sith warships operating as mercenaries in Hutt Space under the command of Yuthura Ban. | 32 |
@@ -2735,12 +2736,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Mandalorian Wars** | Multi-year conflict (3963–3955 BBY / 8 BC–1 CE). Ended via the Dhas'kara and the founding of the Concordat. | 3, 4, 10, 19, 20, 21, 22, 28, 35, 37 |
 | **Mando'a** | Mandalorian language. Speaking it is one of the six tenets of the Resol'nare. Binds beings of many species into one culture. | 26, 27, 44, 53 |
 | **Marka Ragnos** | Long-dead progenitor of Sith rulership. Subject of the most dangerous and revered Keeper Askings. | 40 |
-| **Marking, The** | Keeper apprentice scarification with powdered Korriban minerals, creating permanent sensitivity to dark-side energy concentrations. | 40 |
-| **Massassi** | Warrior caste of Sith Pureblood society. Suffered worst during the Republic counter-invasion. Survivors scattered, traumatized, angry. | 31, 53 |
-| **Meditation of Erosion** | Keeper practice: sustained exposure to concentrated dark-side energy over years or decades, deepening Force connection at the cost of physical deterioration. | 40 |
-| **Mid Rim** | Galactic middle band between Core Worlds and Outer Rim. Governed through Concordat military governors with broad discretionary authority. | 4, 19, 47 |
-| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Tagren Voss. | 23 |
-| **Miraluka** | Near-human species perceiving the world through the Force rather than eyes. The Force crisis threatens species-wide blindness and survival. | 4, 8, 12, 15, 46, 54 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2753,6 +2748,12 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
+| **Marking, The** | Keeper apprentice scarification with powdered Korriban minerals, creating permanent sensitivity to dark-side energy concentrations. | 40 |
+| **Massassi** | Warrior caste of Sith Pureblood society. Suffered worst during the Republic counter-invasion. Survivors scattered, traumatized, angry. | 31, 53 |
+| **Meditation of Erosion** | Keeper practice: sustained exposure to concentrated dark-side energy over years or decades, deepening Force connection at the cost of physical deterioration. | 40 |
+| **Mid Rim** | Galactic middle band between Core Worlds and Outer Rim. Governed through Concordat military governors with broad discretionary authority. | 4, 19, 47 |
+| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Tagren Voss. | 23 |
+| **Miraluka** | Near-human species perceiving the world through the Force rather than eyes. The Force crisis threatens species-wide blindness and survival. | 4, 8, 12, 15, 46, 54 |
 | **Naga Sadow** | Dark Lord of the Sith who launched the Great Hyperspace War's invasion of the Republic. His mastery of ritual warfare caused catastrophic Force damage. | 18 |
 | **Nar Shaddaa** | Smuggler's Moon in Hutt Space. Largest Sith Pureblood diaspora community (~15,000), major Cathar population, Exchange base of operations, and Duros Navigation Compact headquarters. | 5, 9, 30, 32, 47, 48, 50, 55 |
 | **Nayama Voss, Master** | Senior Jedi at the Deralia enclave. Adapted training so students learn conventional medicine alongside Force technique. | 52 |
@@ -2808,6 +2809,10 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Sith Triumvirate** | Shadowy network consolidating scattered Sith remnants toward an unknown purpose. Led by Kreia (Darth Traya), with Darth Nihilus and Darth Sion. Most people do not know it exists. | 10, 32 |
 | **Sithspawn** | Creatures twisted by Zuguruk alchemy. Terentateks are the most notorious variant. Mandalorians fought them on Korriban and lost entire companies. | 42, 43 |
 | **Speaker Shelkar** | Selkath Isolationist elder. Leads the faction arguing Manaan should reduce kolto exports and focus on self-sufficiency. | 33, 50 |
+| **Star Forge** | Rakatan factory orbiting a star in the Lehon system, capable of producing entire fleets by drawing on the Force and stellar energy. Status unknown. Revan believes he located it. | 10, 16, 17, 25 |
+| **Star Maps** | Rakatan navigational monuments. Five scattered across the galaxy (Dantooine, Kashyyyk, Manaan, Tatooine, Korriban). Self-repairing holographic systems powered by residual Force energy. Current status varies. | 10, 16, 17, 50, 51 |
+| **Stereb** | Native population of Serroco. Twelve cities orbitally bombarded; fewer than two million survivors of an original eight million. Oral culture tied to geographical features that no longer exist. | 19, 20, 51 |
+| **Stygian Caldera** | Nebula surrounding Sith space. Contains Rakatan ruins interpreted through Sith theology, including structures King Adas's followers studied. | 16, 31 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2820,10 +2825,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
-| **Star Forge** | Rakatan factory orbiting a star in the Lehon system, capable of producing entire fleets by drawing on the Force and stellar energy. Status unknown. Revan believes he located it. | 10, 16, 17, 25 |
-| **Star Maps** | Rakatan navigational monuments. Five scattered across the galaxy (Dantooine, Kashyyyk, Manaan, Tatooine, Korriban). Self-repairing holographic systems powered by residual Force energy. Current status varies. | 10, 16, 17, 50, 51 |
-| **Stereb** | Native population of Serroco. Twelve cities orbitally bombarded; fewer than two million survivors of an original eight million. Oral culture tied to geographical features that no longer exist. | 19, 20, 51 |
-| **Stygian Caldera** | Nebula surrounding Sith space. Contains Rakatan ruins interpreted through Sith theology, including structures King Adas's followers studied. | 16, 31 |
 | **Sylvar Juhani** | Cathar teenager who recorded the Ves'kaan massacre aftermath with a stolen Mandalorian recorder, sparking galactic outrage and accelerating the Revanchist movement. | 20 |
 | **Tagren Voss, General** | Career Republic officer who commanded the rearguard at the Burning of Duro. Chairs the Concordat Security Council. Militarist faction leader. Pushes for expanded surveillance and mandatory military service. | 23 |
 | **Taris** | City-world. First Mandalorian conquest. Upper City / mid-levels / Undercity class divide. Home to The Scratch, the largest urban Cathar community. Concordat-administered under Mandalorian governance. | 10, 15, 19, 48, 50, 53, 54 |
@@ -2838,18 +2839,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Treaty of Coruscant** | Treaty ending the Great Hyperspace War (3964 BBY / 9 BC). Three months later, Mandalore called the clans to Dxun. | 18 |
 | **Tuk'ata** | Symbiotic Force predators on Korriban. Feed on ambient dark-side energy. Presence indicates energy saturation points. Used in Keeper Chaining rituals as carved runestone markers. | 40, 42 |
 | **Twi'leks** | Species from Ryloth. Lekku enable secondary communication. Face a persistent trafficking crisis across the galaxy. Office of Sentient Rights combats this with limited resources. | 10, 53, 54 |
-}}
-
-{{footnote Appendix A: Glossary & Index}}
-{{pageNumber,auto}}
-
-\page
-
-{{app,tab}}
-
-{{DHTable,wide
-| **Term** | **Definition** | **Pg** |
-|:--|:--|:--|
 | **Undercity (Taris)** | Lowest levels of Taris where the displaced and desperate live. Accepted Mandalorian governance almost unanimously during the siege. | 19, 48, 50 |
 | **Unknown Regions** | Largely unexplored space beyond the Outer Rim. Revan spent two years chasing Rakatan technology here. Sith survivors fled here after the Great Hyperspace War. | 4, 16, 25, 31 |
 | **Valley of the Dark Lords** | Tomb complex on Korriban. Saturated with dark-side energy accumulated over millennia of ritual practice. Contains a Star Map. Geological formations channel dark-side energy like arteries. | 17, 32, 40, 50 |
@@ -2864,6 +2853,18 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Vrook, Master** | Senior Jedi Council member. Human Guardian-turned-administrator. Argues for strict non-intervention in galactic politics. Conservative voice. | 15, 29 |
 | **Vynn Telos, Lt. Commander** | Malak's personal aide. Describes his caf as "weaponized." | 23 |
 | **Walking Meditation of Telos** | Jedi meditation walking outdoors at dawn, treating the ecosystem as an extension of the body. Develops ecological and large-scale Force perception. | 34, 35 |
+}}
+
+{{footnote Appendix A: Glossary & Index}}
+{{pageNumber,auto}}
+
+\page
+
+{{app,tab}}
+
+{{DHTable,wide
+| **Term** | **Definition** | **Pg** |
+|:--|:--|:--|
 | **Wild Space** | Ungoverned space beyond the frontier. Sith remnants fled here after the Great Hyperspace War. Neo-Mandalorian raiding territory. | 4, 31, 49 |
 | **Windfall Protocol, the** | Starting scenario: Sith-aligned operatives awaken in kolto tanks in a blacked-out seafloor refining station on Manaan. | 56 |
 | **Wookiees** | Long-lived species native to Kashyyyk. Vertical civilization in wroshyr trees. Life-debt culture. Valued as navigators and mechanics. Exploited by Czerka. | 17, 51, 55 |
