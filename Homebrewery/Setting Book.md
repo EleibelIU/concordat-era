@@ -371,7 +371,6 @@ Two skills deserve special attention. **Academics** covers what universities tea
 
 Build stunts that reflect your character's history. A stunt is a story compressed into a mechanical bonus.
 
-\page
 
 ### Force-Sensitive Characters: The Mechanical Trade-Off
 
@@ -380,6 +379,10 @@ The Force in this campaign functions as an **extra**: a bundle of permissions an
 **Cost:** One of your three stunt slots goes to the Force-Sensitive Extra (you get two free stunts instead of three). Your trouble aspect must involve the Force crisis in some way.
 
 **Benefit:** You choose two **Force techniques** from the list below. Each technique lets you use an existing skill in an expanded way. You can purchase additional techniques as stunts.
+
+\page
+
+{{Intro,tab}}
 
 The available techniques: **Telekinesis** (use Physique to move objects at distance), **Precognition** (use Notice to sense danger before it arrives), **Force Healing** (use Academics to accelerate recovery), **Battle Meditation** (use Rapport to coordinate allies in combat), **Force Empathy** (use Empathy to perceive emotional states at supernatural depth), **Force Concealment** (use Stealth to suppress your Force presence), **Lightsaber Mastery** (use Fight to deflect blaster bolts and perform Force-enhanced combat), **Force Persuasion** (use Provoke or Rapport to influence weak-willed targets).
 
@@ -401,14 +404,13 @@ Consequences come in three severities: **mild** (a bruise, a shaken nerve), **mo
 
 Your GM will walk you through the full mechanical details during character creation. The Fate Condensed Player Guide for this setting covers skills, techniques, stunts, and dead zone rules in complete detail. For now, focus on the questions, the aspects, and the concept. The numbers come last.
 
-\column
 
-### Two Characters, Built From Scratch
+## Pre-Built Examples
 
 These two characters demonstrate how the same process produces different people. One relies on the Force. One does not. Both belong in this campaign.
 
 {{descriptive
-**Kael Draven, Jedi Sentinel**
+**Kael Shelaari, Jedi Sentinel**
 
 *Where are you from?* The Jedi Enclave on Dantooine. Kael entered the Order at age five and trained under Master Vandar until the Mandalorian Wars.
 
@@ -439,7 +441,7 @@ These two characters demonstrate how the same process produces different people.
 \page
 
 {{descriptive
-**Voss Kelari, Freelance Pilot**
+**Voss Caldean , Freelance Pilot**
 
 *Where are you from?* Nar Shaddaa. Voss grew up in the refugee quarter after her family fled the Great Hyperspace War. She learned to fly stolen speeders before she learned to read.
 
@@ -482,25 +484,25 @@ The campaign will test party cohesion. Let it. Characters who disagree about pol
 
 {{footnote Chapter 3: Making a Character}}
 {{pageNumber,auto}}
-\page
 
 \page
 
 {{Ch1,tab}}
 
-## Chapter 4: The Games Behind This Setting
+# Chapter 4
+### The Games that came before
 
 This setting builds on two video games: *Star Wars: Knights of the Old Republic* (2003) and *Star Wars: Knights of the Old Republic II: The Sith Lords* (2004). You do not need to have played them. This chapter summarizes their stories so you understand the raw material this setting rearranges.
 
-### The Story of Knights of the Old Republic
+## Knights of the Old Republic
 
-Revan fought in the Mandalorian Wars. The Jedi Council forbade it. Revan fought anyway. When the wars ended and victory came, Revan and his closest ally Malak ventured into the Unknown Regions seeking ancient Rakatan technology. They found the Star Forge, a factory station capable of producing warships without end. The dark side waited there. Both men fell.
+Revan was a prodigal Jedi Knight eager to fight in the Mandalorian Wars. The Jedi Council forbade it. Revan fought anyway. When the wars ended and victory came, Revan and his closest ally Malak ventured into the Unknown Regions seeking ancient Rakatan technology. They found the Star Forge, a factory station capable of producing warships without end. The dark side waited there. Both men fell.
 
 They returned as Sith Lords and launched the Jedi Civil War against the Republic they had saved. Republic worlds burned. The Jedi Order collapsed fighting for survival.
 
-The Jedi captured Revan during a raid on Malak's flagship. The Council made a choice: wipe the memory clean. Erase the Sith Lord and resurrect the soldier they needed.
+The Jedi captured Revan during a raid on Malak's flagship. Instead of killing him, they used the Force to wipe his memory clean and implant a false, generic upbringing that leads to enlistment in the Republic. 
 
-Revan woke on a Republic ship with no past, no name, only instinct and the skills of a warrior. The Sith attacked. Revan escaped with a Republic soldier named Carth Onasi and a Twi'lek named Mission Vao.
+Revan woke aboard the **Endar Spire**, a Republic ship during a sick attack. After boarding an escape pod and crashing on the nearby planet of Taris, Revan escapes the Sith blockade and system-wide manhunt with a Republic soldier named Carth Onasi, a Twi'lek named Mission Vao, and the wookie Zaalbarr. 
 
 From this point, the amnesiac soldier gathered companions. Bastila Shan, a Jedi with the rare gift of Battle Meditation, the ability to coordinate entire fleets through the Force. Canderous Ordo, the last of the great Mandalorian commanders, a warrior without a cause. Jolee Bindo, an old Jedi who had walked away from the Order and chosen isolation in the Kashyyyk forests. Juhani, a Cathar Jedi seeking redemption for her own dark deeds. HK-47, an assassination droid who spoke of murder as philosophy.
 
@@ -510,17 +512,16 @@ The journey broke Revan's amnesia. Bastila revealed the truth: the player was Re
 
 The game's central question: What defines the self? The Sith Lord who fell and the amnesiac soldier redeemed by friends were the same body, different lives. The player's choices, turn by turn, planet by planet, provided the answer.
 
-\column
 
-### The Story of Knights of the Old Republic II: The Sith Lords
+## The Sith Lords
 
 The second game asked a harder question: what if the Force itself was the problem?
 
-The player is the Jedi Exile, a former Jedi who followed Revan to the Mandalorian Wars. At the war's final battle above Malachor V, the Exile activated a superweapon that killed thousands on both sides. The mass death should have destroyed the Exile through the Force, the way every death in the blast radius rippled through the web of living connections. Instead, the Exile's mind did something unprecedented: it severed its own connection to the Force as a survival mechanism.
+The player is the Jedi Exile, a former Jedi who followed Revan to the Mandalorian Wars, achieving the rank of General. At the war's final battle above Malachor V, the Exile activated a superweapon that killed thousands on both sides. The mass death should have destroyed the Exile through the Force, the way every death in the blast radius rippled through the web of living connections. Instead, the Exile's mind did something unprecedented: it severed its own connection to the Force as a survival mechanism.
 
 The Exile became a wound in the Force. A void. Someone who unconsciously formed bonds with the people around them and drained their connection to the Force without knowing it.
 
-Kreia was the game's central figure. An old woman who served as the Exile's mentor, she was also Darth Traya, former Jedi Master and former Sith Lord, who had concluded that the Force itself was the enemy of all living things. The Force moved beings like pieces on a board, she argued. It elevated those it favored and crushed those it discarded. Both Jedi and Sith served the same master without knowing it. Kreia wanted to kill the Force itself.
+Kreia was the game's central figure. An old woman who served as the Exile's mentor, she was also Darth Traya, former Jedi Master of Revan and former Sith Lord, who had concluded that the Force itself was the enemy of all living things. The Force moved beings like pieces on a board, she argued. It elevated those it favored and crushed those it discarded. Both Jedi and Sith served the same master without knowing it. Kreia wanted to kill the Force itself.
 
 The Sith Triumvirate hunted the last Jedi. Darth Nihilus consumed the Force from living things, draining entire planets and leaving husks. He destroyed Katarr, killing an entire Miraluka colony. Darth Sion refused to die, held together by pain and the dark side, a man made of broken bones and fury. Darth Traya orchestrated from the shadows.
 
@@ -531,9 +532,6 @@ These questions haunt this setting. They are the philosophical foundation the Co
 {{footnote Chapter 4: The Games Behind This Setting}}
 {{pageNumber,auto}}
 
-\page
-
-{{Ch1,tab}}
 
 ### How This Setting Diverges
 
@@ -543,13 +541,15 @@ The games told their stories. This setting picks up the pieces and rearranges th
 
 **Malak never fell to the dark side.** In the games, Malak became Darth Malak, a Sith Lord who waged war on the Republic. Here, he remained a Jedi general who ended the Mandalorian Wars through single combat and political negotiation, then became the Concordat's Supreme Chancellor-General. His moral complexity comes from authoritarianism, not Sith corruption.
 
-**Revan was never captured or mind-wiped.** In KOTOR, the Jedi Council captured Revan and erased his memories. Here, Revan left for the Unknown Regions voluntarily, chasing Rakatan technology, and returned diminished and obsessed. His story is about intellectual ambition consuming a brilliant mind, not about identity and redemption.
+**Revan was never captured or mind-wiped.** In KOTOR, the Jedi Council captured Revan and erased his memories. Here, Revan left for the Unknown Regions voluntarily, chasing Rakatan technology, and returned diminished and obsessed. 
+
+\page
+
+His story is about intellectual ambition consuming a brilliant mind, not about identity and redemption.
 
 **The Mandalorian Wars ended through the Concordat, not the Star Forge.** In the games, the wars ended when Revan seized the Star Forge and turned it against the Mandalorians. Here, Malak challenged Mandalore to single combat, won, and forged a political alliance. The Star Forge may or may not exist. Its status is a campaign mystery.
 
 **The Jedi Civil War never happened.** In canon, Revan and Malak turned on the Republic after the Mandalorian Wars. That war does not occur in this setting. Instead, the galaxy fractured into three competing governments, each led by people who believe they're doing the right thing.
-
-Named characters, places, and concepts appear throughout, but the choices went differently. You are not replaying KOTOR. You are playing in the same galaxy with different outcomes.
 
 {{footnote Chapter 4: The Games Behind This Setting}}
 {{pageNumber,auto}}
@@ -558,7 +558,8 @@ Named characters, places, and concepts appear throughout, but the choices went d
 
 {{Ch3,tab}}
 
-## Chapter 5: What Is the Force?
+# Chapter 5 
+### What Is the Force?
 
 The Force is an energy field generated by all living things. It binds the galaxy together. In this setting, treat it as a real, measurable phenomenon, closer to gravity or magnetism than to mysticism.
 
