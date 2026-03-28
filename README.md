@@ -4,7 +4,6 @@ A Star Wars KOTOR-era alternate history TTRPG setting for Fate Condensed, built 
 
 The Concordat Era reimagines the post-Mandalorian Wars galaxy through Napoleonic historical parallels. Malak rules as a pragmatic authoritarian consul. Revan has vanished into the Unknown Regions. The Force is dying, and no one agrees on why. Three governments, five Jedi factions, a hidden Sith network, and a galaxy full of people trying to survive the aftermath of a war that broke everything.
 
-**System:** Fate Condensed. The Force is an Extra costing 1 stunt slot, interacting with the setting's dead zone system and compel economy.
 
 ## Documents
 
@@ -20,8 +19,6 @@ The Concordat Era reimagines the post-Mandalorian Wars galaxy through Napoleonic
 |----------|-------------|
 | [GM Guide](docs/guides/gm-guide.md) | An opinionated GM philosophy drawing on the Alexandrian, Sly Flourish, and Burning Wheel design traditions. Campaign genres, Sith/evil campaign variants, alternate timeframes. Not yet formatted for Homebrewery. |
 
-
-##Homebrewery
 
 > **This repo is the source of truth.** Homebrewery has persistent syncing issues and drifts from the canonical text. Always assume the Homebrewery versions are behind. Use them for rendering only.
 
