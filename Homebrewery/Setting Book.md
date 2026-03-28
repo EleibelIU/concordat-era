@@ -502,7 +502,7 @@ They returned as Sith Lords and launched the Jedi Civil War against the Republic
 
 The Jedi captured Revan during a raid on Malak's flagship. Instead of killing him, they used the Force to wipe his memory clean and implant a false, generic upbringing that leads to enlistment in the Republic. 
 
-Revan woke aboard the **Endar Spire**, a Republic ship during a sick attack. After boarding an escape pod and crashing on the nearby planet of Taris, Revan escapes the Sith blockade and system-wide manhunt with a Republic soldier named Carth Onasi, a Twi'lek named Mission Vao, and the wookie Zaalbarr. 
+Revan woke aboard the **Endar Spire**, a Republic ship under attack by Malak's Sith fleet. After boarding an escape pod and crashing on the nearby planet of Taris, Revan escapes the Sith blockade and system-wide manhunt with a Republic soldier named Carth Onasi, a Twi'lek named Mission Vao, and the wookie Zaalbarr. 
 
 From this point, the amnesiac soldier gathered companions. Bastila Shan, a Jedi with the rare gift of Battle Meditation, the ability to coordinate entire fleets through the Force. Canderous Ordo, the last of the great Mandalorian commanders, a warrior without a cause. Jolee Bindo, an old Jedi who had walked away from the Order and chosen isolation in the Kashyyyk forests. Juhani, a Cathar Jedi seeking redemption for her own dark deeds. HK-47, an assassination droid who spoke of murder as philosophy.
 
