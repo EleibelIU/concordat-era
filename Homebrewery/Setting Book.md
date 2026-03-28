@@ -25,44 +25,52 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
 # Contents
 
 {{toc,wide
-- # [{{ Part I: Welcome}}{{ }}](#p4)
+- # [{{ Part I: The World You're Entering}}{{ }}](#p4)
   - [{{ Chapter 1: To the Players}}{{ 4}}](#p4)
-  - [{{ Chapter 2: The Galaxy at a Glance}}{{ 5}}](#p5)
-  - [{{ Chapter 3: Making a Character}}{{ 7}}](#p7)
-- # [{{ Part II: The Wars That Made Us}}{{}}](#p9)
-  - [{{ Timeline}}{{ 9}}](#p9)
-  - [{{ Chapter 4: A History of the Concordat Era}}{{ 10}}](#p10)
-    - [{{ The Great Hyperspace War}}{{ 10}}](#p10)
-    - [{{ The Doctrine of Necessary Strength}}{{ 11}}](#p11)
-    - [{{ The Mandalorian Expansion}}{{ 11}}](#p11)
-    - [{{ Cathar and the Turning}}{{ 13}}](#p13)
-    - [{{ The Revanchist War}}{{ 14}}](#p14)
-    - [{{ The Ashen Campaigns}}{{ 15}}](#p15)
-    - [{{ The Dhas'kara and the Concordat}}{{ 17}}](#p17)
-    - [{{ The Years Since}}{{ 18}}](#p18)
-- # [{{ Part III: The Powers}}{{}}](#p19)
-  - [{{ Chapter 5: The Concordat}}{{ 19}}](#p19)
-  - [{{ Chapter 6: The Revanchist Remnant}}{{ 22}}](#p22)
-  - [{{ Chapter 7: The Neo-Mandalorian Coalition}}{{ 25}}](#p25)
-  - [{{ Chapter 8: The Jedi Order}}{{ 28}}](#p28)
-  - [{{ Chapter 9: The Sith}}{{ 34}}](#p34)
-  - [{{ Chapter 10: Independent Powers}}{{ 38}}](#p38)
-- # [{{ Part IV: The Dying Force}}{{}}](#p39)
-  - [{{ Chapter 11: The Force in Crisis}}{{ 39}}](#p39)
-    - [{{ The Rakata and the Star Forge}}{{ 40}}](#p40)
-    - [{{ The Star Maps}}{{ 41}}](#p41)
-- # [{{ Part V: The Galaxy You Inhabit}}{{}}](#p44)
-  - [{{ Chapter 12: Life, Trade, and Survival}}{{ 44}}](#p44)
-  - [{{ Chapter 13: Worlds and Frontiers}}{{ 47}}](#p47)
-  - [{{ Chapter 14: Peoples, Culture, and Belief}}{{ 50}}](#p50)
-- # [{{ Part VI: Where We Begin}}{{}}](#p55)
-  - [{{ Chapter 15: Starting Scenarios}}{{ 55}}](#p55)
-    - [{{ The Freighter Incident}}{{ 55}}](#p55)
-    - [{{ The Windfall Protocol}}{{ 55}}](#p55)
-    - [{{ The Proving of Clan Veshok}}{{ 56}}](#p56)
-- # [{{ Appendices}}{{}}](#p57)
-  - [{{ Appendix A: Glossary}}{{ 57}}](#p57)
-  - [{{ Appendix B: Suggested Reading}}{{ 60}}](#p60)
+  - [{{ Chapter 2: The Galaxy at a Glance}}{{ 6}}](#p6)
+  - [{{ Chapter 3: Making a Character}}{{ 8}}](#p8)
+    - [{{ The Story of KOTOR}}{{ 8}}](#p8)
+    - [{{ The Story of KOTOR II}}{{ 9}}](#p9)
+    - [{{ How This Setting Diverges}}{{ 10}}](#p10)
+  - [{{ Chapter 4: The Games Behind This Setting}}{{ 11}}](#p11)
+  - [{{ Chapter 5: What Is the Force?}}{{ 13}}](#p13)
+  - [{{ Chapter 6: The Force in Crisis}}{{ 15}}](#p15)
+    - [{{ The Rakata and the Star Forge}}{{ 17}}](#p17)
+    - [{{ The Star Maps}}{{ 18}}](#p18)
+  - [{{ Timeline}}{{ 20}}](#p20)
+  - [{{ Chapter 7: A History of the Concordat Era}}{{ 21}}](#p21)
+    - [{{ The Great Hyperspace War}}{{ 21}}](#p21)
+    - [{{ The Doctrine of Necessary Strength}}{{ 22}}](#p22)
+    - [{{ The Mandalorian Expansion}}{{ 22}}](#p22)
+    - [{{ Cathar and the Turning}}{{ 24}}](#p24)
+    - [{{ The Revanchist War}}{{ 25}}](#p25)
+    - [{{ The Ashen Campaigns}}{{ 26}}](#p26)
+    - [{{ The Dhas'kara and the Concordat}}{{ 28}}](#p28)
+    - [{{ The Years Since}}{{ 29}}](#p29)
+- # [{{ Part II: Who Holds Power}}{{}}](#p30)
+  - [{{ Chapter 8: The Concordat}}{{ 30}}](#p30)
+  - [{{ Chapter 9: The Revanchist Remnant}}{{ 33}}](#p33)
+  - [{{ Chapter 10: The Neo-Mandalorian Coalition}}{{ 36}}](#p36)
+  - [{{ Chapter 11: The Jedi Order}}{{ 39}}](#p39)
+  - [{{ Chapter 12: The Sith}}{{ 45}}](#p45)
+  - [{{ Chapter 13: Independent Powers}}{{ 49}}](#p49)
+- # [{{ Part III: What They Believe}}{{}}](#p50)
+  - [{{ Chapter 14: The Jedi Way}}{{ 50}}](#p50)
+  - [{{ Chapter 15: The Sith Tradition}}{{ 52}}](#p52)
+  - [{{ Chapter 16: Sith Sorcery & Alchemy}}{{ 53}}](#p53)
+  - [{{ Chapter 17: The Mandalorian Creed}}{{ 54}}](#p54)
+  - [{{ Chapter 18: Other Traditions}}{{ 56}}](#p56)
+- # [{{ Part IV: Where You Live}}{{}}](#p57)
+  - [{{ Chapter 19: Life, Trade, and Survival}}{{ 57}}](#p57)
+  - [{{ Chapter 20: Worlds and Frontiers}}{{ 60}}](#p60)
+  - [{{ Chapter 21: Peoples and Species}}{{ 63}}](#p63)
+  - [{{ Chapter 22: Starting Scenarios}}{{ 67}}](#p67)
+    - [{{ The Freighter Incident}}{{ 67}}](#p67)
+    - [{{ The Windfall Protocol}}{{ 67}}](#p67)
+    - [{{ The Proving of Clan Veshok}}{{ 68}}](#p68)
+- # [{{ Appendices}}{{}}](#p69)
+  - [{{ Appendix A: Glossary}}{{ 69}}](#p69)
+  - [{{ Appendix B: Suggested Reading}}{{ 72}}](#p72)
 }}
 
 \page
@@ -81,23 +89,15 @@ Use "footnote,white" for white text on the dark CampaignFrame background.
 *A letter to the players*
 }}
 
-You are about to play in a galaxy where the old certainties have failed.
+This campaign takes place four thousand years before the Star Wars films. There is no Darth Vader, no Empire, no Rebellion, no Luke Skywalker. Those stories happen millennia from now.
 
-Twelve years ago, a war between the Republic and the Sith Empire cracked the Force itself. Five years after that, a second war between the Republic and the Mandalorian clans cracked everything else: the government, the economy, the military, the Jedi Order, and any remaining agreement about how civilization ought to work.
+You are playing in the Old Republic era, when thousands of Jedi walked the galaxy, when the Sith were a living empire rather than a legend, and when the Force was infrastructure that civilizations depended on. Two wars have torn that world apart. The government that emerged from the wreckage holds power through a fragile bargain between former enemies. Three factions contest the galaxy's future, and each one believes it is saving what remains.
 
-The Concordat Era is what grew in the wreckage. A new government, forged from a battlefield bargain between a Jedi general and a Mandalorian warlord, holds the galaxy's center. Two rival factions contest its authority from the margins. The Jedi Order is fractured. The Sith, presumed destroyed, are not gone. The Force continues to deteriorate in ways no one fully understands, making medicine, travel, communication, warfare, and daily life all less reliable in ways most people can feel but few can explain.
+This is a political setting. Your character needs opinions, loyalties, and debts. Exploration and personal drama happen inside a galaxy where governments are failing and every person has chosen a side or is being forced to choose one.
 
-All three major governments believe they're saving the galaxy. All three have done things that demand accounting. The Concordat provides stability through authoritarianism. The Revanchist Remnant fights for democratic ideals while its leader disappears into obsession. The Neo-Mandalorian Coalition defends a code of honor that may be killing its own people. A hidden faction works toward an end none of the others see coming.
+If you know *Knights of the Old Republic*, you will recognize names and places adapted for this setting. Chapter 4 explains the original games and where this world diverges from them. If you have never heard of KOTOR, you lose nothing. This book explains every term, faction, and event from scratch.
 
-Your characters enter this world with their own histories, loyalties, and convictions. Some of you will have fought in the Mandalorian Wars. Some will have grown up during them. Some will be too young to remember a galaxy that worked properly and will assume this is normal.
-
-Bring characters who believe things. Characters who owe debts they can't repay, carrying scars, grudges, and obligations with reasons to get out of bed in the morning that have nothing to do with saving the galaxy. The campaign will give you opportunities to shape the fate of governments and peoples. It will also ask what your character does when the kolto runs out, when the navigation computer fails in a dead zone, when the officer across the table offers a deal that would solve everything if you could live with the terms.
-
-If you know *Knights of the Old Republic*, the Old Republic MMO, or the Expanded Universe material from this era, you will recognize names, places, and ideas adapted for this setting. The Concordat Era is not a retelling of those stories. It asks: what if the choices went differently? What if the war never cleanly ended? What if the people expected to become heroes or villains became something more complicated instead?
-
-If you don't know any of that material, you lose nothing. Every proper noun is explained when it first appears. Bring a character with opinions and a willingness to follow where those opinions lead.
-
-The galaxy has not decided what it is yet. That decision belongs to the people living in it, and for the next several dozen sessions, some of those people are yours.
+Bring a character who believes something strongly enough to act on it. The galaxy will test that belief.
 
 \column
 
@@ -110,7 +110,7 @@ The galaxy has not decided what it is yet. That decision belongs to the people l
 ![The Concordat Era](https://temp-image.com/ib/SlwUWEB8gnO99h8_1774586568.png){position:absolute,top:-1,left:0,width:100%,height:120%,z-index:-1}
 }}
 
-{{footnote,white Part I: Welcome}}
+{{footnote,white Part I: The World You're Entering}}
 {{pageNumber,auto}}
 
 \page
@@ -122,49 +122,63 @@ The galaxy has not decided what it is yet. That decision belongs to the people l
 
 :
 
-The year is 3952 BBY. The fourth year of the Concordat Era. Twelve years since the Great Hyperspace War broke the Force, the energy field that connects all living things and that has powered civilizations, religions, and warfare across the galaxy for millennia. The galaxy functions, barely, and no one agrees on what should come next.
+### The Basics
 
-The **Concordat** governs from Coruscant, the galaxy's capital world. Its leader is Supreme Chancellor-General Malak, a former general of the Jedi Order, the Force-trained guardians who served as the Republic's peacekeepers and mediators for thousands of years. Malak ended the Mandalorian Wars by defeating Mandalore the Vindicated in single combat and forging an alliance between Republic administration and Mandalorian military strength. The Concordat holds the Core Worlds (the galaxy's wealthy, densely populated center), most of the Inner Rim, and significant portions of the Mid Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors to contested systems, and maintains emergency powers with no expiration date.
+The galaxy is a disk of hundreds of billions of star systems. Civilizations have occupied it for tens of thousands of years. Ships travel between stars through **hyperspace**, a faster-than-light dimension that compresses interstellar distances into journeys of days or weeks. The galaxy is organized in concentric rings: the wealthy **Core Worlds** (Coruscant, Alderaan, Corellia) at the center, the **Mid Rim** in the middle band, and the underdeveloped **Outer Rim** at the frontier. Beyond the Outer Rim lies the **Unknown Regions**, largely unexplored.
 
-Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force. Half the galaxy calls him a savior. The other half calls him a dictator. Both halves are working with incomplete information.
+The **Galactic Republic** governed most of known space for thousands of years. It was a democratic federation: a Senate on Coruscant, elected representatives, trade agreements, shared infrastructure. It is now fractured.
 
-The **Revanchist Remnant** holds twenty-three systems in the Outer Rim (the galaxy's underdeveloped frontier) and claims to be the legitimate Republic. Its figurehead is Revan, the philosopher-general who led the first Jedi revolt against the Council's inaction during the Mandalorian Wars. Revan spent two years in the Unknown Regions chasing ancient technology and has just returned, diminished and obsessed. The Remnant's actual operations are managed by Admiral Kaeranth. Its greatest weapon is the fact that every time the Concordat overreaches, someone in the affected system starts listening to Remnant recruiters.
+The **Jedi Order** served the Republic as peacekeepers, diplomats, healers, and mediators. Jedi are Force-sensitive beings trained from childhood to perceive and manipulate the Force, an energy field generated by all living things. A trained Jedi can move objects through concentration, sense danger before it manifests, heal wounds, and read emotions. The Order maintained roughly ten thousand members at its peak. It is now broken into factions that disagree about everything.
 
-The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a Mandalorian traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space, hitting both Concordat and Remnant shipping. Life in the Coalition is hard, proud, and unsustainable.
+The **Sith** are three things at once: a red-skinned Force-sensitive species native to the planet Korriban, the religious-political order that conquered them seven thousand years ago, and a philosophical tradition built on passion and power. The Sith Empire fought a war against the Republic twelve years ago and lost. Most people consider the Sith a defeated enemy. Most people are wrong.
 
-None of these governments commands universal loyalty. Citizens across hundreds of worlds make daily choices about which authority to obey, which to resist, and which to ignore. On the frontier, the answer is often "none of the above."
+The **Mandalorians** are a warrior culture organized around clans, honor codes, and combat. They are not a species but a creed: anyone who follows Mandalorian ways and earns acceptance can become Mandalorian. They waged a devastating war of expansion against the Republic that ended seven years ago.
 
+The **Force** is real, measurable, and woven into the fabric of galactic civilization. Hospitals relied on Force-sensitive healers. Navigators used the Force to plot safer hyperspace routes. Governments employed Jedi as mediators and peacekeepers. Chapter 5 explains the Force in full. For now, know that it is failing, and nobody understands why.
+
+**Kolto** is the galaxy's primary healing substance, produced on the ocean world Manaan alone. It accelerates cellular regeneration and treats trauma. With Force healing unreliable, kolto has become the most valuable substance in the galaxy.
+
+\column
+
+### What Happened
+
+Two wars broke the galaxy.
+
+**The Great Hyperspace War** (3964 BBY, twelve years ago): The Sith Empire invaded the Republic. The war ended with the Empire's collapse, but the fighting left permanent scars in the Force itself. Dead zones appeared, places where the Force simply stopped working. The Sith as a political power were destroyed. The Sith as a species were scattered. The Sith as an idea survived.
+
+**The Mandalorian Wars** (3963-3955 BBY): Mandalorian clans launched a campaign of conquest across the Outer and Mid Rim. The Jedi Council refused to intervene. Two Jedi, Revan and Malak, defied the Council, built a military from volunteers and defectors, and fought the Mandalorians for seven years. The war ended when Malak challenged Mandalore the Vindicated to single combat, won, and negotiated a political settlement called the Concordat. The cost of victory included twelve planets with permanent Force damage, approximately six hundred thousand civilian dead, and a Jedi Order that could no longer agree on what it stood for.
+
+### Who Holds Power Now
+
+The year is 3952 BBY. The fourth year of the Concordat Era.
+
+The **Concordat** governs from Coruscant. Supreme Chancellor-General Malak, the Jedi general who won the war, leads a hybrid government merging Republic administration with Mandalorian military strength. The Concordat holds the Core Worlds and most of the Inner Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors, and maintains emergency powers with no expiration date. Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force.
+
+The **Revanchist Remnant** holds twenty-three Outer Rim systems and claims to be the legitimate Republic. Its figurehead is Revan, the strategist who started the Jedi revolt against Council inaction. Revan spent two years in the Unknown Regions chasing ancient technology and returned diminished and obsessed. Admiral Kaeranth runs the Remnant's actual operations.
+
+The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space.
+
+None of these governments commands universal loyalty. Citizens across hundreds of worlds make daily choices about which authority to obey, which to resist, and which to ignore.
 
 ### The Force Is Dying
 
-Something is wrong with the Force, and no one agrees on what it is, how far it will go, or whether it can be stopped.
+Something is wrong with the Force. Jedi healers find their abilities fail without warning. Seers report fragmented visions and stretches of silence. Combat-trained Jedi feel their precognition stutter mid-fight.
 
-Jedi healers find their abilities unreliable. A technique that worked yesterday fails today. Seers report fragmented visions, contradictory prophecies, and stretches of silence where the Force offers nothing. Combat-trained Jedi feel their precognition stutter in the middle of a fight, and soldiers who depended on that precognition to stay alive have learned to flinch whenever their Jedi commander pauses.
+Dead zones mark places where the Force has gone absent. In a dead zone, a lightsaber still cuts (it is a plasma weapon, powered by a crystal), but every other Force ability fails. Species like the Miraluka, who perceive the world through the Force rather than through eyes, go blind. The zones are growing.
 
-Across the galaxy, dead zones mark places where the Force has gone absent. In a dead zone, lightsabers still cut (they're plasma weapons, powered by crystals), but everything else fails. Precognition. Telekinesis. Healing. Force-sensitive species like the Miraluka, who perceive the world through the Force rather than through eyes, are blinded.
-
-The zones are growing. Slowly, but measurably.
-
-::
-
-Hyperspace, the faster-than-light dimension that makes interstellar travel possible, has become unreliable. Ships drop out of hyperspace days early. Some don't drop out at all.
-
+Hyperspace has become unreliable. Ships drop out days early. Some don't drop out at all.
 
 ### A Galaxy in Transition
 
-The Concordat Era is not a post-apocalypse. The holonet, the galaxy-wide communication and broadcast network, still functions. Freighters still carry cargo. Cantinas still serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
+The Concordat Era is not a post-apocalypse. The holonet (the galaxy-wide communication network) still functions. Freighters carry cargo. Cantinas serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
 
 {{descriptive
 *A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit.*
 
 *A veteran of the Ashen Campaigns works as a dock loader on Nar Shaddaa because the Revanchist military doesn't exist anymore and the Concordat doesn't want soldiers who know what they did.*
 
-*A crimson Twi'lek professor on Coruscant teaches ancient history at the university and wears long sleeves to cover their sith-like skin that makes strangers nervous.*
-
 *A Cathar teenager on a refugee transport practices with a vibroknife because Mandalorians destroyed her homeworld and no one is going to protect her, so she'll protect herself.*
 }}
-
-Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking.
 
 {{footnote Chapter 2: The Galaxy at a Glance}}
 {{pageNumber,auto}}
@@ -175,34 +189,32 @@ Your characters walk into this. Armed, opinionated, and connected to a galaxy th
 
 ### How to Use This Book
 
-This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge, common opinion, and the kind of detail a well-traveled spacer or curious university student might have. Some of it is accurate. Some of it is propaganda that everyone has heard so often it passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
+This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge and common opinion. Some of it is accurate. Some of it is propaganda that passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
 
-There are things this book does not contain. Hidden conspiracies that no one in the galaxy has uncovered. The true answer to what is killing the Force. The secret plans of people who have successfully kept their secrets. Your GM has that information. You will discover it in play, and the discoveries will mean more because you didn't read them in advance.
+Hidden conspiracies, the true answer to what is killing the Force, and the secret plans of people who have kept their secrets belong to your GM. You will discover them in play.
 
-**For character creation,** start with Chapter 3 for the questions your character needs to answer, then read the faction chapters (5 through 10) to find where your character fits in the political landscape. Chapter 14 covers species and peoples. Come back to Chapter 3 when you're ready to finalize.
+**If you know *Knights of the Old Republic*,** read Chapter 4 for the full summary of the original games and how this setting diverges. The biggest shift: the Great Hyperspace War happened twelve years ago in this setting, transforming the Sith Empire's fall from ancient history into living trauma. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names appear, but the choices went differently.
 
-**For understanding the setting,** read as much or as little as you want. Chapter 4 provides the full history. Chapter 11 covers the Force crisis. Chapter 12 describes daily life. None of these chapters will spoil the campaign's surprises, but together they'll give you the texture to make grounded, specific choices in play.
+**If you've never played KOTOR,** you lose nothing. This book explains everything from scratch. Chapter 4 summarizes the games for context, but the setting stands on its own.
 
-**If you've never played KOTOR or read Star Wars Expanded Universe material,** you lose nothing. This book explains every term, faction, and historical event from scratch. You do not need prior knowledge. The setting is designed to work for players who have never heard of the Old Republic and for players who can recite the Sith Code from memory.
+**For character creation,** go to Chapter 3 after reading this section. It gives you the questions your character needs to answer. Then read the faction chapters (8 through 13) to find where your character fits. Chapter 21 covers species and peoples.
 
-**If you have played KOTOR,** read the Adaptation Note in Appendix B. This setting changes the canon timeline and several major characters. The biggest shift: the Great Hyperspace War, which in the games occurred roughly a thousand years before the events of KOTOR, happened twelve years ago in this setting. That single change transforms the Sith Empire's fall from ancient history into living trauma, and everything downstream follows from it. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names and places appear, but the choices went differently.
+**For understanding the setting,** read as much or as little as you want. Chapter 5 explains the Force. Chapter 6 covers the Force crisis. Chapter 7 provides the full history. Chapters 14 through 17 cover Jedi, Sith, and Mandalorian belief systems.
 
-**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. You will find references to aspects, skills, and stunts in Chapter 3 where they're relevant to character creation, but the setting material is system-agnostic. The political and cultural details matter more than any mechanical element. If you understand who your character is, what they believe, and who they owe, the system will follow.
+**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. The setting material is system-agnostic. If you understand who your character is, what they believe, and who they owe, the system will follow.
 
 {{note
 ##### A Note on Calendars
-This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment.
-
-**Out of character:** The Battle of Yavin is the destruction of the Galactic Empire's Death Star above Yavin 4, the climactic battle of the Galactic Civil War depicted in *A New Hope*. It is Year Zero of the BBY/ABY calendar system. Nobody in 3952 BBY has any knowledge of it. BBY appears in this book as an orientation tool for readers who know the broader Star Wars canon.
+This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment. Nobody in 3952 BBY has any knowledge of the Battle of Yavin. BBY appears as an orientation tool for readers who know the broader Star Wars timeline.
 
 In-world, characters use the **Concordat Era calendar**. Events before the Concordat's signing use **BC** (Before Concordat): 9 BC at the Great Hyperspace War's end, counting down to 1 BC. Events after use **CE** (Concordat Era): 1 CE, 2 CE, and so on. The campaign begins in 4 CE.
 
-The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.* Expect these in play when timing matters.
+The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.*
 
-In-universe, the calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
+The calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
 }}
 
-{{footnote Part I: Welcome}}
+{{footnote Part I: The World You're Entering}}
 {{pageNumber,auto}}
 
 \page
@@ -212,68 +224,641 @@ In-universe, the calendar is political. Using Concordat Era dating signals loyal
 # Chapter 3
 ### Making a Character for the Concordat Era
 
-Character creation in the Concordat Era starts with questions, not statistics.
+You do not need to know anything about Star Wars, the Force, or tabletop roleplaying games to build a character for this campaign. You need a person with a past, a problem, and a reason to be in the room when everything goes wrong.
 
-**Where are you from?** The answer determines your character's baseline assumptions about the galaxy. A Core World citizen grew up with functioning institutions and considers the Concordat normal. An Outer Rim frontier resident grew up with none of the above and considers self-reliance normal. A Mandalorian from Dxun grew up in a warrior culture that trained her to fight since she could walk. A Sith Pureblood from Nar Shaddaa grew up hiding her heritage in a galaxy that considers her species a threat.
+Character creation starts with six questions. Each one shapes who your character is and how they connect to the galaxy. Read the question, pick the answer that interests you, and move on. You can change your mind later. Nothing is permanent until the first session starts.
 
-**What did you do during the wars?** If your character is old enough to have served, which war? The Great Hyperspace War? The Mandalorian Wars? The Ashen Campaigns? Which side? What did they see? What did they do? If your character is too young to have fought, what happened to the people who raised them?
+### The Questions That Matter
 
-**Who do you work for?** The Concordat? The Remnant? The Coalition? Nobody? Is your employment ideological or economic? Would you quit if you discovered your employer had done something unforgivable, or have you already made that discovery and stayed?
+**Where are you from?**
 
-**What do you believe about the Force?** Is it dying? Should it be saved? Is its death a catastrophe or a liberation? If you're Force-sensitive, what does the unreliability of your abilities mean to you? If you're not Force-sensitive, how has the Force crisis affected your life anyway?
+Your homeworld determines what your character considers normal. Someone raised on Coruscant grew up surrounded by government offices, military patrols, and the assumption that the Concordat keeps the galaxy running. Someone raised on the Outer Rim grew up fixing their own equipment, settling disputes without authorities, and treating central government as a rumor. These assumptions shape how your character reacts when the campaign puts them in unfamiliar territory.
 
-**What do you owe?** Debts, obligations, promises, oaths, grudges. Who saved your life? Who destroyed something you loved? Who is waiting for you to come home? The galaxy's political factions are abstractions. Debts are personal.
-
-**What are you afraid of?** Not what threatens your character's life. What threatens their sense of who they are? A Jedi who fears losing the Force. A Mandalorian who fears losing her honor. A Concordat officer who fears discovering that the government he serves is doing something indefensible.
+- "I grew up on Coruscant. My family worked in Concordat civil administration. I thought the government was boring and functional until I started noticing what it hid."
+- "I'm from a farming settlement on Dantooine. We saw a Jedi once when I was twelve. She healed a neighbor's broken leg and left before dinner. That's my entire experience with the Force."
+- "I was born on Dxun. My clan trained me to fight from the time I could hold a blade. The Mandalorian Wars ended before I was old enough to serve, and I've spent my whole life preparing for a war that already happened."
+- "I'm Sith Pureblood. I grew up on Nar Shaddaa pretending to be something else, because the galaxy treats my species like a threat."
 
 \column
 
+**What did you do during the wars?**
+
+Two wars define this era. The Great Hyperspace War ended twelve years ago when the Sith Empire collapsed. The Mandalorian Wars ended six years ago when Malak killed Mandalore the Vindicated in single combat. If your character is old enough, they fought in one or both. If they are too young, the wars shaped the people who raised them.
+
+- "I served in the Republic Navy during the Mandalorian Wars. I followed Revan because the Jedi Council refused to act. I saw what the Ashen Campaigns did to civilian populations, and I signed the next deployment order anyway."
+- "I was a Jedi Padawan when the Council ordered us to stay neutral. I obeyed. Four hundred of my peers left to fight. Some came back changed. Some did not come back."
+- "I was a child during the Great Hyperspace War. Sith soldiers occupied my homeworld for two years. I remember the sound of their ships leaving when the Empire fell."
+- "I'm twenty-three. Both wars happened before I could hold a blaster. But my mother fought at Dxun and my father died at Malachor V, so the wars raised me whether I served or not."
+
+**Who do you work for?**
+
+Three governments compete for control of the galaxy. The Concordat runs the former Republic from Coruscant under Malak's authority. The Revanchist Remnant fights a guerrilla campaign for democratic restoration. The Neo-Mandalorian Coalition governs Mandalorian space through warrior tradition and honor codes. Your character works for one of them, works for none of them, or works for whoever pays.
+
+- "I'm Concordat military intelligence. I believe in stability. The alternative is another war."
+- "I run supplies for the Remnant. I don't love their politics, but they pay on time and they've never asked me to do something I couldn't sleep after."
+- "I'm Neo-Mandalorian. I swore an oath to my clan and I honor it. Galaxy politics are someone else's problem until they become my clan's problem."
+- "I'm freelance. I haul cargo. I don't ask what's in the crates and I don't care whose flag flies over the spaceport. I care about fuel costs and docking fees."
+
+\page
+
+**What do you believe about the Force?**
+
+The Force is failing. Across the galaxy, zones have appeared where the Force stops working. Force-sensitive beings lose their abilities inside these dead zones. Entire planets have gone silent. Nobody knows why. Your character has an opinion about this, whether they can use the Force or not.
+
+- "I'm a Jedi Knight. The Force has been the foundation of my life since I was four years old. Losing it, even for a moment inside a dead zone, feels like going deaf. I need to understand what's happening before it takes everything."
+- "I think the Force is a natural phenomenon, like gravity. It fluctuates. People who built their lives around it are panicking because they confused a tool for a divine right. I feel sorry for them, but I don't share their crisis."
+- "I'm not Force-sensitive. I never was. But my sister is, and watching her lose her abilities piece by piece is destroying her. The Force crisis is personal for me because it's personal for someone I love."
+- "Good riddance. The Force gave the Jedi and the Sith power over everyone else for thousands of years. If it dies, maybe ordinary people get to run the galaxy for once."
+
+**What do you owe?**
+
+Debts keep characters anchored to the world. A debt can be financial, emotional, or moral. Someone saved your character's life. Someone destroyed something your character loved. Someone is waiting for your character to come home. Political factions are abstractions. Debts are specific.
+
+- "A Mandalorian pulled me out of a burning transport during the evacuation of Serroco. I never learned her name. I've been looking for her for six years."
+- "I owe the Jedi Order my training, my discipline, my sense of purpose. The Order also lied to me about what happened at Malachor V. I haven't decided which of those facts matters more."
+- "I borrowed forty thousand credits from a Hutt syndicate to buy my ship. I've paid back thirty-eight. The last two thousand are the most dangerous money in the galaxy."
+
+\column
+
+**What are you afraid of?**
+
+Not physical danger. What threatens your character's sense of who they are? The answer to this question generates your character's best moments at the table, the scenes where they face the thing they've been avoiding.
+
+- "I'm afraid the Concordat is right. That authoritarian stability is the only thing standing between the galaxy and collapse. I joined the Remnant because I believed in democracy, and I'm terrified that belief is naive."
+- "I'm afraid I'll use the Force in anger and discover I'm good at it. Every Jedi fears the dark side in theory. I fear it because I've felt it respond to me."
+- "I'm afraid of being ordinary. My whole life I've been the best pilot in every room. The Force crisis is producing people with nothing to lose and skills I can't match. I don't know who I am if I'm not the best."
+
 ### Types of Characters That Fit
 
-**The Veteran.** Fought in the wars. Carries the experience in their body and their choices. What are they now?
+Six archetypes appear in Concordat Era campaigns. These are starting points, not limits.
 
-**The Operative.** Works for a faction's intelligence apparatus. The Concordat Era runs on information.
+**The Veteran.** Fought in the wars. Carries the experience in body and choices. A veteran knows what violence costs. The question that follows them: was it worth it?
 
-**The Exile.** Left something behind. What drove them out, and what are they looking for?
+**The Operative.** Works for a faction's intelligence apparatus. The Concordat Era runs on information, stolen transmissions, compromised agents, encrypted data. An operative lives in the gap between what factions say and what they do.
 
-**The Believer.** Holds convictions strong enough to act on them. The Concordat Era tests every belief system. What does yours look like after the test?
+**The Exile.** Left something behind. A former Jedi who walked away from the Order. A Mandalorian who broke an oath. A Concordat officer who deserted. The exile carries two questions: what drove them out, and what would bring them back?
 
-**The Survivor.** Did not choose a side. The galaxy's political drama is someone else's problem, until it shows up in their cargo hold.
+**The Believer.** Holds convictions strong enough to act on. The Concordat Era tests every belief system. A Jedi who believes in the Code. A Sith traditionalist who believes in the old ways. A democratic idealist fighting for the Remnant. The campaign asks: what happens to conviction when reality stops cooperating?
 
-**The Inheritor.** Too young to have fought. Old enough to live with the consequences. The war made the world they inherited. What will they do with it?
+**The Survivor.** Chose no side. The galaxy's political drama is someone else's problem, until it shows up in the cargo hold. Survivors tend to develop opinions fast once the campaign forces them into situations where neutrality stops being an option.
 
+**The Inheritor.** Too young to have fought. Old enough to inherit the consequences. The wars made the world they live in. They had no say in it. What they do next is the first choice that belongs to them.
 
-### Why the Party Stays Together
+\page
 
-The Concordat Era's political fractures mean party members may come from opposing factions. A Concordat officer, a Remnant sympathizer, a Neo-Mandalorian warrior, and a Jedi Sentinel have no institutional reason to cooperate.
+### What If None of Those Fit?
 
-Parties stay together for the same reason people in crisis form crews: necessity, shared survival, and the bonds that form when you depend on each other under pressure. The Freighter Incident is designed to establish these bonds. By the time the party escapes their first crisis, they've saved each other's lives, shared information that makes them liabilities to their respective factions, and discovered that the person across the table is more complicated than the uniform suggested.
+Build what interests you. The six archetypes above cover common entry points, but the Concordat Era accommodates any character concept that has a reason to exist in this galaxy.
 
-The campaign will test party cohesion. Let it. Characters who disagree about politics but trust each other in combat are more interesting than characters who agree about everything. Argue at the cantina table. Fight back-to-back when the shooting starts.
+A few examples of characters who fall outside the standard archetypes:
 
-### A Note on Fate
+**A journalist.** The HoloNet still functions. Someone reports on the Concordat's policies, the Remnant's guerrilla actions, the Force crisis. A journalist character moves through faction territory asking questions that make powerful people uncomfortable.
 
-This campaign uses **Fate Core** or **Fate Condensed** TTRPG Systems. Your character's high concept, trouble, and other aspects should reflect the setting's tensions.
+**A doctor.** Force healers are failing. Conventional medicine is picking up the slack. A trauma surgeon working the Outer Rim sees the human cost of every political decision. Medical skill is valuable to every faction, which means every faction wants your loyalty.
 
-{{note
-##### Strong Aspects for This Campaign
-A high concept like "Disillusioned Concordat Intelligence Officer" carries more weight than "Skilled Spy."
+**A mechanic.** Ships break. Droids malfunction. Infrastructure decays. A skilled mechanic is welcome on any crew and in any port. The galaxy runs on technology, and someone has to keep it running.
 
-A trouble like "My Unit Committed War Crimes at Onderon" generates more play than "Has Enemies."
+**A Force-sensitive who never trained.** Not every Force-sensitive person joined the Jedi or the Sith. Some grew up on planets where no recruiter visited. Some had families who refused to give them up. An untrained Force-sensitive in the Concordat Era feels the crisis as a strange absence of something they never learned to name.
 
-Your aspects should make your character's relationship to the setting's central conflicts unavoidable.
+**A Sith species scholar.** The Sith as a species predate the Sith as a philosophy by thousands of years. A Sith Pureblood studying their own cultural heritage navigates a galaxy that conflates their identity with the Empire that enslaved their ancestors.
+
+If your concept involves the Force, you can use it. If your concept involves no Force at all, you can use it. If your concept is "a bartender who got on the wrong ship," that works too. The campaign's opening scenario (Chapter 22) puts the party in a crisis that requires cooperation regardless of background. Whatever you bring to the table, the setting will give you something to push against.
+
+\column
+
+### Building Your Character in Fate
+
+This campaign uses the **Fate Core** or **Fate Condensed** tabletop roleplaying system. If you have never played Fate before, here is what you need to know to build a character.
+
+Fate characters are built from words, not numbers. Where other RPG systems define a character through statistics (Strength 16, Dexterity 14), Fate defines a character through short phrases called **aspects**. An aspect is a sentence fragment that describes something true about your character. Aspects can be invoked during play to gain bonuses when they're relevant, and they can be compelled to create complications when they'd make the story more interesting.
+
+Every Fate character has three core aspects:
+
+**High concept.** This is a Fate system term. Your high concept is a short phrase that captures the most important thing about your character: who they are, what they do, and what makes them distinct. A high concept should be specific enough that someone reading it can picture the character.
+
+- "Disillusioned Concordat Intelligence Officer" tells you this person works for the government, gathers secrets, and has started questioning what they serve.
+- "Mandalorian Combat Medic Who Broke Her Oath" tells you this person heals, fights, comes from warrior culture, and carries a specific failure.
+- "Jedi Sentinel Hunting Dead Zones" tells you this person is an active Jedi with a mission tied to the Force crisis.
+- "Skilled Spy" tells you almost nothing. Too vague. Push further.
+
+**Trouble.** Your trouble is the aspect that makes your character's life difficult. The best troubles connect to the setting's conflicts and create situations your character cannot avoid.
+
+- "My Unit Committed War Crimes at Onderon" connects to the Mandalorian Wars and produces guilt, loyalty conflicts, and the threat of exposure.
+- "The Force Answers When I'm Angry" connects to the light/dark tension and means every fight risks pulling your character toward something dangerous.
+- "Has Enemies" could mean anything. Too generic. Name the enemy. Name the reason.
+
+\page
+
+**Relationship aspect.** This aspect connects your character to another player character. You build this one at the table during Session Zero, after everyone has their high concept and trouble. The best relationship aspects contain a seed of tension: a shared history, a debt, an unresolved conflict, or a bond complicated by faction loyalty.
+
+- "She Pulled Me Out of the Wreck at Onderon" means you owe someone your life. What they ask of you now may cost more than the life they saved.
+- "We Served in the Same Unit Before I Defected" means trust survived a betrayal. The question is how much trust remains.
+- "Her Clan Destroyed My Homeworld and She Knows It" means the Mandalorian and the Cathar sit with the weight of history between them at every meal.
+
+**Free aspects (two).** Your remaining two aspects round out the character. Use them for a skill or reputation, a possession that matters, a belief that drives action, or a connection outside the party.
+
+- "The Datacron Revan Brought Back From Lehon" is an object with secrets. Everyone wants it. You have it. Why?
+- "Strength Is Forged, Not Given" is the Doctrine of Necessary Strength as personal creed. It creates trouble when self-reliance meets a situation where you need help.
+- "I Still Wear the Robes but I Stopped Praying" is a Jedi identity in crisis. The uniform stays. The faith is gone.
+
+In this campaign, the word **tensions** refers to the setting's major unresolved conflicts: the political struggle between the Concordat, the Remnant, and the Coalition; the Force crisis and the dead zones spreading across the galaxy; the question of what Revan found in the Unknown Regions; the philosophical disagreements between Jedi and Sith about the nature of the Force. Your aspects should connect your character to at least one of these tensions. A character who cares about none of the galaxy's problems will struggle to find their place in the story.
+
+### Skills
+
+Fate characters have **skills**: rated abilities that determine what your character is good at. The Concordat Era uses nineteen skills arranged in a pyramid:
+
+- 1 skill at Great (+4)
+- 2 skills at Good (+3)
+- 3 skills at Fair (+2)
+- 4 skills at Average (+1)
+- Everything else at Mediocre (+0)
+
+Your Great (+4) skill is what your character does better than almost anyone. Your pyramid's shape tells the table who you are before you describe a single scene.
+
+The full skill list: **Academics** (formal education, institutional knowledge), **Athletics** (running, dodging, zero-gravity maneuvering), **Burglary** (breaking in, slicing systems, bypassing locks), **Contacts** (knowing people, calling in favors), **Crafts** (building, repairing, jury-rigging), **Deceive** (lying, disguise, forged documents), **Drive** (piloting starships, speeders, anything with a throttle), **Empathy** (reading people, detecting lies), **Fight** (melee combat, lightsabers, vibroblades), **Investigate** (methodical examination, piecing together evidence), **Lore** (obscure knowledge, Force traditions, Sith archaeology), **Notice** (immediate perception, spotting danger), **Physique** (strength, endurance, toughness), **Provoke** (intimidation, goading, emotional pressure), **Rapport** (building trust, persuasion, diplomacy), **Resources** (wealth, requisition authority), **Shoot** (ranged combat, blasters), **Stealth** (moving unseen, electronic countermeasures), **Will** (mental fortitude, resistance to pressure).
+
+Two skills deserve special attention. **Academics** covers what universities teach: history, law, medicine, political science. **Lore** covers what universities do not know: Sith archaeology, dead-zone phenomena, Rakatan ruins, kolto biochemistry, frontier survival wisdom. A Republic-trained doctor has Academics. A Korriban tomb crawler has Lore. Some characters have both.
+
+### Stunts
+
+**Stunts** are special tricks or talents that let your character break the normal rules in specific ways. You start with three free stunts (two if you take the Force-Sensitive Extra). Each stunt follows one of two templates:
+
+**Template A:** "Because I [something exceptional about you], I get +2 when I use [skill] to [action] when [specific circumstance]."
+
+- "Because I trained in traditional Mandalorian saber combat, I get +2 when I use Fight to defend against lightsaber-wielding opponents."
+- "Because I've spent years reading signals intelligence, I get +2 when I use Investigate to create advantages by analyzing intercepted communications."
+- "Because I carry legitimate Concordat authorization, I get +2 when I use Rapport to overcome bureaucratic obstacles in Concordat territory."
+
+**Template B:** "Because I [something exceptional about you], once per session I can [special effect] instead of [what you'd normally do]."
+
+- "Because I understand fire discipline, once per session I can use Shoot to create the advantage **Pinned Down** on every enemy in a zone with a single roll."
+- "Because I've run Remnant supply lines for three years, once per session I can automatically succeed on a Drive roll to escape pursuit in a system where I've established a hidden route."
+
+Build stunts that reflect your character's history. A stunt is a story compressed into a mechanical bonus.
+
+\page
+
+### Force-Sensitive Characters: The Mechanical Trade-Off
+
+The Force in this campaign functions as an **extra**: a bundle of permissions and costs that changes how your character interacts with the world. If you want to play a Force-sensitive character, here is what it costs and what it gives you.
+
+**Cost:** One of your three stunt slots goes to the Force-Sensitive Extra (you get two free stunts instead of three). Your trouble aspect must involve the Force crisis in some way.
+
+**Benefit:** You choose two **Force techniques** from the list below. Each technique lets you use an existing skill in an expanded way. You can purchase additional techniques as stunts.
+
+The available techniques: **Telekinesis** (use Physique to move objects at distance), **Precognition** (use Notice to sense danger before it arrives), **Force Healing** (use Academics to accelerate recovery), **Battle Meditation** (use Rapport to coordinate allies in combat), **Force Empathy** (use Empathy to perceive emotional states at supernatural depth), **Force Concealment** (use Stealth to suppress your Force presence), **Lightsaber Mastery** (use Fight to deflect blaster bolts and perform Force-enhanced combat), **Force Persuasion** (use Provoke or Rapport to influence weak-willed targets).
+
+**The catch: Force Instability.** The GM has a standing compel against your Force-related aspects whenever you use a Force technique. The Force fails roughly one-third of the time in normal space, two-thirds of the time near dead zones, and requires a fate point to attempt at all inside dead zones. When the compel fires, you take a fate point and find a non-Force solution. When you buy off the compel with a fate point, the Force works.
+
+This creates a specific economy. Force-sensitive characters earn fate points faster (they get compelled more often) but spend them to guarantee their abilities work. Non-Force characters earn fate points through other compels and spend them on different advantages. The party's economy balances itself.
+
+**Miraluka characters** deserve a special note. Miraluka perceive the world through the Force. For a Miraluka, Force instability means temporary blindness: the character loses their primary sense. This is harsh. It is also accurate to the setting. As compensation, Miraluka characters receive the **Force Empathy** technique for free (in addition to their two chosen techniques), because Force perception is their baseline existence. Playing a Miraluka means accepting moments of terrifying vulnerability in exchange for a richer baseline awareness than any other species possesses.
+
+### Stress, Consequences, and Fate Points
+
+Every character has **stress boxes** (your ability to absorb hits before taking real harm) and **consequences** (lasting injuries or setbacks that stick around after the fight). Physique determines your physical stress capacity. Will determines your mental stress capacity.
+
+Consequences come in three severities: **mild** (a bruise, a shaken nerve), **moderate** (a blaster wound, broken trust), and **severe** (a crushed leg, a severed Force connection). Severe consequences alter your character's story. In the Concordat Era, Force-related consequences heal slower than physical ones, because the Force itself is unreliable.
+
+**Kolto treatment** accelerates physical recovery. A character with medical training (Academics) who applies kolto can begin clearing a physical consequence one step faster than normal. A mild consequence clears immediately. A moderate consequence starts clearing after one scene instead of one session. Kolto availability depends on where you are: affordable in the Core Worlds, expensive in contested space, scarce on the frontier, and absent in ungoverned territory unless you packed it yourself. Chapter 19 covers kolto economics, supply chains, and the counterfeit market in detail.
+
+**Fate points** are your currency for influencing the story. You start each session with a **Refresh** of 3 (reduced by 1 for each stunt beyond your free allotment, minimum 1). You earn fate points when the GM compels your aspects, and you spend them to invoke aspects for bonuses or to buy off compels you do not want. The Concordat Era generates compels constantly. Political tensions, overlapping loyalties, Force instability, and troubled histories built into your aspects mean you will earn 2-4 fate points per session and spend them freely. The economy flows. Do not hoard.
+
+Your GM will walk you through the full mechanical details during character creation. The Fate Condensed Player Guide for this setting covers skills, techniques, stunts, and dead zone rules in complete detail. For now, focus on the questions, the aspects, and the concept. The numbers come last.
+
+\column
+
+### Two Characters, Built From Scratch
+
+These two characters demonstrate how the same process produces different people. One relies on the Force. One does not. Both belong in this campaign.
+
+{{descriptive
+**Kael Draven, Jedi Sentinel**
+
+*Where are you from?* The Jedi Enclave on Dantooine. Kael entered the Order at age five and trained under Master Vandar until the Mandalorian Wars.
+
+*What did you do during the wars?* Kael followed Revan. He served as a forward scout, using Force perception to map Mandalorian positions ahead of Republic advances. He witnessed three Ashen Campaign strikes and carries that knowledge in silence.
+
+*Who do you work for?* Officially, the Jedi Council. In practice, Kael operates alone. The Council assigned him to investigate dead zones, and he has spent two years mapping their spread across the Outer Rim.
+
+*What do you believe about the Force?* Kael believes the Force is wounded. He feels it the way a doctor feels a patient's fever. Something is wrong at a level deeper than politics or philosophy, and if nobody identifies the cause, the patient dies.
+
+*What do you owe?* Kael watched a Padawan named Sila die during a dead zone event on Katarr. The Force vanished. His healing abilities cut out. She bled to death while he held pressure with his hands. He owes her an answer to what happened.
+
+*What are you afraid of?* That the Force is dying because of something Revan did in the Unknown Regions. That the investigation Kael has devoted two years to will lead him to a truth the Jedi Council does not want found.
+
+**High concept:** "Jedi Sentinel Mapping the Force's Wounds"
+**Trouble:** "I Watched a Padawan Die Because My Healing Failed"
+**Relationship aspect:** (built at Session Zero with another PC)
+**Free aspects:** "The Council Sent Me to Find Answers, Not Ask Questions" / "Two Years Alone in Dead Space Changes a Person"
+
+**Skills:** Investigate at Great (+4). Lore and Notice at Good (+3). Athletics, Will, and Fight at Fair (+2). Academics, Stealth, Empathy, and Drive at Average (+1).
+
+**Force-Sensitive Extra:** Kael chose **Precognition** (Notice) and **Force Healing** (Academics) as his two Force techniques. His trouble ties to the Force crisis as required.
+
+**Stunts (2 free):** "Because I've mapped dead zones for two years, I get +2 when I use Investigate to overcome challenges related to dead zone phenomena." / "Because the Force trained my reflexes before it failed me, I get +2 when I use Fight to defend in melee when I can sense my opponent through the Force."
+
+**Refresh:** 3
 }}
 
-Your skills and stunts should reflect what your character can do, not what the Force might let them do. In a galaxy where Force abilities are unreliable, a character whose competence rests on conventional skills — shooting, piloting, negotiation, medicine, engineering — is never helpless. A character who relies on the Force is sometimes extraordinary and sometimes nothing. Build accordingly.
+\page
+
+{{descriptive
+**Voss Kelari, Freelance Pilot**
+
+*Where are you from?* Nar Shaddaa. Voss grew up in the refugee quarter after her family fled the Great Hyperspace War. She learned to fly stolen speeders before she learned to read.
+
+*What did you do during the wars?* Voss ran blockade cargo during the Mandalorian Wars. She never enlisted. She flew medical supplies to besieged planets because the Remnant paid triple rates for pilots willing to dodge Concordat patrols.
+
+*Who do you work for?* Whoever pays. Voss owns a modified YT-1000 freighter called the *Rust Hymn*. She takes contracts from Remnant sympathizers, Concordat shipping firms, independent traders. Loyalty to a faction means loyalty to their problems. She prefers her own.
+
+*What do you believe about the Force?* Voss is not Force-sensitive. She has watched Force users move objects with their minds, predict danger before it arrives, and heal wounds that should have killed. She respects the ability the way she respects a good hyperdrive: useful, impressive, and not something she depends on. The Force crisis troubles her because the people losing their abilities are the same people the galaxy built its infrastructure around. When a Jedi healer fails, the hospital fails. When a Force-sensitive navigator goes dark, ships crash.
+
+*What do you owe?* A Mandalorian named Torreck saved her life during a pirate ambush in the Hydian corridor. He refused payment. In Mandalorian culture, that means the debt stands until you repay it with something of equal weight. Voss has been looking for Torreck for three years. She suspects he is dead. She cannot stop looking.
+
+*What are you afraid of?* That she will never own anything permanent. Every ship, every contract, every friendship exists on a timer. Nar Shaddaa taught her that anything you love can vanish between breakfast and lunch. She flies because movement is the only thing that feels stable. Stopping means confronting the fact that she has nowhere to stop.
+
+**High concept:** "Nar Shaddaa Blockade Runner Who Owes a Dead Mandalorian"
+**Trouble:** "Loyalty Is a Luxury I Can't Afford"
+**Relationship aspect:** (built at Session Zero with another PC)
+**Free aspects:** "The Rust Hymn Is the Only Home That Hasn't Burned Down" / "I Know Every Smuggler's Route in the Mid Rim"
+
+**Skills:** Drive at Great (+4). Shoot and Contacts at Good (+3). Crafts, Notice, and Stealth at Fair (+2). Deceive, Resources, Athletics, and Will at Average (+1).
+
+**Not Force-sensitive.** Voss has no Force techniques. She gets three free stunts.
+
+**Stunts (3 free):** "Because I've run Remnant supply lines for three years, once per session I can automatically succeed on a Drive roll to escape pursuit in a system where I've established a hidden route." / "Because I fix things with whatever's available, I get +2 when I use Crafts to overcome equipment failure with improvised materials." / "Because I know the underworld's channels, I get +2 when I use Contacts to acquire black-market goods or services in Exchange-controlled territory."
+
+**Refresh:** 3
+}}
+
+Both characters belong at the same table. Kael brings the Force and its crisis into every scene. Voss brings practical skills that never fail because the galaxy is having a spiritual emergency. When a dead zone hits, Kael loses his abilities and Voss keeps flying. When the Force reveals danger seconds before it arrives, Kael saves the crew and Voss recalibrates her respect for something she cannot touch. The campaign needs both.
+
+\column
+
+{{note
+##### For the GM Only: Why the Party Stays Together
+The Concordat Era's political fractures mean party members may come from opposing factions. A Concordat officer, a Remnant sympathizer, a Neo-Mandalorian warrior, and a Jedi Sentinel have no institutional reason to cooperate.
+
+Parties stay together for the same reason people in crisis form crews: necessity, shared survival, and the bonds that form when you depend on each other under pressure. The Freighter Incident (Chapter 22) establishes these bonds. By the time the party escapes their first crisis, they have saved each other's lives, shared information that makes them liabilities to their respective factions, and discovered that the person across the table is more complicated than the uniform suggested.
+
+The campaign will test party cohesion. Let it. Characters who disagree about politics but trust each other in combat produce better stories than characters who agree about everything.
+}}
 
 {{footnote Chapter 3: Making a Character}}
+{{pageNumber,auto}}
+\page
+
+\page
+
+{{Ch1,tab}}
+
+## Chapter 4: The Games Behind This Setting
+
+This setting builds on two video games: *Star Wars: Knights of the Old Republic* (2003) and *Star Wars: Knights of the Old Republic II: The Sith Lords* (2004). You do not need to have played them. This chapter summarizes their stories so you understand the raw material this setting rearranges.
+
+### The Story of Knights of the Old Republic
+
+Revan fought in the Mandalorian Wars. The Jedi Council forbade it. Revan fought anyway. When the wars ended and victory came, Revan and his closest ally Malak ventured into the Unknown Regions seeking ancient Rakatan technology. They found the Star Forge, a factory station capable of producing warships without end. The dark side waited there. Both men fell.
+
+They returned as Sith Lords and launched the Jedi Civil War against the Republic they had saved. Republic worlds burned. The Jedi Order collapsed fighting for survival.
+
+The Jedi captured Revan during a raid on Malak's flagship. The Council made a choice: wipe the memory clean. Erase the Sith Lord and resurrect the soldier they needed.
+
+Revan woke on a Republic ship with no past, no name, only instinct and the skills of a warrior. The Sith attacked. Revan escaped with a Republic soldier named Carth Onasi and a Twi'lek named Mission Vao.
+
+From this point, the amnesiac soldier gathered companions. Bastila Shan, a Jedi with the rare gift of Battle Meditation, the ability to coordinate entire fleets through the Force. Canderous Ordo, the last of the great Mandalorian commanders, a warrior without a cause. Jolee Bindo, an old Jedi who had walked away from the Order and chosen isolation in the Kashyyyk forests. Juhani, a Cathar Jedi seeking redemption for her own dark deeds. HK-47, an assassination droid who spoke of murder as philosophy.
+
+The party pursued Star Maps across five worlds. Dantooine, Kashyyyk, Manaan, Tatooine, Korriban. Each map pointed toward the Star Forge and toward Malak, who ruled as sole Dark Lord of the Sith.
+
+The journey broke Revan's amnesia. Bastila revealed the truth: the player was Revan, former Sith Lord, mind-wiped and conscripted by the Jedi Council. Revan confronted Malak at the Star Forge itself. The former apprentice had grown drunk on power, sustained by the station's production. Revan defeated him. The Star Forge burned.
+
+The game's central question: What defines the self? The Sith Lord who fell and the amnesiac soldier redeemed by friends were the same body, different lives. The player's choices, turn by turn, planet by planet, provided the answer.
+
+\column
+
+### The Story of Knights of the Old Republic II: The Sith Lords
+
+The second game asked a harder question: what if the Force itself was the problem?
+
+The player is the Jedi Exile, a former Jedi who followed Revan to the Mandalorian Wars. At the war's final battle above Malachor V, the Exile activated a superweapon that killed thousands on both sides. The mass death should have destroyed the Exile through the Force, the way every death in the blast radius rippled through the web of living connections. Instead, the Exile's mind did something unprecedented: it severed its own connection to the Force as a survival mechanism.
+
+The Exile became a wound in the Force. A void. Someone who unconsciously formed bonds with the people around them and drained their connection to the Force without knowing it.
+
+Kreia was the game's central figure. An old woman who served as the Exile's mentor, she was also Darth Traya, former Jedi Master and former Sith Lord, who had concluded that the Force itself was the enemy of all living things. The Force moved beings like pieces on a board, she argued. It elevated those it favored and crushed those it discarded. Both Jedi and Sith served the same master without knowing it. Kreia wanted to kill the Force itself.
+
+The Sith Triumvirate hunted the last Jedi. Darth Nihilus consumed the Force from living things, draining entire planets and leaving husks. He destroyed Katarr, killing an entire Miraluka colony. Darth Sion refused to die, held together by pain and the dark side, a man made of broken bones and fury. Darth Traya orchestrated from the shadows.
+
+The game offered no clean redemption. The Exile could not be made whole again. The wound in the Force persisted. Kreia's philosophy was seductive and terrible: what if detachment and passion were both traps? What if the Force was parasitic? What if salvation meant destroying the thing every civilization in the galaxy had built itself around?
+
+These questions haunt this setting. They are the philosophical foundation the Concordat Era builds on.
+
+{{footnote Chapter 4: The Games Behind This Setting}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch1,tab}}
 
-# Part II: The Wars That Made Us
+### How This Setting Diverges
+
+The games told their stories. This setting picks up the pieces and rearranges them.
+
+**The Great Hyperspace War moved forward by roughly a thousand years.** In canon, the war between the Sith Empire and the Republic (Naga Sadow's invasion) occurred around 5000 BBY, a millennium before the events of KOTOR. In this setting, the war ended in 3964 BBY, twelve years before the campaign starts. The Sith Empire's collapse is living memory. Veterans of that war walk the streets. Orphans of that war are young adults. This single change makes the Sith a present wound rather than a historical footnote, and connects the Force crisis to events that characters can remember.
+
+**Malak never fell to the dark side.** In the games, Malak became Darth Malak, a Sith Lord who waged war on the Republic. Here, he remained a Jedi general who ended the Mandalorian Wars through single combat and political negotiation, then became the Concordat's Supreme Chancellor-General. His moral complexity comes from authoritarianism, not Sith corruption.
+
+**Revan was never captured or mind-wiped.** In KOTOR, the Jedi Council captured Revan and erased his memories. Here, Revan left for the Unknown Regions voluntarily, chasing Rakatan technology, and returned diminished and obsessed. His story is about intellectual ambition consuming a brilliant mind, not about identity and redemption.
+
+**The Mandalorian Wars ended through the Concordat, not the Star Forge.** In the games, the wars ended when Revan seized the Star Forge and turned it against the Mandalorians. Here, Malak challenged Mandalore to single combat, won, and forged a political alliance. The Star Forge may or may not exist. Its status is a campaign mystery.
+
+**The Jedi Civil War never happened.** In canon, Revan and Malak turned on the Republic after the Mandalorian Wars. That war does not occur in this setting. Instead, the galaxy fractured into three competing governments, each led by people who believe they're doing the right thing.
+
+Named characters, places, and concepts appear throughout, but the choices went differently. You are not replaying KOTOR. You are playing in the same galaxy with different outcomes.
+
+{{footnote Chapter 4: The Games Behind This Setting}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch3,tab}}
+
+## Chapter 5: What Is the Force?
+
+The Force is an energy field generated by all living things. It binds the galaxy together. In this setting, treat it as a real, measurable phenomenon, closer to gravity or magnetism than to mysticism.
+
+Force-sensitive beings perceive and manipulate this field. A trained user can move objects through concentration, sense danger before it manifests, heal wounds, read emotions in others, communicate across light-years, or accelerate their own reflexes beyond baseline human limits. These abilities are learnable skills, not miracles. A Force-sensitive child who trains for ten years becomes more capable than one trained for two.
+
+Scholars and Force traditions have debated for millennia whether the Force has moral dimensions. They call these the light side, associated with calm, selflessness, harmony with other living things, and the dark side, associated with passion, aggression, dominion over others. Whether these categories describe objective forces in the galaxy or reflect how different users relate to the same phenomenon remains one of the oldest arguments among Force users themselves. Chapter 14 and Chapter 15 explore the Jedi and Sith positions on this question in depth.
+
+### The Force in This Era
+
+The Force works the same way in your setting as in any other Star Wars era. What differs is abundance, integration, diversity, and reliability.
+
+**Abundance.** In the movie era, the time of Luke Skywalker and Darth Vader, Force users number fewer than a handful across the entire galaxy. Entire star systems never encounter one. In your era, Force users number in the tens of thousands. The Jedi Order, at its pre-war peak, maintained approximately ten thousand Knights and Masters. The Sith Empire fielded several thousand sorcerers and Force-capable soldiers. Dozens of smaller traditions operated independently.
+
+**Integration into society.** Force users in this era served functions that were critical and ordinary. A Jedi healer staffed a hospital on Coruscant, treating trauma and disease. A Force-sensitive navigator on a merchant vessel predicted hyperspace anomalies and plotted safer courses. A Sith engineer enhanced manufacturing through telekinetic precision. Baran Do Sages on Dorin predicted weather patterns through the Force. Selkath shamans on Manaan served as judges and counselors. The Force was infrastructure. Citizens relied on it. Planets built economies around Force-user labor. This dependence created fragility. When Force users began failing in their duties, the systems designed around their presence began failing too.
+
+**Diversity of traditions.** The Jedi and Sith were the two largest organized traditions, but they were never the only options. The Order of Shasa on Manaan, the Baran Do Sages of Dorin, Mandalorian Force-skeptics, village shamans on a hundred Outer Rim worlds. These traditions disagreed on methodology, philosophy, and the proper use of Force abilities. A Force-sensitive being born in this era could receive training from many teachers, or from none.
+
+\column
+
+**Individual power versus coordination.** No Force user in this era lifts a Star Destroyer with their mind. No single Knight deflects the fire of a hundred soldiers at once. Power comes through training, discipline, and coordination. A strike team of five Jedi with complementary abilities could hold a fortified position against a battalion. A medical team of Force-sensitive healers could triage casualties faster than conventional medicine. The Ashen Campaigns demonstrated what hundreds of coordinated Force users could accomplish: strikes that shattered orbital platforms and killed jungles. They also demonstrated the price. Thousands dead. Twelve planets scarred. The Force itself damaged by its own weaponization. Individual Force users were dangerous. Organized groups were devastating. Neither was invincible.
+
+**The Force is failing.** This is the crisis that defines your era. Abilities that worked reliably a decade ago now stutter, fail, or vanish in dead zones. Precognition cuts out mid-fight. Healing fails mid-surgery. Long-range Force communication goes silent for days. Force users wake each morning uncertain whether their abilities will function. Chapter 6 covers the crisis in full detail.
+
+### Force Sensitivity
+
+Force sensitivity exists on a spectrum. A mildly Force-sensitive farmer might have good instincts about weather and crop health, slightly better than baseline human perception, enough to improve harvests. She might never receive formal training. She might not know the Force is the source of her luck.
+
+A trained Jedi Knight can deflect blaster bolts, sense danger before it arrives, and move heavy objects through will. Her training took a decade or more.
+
+Between these poles exist countless gradations: a scout with sharper instincts, a merchant with unusual empathy, a soldier with reflexes that edge into the superhuman.
+
+Approximately one in ten thousand beings across the galaxy possess Force sensitivity to a degree that allows meaningful training. Some species, Miraluka and Sith Purebloods in particular, show higher rates. Most baseline humans show lower rates.
+
+In this era, the Concordat government registers Force-sensitive citizens. The Jedi Order trains them, or used to. The Sith Empire conscripted them. Now, with all three institutions in various states of fracture, a Force-sensitive person born on the frontier might live their entire life without formal training, or without knowing what they are.
+
+{{note
+##### What This Means for Your Character
+**If you play a Force-sensitive character:** your abilities are unreliable. Build a character who can function when the Force fails. Carry a blaster. Learn medicine. Know how to fly without precognition.
+
+**If you play a non-Force-sensitive character:** the Force crisis affects you anyway. Medicine costs more because Force healing covers less. Travel takes longer because hyperspace routes degrade near dead zones. Infrastructure decays because the specialists who maintained it through the Force can no longer deliver.
+
+**Dead zones** are regions where the Force is absent. In a dead zone, a lightsaber still cuts (it is a plasma blade powered by a crystal battery). Every other Force ability fails. Precognition, telekinesis, healing, empathy: gone. A Force user in a dead zone is a person with a glowing sword and no other advantages.
+}}
+
+{{footnote Chapter 5: What Is the Force?}}
+{{pageNumber,auto}}
+
+\page
+
+### The Light Side and the Dark Side
+
+The Force contains multitudes, and philosophers of the Force disagree on whether those multitudes carry moral weight. Six major traditions have emerged from this disagreement, each claiming to describe reality more accurately than the others.
+
+**Jedi Orthodox Position.** The light side represents the Force's natural state, a pattern of balance and unity that underlies all existence. The dark side emerges when Force users corrupt this pattern through selfish application, when they demand power for themselves rather than aligning with what the Force offers. Meditation, selflessness, and emotional discipline attune a user to this natural state. Passion, aggression, and the hunger for personal dominion distort the connection, introducing noise into a signal meant to be clear. The Jedi Council teaches this distinction as the foundation of their Order's survival. A Force user who embraces the dark side fractures the harmony that sustains them, and that fracture spreads outward to crack the galaxy around them.
+
+The Orthodox position carries weight because it offers a coherent ethical system tied to metaphysics. If the Force has a natural state and a corrupted state, then choosing correctly has cosmic significance. The Jedi Order's thousand-year history of relative stability appears to validate this claim. The position requires faith in an invisible natural order that outsiders cannot verify.
+
+**Sith Imperial Position.** The dark side is the Force's true nature, and the light side is a cage constructed by cowards who feared their own power. Passion, ambition, and the will to dominate reveal truth about how the Force operates. A being who acknowledges their desire for power and acts on it achieves harmony with reality. Conflict and struggle are the engine of growth and transformation. The Sith Empire encoded this understanding in its training academies and military doctrine. A Force user who embraces this path stops lying to themselves and becomes capable of reshaping civilizations.
+
+This position also offers internal consistency. If the Force rewards the strong and punishes the weak, then seeking strength is rational. The Sith Empire's military achievements and technological innovations suggest that something worked. The Empire's repeated collapse raises uncomfortable questions about whether truth and strategy are the same thing, or whether they part ways at critical moments.
+
+**Keeper of Adas Position.** The Force has no sides. The Jedi and the Exile-era Sith imposed "light" and "dark" as categories onto a phenomenon older than both traditions by millennia. Before the Jedi Order existed, the pre-Exile Sith engaged the Force through passion, rage, and transformation without conceiving of their work as "dark." They felt no need to justify their emotions as corruption. Rage at injustice and joy at creation both served the pattern. The categories "light" and "dark" are metaphors that have calcified into supposed realities. Believers defend these metaphors with theological arguments, but the metaphors shape the arguments, creating a circle of confirmation.
+
+Keepers point to evidence that Force users who operate outside the Jedi or Sith frameworks achieve stability and sophistication without sorting emotions into moral bins. The Keepers struggle to explain why the light/dark binary exerts such a powerful pull on Force users regardless of training tradition or cultural background.
+
+\column
+
+**Secular/Mandalorian Position.** The Force is a natural phenomenon with no moral dimension. Calling it "light" or "dark" resembles calling gravity "good" or "evil," a category error committed by beings who need the universe to validate their choices. Force users project their own ethics onto an energy field, then claim the energy field's structure endorses their ethics. This reasoning is circular and unconvincing. The field amplifies intention and energy. Whether the user's intention is generous or ruthless, the field responds without judgment. The Mandalorian warrior tradition engages the Force through technique and presence rather than moral aspiration, and achieves remarkable results without importing theological baggage.
+
+This position has appeal because it avoids unfalsifiable claims. It fails to account for why Force users across traditions report that certain emotional and behavioral patterns produce more coherent results than others. If the Force had no bias, these patterns would be subjective preferences rather than stable patterns of success and failure.
+
+**Kreia's Nihilism.** Both the light side and the dark side are traps. The Force itself functions as a cosmic prison, binding the galaxy to a deterministic pattern, puppeting civilizations toward outcomes that serve the Force's own continuity rather than the beings who inhabit the galaxy. Freedom means breaking free of the Force entirely. Kreia developed this philosophy across decades of study and taught it to a small circle of students. Most are dead. Few take her work seriously because she offers no path to power, only the promise of liberation at the cost of disconnection from everything that makes a Force user formidable. Her students report experiences that no other tradition produces: a quality of awareness that suggests they have touched something real.
+
+Kreia's position gains strength from the observation that both Jedi and Sith seek permanence through their philosophies, trying to establish stable orders that perpetuate themselves. Both traditions mistake the Force's nature for a recipe for immortality. Both fail. Accepting Kreia's conclusion requires abandoning the very tool most Force users value most.
+
+**The Wound Perspective.** The Force crisis created this position. In dead zones, neither the light side nor the dark side has influence. Beings who have lived through dead zone exposure report a clarity of mind they describe as neither light nor dark, neither distorted nor aligned. Some seek this state through ritual or meditation, trying to approximate a dead zone's silence without leaving populated space. Others fear it as spiritual death, a severing of the connection that makes them powerful or whole. The Wound Perspective has emerged among a coalition of philosophers, mystics, and soldiers who survived dead zone events and now ask whether the Force's absence might be more truthful than its presence.
+
+This position lacks the historical weight of Orthodox or Imperial doctrine, but it addresses a crisis that the older traditions did not anticipate. If the Force can vanish, then neither side's claim to represent ultimate reality holds absolute weight.
+
+{{note
+**Your character's position on this question shapes how they relate to every Force user they meet.** A Jedi who accepts Orthodox doctrine reads Revan's choices one way. A Mandalorian who embraces Secular philosophy reads those same choices differently. The six positions above represent genuine disagreements about reality. Your character knows which position resonates with their experience and which ones they find unconvincing, and they will defend that position when they encounter Force users committed to something else.
+}}
+
+\page
+
+### Revan and Malak
+
+Two individuals illustrate the light/dark question more concretely than abstract philosophy can. Revan and Malak, the architects of the Revanchist War and the Ashen Campaigns, both defied the Jedi Council. Both studied Sith techniques. Both led military operations that killed hundreds of thousands. Neither declares himself a Sith Lord, and the Jedi cannot agree on whether they fell or transcended.
+
+**Revan**
+
+Revan was a Jedi who defied the Council's order to stay neutral during the Mandalorian Wars. He believed the Council was wrong, that the galaxy would fall to Mandalorian invasion if the Jedi did not act. He departed the Order without permission and rallied Jedi and military forces to his cause. The Jedi Council characterized this as falling to the dark side through pride and disobedience. Revan characterized it as clarity.
+
+Once committed to the war, Revan did what commanders do: he pursued advantage. He studied Sith holocrons to decode ritual techniques that could be weaponized. He decoded the Ashen Campaign methodology, a coordinated Force attack amplified through ritual channeling and applied across multiple strike points simultaneously. He transmitted the technique to Malak for execution while he pursued Rakatan technology. Over two years of campaigning, the Ashen Campaigns killed approximately 600,000 civilians and damaged twelve planets. Revan approved each strike.
+
+Revan then departed for the Unknown Regions to chase legends of Rakatan technology. He was gone for two years. He returned diminished, obsessed, speaking in fragments, switching between lucidity and incoherence. He has never declared himself a Sith Lord. He has never adopted the Sith Code or its philosophy. He carries crates of datacrons and speaks about "the pattern beneath the Force" with the intensity of a prophet and the specificity of a fever dream.
+
+The Jedi Council reads Revan as a cautionary tale: a brilliant strategist who touched forbidden knowledge and lost himself. The Revanchist Remnant reads him as a visionary who was right about the Mandalorian threat when the Council was wrong. The Concordat views him as a security threat. The Mandalorians respect his strategic mind but note that he left the war before it ended and let Malak do the hard work. Chapter 7 covers the Council's historical account. Chapter 9 covers the Remnant's interpretation. Chapter 8 covers the Concordat's position.
+
+The unanswered question: did Revan fall to the dark side, or did he embrace the Keeper of Adas position, that emotional engagement and aggressive strategy are not inherently corrupting? His diminishment upon return suggests something happened in the Unknown Regions. What he found and what it did to him are questions Revan cannot answer clearly. Your character will form their own opinion.
+
+\column
+
+**Malak**
+
+Malak was Revan's operational counterpart: the general who managed logistics, troop movements, and the brutal mathematics of attrition warfare. He authorized each of the forty-one Ashen Campaign strikes, coordinating ritual technique, strike timing, and force distribution. He used Sith-derived channeling methods that Revan decoded from a holocron. He bears direct responsibility for the casualties and planetary damage those campaigns produced. He read the damage reports. He signed the next order.
+
+Malak refused to adopt the Sith identity his techniques suggested. He challenged Mandalore the Vindicated to single combat, a test of honor in Mandalorian tradition, and insisted on fighting without the Force. Iron and will. Mandalore shattered Malak's jaw with a beskad strike and severed his sword arm. Malak's blade found Mandalore's throat first. He won the war's decisive moment without the Force at all.
+
+Malak now serves as Supreme Chancellor-General of the Concordat. He wears prosthetics. In Mandalorian culture, prosthetics mark a warrior who paid the price for victory. In Republic culture, they mark a man who is no longer whole. He occupies both readings at once.
+
+The Concordat considers him a necessary strongman holding the galaxy together. The Revanchist Remnant considers him a traitor who seized power and betrayed democratic principles. The Jedi Council considers him a fallen Jedi who never technically fell, which is worse because they cannot point to a clean moment of corruption. The Mandalorians consider him Mandalore's victor and honor-bound partner. The Keepers of Adas, if asked, would note that Malak used Sith techniques without understanding the tradition they came from, which makes him dangerous in a way an actual Sith Lord would not be. Chapter 8 covers the Concordat's institutional history. Chapter 14 covers Jedi approaches to individuals like Malak.
+
+The unanswered question: Malak never touched the dark side in the way the Jedi define it. He never surrendered to passion. He never sought personal power for its own sake. He authorized atrocities through rational calculation and genuine belief that fewer people would die this way. The Jedi Code has no category for a man who commits monstrous acts while maintaining emotional equilibrium. Is Malak proof that the dark side operates through cold logic as well as hot rage? Or is he proof that the light/dark binary cannot describe what war does to decent people?
+
+Both men weaponized the Force. Both exceeded the Council's authority. Both studied forbidden techniques. Both authorized mass casualties. Neither became a Sith in the Imperial sense. Neither embraced the light side in the Orthodox sense. They exist in the space between, in the territory where your own answer to the light/dark question determines how you judge them.
+
+{{footnote Chapter 5: What Is the Force?}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch3,tab}}
+
+## Chapter 6: The Force in Crisis
+
+Chapter 5 introduced what the Force is. Here is what its failure looks like on the ground.
+
+Jedi are less effective than they used to be. The Jedi healers who once staffed Republic medical facilities with near-miraculous capability now fail as often as they succeed. The Jedi mediators who once resolved planetary disputes through Force-enhanced empathy now arrive at negotiations with the same blind spots as everyone else. The Jedi warriors who once moved with supernatural speed and foresight now hesitate, miscalculate, and die in engagements they would have won a decade ago.
+
+People who live near dead zones report specific, observable effects: mechanical failures in equipment that worked fine elsewhere, communication blackouts, navigation errors, and a pervasive unease that even non-Force-sensitive individuals describe as "wrongness." Animals avoid dead zones. Plants grow strangely in their periphery. Weather patterns shift near the larger ones in ways that meteorologists cannot account for through conventional atmospheric models.
+
+### What the Jedi Believe
+
+The Jedi Council's official position: the Force is damaged, possibly by the massed Sith rituals of the Great Hyperspace War, possibly compounded by the Ashen Campaigns. Using the Force carelessly in its weakened state may accelerate the deterioration. The correct response is caution, study, and minimal intervention.
+
+This position is not unanimous even within the Council. Master Vrook argues for strict non-intervention. Master Vandar favors cautious engagement. Master Zez-Kai Ell has privately suggested that the Council's understanding of the crisis may be incomplete and that restraint based on incomplete understanding is indistinguishable from paralysis.
+
+### What the Sith Believed
+
+The Sith rituals of the Great Hyperspace War were not random acts of destruction. They were, in the Sith theological framework, applications of the Force at its highest intensity. That the rituals damaged the Force itself was not predicted by Sith theory, and the implications have fractured Sith thought in the decades since.
+
+A handful of scholars, working from traditions older than the Sith Empire itself, argue that the light-side/dark-side framework was always an oversimplification and that the Force's deterioration is the consequence of ten thousand years of Force users on both sides treating it as a tool rather than a relationship.
+
+\column
+
+### What Ordinary People Think
+
+Most people do not think about the Force in theological terms. They think about it in practical terms.
+
+The kolto medic on Taris thinks *"Force healing doesn't work anymore, so I need more kolto, and kolto costs more every month."*
+
+The freighter captain thinks *"The Perlemian run used to be safe. Now I drop out of hyperspace a day early and have to calculate the rest by hand. My astromech earns its maintenance."*
+
+The Mandalorian patrol sergeant thinks *"We told them the Force was a crutch. We were right. They should have listened."*
+
+The Cathar refugee thinks *"The Jedi couldn't save us because the Force was failing. Or the Jedi wouldn't save us because the Council was debating. I can't tell the difference and it doesn't matter."*
+
+The Miraluka navigator thinks *"I see through the Force. When the Force fails, I go blind. When I go blind, my ship and everyone on it dies. I haven't told my crew how often the failures are happening."*
+
+### What It Means in Practice
+
+**Combat:** A Force-sensitive combatant cannot rely on precognition, telekinesis, or enhanced reflexes. Smart commanders plan for both contingencies. Soldiers who serve alongside Jedi have learned to operate as though Force support might vanish at any moment.
+
+**Governance:** Without reliable Force-enhanced truth-sensing and empathic communication, mediation is slower, less certain, and more susceptible to deception.
+
+**Agriculture:** On dozens of Outer Rim agriworlds, Force-sensitive cultivators maintained crop cycles, managed soil health, and sensed blight before it took root. Those cultivators still live on those worlds. Their abilities fail more each season. Onderon's jungle farms lost forty percent of their staple grain yield in 2 CE when a Force-trained agronomist couldn't detect a fungal infection spreading through the root system. Dantooine's kath herders report similar losses. The Concordat has dispatched agricultural droids to compensate, but droids read soil chemistry, not the deeper biological rhythms the cultivators once tracked. Famine has not arrived. Harvests shrink, and the people who depend on them notice.
+
+**Infrastructure:** Force-enhanced construction shaped cities across the galaxy for millennia. Coruscant's deep foundations, Taris's Upper City supports, the bridges on Onderon: all built or maintained by specialists who used telekinesis and structural intuition to detect stress fractures, reinforce load-bearing elements, and shape materials at molecular scale. Those specialists are aging out of the workforce, and their abilities are unreliable. Taris's infrastructure bureau has tripled its droid maintenance crews. On Dantooine, a retaining wall near the Jedi Enclave collapsed in 3 CE because the engineer who maintained it through the Force hadn't been able to sense its stress points in months. No one died. The next failure might be different.
+
+**Communication:** The Jedi maintained a galaxy-wide communication relay through Force-enhanced meditation: battle meditation for fleet coordination, empathic links between Jedi stationed on distant worlds, precognitive dispatches that arrived before the events they described. All of these are gone or intermittent. The holonet carries the load now, but the holonet has bandwidth limits, transmission delays, and dead zones where signals degrade. A Concordat admiral coordinating a patrol across three sectors used to have a Jedi liaison who could sense fleet movements in real time. Now she has encrypted holonet channels and a twelve-minute signal lag.
+
+**Spirituality:** Billions of beings understood the Force as the binding energy of life. Its deterioration has cracked open every religious tradition that touches it. The Jedi, the Sith, the Order of Shasa, the Baran Do Sages, village shamans on a hundred Outer Rim worlds. On Haruun Kal, the Korunnai jungle-seers have stopped receiving visions for the first time in recorded memory. The Baran Do Sages of Dorin, who have predicted weather patterns through the Force for centuries, issued their first incorrect forecast in 1 CE; three storms hit populated areas without warning. Each tradition frames the crisis differently. None of them have answers.
+
+**Daily life:** The crisis registers in accumulation. Kolto costs more because Force healing covers less. Travel takes longer because hyperspace routes near dead zones need manual recalculation. Construction projects run over schedule because the specialists who reinforced structures through the Force can't do it reliably. Food costs more on worlds that depended on Force-sensitive agriculture. Medical wait times lengthen. Infrastructure repair backlogs grow. No single failure is catastrophic. The sum of them reshapes how ordinary people plan their weeks, spend their credits, and think about the future.
+
+### Dead Zone Severity
+
+Dead zones vary. Some stutter. Some scream. The campaign uses a three-tier scale to describe how bad a given zone is.
+
+**Partial dead zone.** The Force works intermittently. A Force user feels her abilities flicker like a lamp with a bad connection. Techniques succeed about half the time. A partial dead zone covers a region where the Force was weakened but not destroyed: the edges of major dead zones, areas where Sith rituals left residual damage, the fringes of the Kashyyyk Shadowlands.
+
+**Significant dead zone.** The Force resists use. Every technique requires more effort and concentration than it should. A Jedi attempting telekinesis in a significant dead zone feels the Force respond sluggishly, like moving through water. Precognition delivers fragments instead of visions. Healing takes longer and accomplishes less. These zones surround areas of heavy Force damage: the space near Onderon, the Perlemian corridor dead patches, the expanding zones Kael Draven has been mapping for two years.
+
+**Total dead zone.** The Force is absent. Telekinesis fails. Precognition goes silent. Healing produces nothing. A Miraluka goes blind. A lightsaber still ignites (it is a plasma weapon powered by a crystal, not the Force) but the precognition, enhanced reflexes, and combat awareness that make a lightsaber master lethal do not function. A Jedi in a total dead zone holds a glowing sword with no supernatural advantage. The Kashyyyk Shadowlands where the Star Map was destroyed. Whatever Onderon's jungle became after the Second Siege.
+
+Force-related injuries and consequences heal slower inside dead zones, or not at all. A Jedi whose Force connection was damaged in a total dead zone may need to leave the zone entirely before recovery begins.
+
+{{footnote Chapter 6: The Force in Crisis}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch3,tab}}
+
+### The Rakata and the Infinite Empire
+
+Thirty thousand years before the Concordat Era, the Rakata ruled a galaxy-spanning empire powered by the Force. Not Force philosophy. Not Force sensitivity. Force engineering. The Rakata built machines that drew on the Force as a power source: hyperdrives that navigated through Force currents, terraformers that reshaped planetary ecosystems through Force manipulation, and at the apex of their civilization, the Star Forge.
+
+The Star Forge orbits a star in the Lehon system, deep in the Unknown Regions. It is a factory the size of a small moon. It draws energy from the star it orbits and from the Force itself, converting both into raw material: ships, weapons, droids, armor, anything its operators can conceive. At its height, the Star Forge produced entire fleets in days. It won the Rakata their empire and then consumed them.
+
+The Rakata's collapse followed a pattern that Force scholars recognized: they used the Force as a resource, and the resource ran out. Operators who used the Star Forge grew more aggressive as dark-side energy fed back into them, accelerating a feedback loop of conquest, consumption, and corruption. The Rakata's slave species revolted. A plague swept through the Rakata population. Their Force sensitivity deteriorated. Without the Force, their technology stopped working. Without their technology, their empire collapsed.
+
+Within a few centuries, the Rakata went from ruling the galaxy to squatting in the ruins of their own monuments, unable to open the doors their ancestors had built.
+
+### Why the Rakata Matter Now
+
+The Rakatan collapse is the historical precedent for the current Force crisis. A civilization that built everything on the Force, lost the Force, and died.
+
+Revan noticed the parallels. He was not the first. The Jedi Archives on Ossus contained fragmentary references to the Infinite Empire before they burned in the Great Hyperspace War. Sith scholars on Korriban maintained their own records of Rakatan ruins found in the Stygian Caldera (the nebula surrounding Sith space) and interpreted them through a Sith theological lens: the Rakata were a warning about what happens when a civilization relies on Force power without the discipline to sustain it.
+
+\column
+
+The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated in the twelve years since the Great Hyperspace War at a rate no model predicts. Whether the cause is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified yet is the campaign's central mystery.
+
+### The Star Forge: Legend With Teeth
+
+Whether the Star Forge is operational, dormant, or destroyed remains unknown. Revan believes he located it. His research notes reference "the station" and "the engine" in ways that suggest he found something in the Lehon system. What matters for the galaxy is that the possibility of the Star Forge drives faction behavior:
+
+{{note
+- If the Star Forge exists and can be activated, whoever controls it can build an infinite fleet.
+- If the Star Forge exists and requires the Force to operate, then in a galaxy where the Force is dying, it may be the thing that finishes the job.
+- If Revan found it and it broke him, that is its own kind of answer.
+}}
+
+Factions will pursue it. Players will hear about it. What the Star Forge is, and what it does if activated, belongs to the campaign's arc.
+
+{{footnote Chapter 6: The Force in Crisis}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch3,tab}}
+
+### The Star Maps
+
+The Rakata built Star Maps as navigational monuments: self-sustaining holographic systems, powered by the Force, that recorded the location of the Star Forge and other key Infinite Empire installations. Five Star Maps were scattered across the galaxy on worlds significant to the Rakata: Dantooine, Kashyyyk, Manaan, Tatooine, and Korriban.
+
+The maps were designed to be self-repairing. When the Rakata destroyed them during their collapse (to prevent their slave species from seizing the Star Forge), the maps slowly reconstructed themselves over millennia, drawing on residual Force energy embedded in their construction sites.
+
+What each faction knows about the Star Maps varies with their access to Revan's research, their own archaeological records, and the accidents of geography.
+
+##### Dantooine
+Intact but partially degraded. Located in Rakatan ruins near the Jedi Enclave.
+
+**Jedi** scholars at the enclave studied it for decades without understanding what it was. **Concordat** military surveys have catalogued the ruins as low priority. **Remnant** intelligence knows Revan studied this map before forming the Revanchists; his notes reference it as one of five. When the Mandalorians established their presence on Dantooine, the map fell into a contested zone. Its current status is uncertain: the enclave may have moved it, the Mandalorians may have seized it, or it may still be sitting in the ruins, guarded by nothing but geography and Force-sensitive fauna.
+
+##### Kashyyyk
+Destroyed. A dead zone marks where it stood in the Shadowlands.
+
+**Remnant** records confirm Revan's forces located the Star Map during Year Five of the Mandalorian Wars. After extracting the navigational data, Revan ordered the map demolished to prevent anyone from following his trail. Wookiee elders who witnessed the destruction reported that the ruins "screamed" in the Force when the map was broken. **Most factions** know a dead zone exists in the Shadowlands but not why. The dead zone around the former map site has not healed.
+
+\column
+
+##### Manaan
+Intact and hidden. Submerged deep beneath Ahto City, in the ocean trenches near the Hrakert Rift, the deep-sea geological formation where kolto is produced.
+
+**The Selkath** know about the Rakatan ruins. They have known for longer than the Republic has existed. The **Order of Shasa** (the Selkath Force tradition) maintains the site as a sacred place and does not discuss it with outsiders. The connection between the Star Map, the Hrakert Rift, and kolto's Force-resonant properties is not a coincidence, and the Selkath know more about this relationship than they share. **Other factions** suspect Rakatan ruins exist in Manaan's deep ocean but have no access.
+
+##### Tatooine
+Destroyed.
+
+**Remnant** intelligence indicates that Malak's forces located this map during Year Six, acting on intelligence separate from Revan's research. Malak destroyed it. He recognized what the Star Forge represented: an infinite factory powered by the Force. He concluded that in a galaxy where the Force was dying, an engine that consumed the Force to produce weapons was the last thing anyone needed. His destruction of the Tatooine map was a strategic decision. It may have been the most morally clear decision Malak has ever made. **Concordat** records do not publicize this event. **Most people** have no idea the map existed.
+
+##### Korriban
+Intact but corrupted. The Star Map in the Valley of the Dark Lords has been there since before the Dark Jedi Exiles arrived to found the Sith Empire. It predates everything the Sith built on Korriban.
+
+**Sith traditionalists** and **Keepers of Adas** know the map is ancient, their oral traditions connect it to King Adas's war against the Rakata twenty-seven thousand years ago. Sith sorcerers drew on its residual Force energy for millennia without understanding its origin. By the Concordat Era, the Korriban map is saturated with dark-side energy accumulated over thousands of years of Sith ritual practice. Whether it still functions as a navigational tool is unclear. What it has become, a Force artifact soaked in millennia of death, is something else entirely. **Other factions** know Korriban's reputation and stay away. Few outside the Sith know the map exists.
+
+{{footnote Chapter 6: The Force in Crisis}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch1,tab}}
 
 {{wide
 ## Timeline
@@ -297,14 +882,14 @@ Your skills and stunts should reflect what your character can do, not what the F
 | **3952** | **Campaign start. Revan returns from the Unknown Regions. The Freighter Incident.** | **4 CE** |
 }}
 
-{{footnote Part II: The Wars That Made Us}}
+{{footnote Part I: The World You're Entering}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch1,tab}}
 
-# Chapter 4
+# Chapter 7
 
 ## A History of the Concordat Era
 
@@ -350,7 +935,7 @@ The Doctrine of Necessary Strength was not a declaration of war. It was a philos
 
 The clans adopted it within days. Not unanimously. Clan Kryze argued that demonstration could be achieved through diplomacy rather than siege. Cassus Fett of Clan Fett saw an opportunity for territorial expansion dressed in ideological clothing and said so, earning both contempt and respect for his honesty. But the core held: the Mandalorians would move outward, and the galaxy would learn or fall.
 
-{{footnote Chapter 4: A History of the Concordat Era}}
+{{footnote Chapter 7: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
@@ -403,7 +988,7 @@ Veera Ordo, Canderous's younger sister, supported Fett. She'd been arguing for a
 
 The Republic, meanwhile, did nothing. The Senate debated jurisdiction while worlds fell. The Jedi Council argued about whether the Force was too damaged to risk using in combat, whether intervening would make the fractures worse, whether intervention was even possible when half their combat-trained Knights could no longer trust their precognition.
 
-{{footnote Chapter 4: A History of the Concordat Era}}
+{{footnote Chapter 7: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
@@ -448,7 +1033,7 @@ Cathar was a massacre born of rage. Serroco was a calculation.
 
 Serroco radicalized the Revanchists in ways that Cathar had not. Malak, who had been managing logistics and troop movements while Revan planned grand strategy, looked at Serroco and began thinking about how wars end. Not how you win battles, but how you make wars stop.
 
-{{footnote Chapter 4: A History of the Concordat Era}}
+{{footnote Chapter 7: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
@@ -501,7 +1086,7 @@ She described the aftermath: nosebleed that wouldn't stop for two hours, a ringi
 By her fourth operation, the hollowness was permanent. By her sixth, she stopped writing letters.
 }}
 
-{{footnote Chapter 4: A History of the Concordat Era}}
+{{footnote Chapter 7: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
@@ -555,7 +1140,7 @@ The Ashen Campaigns demonstrated that the Force — the thing the Doctrine of Ne
 
 Malak was not winning battles. He was defeating the Doctrine of Necessary Strength on its own terms.
 
-{{footnote Chapter 4: A History of the Concordat Era}}
+{{footnote Chapter 7: A History of the Concordat Era}}
 {{pageNumber,auto}}
 
 \page
@@ -600,16 +1185,13 @@ The Sith, presumed destroyed, are not gone. In the shadows, something is consoli
 
 This is the galaxy in 3952 BBY. Everything after it is up to you.
 
-{{footnote Chapter 4: A History of the Concordat Era}}
-{{pageNumber,auto}}
-
 \page
 
 {{Ch2,tab}}
 
-# Part III: The Powers
+# Part II: Who Holds Power
 
-## Chapter 5: The Concordat
+## Chapter 8: The Concordat
 
 **What they claim:** The Concordat is the legitimate successor to the Galactic Republic, enhanced by the military strength of the Mandalorian clans and the administrative reforms necessary to prevent the governance failures that allowed the Mandalorian Wars to happen. Emergency powers are temporary measures required by an ongoing security crisis.
 
@@ -637,7 +1219,7 @@ Each decision had a defensible justification. Each decision made the next one ea
 
 Malak is aware of what he is becoming. He has private conversations, recorded in journals that are not public, where he asks himself whether the Concordat is a transitional government or a permanent one. He does not have an answer. The galaxy is not stable enough to test the question.
 
-{{footnote Chapter 5: The Concordat}}
+{{footnote Chapter 8: The Concordat}}
 {{pageNumber,auto}}
 
 \page
@@ -664,14 +1246,14 @@ Mandalore occupies a unique position. Bound by Ka'halar to Malak, he serves as a
 - A Restorationist senator's aide who's discovered something about the emergency powers that the Senator needs to hear
 }}
 
-{{footnote Chapter 5: The Concordat}}
+{{footnote Chapter 8: The Concordat}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch2,tab}}
 
-## Chapter 6: The Revanchist Remnant
+## Chapter 9: The Revanchist Remnant
 
 **What they claim:** The Remnant is the legitimate Republic. The Concordat is a military coup dressed in democratic language. Malak betrayed the principles the Revanchists fought for when he bargained with Mandalorians and consolidated power. The Remnant will restore democratic governance and end the military governor system.
 
@@ -713,14 +1295,14 @@ The Remnant's rank and file are split. Some worship Revan as a returned savior. 
 - An intelligence operative who's seen Revan's research notes and can't decide whether they're revelation or psychosis
 }}
 
-{{footnote Chapter 6: The Revanchist Remnant}}
+{{footnote Chapter 9: The Revanchist Remnant}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch2,tab}}
 
-## Chapter 7: The Neo-Mandalorian Coalition
+## Chapter 10: The Neo-Mandalorian Coalition
 
 **What they claim:** The Concordat is dishonor. Mandalore lost in single combat and accepted servitude rather than death, violating the deepest tenets of Mandalorian tradition. The Neo-Mandalorians will demonstrate true Mandalorian values through combat.
 
@@ -768,7 +1350,7 @@ Some find this livable. The grain arrives on time. The settlements have medical 
 
 Others find it suffocating. The armor is the same, but the meaning has changed. A Mandalorian warrior serving the Concordat is an employee, not a free warrior. The Resol'nare says to answer Mandalore's call — but Mandalore answers to Malak, so whose call are you answering?
 
-{{footnote Chapter 7: The Neo-Mandalorian Coalition}}
+{{footnote Chapter 10: The Neo-Mandalorian Coalition}}
 {{pageNumber,auto}}
 
 \page
@@ -788,14 +1370,14 @@ Children born into the Coalition know nothing but this life. They are raised har
 - A child of Concordat Mandalorians who defected because the Concordat's version of Mandalorian culture felt like a costume
 }}
 
-{{footnote Chapter 7: The Neo-Mandalorian Coalition}}
+{{footnote Chapter 10: The Neo-Mandalorian Coalition}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch2,tab}}
 
-## Chapter 8: The Jedi Order
+## Chapter 11: The Jedi Order
 
 **What they claim:** The Force is in crisis. Using it carelessly accelerates the damage. The Jedi Order's duty is to study the crisis, preserve Jedi knowledge, and avoid actions that could make things worse. Neutrality in the Concordat political conflict is necessary because choosing a side would subordinate the Jedi's mission to a political agenda.
 
@@ -839,7 +1421,7 @@ Revan adopted Republic military ranks but overlaid them with Jedi operational ro
 
 The most controversial rank was Jedi Commander, because it placed Jedi in direct authority over non-Force-sensitive soldiers. Roughly forty Jedi held Commander rank at the Revanchist peak. Some adapted to military command. Others treated their troops as extensions of their own will, using the Force to coordinate movements in ways that were effective but dehumanizing to the soldiers involved.
 
-{{footnote Chapter 8: The Jedi Order}}
+{{footnote Chapter 11: The Jedi Order}}
 {{pageNumber,auto}}
 
 \page
@@ -885,7 +1467,7 @@ Serve Malak's government as military advisors, healers in Concordat medical faci
 
 These Jedi exist in a difficult position. Malak's Force-monitoring programs treat them as useful and suspect in equal measure. Some have rationalized this: Malak provides order, and order is a precondition for healing the Force. Some are miserable. A few feed information to the Remnant or the Council.
 
-{{footnote Chapter 8: The Jedi Order}}
+{{footnote Chapter 11: The Jedi Order}}
 {{pageNumber,auto}}
 
 \page
@@ -938,14 +1520,14 @@ She has collected Sith holocrons to study the enemy. The boundary between studyi
 - An Independent who left the Order, opened a cantina on Nar Shaddaa, and is trying very hard not to get involved
 }}
 
-{{footnote Chapter 8: The Jedi Order}}
+{{footnote Chapter 11: The Jedi Order}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch2,tab}}
 
-## Chapter 9: The Sith
+## Chapter 12: The Sith
 
 **What most people know:** The Sith Empire was destroyed in the Great Hyperspace War. Its military was shattered. Its survivors were driven into exile.
 
@@ -983,7 +1565,7 @@ The old caste system is dead in practice, but its ghost shapes Sith Pureblood id
 
 Sith Purebloods who've integrated into Republic society navigate this daily. They are too Sith for the Republic and too Republican for the Sith. Their children face a choice: assimilate fully and lose their heritage, or maintain their identity and face suspicion. There is no comfortable middle ground.
 
-{{footnote Chapter 9: The Sith}}
+{{footnote Chapter 12: The Sith}}
 {{pageNumber,auto}}
 
 \page
@@ -1048,14 +1630,14 @@ Concordat Intelligence has compiled twenty-seven incidents matching this pattern
 - A non-Pureblood drawn to Sith philosophy as a framework for understanding passion, strength, and the will to survive
 }}
 
-{{footnote Chapter 9: The Sith}}
+{{footnote Chapter 12: The Sith}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch2,tab}}
 
-## Chapter 10: Independent Powers
+## Chapter 13: Independent Powers
 
 **Hutt Space** encompasses approximately three hundred systems under Hutt clan authority. The Hutts have been neutral in the Concordat conflict, which means they've sold weapons, intelligence, kolto, and logistical support to every side while profiting from the chaos.
 
@@ -1073,158 +1655,476 @@ Internal Selkath politics are fracturing under the pressure:
 
 Foreign embassies in Ahto City compete for influence. Intelligence operatives from every faction circulate through the city's markets and cantinas.
 
-{{footnote Chapter 10: Independent Powers}}
+{{footnote Chapter 13: Independent Powers}}
 {{pageNumber,auto}}
+
 
 \page
 
-{{Ch3,tab}}
+{{Ch4,tab}}
 
-# Part IV: The Dying Force
+# Part III: What They Believe
 
-## Chapter 11: The Force in Crisis
+## Chapter 14: The Jedi Way
 
-Chapter 2 introduced the Force crisis. Here is what it looks like on the ground.
+{{descriptive
+In the quiet hours before dawn, a Jedi sits in stillness. She does not empty her mind of thought, though centuries of teaching have suggested this. She opens her awareness to the web around her. She feels the breathing of the sleeping city blocks away, the metabolic hum of the cantina's nervous staff two floors below, the electrical pulse through the tower's data-core. A child wakes in fear three streets over. An old man's heart stutters. A maintenance droid follows its predetermined path without question or complaint. All of it touches her simultaneously. All of it is the Force, and she holds it in her palm without grasping.
 
-Jedi are less effective than they used to be. The Jedi healers who once staffed Republic medical facilities with near-miraculous capability now fail as often as they succeed. The Jedi mediators who once resolved planetary disputes through Force-enhanced empathy now arrive at negotiations with the same blind spots as everyone else. The Jedi warriors who once moved with supernatural speed and foresight now hesitate, miscalculate, and die in engagements they would have won a decade ago.
-
-People who live near dead zones report specific, observable effects: mechanical failures in equipment that worked fine elsewhere, communication blackouts, navigation errors, and a pervasive unease that even non-Force-sensitive individuals describe as "wrongness." Animals avoid dead zones. Plants grow strangely in their periphery. Weather patterns shift near the larger ones in ways that meteorologists cannot account for through conventional atmospheric models.
-
-### What the Jedi Believe
-
-The Jedi Council's official position: the Force is damaged, possibly by the massed Sith rituals of the Great Hyperspace War, possibly compounded by the Ashen Campaigns. Using the Force carelessly in its weakened state may accelerate the deterioration. The correct response is caution, study, and minimal intervention.
-
-This position is not unanimous even within the Council. Master Vrook argues for strict non-intervention. Master Vandar favors cautious engagement. Master Zez-Kai Ell has privately suggested that the Council's understanding of the crisis may be incomplete and that restraint based on incomplete understanding is indistinguishable from paralysis.
-
-### What the Sith Believed
-
-The Sith rituals of the Great Hyperspace War were not random acts of destruction. They were, in the Sith theological framework, applications of the Force at its highest intensity. That the rituals damaged the Force itself was not predicted by Sith theory, and the implications have fractured Sith thought in the decades since.
-
-A handful of scholars, working from traditions older than the Sith Empire itself, argue that the light-side/dark-side framework was always an oversimplification and that the Force's deterioration is the consequence of ten thousand years of Force users on both sides treating it as a tool rather than a relationship.
-
-\column
-
-### What Ordinary People Think
-
-Most people do not think about the Force in theological terms. They think about it in practical terms.
-
-The kolto medic on Taris thinks *"Force healing doesn't work anymore, so I need more kolto, and kolto costs more every month."*
-
-The freighter captain thinks *"The Perlemian run used to be safe. Now I drop out of hyperspace a day early and have to calculate the rest by hand. My astromech earns its maintenance."*
-
-The Mandalorian patrol sergeant thinks *"We told them the Force was a crutch. We were right. They should have listened."*
-
-The Cathar refugee thinks *"The Jedi couldn't save us because the Force was failing. Or the Jedi wouldn't save us because the Council was debating. I can't tell the difference and it doesn't matter."*
-
-The Miraluka navigator thinks *"I see through the Force. When the Force fails, I go blind. When I go blind, my ship and everyone on it dies. I haven't told my crew how often the failures are happening."*
-
-### What It Means in Practice
-
-**Combat:** A Force-sensitive combatant cannot rely on precognition, telekinesis, or enhanced reflexes. Smart commanders plan for both contingencies. Soldiers who serve alongside Jedi have learned to operate as though Force support might vanish at any moment.
-
-**Governance:** Without reliable Force-enhanced truth-sensing and empathic communication, mediation is slower, less certain, and more susceptible to deception.
-
-**Agriculture:** On dozens of Outer Rim agriworlds, Force-sensitive cultivators maintained crop cycles, managed soil health, and sensed blight before it took root. Those cultivators still live on those worlds. Their abilities fail more each season. Onderon's jungle farms lost forty percent of their staple grain yield in 2 CE when a Force-trained agronomist couldn't detect a fungal infection spreading through the root system. Dantooine's kath herders report similar losses. The Concordat has dispatched agricultural droids to compensate, but droids read soil chemistry, not the deeper biological rhythms the cultivators once tracked. Famine has not arrived. Harvests shrink, and the people who depend on them notice.
-
-**Infrastructure:** Force-enhanced construction shaped cities across the galaxy for millennia. Coruscant's deep foundations, Taris's Upper City supports, the bridges on Onderon: all built or maintained by specialists who used telekinesis and structural intuition to detect stress fractures, reinforce load-bearing elements, and shape materials at molecular scale. Those specialists are aging out of the workforce, and their abilities are unreliable. Taris's infrastructure bureau has tripled its droid maintenance crews. On Dantooine, a retaining wall near the Jedi Enclave collapsed in 3 CE because the engineer who maintained it through the Force hadn't been able to sense its stress points in months. No one died. The next failure might be different.
-
-**Communication:** The Jedi maintained a galaxy-wide communication relay through Force-enhanced meditation: battle meditation for fleet coordination, empathic links between Jedi stationed on distant worlds, precognitive dispatches that arrived before the events they described. All of these are gone or intermittent. The holonet carries the load now, but the holonet has bandwidth limits, transmission delays, and dead zones where signals degrade. A Concordat admiral coordinating a patrol across three sectors used to have a Jedi liaison who could sense fleet movements in real time. Now she has encrypted holonet channels and a twelve-minute signal lag.
-
-**Spirituality:** Billions of beings understood the Force as the binding energy of life. Its deterioration has cracked open every religious tradition that touches it. The Jedi, the Sith, the Order of Shasa, the Baran Do Sages, village shamans on a hundred Outer Rim worlds. On Haruun Kal, the Korunnai jungle-seers have stopped receiving visions for the first time in recorded memory. The Baran Do Sages of Dorin, who have predicted weather patterns through the Force for centuries, issued their first incorrect forecast in 1 CE; three storms hit populated areas without warning. Each tradition frames the crisis differently. None of them have answers.
-
-**Daily life:** The crisis registers in accumulation. Kolto costs more because Force healing covers less. Travel takes longer because hyperspace routes near dead zones need manual recalculation. Construction projects run over schedule because the specialists who reinforced structures through the Force can't do it reliably. Food costs more on worlds that depended on Force-sensitive agriculture. Medical wait times lengthen. Infrastructure repair backlogs grow. No single failure is catastrophic. The sum of them reshapes how ordinary people plan their weeks, spend their credits, and think about the future.
-
-{{footnote Chapter 11: The Force in Crisis}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch3,tab}}
-
-### The Rakata and the Infinite Empire
-
-Thirty thousand years before the Concordat Era, the Rakata ruled a galaxy-spanning empire powered by the Force. Not Force philosophy. Not Force sensitivity. Force engineering. The Rakata built machines that drew on the Force as a power source: hyperdrives that navigated through Force currents, terraformers that reshaped planetary ecosystems through Force manipulation, and at the apex of their civilization, the Star Forge.
-
-The Star Forge orbits a star in the Lehon system, deep in the Unknown Regions. It is a factory the size of a small moon. It draws energy from the star it orbits and from the Force itself, converting both into raw material: ships, weapons, droids, armor, anything its operators can conceive. At its height, the Star Forge produced entire fleets in days. It won the Rakata their empire and then consumed them.
-
-The Rakata's collapse followed a pattern that Force scholars recognized: they used the Force as a resource, and the resource ran out. Operators who used the Star Forge grew more aggressive as dark-side energy fed back into them, accelerating a feedback loop of conquest, consumption, and corruption. The Rakata's slave species revolted. A plague swept through the Rakata population. Their Force sensitivity deteriorated. Without the Force, their technology stopped working. Without their technology, their empire collapsed.
-
-Within a few centuries, the Rakata went from ruling the galaxy to squatting in the ruins of their own monuments, unable to open the doors their ancestors had built.
-
-### Why the Rakata Matter Now
-
-The Rakatan collapse is the historical precedent for the current Force crisis. A civilization that built everything on the Force, lost the Force, and died.
-
-Revan noticed the parallels. He was not the first. The Jedi Archives on Ossus contained fragmentary references to the Infinite Empire before they burned in the Great Hyperspace War. Sith scholars on Korriban maintained their own records of Rakatan ruins found in the Stygian Caldera (the nebula surrounding Sith space) and interpreted them through a Sith theological lens: the Rakata were a warning about what happens when a civilization relies on Force power without the discipline to sustain it.
-
-\column
-
-The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated in the twelve years since the Great Hyperspace War at a rate no model predicts. Whether the cause is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified yet is the campaign's central mystery.
-
-### The Star Forge: Legend With Teeth
-
-Whether the Star Forge is operational, dormant, or destroyed remains unknown. Revan believes he located it. His research notes reference "the station" and "the engine" in ways that suggest he found something in the Lehon system. What matters for the galaxy is that the possibility of the Star Forge drives faction behavior:
-
-{{note
-- If the Star Forge exists and can be activated, whoever controls it can build an infinite fleet.
-- If the Star Forge exists and requires the Force to operate, then in a galaxy where the Force is dying, it may be the thing that finishes the job.
-- If Revan found it and it broke him, that is its own kind of answer.
+This is Jedi practice. Not the lightsaber forms. Not the Council's philosophy. The daily work of a trained contemplative.
 }}
 
-Factions will pursue it. Players will hear about it. What the Star Forge is, and what it does if activated, belongs to the campaign's arc.
+The Jedi Order teaches that the Force connects every living thing. Not as metaphor. As measurable fact. A Jedi's training teaches the nervous system to perceive this connection, to feel the emotional resonance of populations, to sense the movement of the Force through matter itself. When a Jedi closes their eyes, they perceive the world more completely, not less.
 
-{{footnote Chapter 11: The Force in Crisis}}
+This perception requires discipline. The untrained mind drowns in the sensation. A novice opening their awareness for the first time feels the emotions of hundreds of people at once and collapses from the noise. Jedi training teaches filtering, compartmentalization, the methodical strengthening of the mind's capacity to hold multiple truths simultaneously. After years of practice, a Jedi learns to exist in the Force's presence without losing themselves.
+
+The Order's purpose flows from this perception. If all beings connect through the Force, then violence against any creature ripples through the entire web. Injustice creates strains in the pattern. Suffering distorts the flow. A Jedi serves as a stabilizer, a corrective agent who moves through the galaxy repairing ruptures in the Force's movement through society. They do not serve the Force as a deity. They serve it the way a gardener serves the garden: maintaining its health, not commanding its growth.
+
+The Jedi Code, recited in meditation since the Order's founding, encodes this understanding:
+
+**There is no emotion, there is peace.** Not the absence of feeling. The recognition that emotion arises from unmet needs, unhealed wounds, misaligned desires. A Jedi trains to understand their emotions with precision. You feel anger: what did you expect that you did not receive? You feel fear: what loss do you anticipate? By naming the source, the Jedi dissolves the emotion's power to distort perception. What remains is clarity. This clarity is peace.
+
+**There is no ignorance, there is knowledge.** The Force reveals truth to those trained to perceive it. A Jedi does not believe; they observe. They do not guess; they know. The Order's commitment to understanding proceeds from the conviction that the Force itself speaks to those patient enough to listen. Ignorance breaks the connection. Knowledge restores it.
+
+**There is no passion, there is serenity.** Passion clouds judgment, the Order teaches. When you want something desperately, you see what you want to see, not what exists. Serenity does not mean apathy. It means the capacity to act in alignment with reality, unclouded by desire. A Jedi can love, but they love without attachment. They can grieve, but they do not cling to loss.
+
+**There is no chaos, there is harmony.** The Force moves through patterns. Violence, cruelty, oppression introduce discord into the pattern. They create knots that spread, infections that metastasize. A Jedi's role is to dissolve chaos by restoring harmony, by moving toward suffering and addressing its root causes.
+
+**There is no death, there is the Force.** The Jedi believe the Force persists beyond individual consciousness. When a being dies, their connection to the Force does not vanish. It returns to the whole. This truth removes the fear that makes beings cling to life selfishly, hoarding resources, committing violence to preserve themselves. If death returns you to the Force, you are free to serve the living.
+
+\column
+
+### The Three Paths
+
+The Jedi organized themselves into three paths, each reflecting different gifts and temperaments.
+
+**Jedi Guardians** combined martial training with Force sensitivity, producing warriors who served as peacekeepers, protectors of the vulnerable, and soldiers when the galaxy demanded it. A Guardian's training emphasized lightsaber combat, physical conditioning, and the Force abilities most useful in direct confrontation: enhanced reflexes, precognition, telekinetic bursts. Guardians walked toward violence so that others could walk away from it.
+
+**Jedi Consulars** developed their perceptive gifts to their highest capacity, becoming diplomats, healers, and scholars of the Force itself. A Consular could sense the emotional state of an entire room and identify the person whose fear was driving a negotiation toward failure. They staffed the Order's medical facilities, diplomatic missions, and research enclaves. The Council drew most of its members from the Consular tradition.
+
+**Jedi Sentinels** bridged these paths, learning both combat and perception while specializing in investigation, security, and practical problem-solving. A Sentinel could fight, heal, and interrogate, but their real value was adaptability. They worked alone or in small teams, often in the Outer Rim, dealing with problems that required a blaster in one hand and a datapad in the other.
+
+### What the War Broke
+
+For three thousand years, the Code held. Then the wars came.
+
+The Mandalorians attacked, and the Council counseled restraint. Revan walked out of the Temple with four hundred Jedi behind him. Within a year, the Jedi had become a military. Within three years, they had authorized the Ashen Campaigns, coordinated Force strikes that shattered orbital platforms and killed jungles and left permanent wounds in the Force.
+
+The Code became difficult to maintain. *There is no emotion*: but young Jedi watched their mentors burn in orbital bombardment. *There is no passion*: but the Council ordered them to kill. *There is no chaos, there is harmony*: but Mandalorian weapons introduced literal chaos into the Force itself, disrupting the web of connection, leaving scars in places that should have been whole.
+
+Some Jedi broke. Some discovered that the Code's promises were lies. They had felt no peace, no serenity, no clarity: only the weight of command and the horror of necessary violence. Some left the Order. Some fell to the dark side. Some vanished.
+
+The fractures persist. The Council Loyalists cling to the original Code, arguing that those who broke did not practice hard enough. The Remnant Jedi accept the militarization as permanent: the galaxy requires warriors, not mystics. The Concordat Advisors tell themselves they can guide policy from within. The Independents have left, maintaining their training in secret, refusing to serve either the old Order or the new regime.
+
+Why would anyone choose the Jedi Way now?
+
+Perhaps because in a time when the Force itself fails, when meditation offers no protection against plasma fire, when the Code's promises fracture under military necessity, the attempt to maintain clarity, to serve connection, to refuse to let violence make you cruel matters more, not less. The Jedi Way does not offer power. It offers coherence. The possibility of looking back on your life and knowing you moved toward truth.
+
+The morning meditation continues. The Jedi still sits. The Force still flows, thin and uncertain. She practices anyway.
+
+{{footnote Chapter 14: The Jedi Way}}
 {{pageNumber,auto}}
 
 \page
 
-{{Ch3,tab}}
+### The Daily Practice
 
-### The Star Maps
+Jedi life follows rhythms older than the temples themselves. A Padawan rising before dawn walks the same stone corridors her Masters walked, sits before the same meditation pools, learns the same forms. The structure creates continuity. It also obscures the fractures beneath.
 
-The Rakata built Star Maps as navigational monuments: self-sustaining holographic systems, powered by the Force, that recorded the location of the Star Forge and other key Infinite Empire installations. Five Star Maps were scattered across the galaxy on worlds significant to the Rakata: Dantooine, Kashyyyk, Manaan, Tatooine, and Korriban.
+#### Morning Meditation
 
-The maps were designed to be self-repairing. When the Rakata destroyed them during their collapse (to prevent their slave species from seizing the Star Forge), the maps slowly reconstructed themselves over millennia, drawing on residual Force energy embedded in their construction sites.
+The oldest practice remains the Breath of the Whills. A Jedi sits cross-legged, spine straight, and feels the Force moving in and out of the body with each inhalation. The meditation teaches that the practitioner is not separate from the Force but the Force experiencing itself in temporary form. The technique develops sensitivity, patience, and the ability to quiet the mind's chatter. It is boring. Most Padawans hate it. Masters insist on it because boredom teaches more than excitement. Excitement is the enemy of presence.
 
-What each faction knows about the Star Maps varies with their access to Revan's research, their own archaeological records, and the accidents of geography.
+The Walking Meditation of Telos came later, refined by the Telos enclave over centuries. The Jedi walks outdoors at dawn, moving through gardens or forest or hillside. The meditation treats the surrounding ecosystem as an extension of the practitioner's own body. Grass, insects, birds, wind, all part of a unified Force perception. The Jedi learns to sense boundaries between living things dissolving. The meditation develops ecological awareness and large-scale Force perception. It produces Jedi comfortable reading the mood of a city or the health of an agricultural sector.
 
-##### Dantooine
-Intact but partially degraded. Located in Rakatan ruins near the Jedi Enclave.
+The Dantooine Open-Sky method emerged in rural enclaves far from temple stonework. The Jedi lies on their back under open sky and expands awareness outward in concentric circles. The meditation starts at the navel, sensation in the immediate body, then widens to the ground beneath, the field extending outward, the sky above, the horizon, the distant mountains, the curve of the world. The point is continuous expansion. No limit. The technique produces a sense of scale and dissolves claustrophobia. It teaches that consciousness has no fixed size.
 
-**Jedi** scholars at the enclave studied it for decades without understanding what it was. **Concordat** military surveys have catalogued the ruins as low priority — the Enclave complicates access and the map's purpose is unclear. **Remnant** intelligence knows Revan studied this map before forming the Revanchists; his notes reference it as one of five. When the Mandalorians established their presence on Dantooine, the map fell into a contested zone. Its current status is uncertain: the enclave may have moved it, the Mandalorians may have seized it, or it may still be sitting in the ruins, guarded by nothing but geography and Force-sensitive fauna.
+These three forms produce different Jedi. The Breath of the Whills creates contemplatives. The Walking Meditation creates those attuned to systems and populations. The Open-Sky method creates those comfortable with vastness. A Master assigns practices according to temperament and need. A Padawan struggling with anxiety receives the Breath. A Padawan who will serve as a mediator receives Walking Meditation. A Padawan showing signs of isolation receives the Open-Sky method. The wrong practice can damage.
 
-##### Kashyyyk
-Destroyed. A dead zone marks where it stood in the Shadowlands.
+#### The Healing Arts
 
-**Remnant** records confirm Revan's forces located the Star Map during Year Five of the Mandalorian Wars. After extracting the navigational data, Revan ordered the map demolished to prevent anyone from following his trail. Wookiee elders who witnessed the destruction reported that the ruins "screamed" in the Force when the map was broken. **Most factions** know a dead zone exists in the Shadowlands but not why. The dead zone around the former map site has not healed.
+Force healing accelerates what the body does on its own. A Jedi places a hand on a wound and reaches into the Force, sensing the body's drive to repair itself. The Jedi amplifies that drive. Bone knits in days instead of weeks. Wounds seal shut. The immune system rallies against infection with overwhelming speed. A healer can pull a fever from lethal to manageable in hours. Over-acceleration can break the body's own rhythms, so the technique requires precision.
+
+The limits are firm. A healer cannot regrow a severed limb. The body has no memory of the missing part; there is no pattern to amplify. Genetic conditions lie beyond the Force's reach. Resurrection is impossible. The body separates from the Force at death. Every healer learns this truth the first time a patient dies on the table despite every technique.
+
+The Mandalorian Wars forced rapid innovation. Mass casualty scenarios left no time for gentle triage. Healers learned to send their perception through a crowded medical bay at once, sensing dozens of patients simultaneously, assessing which could survive with intervention and which could not. The technique is called rapid Force triage. It requires accepting that some people will die. The healer chooses who lives. That choice stays with them.
+
+Healing fails near dead zones. The healer reaches into the Force for the power to accelerate healing and finds nothing. The reach is like reaching into a well and finding stone. Patients under the healer's hands feel the withdrawal of support like a rope cut. Healers who trained in stable temples sometimes freeze the first time the Force stops responding. The ones who survive dead zones learn standard medical technique as backup. Needles and stitches and pressure bandages. Tools that work without the Force.
 
 \column
 
-##### Manaan
-Intact and hidden. Submerged deep beneath Ahto City, in the ocean trenches near the Hrakert Rift — the deep-sea geological formation where kolto is produced.
+#### Teaching and Apprenticeship
 
-**The Selkath** know about the Rakatan ruins. They have known for longer than the Republic has existed. The **Order of Shasa** (the Selkath Force tradition) maintains the site as a sacred place and does not discuss it with outsiders. The connection between the Star Map, the Hrakert Rift, and kolto's Force-resonant properties is not a coincidence, and the Selkath know more about this relationship than they share. **Other factions** suspect Rakatan ruins exist in Manaan's deep ocean but have no access.
+The Master-Padawan bond is the Order's central relationship. A Master takes a Padawan and commits to that person's training until the Padawan either achieves Knighthood or fails. Masters know their Padawans' fears, gifts, weaknesses, and patterns better than the Padawans know themselves. The chain extended back to the Order's founding.
 
-##### Tatooine
-Destroyed.
+Methods of pairing vary. Some traditions assign pairs through the Council. The Council observes, matches temperament to need, announces the pairing. Other traditions let bonds form organically over years. The organic method feels more correct to many Jedi. It also produces politics. Powerful Masters attract talented Padawans. Lesser Masters receive leftovers. Factions within the Council influence assignments, ensuring their allies receive promising students.
 
-**Remnant** intelligence indicates that Malak's forces located this map during Year Six, acting on intelligence separate from Revan's research. Malak destroyed it — not for the same reasons Revan destroyed the Kashyyyk map. Malak recognized what the Star Forge represented: an infinite factory powered by the Force. He concluded that in a galaxy where the Force was dying, an engine that consumed the Force to produce weapons was the last thing anyone needed. His destruction of the Tatooine map was a strategic decision. It may have been the most morally clear decision Malak has ever made. **Concordat** records do not publicize this event. **Most people** have no idea the map existed.
+Training progression follows a standard arc. Early years focus on perception and emotional regulation. The Padawan learns to feel the Force, to distinguish the Force's presence from imagination, to meditate without falling asleep. A Padawan spends a year learning to perceive the Force in a stone, then a plant, then a living animal, then another person. Masters demand honesty about what the Padawan senses versus what they think they should sense. Lying to yourself about perception creates false pathways in the mind. Dissolving false pathways is harder than building correct ones.
 
-##### Korriban
-Intact but corrupted. The Star Map in the Valley of the Dark Lords has been there since before the Dark Jedi Exiles arrived to found the Sith Empire. It predates everything the Sith built on Korriban.
+Middle years introduce physical training and combat. The Padawan learns to move as the Force moves through them. Lightsaber forms become serious. Meditation extends into motion. The Padawan discovers that Force flow through the body can enhance speed, strength, and reaction time, but only if the mind remains calm. Fear interrupts the flow. Anger distorts it.
 
-**Sith traditionalists** and **Keepers of Adas** know the map is ancient — their oral traditions connect it to King Adas's war against the Rakata twenty-seven thousand years ago. Sith sorcerers drew on its residual Force energy for millennia without understanding its origin. By the Concordat Era, the Korriban map is saturated with dark-side energy accumulated over thousands of years of Sith ritual practice. Whether it still functions as a navigational tool is unclear. What it has become — a Force artifact soaked in millennia of death — is something else entirely. **Other factions** know Korriban's reputation and stay away. Few outside the Sith know the map exists.
+Later years allow specialization. Some Padawans show gifts for healing. Others prove sensitive to emotions. Some reveal an affinity for machinery and technology. The Order's specialized archives open. Training becomes personal. The Master designs a curriculum suited to the individual Padawan's strengths and the Order's needs.
 
-{{footnote Chapter 11: The Force in Crisis}}
+The tension between standardized curriculum and individual gifts creates friction. The Council wants consistency: every Knight should reach a baseline competence. But every Padawan is shaped differently. Forcing the same path onto every student produces mediocrity. Some Masters push specialization too early; their Padawans become brilliant in narrow domains and helpless outside them. Some refuse specialization; their Padawans leave training as generalists with no particular strength.
+
+#### Service Roles
+
+Jedi served functions that mundane institutions could not provide. The most visible role was peacekeeper and warrior. But the Order filled quieter roles as well.
+
+**Mediators** used Force empathy to perceive hidden emotional currents beneath negotiation surfaces. A Jedi entering a trade dispute between planetary governments could sense where grievance lay beneath the stated position. Anger felt different from fear; greed felt different from desperation. A skilled mediator could identify the true conflict and propose solutions addressing the actual problem. The work required emotional strength. The Jedi absorbed the room's tension. The best mediators learned to perceive without absorbing, building a filter in their minds. The worst burned out.
+
+**Agricultural consultants** used Force perception to diagnose crop failure across entire sectors. A Jedi walked through a field and felt the soil's exhaustion. Nutrients depleted in specific layers. Water saturation in the roots. Growth patterns revealed themselves as a unified problem instead of individual failures. The work required patience and a love of agricultural systems. It attracted Jedi more contemplative than combative. Some of the finest agricultural consultants never drew a lightsaber in violence.
+
+**Search-and-rescue teams** used precognition to locate survivors in earthquake rubble or collapsed buildings. A Jedi reached into the Force and sensed where life persisted, sometimes even sensed the survivors' emotional state. Searching through ten floors of collapsed structure to find three surviving beings in a pocket of air required patience and faith that the Force's guidance was real. The work saved lives. It also produced haunting failures. A Jedi who sensed a survivor but could not reach them before the Force perception cut out learned their own limitations.
+
+A player character can build around any of these roles. The mediator needs emotional strength and empathic sensitivity. The agricultural consultant needs patience and ecological thinking. The search-and-rescue Jedi needs courage and the ability to stay present under pressure. Each role allows a Jedi character who leads with something other than a lightsaber.
+
+\page
+
+### Lightsaber Forms
+
+The seven classical forms evolved over millennia. Each taught different principles. Each shaped the Jedi who practiced it. The Force crisis changed how Jedi related to every form except the first.
+
+**Form I: Shii-Cho.** The foundational form. Wide sweeping motions meant to overwhelm multiple opponents with continuous motion. Every Padawan learns Shii-Cho first because it requires the least Force enhancement. The technique looks clumsy compared to later forms, excessive movement, little finesse. Masters tolerate the clumsiness because Shii-Cho is the most reliable form in the current crisis. A Jedi trained in Shii-Cho can fight near dead zones without catastrophic failure. The form demands no constant Force enhancement. Practitioners have begun specializing in Shii-Cho deliberately, abandoning aspirations toward higher forms. Reliability matters more than elegance now.
+
+**Form II: Makashi.** Precision dueling developed for lightsaber-versus-lightsaber combat. One-handed grip. Minimal movement. The technique assumes both combatants wield lightsabers and possess comparable Force sensitivity. Makashi masters execute devastating counters with single strikes. The form is elegant, economical, beautiful to watch. It is useless against blaster fire. Consulars who expected to face other Force users trained in Makashi and carried that assumption into the Mandalorian Wars. Blaster fire killed them. The form is now considered outdated. Some Consulars continue training in it, clinging to scholarly traditions. Others have abandoned it.
+
+**Form III: Soresu.** The defensive form. Energy-conservative, designed to outlast opponents through sustainability rather than aggression. The technique became dominant after the Mandalorian Wars because survival mattered more than victory. A Soresu master looks passive, every attack deflected with minimal effort, until you realize the master has been working for twenty minutes straight while the opponent is exhausted. The form requires Force attunement for sustained awareness but minimal burst power. Soresu dominance in the current Order reflects a shift from warrior-culture to survival-culture. Young Jedi learn Soresu as their primary form now.
+
+**Form IV: Ataru.** Acrobatic, Force-enhanced movement. Practitioners leap, somersault, and flow through aerial combat. The form is spectacular to watch. It is also energy-expensive and dangerous near dead zones. A Jedi performing an Ataru leap relies on Force enhancement for trajectory control. If the Force cuts out mid-leap, the Jedi continues on a ballistic arc toward ground or wall. Several Ataru masters have died this way since the crisis began. The Council issued warnings. Ataru practitioners ignored them. The form demands trust in the Force. Acknowledging the danger requires acknowledging the Force is becoming unreliable.
+
+\column
+
+**Form V: Shien/Djem So.** Redirecting enemy attacks and turning defense into counterattack. Physically demanding and requires precise timing. Shien/Djem So practitioners can convert a blaster volley into the attacker's own weapon forced back at them. Guardians trained in this form won more battles in the Mandalorian Wars than practitioners of any other. The form combines aggression with legitimate defense. It requires Force enhancement for optimal performance but can function without it if the practitioner has sufficient skill. Veterans of the war trust Shien/Djem So instinctively.
+
+**Form VI: Niman.** The balanced form. Competent at everything, dominant at nothing. Niman practitioners can handle lightsaber duels, blaster fire, multiple opponents, and Force combat. They excel at none of it. Council members favored Niman because the form left mental bandwidth for Force techniques during combat. A Niman master can duel while simultaneously casting a Force stun or healing an injured ally. The generalist approach appeals to diplomats and administrators. Younger Jedi view Niman as the choice of those without a specialty. The form remains respected but carries an implication of compromise.
+
+**Form VII: Juyo/Vaapad.** The controversial form. Juyo channels controlled aggression, drawing on emotion to fuel combat speed. The technique borders on dark side use. The Council restricted Juyo teaching to Masters only and demanded psychological evaluation before accepting a student. The form produces spectacular fighters capable of overwhelming opponents through sheer speed and ferocity. It also produces Jedi walking the line between light and dark. Some practitioners report that using Juyo near dead zones feels like reaching for a fire that isn't there. The aggression fueling the form expects the Force to respond and finds silence. Practitioners have suffered psychological breaks. The Council has discouraged Juyo training in recent years, though no official ban exists.
+
+{{note
+**Playing a Lightsaber Form**
+
+Your character's primary lightsaber form reflects how they think about violence. Shii-Cho practitioners believe in overwhelming force applied simply. Makashi duelists believe in precision. Soresu masters believe in endurance. Ataru acrobats trust their connection to the Force completely. Shien/Djem So warriors believe in turning enemy aggression against them. Niman generalists believe in flexibility. Juyo practitioners believe in channeling emotion toward purpose.
+
+Pick a form that reflects your character's philosophy, not just their combat capability.
+}}
+
+\page
+
+### The Contradictions
+
+The Jedi Order rested on contradictions it never resolved. The Force crisis did not create these fractures; it exposed them. They were always present. The war made them undeniable.
+
+#### Detachment vs. Service
+
+The Code teaches non-attachment. The Jedi must release desire, fear, and emotional bonds because emotion clouds judgment and attachment chains the spirit. The teaching is clear. The application is impossible.
+
+Jedi form deep bonds with their Padawans. Masters know their students' fears and strengths better than the students know themselves. The Master-Padawan bond is intimate and personal. Jedi form bonds with the populations they protect. A Jedi assigned to Dantooine for five years watches the settlement grow, knows the names of children born during their service, knows which harvest failed and which thrived.
+
+The Order never resolved this contradiction. Some Jedi resolved it through philosophy: the Code does not forbid love; it forbids possessive attachment. A Jedi can love while accepting that the other person might leave or die. The distinction is real but fragile.
+
+Jedi who claimed they felt no attachment to their Padawans were lying. Jedi who said they felt no connection to populations they protected were pretending. The ones who felt guilty about these feelings were at least honest with themselves.
+
+Masters who lost Padawans in the Mandalorian Wars discovered that "there is no death, there is the Force" offered no comfort. The seventeen-year-old apprentice they trained since childhood was gone. The Force did not return them. Philosophy offered nothing. The Masters grieved, and the contradiction between teaching and experience split them open.
+
+#### Pacifism vs. Militarization
+
+The Order existed to maintain peace. The Order's purpose was conflict prevention, mediation, and protection.
+
+Then Revan built an army. The Revanchists walked the temples saying the Council's inaction allowed the Mandalorians to burn Cathar. Millions died because the Council would not fight. Four hundred Jedi followed Revan into battle.
+
+The Council Loyalists argue the war corrupted everyone who fought in it. The soldiers returned changed. The Order's integrity was compromised the moment the first Jedi ignited a lightsaber in organized warfare.
+
+The Revanchists argue the war was necessary. Pacifism in the face of genocide is complicity. The Council's refusal to act betrayed everything the Code teaches about protecting life.
+
+Both camps point to evidence. The war produced atrocities. It also prevented worse. Jedi soldiers killed Mandalorians who would have killed civilians. Jedi soldiers also burned villages under Revan's command and called it necessity. The contradiction resists simple resolution. The war was both necessary and corrupting. The Council was both right to hesitate and wrong to delay so long.
+
+\column
+
+#### Knowledge vs. Control
+
+The Archives held restricted sections. The Council withheld information from Knights deemed not ready. The reasoning was protection: knowledge without wisdom is dangerous. A Jedi unprepared for certain truths might be corrupted by them.
+
+This reasoning drove some Jedi to seek knowledge outside the Order. If the Council would not teach, the seeker must find another source. Some found forbidden Force techniques in ancient tombs. Some found the Sith.
+
+The Council's response was to restrict more. More sections sealed. More information withheld. The restriction created a feedback loop. More restriction drove more seekers out. More seekers leaving confirmed the Council's fear that unrestricted knowledge led to corruption. More confirmed fear justified more restriction. The cycle tightened.
+
+Revan wanted knowledge the Council would not give. Revan left to find it. The Council's method of controlling knowledge facilitated the corruption the method was designed to prevent. The Archives remain restricted. The cycle continues.
+
+#### Universalism vs. Institutional Loyalty
+
+The Code teaches that the Force connects all living beings. The Force binds creation together. The Jedi serve the Force, not institutions.
+
+The Order teaches that Jedi serve the Council. The Council interprets the Force's will. Jedi follow the Council's guidance.
+
+These two teachings conflict. If the Force binds all beings, then the Force's will is not contained within the Council. If Jedi serve the Force itself, they serve something larger than institutional loyalty.
+
+Revan walked out when these teachings conflicted. Four hundred followed. The Council ordered them to stand down. The Revanchists argued that the Force itself called them to war. The Council's authority could not override the Force's call.
+
+The Council still has no answer for why the Code's own logic justified leaving the institution that teaches it. The Order would have to either abandon universal truth-claims or abandon institutional structure. Either choice transforms the Order into something different.
+
+{{footnote Chapter 14: The Jedi Way}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-# Part V: The Galaxy You Inhabit
+## Chapter 15: The Sith Tradition
 
-## Chapter 12: Life, Trade, and Survival
+Understanding the Sith requires holding three meanings simultaneously. The word "Sith" refers to a species, an order, and a philosophy. Confusing these is the most common mistake outsiders make, and the distinction matters for your character.
+
+**The Sith Species** are the red-skinned, Force-sensitive people who lived on Korriban for tens of thousands of years before anyone else arrived. They built cities, temples, and a civilization that lasted longer than the Republic has existed. They had their own Force traditions, their own culture, their own understanding of the galaxy. They are a people.
+
+**The Sith Order** is the hybrid culture created when Dark Jedi exiles conquered the Sith species roughly seven thousand years before the setting. The exiles enslaved the original Sith, rewrote their traditions, built the caste system, and created the Sith Empire. The Order is a political-religious institution.
+
+**Sith Philosophy** is the intellectual tradition encoded in the Sith Code: *Peace is a lie, there is only passion.* It is a set of ideas about the nature of power, the self, and the Force. It is an ideology.
+
+These three meanings overlap. They also conflict. A Sith Pureblood character might follow Sith philosophy, or might reject the Order that enslaved their ancestors, or might practice the pre-Exile traditions that the Order suppressed. Chapter 12 covers the Sith as a political faction. This chapter covers what they believe.
+
+### The Sith Code
+
+*Peace is a lie, there is only passion.*
+*Through passion, I gain strength.*
+*Through strength, I gain power.*
+*Through power, I gain victory.*
+*Through victory, my chains are broken.*
+*The Force shall free me.*
+
+The Jedi read this Code and see hedonism, selfishness, the abandonment of restraint. This misses the point.
+
+Sith philosophy understands passion as authentic engagement with reality. The Jedi ask you to observe the world and then detach from it, to achieve serenity through discipline. The Sith say this is cowardice disguised as philosophy. You will feel. You will want. The question is whether you deny these truths about yourself, pretending to be a void, a mirror, a nothing, or whether you face them.
+
+**Peace is a lie, there is only passion.** The Code's first line indicts Jedi teaching. The Jedi say, "There is no emotion, there is peace." The Sith respond: you are lying. Peace earned through suppression is false peace. It is numbness, not serenity. The moment something matters enough, the peace shatters. The Sith offer something harder: not the absence of passion, but its integration. You do not achieve freedom by denying yourself. You achieve freedom by exercising your will so completely that nothing external can constrain you.
+
+**Through passion, I gain strength.** Passion is fuel. The energy that drives beings to sacrifice, to persist through pain, to refuse defeat. The strongest beings in the galaxy are not those who have eliminated desire. They are those who have honed it. That wanting is the source of all achievement.
+
+**Through strength, I gain power.** Strength and power are not identical. Strength is capacity: the ability to endure, to resist, to accomplish. Power is authority: the capacity to shape the galaxy according to your will. A being becomes powerful by first developing the strength to survive, to fight, to persist.
+
+**Through power, I gain victory.** The Sith understand something the Jedi refuse to acknowledge: the galaxy has victors and the defeated. Neutrality is myth. Service is myth. Beings either shape events or are shaped by them.
+
+**Through victory, my chains are broken.** This is the crucial line, and nearly everyone misreads it. The Sith do not speak of literal chains. They speak of invisible bonds: dependence on others' approval, the need to serve institutions greater than yourself, the internalization of rules others wrote for their benefit. The being who achieves victory is freed from external constraint.
+
+**The Force shall free me.** The Force is not a deity to serve or a truth to contemplate. The Force is power itself: the raw capacity to reshape reality. A Sith learns to channel this power through rage, will, and the refusal to accept limitation.
+
+This is Sith philosophy as the modern Order teaches it. It is also, in many ways, a corruption of what came before.
+
+\column
+
+### The Keepers of Adas: What Came Before
+
+{{descriptive
+The oldest Sith temples on Korriban contain tombs within tombs. The outermost chambers held slaves and soldiers. Deeper, priests rested in darkness. The deepest tombs belonged to the ancient lords, spaces carved so far below the surface that the bedrock itself pulsed with power. The Keepers of Adas maintained these depths for seven thousand years before the Exiles came.
+}}
+
+The ancient Sith understood the Force differently than the Jedi or the conquerors who followed. They saw it as elemental power, wind, stone, fire, gravity, a vast system that responded to emotion and intention but never submitted to control. A Keeper did not command the dark side. A Keeper listened. Through meditation, through ritual, through blood and breath, a Keeper felt the Force's response to human passion and shaped the dialogue that followed.
+
+Passion was not excess or derangement. Passion was authentic engagement with your place in the web of power. The ancient Code, spoken in Old Sith and carved into stone:
+
+> *Strength serves the pattern. Passion illuminates truth. Struggle cleanses the spirit. Pride maintains the dance. Power flows to those who listen.*
+
+#### The Chaining
+
+Keepers bound spirits to locations using carved runestones called *tuk'ata markers*, thick pylons of worked stone, each one three meters tall, inscribed with the true names of the dead. The process demanded specificity. Blood from a living Sith species member, spoken invocation in Old Sith matching the spirit's burial name, physical contact between the Keeper and the burial site itself. The spirit then chose whether to answer. Spirits lied frequently. Keepers spent decades learning which ancient lords were reliable, which ones twisted answers, which ones went dormant for decades then demanded tribute. This skill, reading a spirit's nature through the Force and negotiating with the dead, was foundational Keeper knowledge. A poor reader bound themselves to a vicious ghost and suffered for generations.
+
+#### Meditation of Erosion
+
+Keepers sat in concentrated dark side energy and allowed it to permeate through them over years or decades. Like stone absorbing sustained heat. The technique deepened Force connection without emotional extremes, meditation rather than ecstasy, listening rather than shouting. The physical cost accumulated. Bones became brittle. Light sensitivity intensified. Lifespans contracted. Korriban gave power and took flesh. The oldest Keepers became pale, thin, bent, moving through tombs by touch and Force sense alone.
+
+\page
+
+#### Korriban as Partner
+
+The Valley of the Dark Lords was an ecosystem. Dark side energy pooled in specific geological formations, mineral concentrations that ran as deep as magma chambers. Cave systems channeled power like arteries. Tuk'ata hounds were symbiotic Force predators, feeding on ambient energy, their presence indicating saturation points. Shyrack caves served as natural amplifiers, their stone vibrating at frequencies that magnified rituals. Over millennia, Keepers mapped this ecology. They tracked which tombs were "hot," saturated with power, dangerous, essential, and which were "cold," depleted, safe, useless. The relationship was mutualistic. Keepers maintained the tombs, performed the songs, kept the spirits settled. The tombs sustained the Keepers' power in return.
+
+#### The Marking
+
+Young apprentices underwent scarification. Cuts treated with powdered Korriban minerals created permanent sensitivity to dark side concentrations. A Marked Keeper felt buried artifacts or active spirits like atmospheric pressure changes, a heaviness in the air, a tightness in the throat, the weight of presence without sight. This sense developed over years. A Keeper could map an entire catacomb blind, reading hot spots and cold zones through the Force, knowing where a spirit rested before opening the tomb.
+
+#### Tomb Singing
+
+At solstice points, collective vocal rituals gathered groups of Keepers in the valley. They chanted in the Old Sith harmonic scale, quarter-tones no human vocal cords could reproduce, requiring years of training to master. The singing fed dormant spirits and prevented hostility. It was payment and conversation. After the Exile, when the surviving Keepers stopped singing, interrupted by persecution, diminished by death, the tombs went feral. Spirits awoke enraged and hungry. The silence lasted two hundred years before the few Keepers who survived in hiding began rebuilding the practice.
+
+#### The Asking
+
+The most dangerous divination. Unlike the Chaining, where a Keeper called a bound spirit from a distance, the Asking required a Keeper to open their mind to a specific dead lord's presence and venture into their tomb unshielded. The Keeper went to the spirit. Success meant visions, fragments of lost knowledge, glimpses of ancient wars, mathematical truths the lord had mastered, whatever the spirit chose to show. Failure meant possession, madness, or death. The greatest Keepers performed Askings of Marka Ragnos, the long-dead progenitor of Sith rulership. Those sessions lasted days. Keepers emerged speaking languages dead for millennia, knowing calculations that made Jedi mathematicians collapse in confusion.
+
+\column
+
+#### The Exile and Corruption
+
+The Dark Jedi Exiles arrived seven thousand years ago and brought domination ideology. They came from a tradition of Force-sensitives trained to master, to command, to enforce hierarchy. They looked at Keeper practices and saw slavery of the dead. They conquered the Sith species, enslaved them, rewrote traditions, imposed a caste system, and created the Master-Apprentice dyadic structure that would dominate Sith history for millennia.
+
+The Kissai priestly caste preserved fragments of sorcery in oral forms. The Zuguruk builder caste repurposed alchemical knowledge into weaponcraft. Most other practices died with practitioners who refused to teach conquerors. Chaining fell silent. Asking was forbidden. The Marking continued in secret but its purpose was forgotten; Keepers learned the technique without the philosophy. Tomb Singing fragmented into ritual formulas with missing words.
+
+#### Present Day
+
+A handful of Keepers operate in secret across the Outer Rim. They reconstruct practices from fragments written in code on stone, from oral traditions passed through generations, from intuition and experimentation. They are archaeologists of their own tradition. A Keeper on Korriban today walks the Valley and sits in a tomb that should hum with power, that ancient lords should fill with presence, and feels nothing. The Force is failing. The tombs are failing with it. Some Keepers believe they are the last people alive who remember what the old practices meant. Others believe they are the first people in seven thousand years with the freedom to remember at all.
+
+### Why Someone Would Follow This Path
+
+The standard answer is straightforward: because power is the only honest truth in a galaxy where all other institutions fail. The Jedi promised peace and delivered war. The Republic promised stability and collapsed. Only power endures.
+
+The deeper answer comes from the Keepers. The Sith path, in the Keeper reading, is about refusing to let the galaxy's cruelty make you numb. The Jedi meet suffering with calm acceptance and the belief that the Force will restore balance. The Keepers call this cowardice. You have witnessed suffering. You have felt it, the Force makes you sensitive to it, and you suppress your emotional response so you can maintain your serenity? Why would you numb yourself to what is real?
+
+The Sith answer is to stay angry. Not destructively. Honestly. The Mandalorians conquered worlds. The Force destabilizes. The Jedi counsel acceptance. The Sith refuse acceptance. They feel their rage at injustice and use it to fuel action.
+
+The modern Sith Order teaches power through dominance. The Keepers teach power through alignment. Both claim descent from the same tradition. Both cite the same Code. One path leads toward freedom. The other leads toward chains so absolute you stop noticing them.
+
+In the Concordat Era, when the Republic crumbles and the Force grows unstable, the Sith tradition offers something no other belief system does: the promise that you need not surrender to what is. You need only find the strength to oppose it.
+
+{{footnote Chapter 15: The Sith Tradition}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch4,tab}}
+
+## Chapter 16: Sith Sorcery & Alchemy
+
+{{descriptive
+The tombs of the dead lords remain sealed in vaults beneath Korriban and in smaller caches across a dozen worlds. Inside these vaults, objects pulse with dark side energy centuries after their forging. Creatures twisted at the genetic level breed in isolation. Rituals carved into stone remain incomplete, missing crucial components, waiting for the hands or voices of practitioners who will never come. The Jedi Council classified all of this under a single heading: Sith Sorcery. Easier to ban something when you give it one name.
+}}
+
+Sith sorcery describes two separate disciplines with different histories, methods, and practitioners. The ancient Sith made no distinction. The Jedi conflated them deliberately. The conqueror Sith used the unified label to consolidate their mythology. Modern practitioners know they are two different animals.
+
+### The Kissai School: Ritual Channeling
+
+The Kissai were the priestly caste of the original Sith species. They did not forge or build. They channeled and shaped. Their sorcery required groups, three practitioners minimum, more for significant workings. A single Kissai accomplished minor effects. Real power emerged when three or more synchronized their emotions and forced them outward into the Force in unison.
+
+The mechanism: spoken incantations in Old Sith. Ritual circles drawn with blood and crushed bone. Physical contact between participants, hands linked or touching. The Kissai pushed emotion collectively, rage, sorrow, hunger, despair, into the Force like stoking a furnace. The group's combined will shaped what emerged.
+
+Kissai workings produced several categories of effects. Perceptual illusions altered what Force-sensitives and non-sensitives perceived, actual alterations to sensory input affecting thought and memory. Battle meditation variants allowed groups to focus enemy forces' emotional states toward panic or apathy across entire battlefields. Communication with the dead exceeded Keeper precision, louder, cruder, but covering greater distances. Dark side energy storms manifested as visible phenomena: shadows moving opposite to light sources, temperatures plummeting in localized zones, sounds at frequencies that triggered nausea and disorientation.
+
+The visual signature of Kissai work was unmistakable to anyone trained to recognize it. Shadows that bent the wrong direction. Air that vibrated at the wrong frequency. The stench of ozone and scorched flesh despite no visible fire.
+
+\column
+
+The discipline is now almost lost. Fragments survive in oral traditions held by scattered Sith species communities. Most reconstruction attempts fail. Someone discovers ritual inscriptions carved into a tomb wall, attempts to replicate a working without understanding its context or the emotional calibration required, and produces catastrophic results: misdirected power that burns out the practitioner's nervous system or warps the surrounding area into environmental dead zones.
+
+The greatest danger: partial knowledge is more lethal than complete ignorance. A group with fragmentary training might trigger a working they cannot control or shut down.
+
+### The Zuguruk School: Alchemy
+
+The Zuguruk were the builder caste. They forged, cultivated, and engineered. Unlike Kissai work, alchemical practice was individual labor. A single alchemist, alone or with assistants, infused objects and living creatures with dark side energy through sustained Force manipulation. The process took weeks, months, years, one item, one creature, one working at a time.
+
+The mechanism required specificity. Forges burning with dark side energy hotter than natural fire. Laboratories containing carved stone vessels and alchemical reagents derived from Korriban's geology. Vivisection chambers where creatures were reshaped through exposure and surgical modification. The alchemist sustained Force channeling continuously while physically working the material, heating, cooling, shaping, cutting, treating. The dark side seeped into every layer.
+
+Zuguruk capabilities far exceeded Kissai scope. They created Sith swords, blades of Force-saturated metal that resisted lightsaber strikes and hummed with dark side resonance. They weaponized creatures: terentateks, sithspawn variants, tuk'ata hounds hybridized with enhanced Force sensitivity. They infused talismans that stored dark side energy and released it on command. They synthesized poisons that attacked through both biochemistry and Force-based corruption. They alchemized architecture, modifying temples and tombs to channel dark side energy through geometric patterns and mineral veining, making the buildings themselves dangerous to unshielded minds.
+
+The critical distinction: Zuguruk creations persisted after the alchemist died. A Kissai ritual ended when the group stopped chanting. A Zuguruk sword remained lethal millennia later. A terentatek corrupted three thousand years ago remained a predator. This is why Korriban's tombs remain dangerous across geological timescales. The workings are done. The alchemists are dust. The objects still kill.
+
+\page
+
+The discipline is the most feared because its artifacts survived. Sith swords surface on black markets. Corrupted creatures emerge from deep caves. Talismans appear in collections. No one alive understands the forging techniques in full. Knowledge died with practitioners, texts burned in purges, oral traditions broke under persecution. Partial knowledge circulates among Sith researchers and black market dealers. Attempts at reconstruction produce unstable creations that fail in explosive or unpredictable ways. The Concordat classifies all confirmed Zuguruk artifacts as military-grade contraband. Possession carries the same charges as carrying a thermal detonator.
+
+### Why Everyone Is Afraid
+
+The Jedi fear sorcery because it proves the dark side accomplishes things the light side cannot replicate. The Concordat fears Zuguruk artifacts because they function without a Force-sensitive wielder. A soldier with no Force training can carry a Sith sword. The Revanchists remember that Revan witnessed sorcery during the Mandalorian Wars and never spoke about what he saw afterward. The Mandalorians fought sithspawn on Korriban's surface and lost entire companies to creatures that ignored armor and conventional tactics.
+
+The real question: nobody knows what happens to existing sorcery when the Force fluctuates. Do old Kissai workings embedded in stone weaken? Do Zuguruk artifacts destabilize? Does a sorcerous tomb become more dangerous when the Force fails around it? The answer matters if the Force collapse accelerates. Several people are going to have to find out.
+
+{{note
+**For Players:** Sith artifacts surface on black markets. Someone reconstructs a Kissai ritual from tomb carvings and initiates it without training. Your character encounters sorcerous objects or practitioners attempting rituals they half-understand. Knowing the difference between Kissai (collective, temporary, ritual-based) and Zuguruk (individual, permanent, object-based) work could save your life. Kissai workers can be interrupted. Zuguruk creations cannot be unmade. This distinction determines your tactical response.
+}}
+
+{{footnote Chapter 16: Sith Sorcery & Alchemy}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch4,tab}}
+
+## Chapter 17: The Mandalorian Creed
+
+{{descriptive
+The Mandalorian does not pray. She cleans her armor.
+
+This daily ritual, removing the dust of the settlement, checking seals, maintaining the weapon systems, is how she practices faith. The armor represents the philosophy encoded in steel and beskar. It is the statement that the galaxy is dangerous and you have chosen to meet it prepared. It is the refusal of comfort. The statement that you belong to something larger than yourself and this belonging requires sacrifice.
+
+The armor is the creed made visible. Every Mandalorian who wears it practices the same philosophy through the same object.
+}}
+
+The Mandalorian Creed is not theology. It is praxis: a system of action and commitment that produces a specific kind of person. The **Resol'nare**, the Six Actions, defines what it means to be Mandalorian:
+
+**One: Wear the armor.** Not as costume. As acknowledgment. The galaxy operates on a simple rule: the strong take from the weak. The Mandalorian armor says, "I have accepted this rule. I will not be weak." The armor is uncomfortable. It restricts movement. It marks you as a warrior, inviting confrontation. A Mandalorian wears it anyway, because the alternative is pretending the galaxy is safer than it is.
+
+**Two: Speak Mando'a.** This preserves a shared language that binds beings of countless species into a single culture. A Mandalorian can be Zabrak, Duros, Human, or any of a hundred other species. If they speak Mando'a, if they teach their children Mando'a, if they conduct the intimate details of their life in Mando'a, they belong to a people that transcends biology. The language is the skeleton of the culture.
+
+**Three: Defend your clan.** The galaxy will not protect you. Governments fall. Armies abandon you. Allies betray you. The only reliable protection is your clan, the beings who bound themselves to you through shared code and mutual sacrifice. You maintain it because your survival depends on it.
+
+**Four: Raise your children as Mandalorians.** The culture must transmit itself. If you fail to teach your children the Resol'nare, to train them in armor and weapon, to instill in them the understanding that strength must be earned, they will fall to the illusions that bury other peoples. They will believe government can protect them. They will believe the Force will provide.
+
+**Five: Contribute to your clan's welfare.** No parasites. No dependents who do not work. Every Mandalorian who wears the armor produces something, wealth, security, or knowledge, that strengthens the collective. The creed does not permit idleness.
+
+**Six: Answer Mandalore's call.** There is a hierarchy. Mandalore, the ruler, represents the people's collective will. When Mandalore issues a command, you respond, because Mandalore represents the survival of all Mandalorians. Individual desire submits to collective necessity.
+
+These six actions, practiced daily, constitute the Mandalorian Way. They are not suggestions. They are obligations. A being who breaks them ceases to be Mandalorian. They become *dar'manda*: without identity, cast out, dead to their people.
+
+\column
+
+### The Doctrine of Necessary Strength
+
+The creed flows from a single insight.
+
+The Mandalorians watched the galaxy for thousands of years. They observed that civilizations built on external support collapse when that support fails. The Force-sensitive peoples, the Jedi, the Sith, the ancient temples, relied on the Force as their foundation. When the Force destabilized, they fractured. The Senate relied on institutional stability and consensus. When Mandalorian pressure came, the institutions shattered. Trade-based economies relied on peaceful commerce. When war came, the merchants starved.
+
+The Mandalorians concluded: strength must be earned through discipline, community, and the refusal to accept limitation.
+
+A Mandalorian does not wait for permission to be strong. They do not hope that circumstances improve. They build strength through physical training, through the acquisition of weapons, through the perfection of craft, through the maintenance of bonds with their clan. They accept that struggle is permanent. They accept that the galaxy will oppose them. They refuse to let opposition break them.
+
+### The Fracture
+
+The Concordat split the creed along a fault line that was already present.
+
+**Concordat Mandalorians** maintain the forms of the Resol'nare while serving Republic authority. They wear the armor. They speak Mando'a. They train. They answer Mandalore's call. But Mandalore answers to Malak. Whose call are you answering?
+
+Some find this livable. The grain arrives on time. The settlements have medical facilities. The children learn in schools that teach both Mando'a and Basic. Veera Ordo's vision of a functioning hybrid society is becoming real in some places.
+
+Others find it suffocating. A Mandalorian warrior serving the Concordat is an employee, not a free warrior.
+
+**Neo-Mandalorians** maintain the creed in its original form but without the resources to sustain their people. Canderous Ordo's Coalition operates on raids, discipline, and fierce orthodoxy. They answer only to the six actions, not to political necessity. They preserve the culture's truth at the cost of its power.
+
+**Independents** have left the creed entirely. They keep their armor and their language but abandon the obligations. They survive by mercenary work, by individual strength, by refusing all claims on their loyalty.
+
+### Why Someone Would Choose This Path
+
+The Mandalorian creed offers something no other tradition in the setting does: a framework for living that does not depend on the Force, on governments, or on anyone's permission.
+
+The Jedi depend on belief that the Force will provide. The Sith depend on belief that power will free them. The Mandalorian depends on nothing but their own capacity to endure, their own willingness to work, their own commitment to the people they have chosen as family.
+
+In a galaxy where every other institution is failing, where the Force destabilizes, where government collapses, where power proves hollow, the person who can feed themselves, fight for themselves, and build community through shared discipline has something no one can take away.
+
+The creed does not promise happiness. It promises survival. It promises that if you practice discipline, maintain your bonds, and refuse to become soft, you will endure when others crumble.
+
+It promises that you will never be helpless.
+
+{{footnote Chapter 17: The Mandalorian Creed}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch4,tab}}
+
+## Chapter 18: Other Traditions
+
+The galaxy contains thousands of Force traditions beyond the Jedi and the Sith.
+
+The **Order of Shasa** on Manaan practices a Force tradition rooted in the Selkath relationship with their ocean. Their understanding of the Force emphasizes connection, balance, and the deep ecology that produces kolto. They may understand something about the Force crisis that larger traditions have missed.
+
+The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused on perceiving the future. The Force crisis has made their visions unreliable, and the Baran Do are debating whether to retreat from public life or engage with the galaxy's crisis directly.
+
+**Anti-Force secularism** has grown in the Concordat Era. Political movements on Core Worlds and Mid Rim systems argue that Force users, whether Jedi, Sith, or otherwise, have caused the galaxy's problems and that governance should be secular. These movements range from principled humanism to crude speciesism directed at Force-sensitive peoples like the Miraluka and the Sith Purebloods.
+
+{{footnote Chapter 18: Other Traditions}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch4,tab}}
+
+# Part IV: Where You Live
+
+## Chapter 19: Life, Trade, and Survival
 
 {{descriptive
 *A Concordat citizen in the Core Worlds wakes in an apartment that hasn't changed much since before the wars. The holonet plays the morning news: Senate proceedings, trade reports, a segment on kolto prices that nobody wants to hear.*
@@ -1283,7 +2183,23 @@ Your character's position on them is one of the most important things about them
 A character who has thought about these questions and arrived at a nuanced position they'll defend under pressure is exactly what this campaign needs.
 }}
 
-{{footnote Chapter 12: Life, Trade, and Survival}}
+### The Sovereignty Gradient
+
+Control thins as you move outward from the Core. The galaxy operates on a sliding scale of governance that determines what kind of trouble you encounter and what resources you can count on.
+
+**Core Sovereignty.** Concordat-controlled Core Worlds: Coruscant, Alderaan, Corellia. Full government services, law enforcement, medical infrastructure, holonet access. Trouble here is political and subtle: intelligence operations, Senate intrigue, Force-monitoring programs. Violence is rare and carries severe consequences.
+
+**Administered Territory.** Concordat-controlled Mid Rim: Taris, Telos. Military governors run joint Mandalorian-Republic patrols. Infrastructure functions under stress. Smuggling operations, faction espionage, and occasional armed resistance keep the garrison busy. Combat happens but draws official attention.
+
+**Contested Space.** Regions where multiple factions claim authority: Onderon, Dantooine, the Perlemian corridor. Overlapping jurisdictions, unreliable services, active intelligence operations from every direction. Guerrilla raids, diplomatic crises, criminal enterprises, and dead-zone encounters rotate through the news cycle. Combat is common. Consequences depend on who saw it.
+
+**Frontier.** Outer Rim regions with minimal governance: the Remnant's twenty-three systems, Neo-Mandalorian operating territory, Hutt Space border regions. Limited infrastructure, unreliable communications, danger from pirates, warlords, wildlife, and dead zones. Survival is the primary concern. Combat is expected.
+
+**Ungoverned Space.** Beyond the frontier. No government services, no reliable hyperspace routes, no medical infrastructure, no law. Sith remnant territories, unexplored systems, deep frontier. Kolto is whatever you brought with you. Law is whatever you enforce. Combat is just another day.
+
+Where your character lives on this gradient shapes what "normal" means to them. A Coruscant bureaucrat considers a locked door the boundary between safe and dangerous. A frontier mechanic considers a charged blaster the same boundary.
+
+{{footnote Chapter 19: Life, Trade, and Survival}}
 {{pageNumber,auto}}
 
 \page
@@ -1347,14 +2263,20 @@ Every military in the galaxy learned from the Mandalorian Wars and the Force's d
 
 Force users in all three forces operate as unreliable force multipliers. Smart commanders plan operations that succeed without Force support and benefit from it when it's available. Foolish commanders rely on Force support and lose soldiers when it fails.
 
-{{footnote Chapter 12: Life, Trade, and Survival}}
+{{footnote Chapter 19: Life, Trade, and Survival}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-## Chapter 13: Worlds and Frontiers
+## Chapter 20: Worlds and Frontiers
+
+Each world entry lists two tags: **Control** and **Security**. These are orientation tools for GMs and players.
+
+**Control** tells you which faction governs the world, or whether governance is contested or absent. This determines whose laws apply, whose military patrols the system, and whose bureaucracy a visitor will encounter. "Contested" means two or more factions claim authority and neither has full control.
+
+**Security** describes how safe the world is for civilians and travelers. **High** means functional law enforcement, patrol coverage, and institutional stability. **Medium** means law enforcement exists but is inconsistent, politically compromised, or stretched thin. **Low** means the local authority is weak, corrupt, or absent, and personal armament is advisable. **Null** means no organized authority exists and survival depends on your crew and your ship.
 
 ### Coruscant
 
@@ -1414,7 +2336,7 @@ The Smuggler's Moon. Nar Shaddaa is where the galaxy's margins meet: refugees, c
 
 For a player character, Nar Shaddaa is where you go when every other faction has a reason to arrest you.
 
-{{footnote Chapter 13: Worlds and Frontiers}}
+{{footnote Chapter 20: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
 \page
@@ -1481,7 +2403,7 @@ A cold industrial world in the Outer Rim that most people couldn't find on a sta
 
 Jebble's significance now is logistical. Its orbital shipyards, captured intact, service Concordat fleet operations across the northern Outer Rim. The population is transient: shipyard workers on rotation, naval personnel between deployments, and the service economy that follows military spending. Three cantinas serve the docking ring. Two of them are Concordat intelligence fronts. The third is an Exchange operation that Concordat intelligence knows about and tolerates because it produces better signals intelligence than their own people do.
 
-{{footnote Chapter 13: Worlds and Frontiers}}
+{{footnote Chapter 20: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
 \page
@@ -1512,14 +2434,14 @@ The people who live here didn't choose the frontier because they love freedom. S
 
 The frontier is where your characters become the most important people in the room, because on the frontier, everyone in the room is running out of options.
 
-{{footnote Chapter 13: Worlds and Frontiers}}
+{{footnote Chapter 20: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-## Chapter 14: Peoples, Culture, and Belief
+## Chapter 21: Peoples and Species
 
 *Each entry covers what most people assume, what is true, how the Concordat Era has changed things, and why it matters for character creation.*
 
@@ -1587,7 +2509,7 @@ Other Cathar have joined the Remnant, drawn by the promise that the Remnant will
 A Cathar character carries the Razing whether they want to or not. How they carry it defines them. A refugee community organizer holding her people together on Taris. A warrior who joined the Mandalorians and has not yet been asked to explain herself to another Cathar. A young Cathar who has never seen the homeworld and is tired of living inside someone else's grief.
 }}
 
-{{footnote Chapter 14: Peoples, Culture, and Belief}}
+{{footnote Chapter 21: Peoples and Species}}
 {{pageNumber,auto}}
 
 \page
@@ -1629,65 +2551,14 @@ A kolto merchant who knows exactly where her product goes. A member of the Order
 
 **Zabraks** and **Iridonians** maintain clan-based frontier cultures that have adapted through mercenary service, independent trade, and a pragmatic refusal to commit to any single faction. Iridonian Zabrak communities on the Outer Rim have become de facto neutral zones, valued by all factions as stable trading posts.
 
-\column
-
-### Belief, Religion, and Philosophy
-
-#### The Jedi Way (and Its Fractures)
-
-Jedi philosophy, in its pre-war form, held that the Force was a living energy connecting all things, that Jedi served as its guardians, and that peace, knowledge, serenity, and harmony were the guiding principles of that service.
-
-The Force crisis has broken this framework open. If the Force is dying, what does it mean to be its guardian? If the Force is unreliable, what does serenity accomplish? If the Jedi who went to war did more damage to the Force than the Jedi who stayed in the Temple, was the Council right all along? And if the Council was right, why does being right feel indistinguishable from doing nothing?
-
-At least three Jedi theological positions have emerged from the wreckage:
-
-**Orthodox restraint** (the Council's position): the Force is damaged and must be allowed to heal. Patience and study are the Jedi's duty.
-
-**Active service** (the Remnant Jedi's position): the Force is damaged because people suffer. Inaction is itself a form of harm. The Jedi's duty is to protect, even at cost.
-
-**Pragmatic instrumentalism** (common among Concordat Advisors and Sentinels): the Force is a tool that works intermittently. Theology is irrelevant. Use what works, carry a backup, and get the job done.
-
-#### The Sith Tradition
-
-Sith philosophy holds that passion is the path to the Force's full power. The Sith Code — *Peace is a lie, there is only passion* — is not a celebration of cruelty. It is a statement about the nature of power: that emotional intensity, ambition, and the willingness to struggle are more honest foundations for strength than the Jedi's cultivated detachment.
-
-In the Concordat Era, Sith philosophy exists in fragments. The pre-Exile traditions maintained by the Keepers of Adas offer a different reading: the Force as an elemental relationship between the living and the natural world, shaped by passion but not owned by it, older and stranger than either the Jedi or the post-Exile Sith understood.
-
-#### The Doctrine of Necessary Strength
-
-The Mandalorian philosophical tradition has become the Concordat Era's most influential secular creed. The Doctrine holds that strength must be self-generated, that reliance on external gifts — including the Force — produces fragility, and that the galaxy's crisis is proof that civilizations dependent on supernatural power will collapse when that power fails.
-
-The Doctrine has adherents outside Mandalorian culture. Former Jedi who've lost their Force connection. Secular intellectuals on Core Worlds. Frontier communities that have survived without institutional support. Anti-Force political movements that argue Force users have been a destabilizing influence throughout galactic history. The Doctrine is intellectually coherent and emotionally satisfying to people who feel betrayed by institutions that relied on the Force. It is also, in the hands of Concordat Militarists, a justification for Force-user surveillance and restriction.
-
-{{footnote Chapter 14: Peoples, Culture, and Belief}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch4,tab}}
-
-#### Local and Syncretic Traditions
-
-The galaxy contains thousands of Force traditions beyond the Jedi and the Sith.
-
-The **Order of Shasa** on Manaan practices a Force tradition rooted in the Selkath relationship with their ocean. Their understanding of the Force emphasizes connection, balance, and the deep ecology that produces kolto. They may understand something about the Force crisis that larger traditions have missed.
-
-The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused on perceiving the future. The Force crisis has made their visions unreliable, and the Baran Do are debating whether to retreat from public life or engage with the galaxy's crisis directly.
-
-**Anti-Force secularism** has grown in the Concordat Era. Political movements on Core Worlds and Mid Rim systems argue that Force users — whether Jedi, Sith, or otherwise — have caused the galaxy's problems and that governance should be secular. These movements range from principled humanism to crude speciesism directed at Force-sensitive peoples like the Miraluka and the Sith Purebloods.
-
-{{footnote Chapter 14: Peoples, Culture, and Belief}}
-{{pageNumber,auto}}
 
 \page
 
 {{Ch5,tab}}
 
-# Part VI: Where We Begin
+## Chapter 22: Starting Scenarios
 
-## Chapter 15: Starting Scenarios
-
-### 15.1 The Freighter Incident
+### 22.1 The Freighter Incident
 
 **Premise:** You are aboard a freighter traveling a major hyperlane. The ship drops out of hyperspace six days early, stranded at the edge of a dead zone. The Force doesn't work here. Hyperspace navigation fails. Three other ships are stuck: a Concordat military transport, a Remnant courier vessel, and a Neo-Mandalorian raiding ship.
 
@@ -1708,7 +2579,7 @@ Everyone on all four ships knows that none of them can leave without solving the
 
 \column
 
-### 15.2 The Windfall Protocol
+### 22.2 The Windfall Protocol
 
 **Premise:** You are Sith-aligned operatives. You wake in kolto immersion tanks inside a blacked-out refining station on the seafloor of an ocean moon. The station is in lockdown. Emergency lighting only. The kolto in your tanks isn't normal: cloudy, faintly luminescent, but it tastes sweet and tart.
 
@@ -1731,7 +2602,7 @@ Trust no one, and remember that the person you suspect the most may be the one y
 
 {{Ch1,tab}}
 
-### 15.3 The Proving of Clan Veshok
+### 22.3 The Proving of Clan Veshok
 
 **Premise:** You are members or recent inductees of Clan Veshok, a small Neo-Mandalorian clan operating from a converted cargo hauler called the *Tra'cysur* ("Star-Grave"). Mandalore Canderous Ordo has called a gathering of the clans at Dxun. For small clans like yours, a gathering is a test: prove your worth through combat trials and you gain standing, territory assignments, and access to the Coalition's shared armories. Fail, and Clan Veshok gets absorbed into a larger clan or scattered.
 
@@ -1750,10 +2621,11 @@ Between your ship and Dxun lies a transit corridor controlled by Concordat patro
 Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplies for eight days, and a reputation that amounts to "competent but small." Rival clans will test you at the gathering. Some will offer alliance. Some will offer absorption. You need to arrive with a leader chosen and your people unified, or Clan Veshok ends at Dxun.
 }}
 
-{{footnote Chapter 15: Starting Scenarios}}
+{{footnote Chapter 22: Starting Scenarios}}
 {{pageNumber,auto}}
 
 \page
+
 
 {{app,tab}}
 
@@ -1826,6 +2698,8 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{footnote Appendix A: Glossary}}
 {{pageNumber,auto}}
 
+
+
 \page
 
 {{app,tab}}
@@ -1834,9 +2708,9 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 
 This setting draws on material from the *Star Wars* Expanded Universe, adapted and altered for the Concordat Era. None of it is required reading. All of it deepens your understanding of the traditions this campaign builds on.
 
-**Star Wars: Knights of the Old Republic** (video game, 2003). The baseline. The game that established the era's characters, worlds, and tone. Revan, Malak, Korriban, Dantooine, Manaan, Taris, and the Star Forge all originate here.
+**Star Wars: Knights of the Old Republic** (video game, 2003). The baseline. The game that established the era's characters, worlds, and tone. Revan, Malak, Korriban, Dantooine, Manaan, Taris, and the Star Forge all originate here. See Chapter 4 for a full summary.
 
-**Star Wars: Knights of the Old Republic II — The Sith Lords** (video game, 2004). The philosophical spine. Kreia's arguments about the Force, the Sith Triumvirate, the Jedi's fracture, and the concept of wounds in the Force all inform this setting. Play it with the restored content mod.
+**Star Wars: Knights of the Old Republic II — The Sith Lords** (video game, 2004). The philosophical spine. Kreia's arguments about the Force, the Sith Triumvirate, the Jedi's fracture, and the concept of wounds in the Force all inform this setting. Play it with the restored content mod. See Chapter 4 for a full summary.
 
 **Star Wars: The Old Republic** (MMO, 2011–present). Expands the era's species, worlds, and political factions. Sith Pureblood culture, Mandalorian clan politics, and the broader galactic landscape draw from this source.
 
@@ -1844,34 +2718,13 @@ This setting draws on material from the *Star Wars* Expanded Universe, adapted a
 
 ### Historical Parallels
 
-For historical parallels: the Napoleonic Wars, the French Revolution's aftermath, the Congress of Vienna, and the Peninsular War all shaped this setting's political dynamics. Any good history of the period will reward a player looking for character inspiration.
+For historical parallels: the Napoleonic Wars, the French Revolution's aftermath, the Congress of Vienna, and the Peninsular War all shaped this setting's political dynamics. These parallels are not required knowledge. They may reward a player looking for character inspiration, but a strong character comes from engaging with the setting as written, not from outside research.
 
 The Concordat's structure, a military-enforced hybrid government following catastrophic war, has analogues across dozens of historical periods. Life in a galaxy recovering from war, where old institutions are discredited and new ones are not yet trusted, is what this campaign is going for.
 
-**The Concordat Era is not a story about good versus evil.** It is a story about people who have all done terrible things for reasons they could justify, living with the consequences and trying to decide what to do next.
+**The Concordat Era is a story about people who have all done terrible things for reasons they could justify, living with the consequences and trying to decide what to do next.**
 
 Every faction in this setting has blood on its hands. Every ideology has been used to justify something unforgivable. Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking and hasn't started healing.
 
-
-:
-
-{{note
-
-### A Note on Adaptation
-The Concordat Era is an alternate history. The major divergences from KOTOR canon:
-
-**The Great Hyperspace War moved forward by roughly a thousand years.** In canon, the GHW (Naga Sadow's invasion of the Republic) occurred around 5000 BBY, a millennium before the events of KOTOR. In this setting, it ended in 3964 BBY, twelve years before the campaign starts. The Sith Empire's collapse is living memory, not ancient lore. Veterans of that war walk the streets. This single change makes the Sith a present wound rather than a historical footnote, and it connects the Force crisis directly to events that characters can remember.
-
-**Malak never fell to the dark side.** In the games, Malak became Darth Malak, a Sith Lord who waged war on the Republic. Here, he remained a Jedi general who ended the Mandalorian Wars through single combat and political negotiation, then became the Concordat's Supreme Chancellor-General. His moral complexity comes from authoritarianism, not Sith corruption.
-
-**Revan was never captured or mind-wiped.** In KOTOR, the Jedi Council captured Revan and erased his memories. Here, Revan left for the Unknown Regions voluntarily, chasing Rakatan technology, and returned diminished and obsessed. His story is about intellectual ambition consuming a brilliant mind, not about identity and redemption.
-
-**The Mandalorian Wars ended through the Concordat, not the Star Forge.** In the games, the wars ended when Revan seized the Star Forge and turned it against the Mandalorians. Here, Malak challenged Mandalore to single combat, won, and forged a political alliance. The Star Forge may or may not exist. Its status is a campaign mystery.
-
-**The Jedi Civil War never happened.** In canon, Revan and Malak turned on the Republic after the Mandalorian Wars. That war does not occur in this setting. Instead, the galaxy fractured into three competing governments, each led by people who believe they're doing the right thing.
-
-Named characters, places, and concepts appear throughout, but the choices went differently. You are not replaying KOTOR. You are playing in the same galaxy with different outcomes.
-}}
-
-{{footnote Appendix B: Suggested Reading and Playing}}
+{{footnote Appendix B: Suggested Reading}}
 {{pageNumber,auto}}
