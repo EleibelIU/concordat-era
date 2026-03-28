@@ -338,9 +338,10 @@ If you want to change colors of the chapters and Class Backgrounds, check the CH
     }
     
 .page .footnote {
-    width       : 100%;
     bottom      : 25px;
     font-size   : 10px;
+    width       : auto;
+    text-transform: none;
     }
 
 .page .pageNumber {
@@ -348,19 +349,21 @@ If you want to change colors of the chapters and Class Backgrounds, check the CH
     font-size : 10px;
     }
 
-.page:nth-child(even) .footnote { 
-    position: absolute; 
-    left: 130px; 
+.page:nth-child(even) .footnote {
+    position: absolute;
+    left: 130px;
+    right: 130px;
     }
 
-.page:nth-child(even) .pageNumber { 
-    position: absolute; 
-    left: 75px; 
+.page:nth-child(even) .pageNumber {
+    position: absolute;
+    left: 75px;
     }
 
-.page:nth-child(odd) .footnote { 
-    position: absolute; 
-    right: 130px; 
+.page:nth-child(odd) .footnote {
+    position: absolute;
+    left: 130px;
+    right: 130px;
     }
 
 .page:nth-child(odd) .pageNumber { 
@@ -993,9 +996,14 @@ You can copy/paste to create new chapters if needed with custom colors and/or mo
       h1, h2, h3, h4, h5 {
         color : #967b2f;
       }
-      
+
     .toc h1, .toc h2, .toc h3, .toc h4, .toc h5 {
-    color: inherit;      
+    color: inherit;
+      }
+
+    .footnote {
+        text-align: center;
+        text-transform: none;
       }
     }
   }
