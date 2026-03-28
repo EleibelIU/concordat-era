@@ -577,8 +577,6 @@ The Force works the same way in your setting as in any other Star Wars era. What
 
 **Diversity of traditions.** The Jedi and Sith were the two largest organized traditions, but they were never the only options. The Order of Shasa on Manaan, the Baran Do Sages of Dorin, Mandalorian Force-skeptics, village shamans on a hundred Outer Rim worlds. These traditions disagreed on methodology, philosophy, and the proper use of Force abilities. A Force-sensitive being born in this era could receive training from many teachers, or from none.
 
-\column
-
 **Individual power versus coordination.** No Force user in this era lifts a Star Destroyer with their mind. No single Knight deflects the fire of a hundred soldiers at once. Power comes through training, discipline, and coordination. A strike team of five Jedi with complementary abilities could hold a fortified position against a battalion. A medical team of Force-sensitive healers could triage casualties faster than conventional medicine. The Ashen Campaigns demonstrated what hundreds of coordinated Force users could accomplish: strikes that shattered orbital platforms and killed jungles. They also demonstrated the price. Thousands dead. Twelve planets scarred. The Force itself damaged by its own weaponization. Individual Force users were dangerous. Organized groups were devastating. Neither was invincible.
 
 **The Force is failing.** This is the crisis that defines your era. Abilities that worked reliably a decade ago now stutter, fail, or vanish in dead zones. Precognition cuts out mid-fight. Healing fails mid-surgery. Long-range Force communication goes silent for days. Force users wake each morning uncertain whether their abilities will function. Chapter 6 covers the crisis in full detail.
@@ -596,7 +594,6 @@ Approximately one in ten thousand beings across the galaxy possess Force sensiti
 In this era, the Concordat government registers Force-sensitive citizens. The Jedi Order trains them, or used to. The Sith Empire conscripted them. Now, with all three institutions in various states of fracture, a Force-sensitive person born on the frontier might live their entire life without formal training, or without knowing what they are.
 
 {{note
-##### What This Means for Your Character
 **If you play a Force-sensitive character:** your abilities are unreliable. Build a character who can function when the Force fails. Carry a blaster. Learn medicine. Know how to fly without precognition.
 
 **If you play a non-Force-sensitive character:** the Force crisis affects you anyway. Medicine costs more because Force healing covers less. Travel takes longer because hyperspace routes degrade near dead zones. Infrastructure decays because the specialists who maintained it through the Force can no longer deliver.
@@ -609,7 +606,8 @@ In this era, the Concordat government registers Force-sensitive citizens. The Je
 
 \page
 
-### The Light Side and the Dark Side
+{{Ch3,tab}}
+## The Light and Dark Sides
 
 The Force contains multitudes, and philosophers of the Force disagree on whether those multitudes carry moral weight. Six major traditions have emerged from this disagreement, each claiming to describe reality more accurately than the others.
 
@@ -625,7 +623,6 @@ This position also offers internal consistency. If the Force rewards the strong 
 
 Keepers point to evidence that Force users who operate outside the Jedi or Sith frameworks achieve stability and sophistication without sorting emotions into moral bins. The Keepers struggle to explain why the light/dark binary exerts such a powerful pull on Force users regardless of training tradition or cultural background.
 
-\column
 
 **Secular/Mandalorian Position.** The Force is a natural phenomenon with no moral dimension. Calling it "light" or "dark" resembles calling gravity "good" or "evil," a category error committed by beings who need the universe to validate their choices. Force users project their own ethics onto an energy field, then claim the energy field's structure endorses their ethics. This reasoning is circular and unconvincing. The field amplifies intention and energy. Whether the user's intention is generous or ruthless, the field responds without judgment. The Mandalorian warrior tradition engages the Force through technique and presence rather than moral aspiration, and achieves remarkable results without importing theological baggage.
 
@@ -639,11 +636,13 @@ Kreia's position gains strength from the observation that both Jedi and Sith see
 
 This position lacks the historical weight of Orthodox or Imperial doctrine, but it addresses a crisis that the older traditions did not anticipate. If the Force can vanish, then neither side's claim to represent ultimate reality holds absolute weight.
 
+\page
+
+{{Ch3,tab}}
+
 {{note
 **Your character's position on this question shapes how they relate to every Force user they meet.** A Jedi who accepts Orthodox doctrine reads Revan's choices one way. A Mandalorian who embraces Secular philosophy reads those same choices differently. The six positions above represent genuine disagreements about reality. Your character knows which position resonates with their experience and which ones they find unconvincing, and they will defend that position when they encounter Force users committed to something else.
 }}
-
-\page
 
 ### Revan and Malak
 
