@@ -1,6 +1,6 @@
 {{frontCover}}
 
-![Fantasy Castle](https://temp-image.com/ib/DXeqBBwOpw0svxA_1774584330.png){position:absolute,top:0,left:0,width:100%,height:100%,z-index:-1}
+![Fantasy Castle](https://raw.githubusercontent.com/EleibelIU/concordat-era/8af3765a10018f4074144d17d8da1e4930a7a4b0/Assets/art/Concordat_SettingPacket_Cover_V1.png){position:absolute,top:0,left:0,width:100%,height:100%,z-index:-1}
 
 
 \page
@@ -133,7 +133,7 @@ The calendar is political. Using Concordat Era dating signals loyalty to Malak's
 
 <!-- Don't change the mask edge 8, which is used as gradient for Campaign Frames. Use --offset to shift the mask away from page center (can use cm instead of %) -->
 
-![The Concordat Era](https://temp-image.com/ib/SlwUWEB8gnO99h8_1774586568.png){position:absolute,top:-1,left:0,width:100%,height:120%,z-index:-1}
+![The Concordat Era](https://raw.githubusercontent.com/EleibelIU/concordat-era/8af3765a10018f4074144d17d8da1e4930a7a4b0/Assets/art/Player_Letter_Banner.png){position:absolute,top:-1,left:0,width:100%,height:120%,z-index:-1}
 }}
 
 {{footnote,white Part I: The World You're Entering}}
@@ -350,7 +350,29 @@ Fate characters have **skills**: rated abilities that determine what your charac
 
 Your Great (+4) skill is what your character does better than almost anyone. Your pyramid's shape tells the table who you are before you describe a single scene.
 
-The full skill list: **Academics** (formal education, institutional knowledge), **Athletics** (running, dodging, zero-gravity maneuvering), **Burglary** (breaking in, slicing systems, bypassing locks), **Contacts** (knowing people, calling in favors), **Crafts** (building, repairing, jury-rigging), **Deceive** (lying, disguise, forged documents), **Drive** (piloting starships, speeders, anything with a throttle), **Empathy** (reading people, detecting lies), **Fight** (melee combat, lightsabers, vibroblades), **Investigate** (methodical examination, piecing together evidence), **Lore** (obscure knowledge, Force traditions, Sith archaeology), **Notice** (immediate perception, spotting danger), **Physique** (strength, endurance, toughness), **Provoke** (intimidation, goading, emotional pressure), **Rapport** (building trust, persuasion, diplomacy), **Resources** (wealth, requisition authority), **Shoot** (ranged combat, blasters), **Stealth** (moving unseen, electronic countermeasures), **Will** (mental fortitude, resistance to pressure).
+{{DHTable
+| Skill | Description |
+|:--|:--|
+| **Academics** | Formal education, institutional knowledge |
+| **Athletics** | Running, dodging, zero-gravity maneuvering |
+| **Burglary** | Breaking in, slicing systems, bypassing locks |
+| **Contacts** | Knowing people, calling in favors |
+| **Crafts** | Building, repairing, jury-rigging |
+| **Deceive** | Lying, disguise, forged documents |
+| **Drive** | Piloting starships, speeders, anything with a throttle |
+| **Empathy** | Reading people, detecting lies |
+| **Fight** | Melee combat, lightsabers, vibroblades |
+| **Investigate** | Methodical examination, piecing together evidence |
+| **Lore** | Obscure knowledge, Force traditions, Sith archaeology |
+| **Notice** | Immediate perception, spotting danger |
+| **Physique** | Strength, endurance, toughness |
+| **Provoke** | Intimidation, goading, emotional pressure |
+| **Rapport** | Building trust, persuasion, diplomacy |
+| **Resources** | Wealth, requisition authority |
+| **Shoot** | Ranged combat, blasters |
+| **Stealth** | Moving unseen, electronic countermeasures |
+| **Will** | Mental fortitude, resistance to pressure |
+}}
 
 Two skills deserve special attention. **Academics** covers what universities teach: history, law, medicine, political science. **Lore** covers what universities do not know: Sith archaeology, dead-zone phenomena, Rakatan ruins, kolto biochemistry, frontier survival wisdom. A Republic-trained doctor has Academics. A Korriban tomb crawler has Lore. Some characters have both.
 
