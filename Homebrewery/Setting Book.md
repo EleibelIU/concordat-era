@@ -5,72 +5,57 @@
 
 \page
 
-
-{{CreditsPage}}
-
-# Credits 
-
-**SETTING DESIGN:** Liz Colburn
-
-**HOMEBREWERY TEMPLATE:** AeronDrake [(Homebrewery](https://homebrewery.naturalcrit.com/user/draco?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/AeronDrake/)
-
-
-This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old Republic*, *The Old Republic MMO*, and related media — adapted for original use. All Star Wars IP belongs to Lucasfilm/Disney. This is unofficial fan content for personal use.
-
-
-\page
-
 {{TableofContent}}
 
 # Contents
 
 {{toc,wide
-- # [{{ Part I: The World You're Entering}}{{ }}](#p4)
-  - [{{ Chapter 1: To the Players}}{{ 4}}](#p4)
-  - [{{ Chapter 2: The Galaxy at a Glance}}{{ 6}}](#p6)
-  - [{{ Chapter 3: Making a Character}}{{ 8}}](#p8)
-    - [{{ The Story of KOTOR}}{{ 8}}](#p8)
-    - [{{ The Story of KOTOR II}}{{ 9}}](#p9)
+- # [{{ Part I: The World You're Entering}}{{ }}](#p3)
+  - [{{ Chapter 1: To the Players}}{{ 3}}](#p3)
+  - [{{ Chapter 2: The Galaxy at a Glance}}{{ 4}}](#p4)
+  - [{{ Chapter 3: Making a Character}}{{ 5}}](#p5)
+  - [{{ Chapter 4: The Games Behind This Setting}}{{ 10}}](#p10)
+    - [{{ Knights of the Old Republic}}{{ 10}}](#p10)
+    - [{{ The Sith Lords}}{{ 10}}](#p10)
     - [{{ How This Setting Diverges}}{{ 10}}](#p10)
-  - [{{ Chapter 4: The Games Behind This Setting}}{{ 11}}](#p11)
-  - [{{ Chapter 5: What Is the Force?}}{{ 13}}](#p13)
+  - [{{ Chapter 5: What Is the Force?}}{{ 12}}](#p12)
   - [{{ Chapter 6: The Force in Crisis}}{{ 15}}](#p15)
-    - [{{ The Rakata and the Star Forge}}{{ 17}}](#p17)
-    - [{{ The Star Maps}}{{ 18}}](#p18)
-  - [{{ Timeline}}{{ 20}}](#p20)
-  - [{{ Chapter 7: A History of the Concordat Era}}{{ 21}}](#p21)
-    - [{{ The Great Hyperspace War}}{{ 21}}](#p21)
-    - [{{ The Doctrine of Necessary Strength}}{{ 22}}](#p22)
-    - [{{ The Mandalorian Expansion}}{{ 22}}](#p22)
-    - [{{ Cathar and the Turning}}{{ 24}}](#p24)
-    - [{{ The Revanchist War}}{{ 25}}](#p25)
-    - [{{ The Ashen Campaigns}}{{ 26}}](#p26)
-    - [{{ The Dhas'kara and the Concordat}}{{ 28}}](#p28)
-    - [{{ The Years Since}}{{ 29}}](#p29)
-- # [{{ Part II: Who Holds Power}}{{}}](#p30)
-  - [{{ Chapter 8: The Concordat}}{{ 30}}](#p30)
-  - [{{ Chapter 9: The Revanchist Remnant}}{{ 33}}](#p33)
-  - [{{ Chapter 10: The Neo-Mandalorian Coalition}}{{ 36}}](#p36)
-  - [{{ Chapter 11: The Jedi Order}}{{ 39}}](#p39)
-  - [{{ Chapter 12: The Sith}}{{ 45}}](#p45)
-  - [{{ Chapter 13: Independent Powers}}{{ 49}}](#p49)
-- # [{{ Part III: What They Believe}}{{}}](#p50)
-  - [{{ Chapter 14: The Jedi Way}}{{ 50}}](#p50)
-  - [{{ Chapter 15: The Sith Tradition}}{{ 52}}](#p52)
-  - [{{ Chapter 16: Sith Sorcery & Alchemy}}{{ 53}}](#p53)
-  - [{{ Chapter 17: The Mandalorian Creed}}{{ 54}}](#p54)
-  - [{{ Chapter 18: Other Traditions}}{{ 56}}](#p56)
-- # [{{ Part IV: Where You Live}}{{}}](#p57)
-  - [{{ Chapter 19: Life, Trade, and Survival}}{{ 57}}](#p57)
-  - [{{ Chapter 20: Worlds and Frontiers}}{{ 60}}](#p60)
-  - [{{ Chapter 21: Peoples and Species}}{{ 63}}](#p63)
-  - [{{ Chapter 22: Starting Scenarios}}{{ 67}}](#p67)
-    - [{{ The Freighter Incident}}{{ 67}}](#p67)
-    - [{{ The Windfall Protocol}}{{ 67}}](#p67)
-    - [{{ The Proving of Clan Veshok}}{{ 68}}](#p68)
-- # [{{ Appendices}}{{}}](#p69)
-  - [{{ Appendix A: Glossary}}{{ 69}}](#p69)
-  - [{{ Appendix B: Suggested Reading}}{{ 72}}](#p72)
+    - [{{ The Rakata and the Star Forge}}{{ 16}}](#p16)
+    - [{{ The Star Maps}}{{ 17}}](#p17)
+  - [{{ Chapter 7: A History of the Concordat Era}}{{ 18}}](#p18)
+    - [{{ The Great Hyperspace War}}{{ 18}}](#p18)
+    - [{{ The Mandalorian Wars}}{{ 19}}](#p19)
+    - [{{ The Revanchist War}}{{ 20}}](#p20)
+    - [{{ The Ashen Campaigns}}{{ 21}}](#p21)
+    - [{{ Founding of the Concordat}}{{ 22}}](#p22)
+- # [{{ Part II: Who Holds Power}}{{}}](#p23)
+  - [{{ Chapter 8: The Concordat}}{{ 23}}](#p23)
+  - [{{ Chapter 9: The Revanchist Remnant}}{{ 25}}](#p25)
+  - [{{ Chapter 10: The Neo-Mandalorian Coalition}}{{ 26}}](#p26)
+  - [{{ Chapter 11: The Jedi Order}}{{ 28}}](#p28)
+  - [{{ Chapter 12: The Sith}}{{ 31}}](#p31)
+  - [{{ Chapter 13: Independent Powers}}{{ 33}}](#p33)
+- # [{{ Part III: What They Believe}}{{}}](#p34)
+  - [{{ Chapter 14: The Jedi Way}}{{ 34}}](#p34)
+  - [{{ Chapter 15: The Sith Tradition}}{{ 39}}](#p39)
+  - [{{ Chapter 16: Sith Sorcery & Alchemy}}{{ 42}}](#p42)
+  - [{{ Chapter 17: The Mandalorian Creed}}{{ 44}}](#p44)
+  - [{{ Chapter 18: Fringe Traditions}}{{ 46}}](#p46)
+- # [{{ Part IV: Where You Live}}{{}}](#p47)
+  - [{{ Chapter 19: Life, Trade, and Survival}}{{ 47}}](#p47)
+  - [{{ Chapter 20: Worlds and Frontiers}}{{ 50}}](#p50)
+  - [{{ Chapter 21: Peoples and Species}}{{ 53}}](#p53)
+  - [{{ Chapter 22: Starting Scenarios}}{{ 56}}](#p56)
+    - [{{ The Freighter Incident}}{{ 56}}](#p56)
+    - [{{ The Windfall Protocol}}{{ 56}}](#p56)
+    - [{{ The Proving of Clan Veshok}}{{ 56}}](#p56)
+- # [{{ Appendices}}{{}}](#p57)
+  - [{{ Appendix A: Glossary}}{{ 57}}](#p57)
+}}
+
+{{footnote
+**Setting Design:** Liz Colburn | **Homebrewery Template:** AeronDrake [(Homebrewery](https://homebrewery.naturalcrit.com/user/draco?sort=alpha&dir=asc)/[Reddit)](https://www.reddit.com/user/AeronDrake/)
+This setting draws on the *Star Wars* Expanded Universe, adapted for original use. All Star Wars IP belongs to Lucasfilm/Disney. Unofficial fan content for personal use.
 }}
 
 \page
