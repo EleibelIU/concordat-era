@@ -392,7 +392,7 @@ Two skills deserve special attention. **Academics** covers what universities tea
 - "Because I've run Remnant supply lines for three years, once per session I can automatically succeed on a Drive roll to escape pursuit in a system where I've established a hidden route."
 
 Build stunts that reflect your character's history. A stunt is a story compressed into a mechanical bonus.
-
+\page
 
 ### Force-Sensitive Characters: The Mechanical Trade-Off
 
@@ -401,8 +401,6 @@ The Force in this campaign functions as an **extra**: a bundle of permissions an
 **Cost:** One of your three stunt slots goes to the Force-Sensitive Extra (you get two free stunts instead of three). Your trouble aspect must involve the Force crisis in some way.
 
 **Benefit:** You choose two **Force techniques** from the list below. Each technique lets you use an existing skill in an expanded way. You can purchase additional techniques as stunts.
-
-\page
 
 {{Intro,tab}}
 
@@ -426,10 +424,10 @@ Consequences come in three severities: **mild** (a bruise, a shaken nerve), **mo
 
 Your GM will walk you through the full mechanical details during character creation. The Fate Condensed Player Guide for this setting covers skills, techniques, stunts, and dead zone rules in complete detail. For now, focus on the questions, the aspects, and the concept. The numbers come last.
 
+\page
 
-## Pre-Built Examples
+# **Pre-Built Examples**
 
-These two characters demonstrate how the same process produces different people. One relies on the Force. One does not. Both belong in this campaign.
 
 {{descriptive
 **Kael Shelaari, Jedi Sentinel**
@@ -460,7 +458,6 @@ These two characters demonstrate how the same process produces different people.
 **Refresh:** 3
 }}
 
-\page
 
 {{descriptive
 **Voss Caldean , Freelance Pilot**
@@ -491,21 +488,6 @@ These two characters demonstrate how the same process produces different people.
 **Refresh:** 3
 }}
 
-Both characters belong at the same table. Kael brings the Force and its crisis into every scene. Voss brings practical skills that never fail because the galaxy is having a spiritual emergency. When a dead zone hits, Kael loses his abilities and Voss keeps flying. When the Force reveals danger seconds before it arrives, Kael saves the crew and Voss recalibrates her respect for something she cannot touch. The campaign needs both.
-
-\column
-
-{{note
-##### For the GM Only: Why the Party Stays Together
-The Concordat Era's political fractures mean party members may come from opposing factions. A Concordat officer, a Remnant sympathizer, a Neo-Mandalorian warrior, and a Jedi Sentinel have no institutional reason to cooperate.
-
-Parties stay together for the same reason people in crisis form crews: necessity, shared survival, and the bonds that form when you depend on each other under pressure. The Freighter Incident (Chapter 22) establishes these bonds. By the time the party escapes their first crisis, they have saved each other's lives, shared information that makes them liabilities to their respective factions, and discovered that the person across the table is more complicated than the uniform suggested.
-
-The campaign will test party cohesion. Let it. Characters who disagree about politics but trust each other in combat produce better stories than characters who agree about everything.
-}}
-
-{{footnote Chapter 3: Making a Character}}
-{{pageNumber,auto}}
 
 \page
 
@@ -1415,7 +1397,6 @@ The program's existence is officially secret and practically public knowledge.
 
 The **Concordat** treats Sentinels as enemy agents and has standing orders to identify, monitor, and — if necessary — eliminate them in Concordat territory. The **Remnant** sees them as a lifeline that doesn't go far enough and wants fighters, not intelligence operatives. The **Neo-Mandalorians** view the program as validation: the Jedi are creating warriors who don't depend on the Force, which is what the Doctrine prescribed. Canderous has been known to offer recruitment to captured Sentinels. **Sith Pureblood communities** find the program unsettling — if anyone can be trained to use the Force, however poorly, what does Force sensitivity mean?
 
-\column
 
 ##### 5. The Independents (~several dozen confirmed, unknown total)
 Jedi who have left the Order. Some renounced their vows publicly. Some stopped reporting. Some disappeared into civilian life on frontier worlds. Some became bounty hunters, merchants, teachers, or farmers.
@@ -1432,6 +1413,9 @@ The theory was elegant. The implementation was rushed, desperate, and ethically 
 
 Atris did not remain with the program after its establishment. She returned to her private academy on **Telos**, where she trains Echani Handmaidens — thirty elite warriors trained to fight and subdue Force users. Their combat methodology draws on Echani tradition (where physical movement is communication and expression) and on Atris's research into Force-suppression techniques. They are, in effect, an anti-Jedi strike team created by a Jedi.
 
+\page
+
+{{Ch2,tab}}
 She has collected Sith holocrons to study the enemy. The boundary between studying the enemy and learning from the enemy has grown thin. Atris is not a villain. She is a scholar who has spent too long staring into the dark and is beginning to mistake the dark for clarity.
 
 {{note
@@ -1450,13 +1434,14 @@ She has collected Sith holocrons to study the enemy. The boundary between studyi
 
 {{Ch2,tab}}
 
-## Chapter 12: The Sith
+# Chapter 12
+### The Sith
 
 **What most people know:** The Sith Empire was destroyed in the Great Hyperspace War. Its military was shattered. Its survivors were driven into exile.
 
 **What is happening:** The empire collapsed. The Sith did not.
 
-### The Empire's Remnants
+
 
 The Sith Fleet that escaped the Great Hyperspace War was not a unified force. It was a collection of fragments: individual captains, squadron commanders, and flotilla leaders who fled into the Unknown Regions, Wild Space, and the galaxy's ungoverned margins. Some surrendered to the Republic and were absorbed into penal or resettlement programs. Some established hidden enclaves. Some became pirates. Some found service with the Mandalorians, the Hutts, or corporate interests that valued military competence and didn't ask questions about war crimes.
 
@@ -1466,7 +1451,7 @@ By the campaign start, "Sith military" is not a single organization. It's a spec
 - **Integrated Sith** — former Sith military personnel absorbed into the Concordat, the Remnant, or other factions, serving openly with varying degrees of discrimination and suspicion
 - **The Korriban garrison** — a small force of Sith traditionalists who maintain the tomb world and its academies, operating largely independently and claiming religious authority over Sith cultural heritage
 
-### Sith Purebloods in the Concordat Era
+## Sith Purebloods in the Concordat Era
 
 The Sith species — the red-skinned, Force-sensitive people who gave the Sith Order its name — are a diaspora in search of an identity.
 
@@ -1474,7 +1459,6 @@ The old caste system organized Sith Pureblood society into four groups:
 
 **The Kissai** (priests and scholars) practiced sorcery and maintained Sith religious tradition. After the Empire's collapse, surviving Kissai scattered. Some retreated to **Korriban**, where they maintain the tombs and the old rituals. Some integrated into Republic academic institutions, trading on their knowledge of ancient history while carefully obscuring their Force traditions. A Kissai historian on Coruscant teaches Sith languages at the university. A Kissai alchemist on Nar Shaddaa sells Force-enhanced pharmaceuticals to the highest bidder. A Kissai priestess on Manaan serves the Order of Shasa as an advisor on Force metaphysics.
 
-\column
 
 **The Massassi** warrior caste suffered worst. The Republic counter-invasion specifically targeted Massassi military formations. Survivors who didn't flee were killed or imprisoned. Republic forces executed surrendering Massassi soldiers on multiple documented occasions during the counter-invasion, on the grounds that Massassi warriors were too dangerous to imprison. Surviving Massassi are scattered, traumatized, and angry. Some serve as mercenaries. Some joined the Mandalorians. Some serve hidden fleets. A significant number settled in the Outer Rim, where prejudice against Sith species is less organized and where physical strength is valued regardless of its source.
 
@@ -1488,28 +1472,24 @@ The old caste system is dead in practice, but its ghost shapes Sith Pureblood id
 
 Sith Purebloods who've integrated into Republic society navigate this daily. They are too Sith for the Republic and too Republican for the Sith. Their children face a choice: assimilate fully and lose their heritage, or maintain their identity and face suspicion. There is no comfortable middle ground.
 
-{{footnote Chapter 12: The Sith}}
-{{pageNumber,auto}}
 
-\page
+### The Deep Sith
 
-{{Ch2,tab}}
-
-### The Deep Sith: What Came Before the Empire
-
-The Sith Empire that fought the Great Hyperspace War was already a hybrid civilization. Seven thousand years before the GHW, renegade Dark Jedi led by Ajunta Pall — exiled after losing the Hundred-Year Darkness — arrived on Korriban and found a Force-sensitive species already living there. The Sith. Not an empire. A people. Red-skinned, sharp-featured, with a caste society built around the Force: Kissai priests who practiced sorcery, Massassi warriors who channeled the Force through combat, Zuguruk engineers who built with it.
+The Sith Empire that fought the Great Hyperspace War was already a hybrid civilization. Seven thousand years before the GHW, renegade Dark Jedi led by **Ajunta Pall** — exiled after losing the Hundred-Year Darkness — arrived on Korriban and found a Force-sensitive  caste society built around the Force,  Kissai priests practiced sorcery, Massassi warriors who channeled the Force through combat, and Zuguruk engineers built megastructures that would challenge the Rakata at the height of their power.
 
 The Dark Jedi Exiles conquered the Sith through a combination of Force superiority and technological advantage. Over the next two thousand years, interbreeding (facilitated by Sith alchemy) blurred the line between the two populations. The word "Sith" came to mean both the original species and the hybrid culture that the Exiles built on their backs.
 
 But the original Sith, the people who lived on Korriban before Ajunta Pall arrived, did not vanish into the hybrid population uniformly. Some Kissai lineages maintained what they called *Jen'jidai tsiss*, "blood before the Exiles." These were Pureblood families who traced their ancestry to pre-Exile Sith, whose Force traditions predated the Dark Jedi by millennia, and who viewed the hybrid Sith Empire as a colonial imposition on their culture rather than a natural evolution.
 
+\page
+
+{{Ch2,tab}}
 ### The Keepers of Adas
 
-Among the oldest Sith Pureblood traditions is the cult of King Adas: the ancient Sith ruler who united the Sith species and repelled the Rakata when they attempted to conquer Korriban roughly twenty-seven thousand years before the present. Adas predates the Dark Jedi Exiles by twenty thousand years. His legacy is the oldest continuous cultural thread in Sith Pureblood identity, and it has nothing to do with the Jedi, the Republic, or the Dark Jedi who came later.
+Among the oldest Sith Pureblood traditions is the cult of **King Adas**, an ancient Sith ruler who united the Sith species and repelled the Rakata when they attempted to conquer Korriban roughly twenty-seven thousand years before the present. Adas predates the Dark Jedi Exiles by twenty thousand years. His legacy is the oldest continuous cultural thread in Sith Pureblood identity, and it has nothing to do with the Jedi, the Republic, or the Dark Jedi who came later.
 
 The Keepers of Adas are not a formal organization in the Concordat Era. They are a cultural memory maintained by elder Kissai in diaspora communities, transmitted through oral tradition, ritual practice, and a small number of Sith-language texts that predate the Exiles' arrival. The Keepers hold that the "true Sith" are the people, not the philosophy. That the Force traditions of the original Sith — which emphasized the relationship between passion, the natural world, and the Force as an elemental power rather than a moral binary — were corrupted by the Dark Jedi Exiles, who imposed their own light-side/dark-side framework onto a tradition that had never needed it.
 
-\column
 
 ### Ancient Survivors
 
@@ -1560,7 +1540,8 @@ Concordat Intelligence has compiled twenty-seven incidents matching this pattern
 
 {{Ch2,tab}}
 
-## Chapter 13: Independent Powers
+# Chapter 13
+### Independent Powers
 
 **Hutt Space** encompasses approximately three hundred systems under Hutt clan authority. The Hutts have been neutral in the Concordat conflict, which means they've sold weapons, intelligence, kolto, and logistical support to every side while profiting from the chaos.
 
@@ -1591,12 +1572,10 @@ Foreign embassies in Ahto City compete for influence. Intelligence operatives fr
 ## Chapter 14: The Jedi Way
 
 {{descriptive
-In the quiet hours before dawn, a Jedi sits in stillness. She does not empty her mind of thought, though centuries of teaching have suggested this. She opens her awareness to the web around her. She feels the breathing of the sleeping city blocks away, the metabolic hum of the cantina's nervous staff two floors below, the electrical pulse through the tower's data-core. A child wakes in fear three streets over. An old man's heart stutters. A maintenance droid follows its predetermined path without question or complaint. All of it touches her simultaneously. All of it is the Force, and she holds it in her palm without grasping.
-
-This is Jedi practice. Not the lightsaber forms. Not the Council's philosophy. The daily work of a trained contemplative.
+*In the quiet hours before dawn, a Jedi sits in stillness. She does not empty her mind of thought, though centuries of teaching have suggested this. She opens her awareness to the web around her. She feels the breathing of the sleeping city blocks away, the metabolic hum of the cantina's nervous staff two floors below, the electrical pulse through the tower's data-core. A child wakes in fear three streets over. An old man's heart stutters. A maintenance droid follows its predetermined path without question or complaint. All of it touches her simultaneously. All of it is the Force, and she holds it in her palm without grasping.*
 }}
 
-The Jedi Order teaches that the Force connects every living thing. Not as metaphor. As measurable fact. A Jedi's training teaches the nervous system to perceive this connection, to feel the emotional resonance of populations, to sense the movement of the Force through matter itself. When a Jedi closes their eyes, they perceive the world more completely, not less.
+The Jedi Order teaches that the Force *literally* connects every living thing. A Jedi's training teaches the nervous system to perceive this connection, to feel the emotional resonance of populations, to sense the movement of the Force through matter itself. When a Jedi closes their eyes, they perceive the world more completely, not less.
 
 This perception requires discipline. The untrained mind drowns in the sensation. A novice opening their awareness for the first time feels the emotions of hundreds of people at once and collapses from the noise. Jedi training teaches filtering, compartmentalization, the methodical strengthening of the mind's capacity to hold multiple truths simultaneously. After years of practice, a Jedi learns to exist in the Force's presence without losing themselves.
 
@@ -1614,7 +1593,6 @@ The Jedi Code, recited in meditation since the Order's founding, encodes this un
 
 **There is no death, there is the Force.** The Jedi believe the Force persists beyond individual consciousness. When a being dies, their connection to the Force does not vanish. It returns to the whole. This truth removes the fear that makes beings cling to life selfishly, hoarding resources, committing violence to preserve themselves. If death returns you to the Force, you are free to serve the living.
 
-\column
 
 ### The Three Paths
 
@@ -1634,6 +1612,12 @@ The Mandalorians attacked, and the Council counseled restraint. Revan walked out
 
 The Code became difficult to maintain. *There is no emotion*: but young Jedi watched their mentors burn in orbital bombardment. *There is no passion*: but the Council ordered them to kill. *There is no chaos, there is harmony*: but Mandalorian weapons introduced literal chaos into the Force itself, disrupting the web of connection, leaving scars in places that should have been whole.
 
+{{footnote Chapter 14: The Jedi Way}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch4,tab}}
 Some Jedi broke. Some discovered that the Code's promises were lies. They had felt no peace, no serenity, no clarity: only the weight of command and the horror of necessary violence. Some left the Order. Some fell to the dark side. Some vanished.
 
 The fractures persist. The Council Loyalists cling to the original Code, arguing that those who broke did not practice hard enough. The Remnant Jedi accept the militarization as permanent: the galaxy requires warriors, not mystics. The Concordat Advisors tell themselves they can guide policy from within. The Independents have left, maintaining their training in secret, refusing to serve either the old Order or the new regime.
@@ -1644,12 +1628,8 @@ Perhaps because in a time when the Force itself fails, when meditation offers no
 
 The morning meditation continues. The Jedi still sits. The Force still flows, thin and uncertain. She practices anyway.
 
-{{footnote Chapter 14: The Jedi Way}}
-{{pageNumber,auto}}
 
-\page
-
-### The Daily Practice
+## Jedi Routine
 
 Jedi life follows rhythms older than the temples themselves. A Padawan rising before dawn walks the same stone corridors her Masters walked, sits before the same meditation pools, learns the same forms. The structure creates continuity. It also obscures the fractures beneath.
 
@@ -1673,7 +1653,7 @@ The Mandalorian Wars forced rapid innovation. Mass casualty scenarios left no ti
 
 Healing fails near dead zones. The healer reaches into the Force for the power to accelerate healing and finds nothing. The reach is like reaching into a well and finding stone. Patients under the healer's hands feel the withdrawal of support like a rope cut. Healers who trained in stable temples sometimes freeze the first time the Force stops responding. The ones who survive dead zones learn standard medical technique as backup. Needles and stitches and pressure bandages. Tools that work without the Force.
 
-\column
+
 
 #### Teaching and Apprenticeship
 
@@ -1681,7 +1661,13 @@ The Master-Padawan bond is the Order's central relationship. A Master takes a Pa
 
 Methods of pairing vary. Some traditions assign pairs through the Council. The Council observes, matches temperament to need, announces the pairing. Other traditions let bonds form organically over years. The organic method feels more correct to many Jedi. It also produces politics. Powerful Masters attract talented Padawans. Lesser Masters receive leftovers. Factions within the Council influence assignments, ensuring their allies receive promising students.
 
-Training progression follows a standard arc. Early years focus on perception and emotional regulation. The Padawan learns to feel the Force, to distinguish the Force's presence from imagination, to meditate without falling asleep. A Padawan spends a year learning to perceive the Force in a stone, then a plant, then a living animal, then another person. Masters demand honesty about what the Padawan senses versus what they think they should sense. Lying to yourself about perception creates false pathways in the mind. Dissolving false pathways is harder than building correct ones.
+Training progression follows a standard arc. Early years focus on perception and emotional regulation. The Padawan learns to feel the Force, to distinguish the Force's presence from imagination, to meditate without falling asleep. A Padawan spends a year learning to perceive the Force in a stone, then a plant, then a living animal, then another person. 
+
+\page
+
+{{Ch4,tab}}
+
+Masters demand honesty about what the Padawan senses versus what they think they should sense. Lying to yourself about perception creates false pathways in the mind. Dissolving false pathways is harder than building correct ones.
 
 Middle years introduce physical training and combat. The Padawan learns to move as the Force moves through them. Lightsaber forms become serious. Meditation extends into motion. The Padawan discovers that Force flow through the body can enhance speed, strength, and reaction time, but only if the mind remains calm. Fear interrupts the flow. Anger distorts it.
 
@@ -1701,9 +1687,8 @@ Jedi served functions that mundane institutions could not provide. The most visi
 
 A player character can build around any of these roles. The mediator needs emotional strength and empathic sensitivity. The agricultural consultant needs patience and ecological thinking. The search-and-rescue Jedi needs courage and the ability to stay present under pressure. Each role allows a Jedi character who leads with something other than a lightsaber.
 
-\page
 
-### Lightsaber Forms
+## Lightsaber Forms
 
 The seven classical forms evolved over millennia. Each taught different principles. Each shaped the Jedi who practiced it. The Force crisis changed how Jedi related to every form except the first.
 
@@ -1715,9 +1700,14 @@ The seven classical forms evolved over millennia. Each taught different principl
 
 **Form IV: Ataru.** Acrobatic, Force-enhanced movement. Practitioners leap, somersault, and flow through aerial combat. The form is spectacular to watch. It is also energy-expensive and dangerous near dead zones. A Jedi performing an Ataru leap relies on Force enhancement for trajectory control. If the Force cuts out mid-leap, the Jedi continues on a ballistic arc toward ground or wall. Several Ataru masters have died this way since the crisis began. The Council issued warnings. Ataru practitioners ignored them. The form demands trust in the Force. Acknowledging the danger requires acknowledging the Force is becoming unreliable.
 
-\column
 
-**Form V: Shien/Djem So.** Redirecting enemy attacks and turning defense into counterattack. Physically demanding and requires precise timing. Shien/Djem So practitioners can convert a blaster volley into the attacker's own weapon forced back at them. Guardians trained in this form won more battles in the Mandalorian Wars than practitioners of any other. The form combines aggression with legitimate defense. It requires Force enhancement for optimal performance but can function without it if the practitioner has sufficient skill. Veterans of the war trust Shien/Djem So instinctively.
+**Form V: Shien/Djem So.** Redirecting enemy attacks and turning defense into counterattack. Physically demanding and requires precise timing. Shien/Djem So practitioners can convert a blaster volley into the attacker's own weapon forced back at them. Guardians trained in this form won more battles in the Mandalorian Wars than practitioners of any other. The form combines aggression with legitimate defense.
+
+\page
+
+{{Ch4,tab}}
+
+It requires Force enhancement for optimal performance but can function without it if the practitioner has sufficient skill. Veterans of the war trust Shien/Djem So instinctively.
 
 **Form VI: Niman.** The balanced form. Competent at everything, dominant at nothing. Niman practitioners can handle lightsaber duels, blaster fire, multiple opponents, and Force combat. They excel at none of it. Council members favored Niman because the form left mental bandwidth for Force techniques during combat. A Niman master can duel while simultaneously casting a Force stun or healing an injured ally. The generalist approach appeals to diplomats and administrators. Younger Jedi view Niman as the choice of those without a specialty. The form remains respected but carries an implication of compromise.
 
@@ -1731,9 +1721,7 @@ Your character's primary lightsaber form reflects how they think about violence.
 Pick a form that reflects your character's philosophy, not just their combat capability.
 }}
 
-\page
-
-### The Contradictions
+## Jedi Contradictions
 
 The Jedi Order rested on contradictions it never resolved. The Force crisis did not create these fractures; it exposed them. They were always present. The war made them undeniable.
 
@@ -1761,7 +1749,6 @@ The Revanchists argue the war was necessary. Pacifism in the face of genocide is
 
 Both camps point to evidence. The war produced atrocities. It also prevented worse. Jedi soldiers killed Mandalorians who would have killed civilians. Jedi soldiers also burned villages under Revan's command and called it necessity. The contradiction resists simple resolution. The war was both necessary and corrupting. The Council was both right to hesitate and wrong to delay so long.
 
-\column
 
 #### Knowledge vs. Control
 
@@ -1781,6 +1768,10 @@ The Order teaches that Jedi serve the Council. The Council interprets the Force'
 
 These two teachings conflict. If the Force binds all beings, then the Force's will is not contained within the Council. If Jedi serve the Force itself, they serve something larger than institutional loyalty.
 
+\page
+
+{{Ch4,tab}}
+
 Revan walked out when these teachings conflicted. Four hundred followed. The Council ordered them to stand down. The Revanchists argued that the Force itself called them to war. The Council's authority could not override the Force's call.
 
 The Council still has no answer for why the Code's own logic justified leaving the institution that teaches it. The Order would have to either abandon universal truth-claims or abandon institutional structure. Either choice transforms the Order into something different.
@@ -1792,7 +1783,8 @@ The Council still has no answer for why the Code's own logic justified leaving t
 
 {{Ch4,tab}}
 
-## Chapter 15: The Sith Tradition
+# Chapter 15
+### The Sith Tradition
 
 Understanding the Sith requires holding three meanings simultaneously. The word "Sith" refers to a species, an order, and a philosophy. Confusing these is the most common mistake outsiders make, and the distinction matters for your character.
 
@@ -1806,7 +1798,7 @@ These three meanings overlap. They also conflict. A Sith Pureblood character mig
 
 ### The Sith Code
 
-*Peace is a lie, there is only passion.*
+> *Peace is a lie, there is only passion.*
 *Through passion, I gain strength.*
 *Through strength, I gain power.*
 *Through power, I gain victory.*
@@ -1831,7 +1823,6 @@ Sith philosophy understands passion as authentic engagement with reality. The Je
 
 This is Sith philosophy as the modern Order teaches it. It is also, in many ways, a corruption of what came before.
 
-\column
 
 ### The Keepers of Adas: What Came Before
 
