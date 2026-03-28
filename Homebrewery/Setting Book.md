@@ -86,7 +86,7 @@ Use "footnote,white" for white text on the dark CampaignFrame background.
 {{CampaignFrame
 {{wide
 # The Concordat Era
-*A letter to the players*
+<!-- *A letter to the players* -->
 }}
 
 This campaign takes place four thousand years before the Star Wars films. There is no Darth Vader, no Empire, no Rebellion, no Luke Skywalker. Those stories happen millennia from now.
@@ -98,6 +98,32 @@ This is a political setting. Your character needs opinions, loyalties, and debts
 If you know *Knights of the Old Republic*, you will recognize names and places adapted for this setting. Chapter 4 explains the original games and where this world diverges from them. If you have never heard of KOTOR, you lose nothing. This book explains every term, faction, and event from scratch.
 
 Bring a character who believes something strongly enough to act on it. The galaxy will test that belief.
+
+## How to Use This Book
+
+This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge and common opinion. Some of it is accurate. Some of it is propaganda that passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
+
+Hidden conspiracies, the true answer to what is killing the Force, and the secret plans of people who have kept their secrets belong to your GM. You will discover them in play.
+
+**If you know *Knights of the Old Republic*,** read Chapter 4 for the full summary of the original games and how this setting diverges. The biggest shift: the Great Hyperspace War happened twelve years ago in this setting, transforming the Sith Empire's fall from ancient history into living trauma. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names appear, but the choices went differently.
+
+**If you've never played KOTOR,** you lose nothing. This book explains everything from scratch. Chapter 4 summarizes the games for context, but the setting stands on its own.
+
+**For character creation,** go to Chapter 3 after reading this section. It gives you the questions your character needs to answer. Then read the faction chapters (8 through 13) to find where your character fits. Chapter 21 covers species and peoples.
+
+**For understanding the setting,** read as much or as little as you want. Chapter 5 explains the Force. Chapter 6 covers the Force crisis. Chapter 7 provides the full history. Chapters 14 through 17 cover Jedi, Sith, and Mandalorian belief systems.
+
+**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. The setting material is system-agnostic. If you understand who your character is, what they believe, and who they owe, the system will follow.
+
+### A Note on Calendars
+This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment. Nobody in 3952 BBY has any knowledge of the Battle of Yavin. BBY appears as an orientation tool for readers who know the broader Star Wars timeline.
+
+In-world, characters use the **Concordat Era calendar**. Events before the Concordat's signing use **BC** (Before Concordat): 9 BC at the Great Hyperspace War's end, counting down to 1 BC. Events after use **CE** (Concordat Era): 1 CE, 2 CE, and so on. The campaign begins in 4 CE.
+
+The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.*
+
+The calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
+
 
 \column
 
@@ -166,54 +192,17 @@ The Concordat Era is not a post-apocalyptic setting. The holonet (the galaxy-wid
 {{footnote Chapter 2: The Galaxy at a Glance}}
 {{pageNumber,auto}}
 
-\page
-
-{{Intro,tab}}
-
-### How to Use This Book
-
-This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge and common opinion. Some of it is accurate. Some of it is propaganda that passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
-
-Hidden conspiracies, the true answer to what is killing the Force, and the secret plans of people who have kept their secrets belong to your GM. You will discover them in play.
-
-**If you know *Knights of the Old Republic*,** read Chapter 4 for the full summary of the original games and how this setting diverges. The biggest shift: the Great Hyperspace War happened twelve years ago in this setting, transforming the Sith Empire's fall from ancient history into living trauma. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names appear, but the choices went differently.
-
-**If you've never played KOTOR,** you lose nothing. This book explains everything from scratch. Chapter 4 summarizes the games for context, but the setting stands on its own.
-
-**For character creation,** go to Chapter 3 after reading this section. It gives you the questions your character needs to answer. Then read the faction chapters (8 through 13) to find where your character fits. Chapter 21 covers species and peoples.
-
-**For understanding the setting,** read as much or as little as you want. Chapter 5 explains the Force. Chapter 6 covers the Force crisis. Chapter 7 provides the full history. Chapters 14 through 17 cover Jedi, Sith, and Mandalorian belief systems.
-
-**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. The setting material is system-agnostic. If you understand who your character is, what they believe, and who they owe, the system will follow.
-
-{{note
-##### A Note on Calendars
-This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment. Nobody in 3952 BBY has any knowledge of the Battle of Yavin. BBY appears as an orientation tool for readers who know the broader Star Wars timeline.
-
-In-world, characters use the **Concordat Era calendar**. Events before the Concordat's signing use **BC** (Before Concordat): 9 BC at the Great Hyperspace War's end, counting down to 1 BC. Events after use **CE** (Concordat Era): 1 CE, 2 CE, and so on. The campaign begins in 4 CE.
-
-The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.*
-
-The calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
-}}
-
-{{footnote Part I: The World You're Entering}}
-{{pageNumber,auto}}
 
 \page
 
 {{Intro,tab}}
 
 # Chapter 3
-### Making a Character for the Concordat Era
-
-You do not need to know anything about Star Wars, the Force, or tabletop roleplaying games to build a character for this campaign. You need a person with a past, a problem, and a reason to be in the room when everything goes wrong.
+### Creating a Character
 
 Character creation starts with six questions. Each one shapes who your character is and how they connect to the galaxy. Read the question, pick the answer that interests you, and move on. You can change your mind later. Nothing is permanent until the first session starts.
 
-### The Questions That Matter
-
-**Where are you from?**
+#### Where are you from?
 
 Your homeworld determines what your character considers normal. Someone raised on Coruscant grew up surrounded by government offices, military patrols, and the assumption that the Concordat keeps the galaxy running. Someone raised on the Outer Rim grew up fixing their own equipment, settling disputes without authorities, and treating central government as a rumor. These assumptions shape how your character reacts when the campaign puts them in unfamiliar territory.
 
@@ -222,9 +211,7 @@ Your homeworld determines what your character considers normal. Someone raised o
 - "I was born on Dxun. My clan trained me to fight from the time I could hold a blade. The Mandalorian Wars ended before I was old enough to serve, and I've spent my whole life preparing for a war that already happened."
 - "I'm Sith Pureblood. I grew up on Nar Shaddaa pretending to be something else, because the galaxy treats my species like a threat."
 
-\column
-
-**What did you do during the wars?**
+#### What did you do during the wars?
 
 Two wars define this era. The Great Hyperspace War ended twelve years ago when the Sith Empire collapsed. The Mandalorian Wars ended six years ago when Malak killed Mandalore the Vindicated in single combat. If your character is old enough, they fought in one or both. If they are too young, the wars shaped the people who raised them.
 
@@ -233,7 +220,13 @@ Two wars define this era. The Great Hyperspace War ended twelve years ago when t
 - "I was a child during the Great Hyperspace War. Sith soldiers occupied my homeworld for two years. I remember the sound of their ships leaving when the Empire fell."
 - "I'm twenty-three. Both wars happened before I could hold a blaster. But my mother fought at Dxun and my father died at Malachor V, so the wars raised me whether I served or not."
 
-**Who do you work for?**
+
+{{footnote Chapter 3: Making a Character}}
+{{pageNumber,auto}}
+
+\column
+
+#### Who do you work for?
 
 Three governments compete for control of the galaxy. The Concordat runs the former Republic from Coruscant under Malak's authority. The Revanchist Remnant fights a guerrilla campaign for democratic restoration. The Neo-Mandalorian Coalition governs Mandalorian space through warrior tradition and honor codes. Your character works for one of them, works for none of them, or works for whoever pays.
 
@@ -242,9 +235,8 @@ Three governments compete for control of the galaxy. The Concordat runs the form
 - "I'm Neo-Mandalorian. I swore an oath to my clan and I honor it. Galaxy politics are someone else's problem until they become my clan's problem."
 - "I'm freelance. I haul cargo. I don't ask what's in the crates and I don't care whose flag flies over the spaceport. I care about fuel costs and docking fees."
 
-\page
 
-**What do you believe about the Force?**
+#### What do you believe about the Force?
 
 The Force is failing. Across the galaxy, zones have appeared where the Force stops working. Force-sensitive beings lose their abilities inside these dead zones. Entire planets have gone silent. Nobody knows why. Your character has an opinion about this, whether they can use the Force or not.
 
@@ -253,17 +245,22 @@ The Force is failing. Across the galaxy, zones have appeared where the Force sto
 - "I'm not Force-sensitive. I never was. But my sister is, and watching her lose her abilities piece by piece is destroying her. The Force crisis is personal for me because it's personal for someone I love."
 - "Good riddance. The Force gave the Jedi and the Sith power over everyone else for thousands of years. If it dies, maybe ordinary people get to run the galaxy for once."
 
-**What do you owe?**
+#### What do you owe?
 
 Debts keep characters anchored to the world. A debt can be financial, emotional, or moral. Someone saved your character's life. Someone destroyed something your character loved. Someone is waiting for your character to come home. Political factions are abstractions. Debts are specific.
 
 - "A Mandalorian pulled me out of a burning transport during the evacuation of Serroco. I never learned her name. I've been looking for her for six years."
 - "I owe the Jedi Order my training, my discipline, my sense of purpose. The Order also lied to me about what happened at Malachor V. I haven't decided which of those facts matters more."
-- "I borrowed forty thousand credits from a Hutt syndicate to buy my ship. I've paid back thirty-eight. The last two thousand are the most dangerous money in the galaxy."
 
-\column
 
-**What are you afraid of?**
+{{footnote Chapter 3: Making a Character}}
+{{pageNumber,auto}}
+
+\page
+
+{{Intro,tab}}
+
+#### What are you afraid of?
 
 Not physical danger. What threatens your character's sense of who they are? The answer to this question generates your character's best moments at the table, the scenes where they face the thing they've been avoiding.
 
@@ -271,9 +268,9 @@ Not physical danger. What threatens your character's sense of who they are? The 
 - "I'm afraid I'll use the Force in anger and discover I'm good at it. Every Jedi fears the dark side in theory. I fear it because I've felt it respond to me."
 - "I'm afraid of being ordinary. My whole life I've been the best pilot in every room. The Force crisis is producing people with nothing to lose and skills I can't match. I don't know who I am if I'm not the best."
 
-### Types of Characters That Fit
+### Archetypes
 
-Six archetypes appear in Concordat Era campaigns. These are starting points, not limits.
+Several archetypes appear in Concordat Era campaigns. These are starting points, not limits.
 
 **The Veteran.** Fought in the wars. Carries the experience in body and choices. A veteran knows what violence costs. The question that follows them: was it worth it?
 
@@ -287,14 +284,6 @@ Six archetypes appear in Concordat Era campaigns. These are starting points, not
 
 **The Inheritor.** Too young to have fought. Old enough to inherit the consequences. The wars made the world they live in. They had no say in it. What they do next is the first choice that belongs to them.
 
-\page
-
-### What If None of Those Fit?
-
-Build what interests you. The six archetypes above cover common entry points, but the Concordat Era accommodates any character concept that has a reason to exist in this galaxy.
-
-A few examples of characters who fall outside the standard archetypes:
-
 **A journalist.** The HoloNet still functions. Someone reports on the Concordat's policies, the Remnant's guerrilla actions, the Force crisis. A journalist character moves through faction territory asking questions that make powerful people uncomfortable.
 
 **A doctor.** Force healers are failing. Conventional medicine is picking up the slack. A trauma surgeon working the Outer Rim sees the human cost of every political decision. Medical skill is valuable to every faction, which means every faction wants your loyalty.
@@ -305,11 +294,9 @@ A few examples of characters who fall outside the standard archetypes:
 
 **A Sith species scholar.** The Sith as a species predate the Sith as a philosophy by thousands of years. A Sith Pureblood studying their own cultural heritage navigates a galaxy that conflates their identity with the Empire that enslaved their ancestors.
 
-If your concept involves the Force, you can use it. If your concept involves no Force at all, you can use it. If your concept is "a bartender who got on the wrong ship," that works too. The campaign's opening scenario (Chapter 22) puts the party in a crisis that requires cooperation regardless of background. Whatever you bring to the table, the setting will give you something to push against.
+The campaign's opening scenarios (Chapter 22) put the party in a crisis that requires cooperation regardless of background. Whatever you bring to the table, the setting will give you something to push against.
 
-\column
-
-### Building Your Character in Fate
+## Building Your Character in Fate
 
 This campaign uses the **Fate Core** or **Fate Condensed** tabletop roleplaying system. If you have never played Fate before, here is what you need to know to build a character.
 
@@ -330,7 +317,12 @@ Every Fate character has three core aspects:
 - "The Force Answers When I'm Angry" connects to the light/dark tension and means every fight risks pulling your character toward something dangerous.
 - "Has Enemies" could mean anything. Too generic. Name the enemy. Name the reason.
 
+{{footnote Chapter 3: Making a Character}}
+{{pageNumber,auto}}
+
 \page
+{{Intro,tab}}
+
 
 **Relationship aspect.** This aspect connects your character to another player character. You build this one at the table during Session Zero, after everyone has their high concept and trouble. The best relationship aspects contain a seed of tension: a shared history, a debt, an unresolved conflict, or a bond complicated by faction loyalty.
 
