@@ -120,10 +120,6 @@ Bring a character who believes something strongly enough to act on it. The galax
 # Chapter 2
 ### The Galaxy at a Glance
 
-:
-
-### The Basics
-
 The galaxy is a disk of hundreds of billions of star systems. Civilizations have occupied it for tens of thousands of years. Ships travel between stars through **hyperspace**, a faster-than-light dimension that compresses interstellar distances into journeys of days or weeks. The galaxy is organized in concentric rings: the wealthy **Core Worlds** (Coruscant, Alderaan, Corellia) at the center, the **Mid Rim** in the middle band, and the underdeveloped **Outer Rim** at the frontier. Beyond the Outer Rim lies the **Unknown Regions**, largely unexplored.
 
 The **Galactic Republic** governed most of known space for thousands of years. It was a democratic federation: a Senate on Coruscant, elected representatives, trade agreements, shared infrastructure. It is now fractured.
@@ -138,9 +134,7 @@ The **Force** is real, measurable, and woven into the fabric of galactic civiliz
 
 **Kolto** is the galaxy's primary healing substance, produced on the ocean world Manaan alone. It accelerates cellular regeneration and treats trauma. With Force healing unreliable, kolto has become the most valuable substance in the galaxy.
 
-\column
-
-### What Happened
+### Recent History
 
 Two wars broke the galaxy.
 
@@ -148,11 +142,7 @@ Two wars broke the galaxy.
 
 **The Mandalorian Wars** (3963-3955 BBY): Mandalorian clans launched a campaign of conquest across the Outer and Mid Rim. The Jedi Council refused to intervene. Two Jedi, Revan and Malak, defied the Council, built a military from volunteers and defectors, and fought the Mandalorians for seven years. The war ended when Malak challenged Mandalore the Vindicated to single combat, won, and negotiated a political settlement called the Concordat. The cost of victory included twelve planets with permanent Force damage, approximately six hundred thousand civilian dead, and a Jedi Order that could no longer agree on what it stood for.
 
-### Who Holds Power Now
-
-The year is 3952 BBY. The fourth year of the Concordat Era.
-
-The **Concordat** governs from Coruscant. Supreme Chancellor-General Malak, the Jedi general who won the war, leads a hybrid government merging Republic administration with Mandalorian military strength. The Concordat holds the Core Worlds and most of the Inner Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors, and maintains emergency powers with no expiration date. Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force.
+Now, the **Concordat** governs from Coruscant. Supreme Chancellor-General Malak, the Jedi general who won the war, leads a hybrid government merging Republic administration with Mandalorian military strength. The Concordat holds the Core Worlds and most of the Inner Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors, and maintains emergency powers with no expiration date. Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force.
 
 The **Revanchist Remnant** holds twenty-three Outer Rim systems and claims to be the legitimate Republic. Its figurehead is Revan, the strategist who started the Jedi revolt against Council inaction. Revan spent two years in the Unknown Regions chasing ancient technology and returned diminished and obsessed. Admiral Kaeranth runs the Remnant's actual operations.
 
@@ -170,15 +160,8 @@ Hyperspace has become unreliable. Ships drop out days early. Some don't drop out
 
 ### A Galaxy in Transition
 
-The Concordat Era is not a post-apocalypse. The holonet (the galaxy-wide communication network) still functions. Freighters carry cargo. Cantinas serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
+The Concordat Era is not a post-apocalyptic setting. The holonet (the galaxy-wide communication network) still functions. Freighters carry cargo. Cantinas serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
 
-{{descriptive
-*A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit.*
-
-*A veteran of the Ashen Campaigns works as a dock loader on Nar Shaddaa because the Revanchist military doesn't exist anymore and the Concordat doesn't want soldiers who know what they did.*
-
-*A Cathar teenager on a refugee transport practices with a vibroknife because Mandalorians destroyed her homeworld and no one is going to protect her, so she'll protect herself.*
-}}
 
 {{footnote Chapter 2: The Galaxy at a Glance}}
 {{pageNumber,auto}}
