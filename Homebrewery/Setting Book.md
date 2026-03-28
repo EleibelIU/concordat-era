@@ -1,6 +1,6 @@
 {{frontCover}}
 
-![Fantasy Castle](https://raw.githubusercontent.com/EleibelIU/concordat-era/8af3765a10018f4074144d17d8da1e4930a7a4b0/Assets/art/Concordat_SettingPacket_Cover_V1.png){position:absolute,top:0,left:0,width:100%,height:100%,z-index:-1}
+![Cover Art](https://raw.githubusercontent.com/EleibelIU/concordat-era/8af3765a10018f4074144d17d8da1e4930a7a4b0/Assets/art/Concordat_SettingPacket_Cover_V1.png){position:absolute,top:0,left:0,width:100%,height:100%,z-index:-1}
 
 
 \page
@@ -8,7 +8,7 @@
 
 {{CreditsPage}}
 
-### Credits Page
+# Credits 
 
 **SETTING DESIGN:** Liz Colburn
 
