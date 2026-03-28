@@ -8,21 +8,17 @@ The Concordat Era reimagines the post-Mandalorian Wars galaxy through Napoleonic
 
 ## Documents
 
-### Player-Facing
+### Setting Book
 
 | Document | Description |
 |----------|-------------|
-| [Setting Book](docs/setting-book/setting-book.md) | 13 chapters covering the political landscape, factions, worlds, the Force crisis, and character hooks. Written from the perspective of a reasonably informed citizen of the galaxy. |
-| [Factions & Species Supplement](docs/supplements/factions-and-species.md) | Jedi internal factions, Sith hierarchy and diaspora, and expanded species writeups: Cathar, Miraluka, Selkath, Echani, Wookiees, Twi'leks, Zabraks, Duros. |
-| [Fate Condensed Player Guide](docs/supplements/fate-condensed-player-guide.md) | Character creation, 19 skills with setting-specific descriptions, Force-Sensitive Extra mechanics, dead zone rules, party composition for actual play, Session Zero procedure. |
+| [Setting Book](Homebrewery/Setting%20Book.md) | The definitive setting book. 13 chapters covering the political landscape, factions, species, worlds, the Force crisis, and character hooks. Written from the perspective of a reasonably informed citizen of the galaxy. |
 
 ### GM-Facing
 
 | Document | Description |
 |----------|-------------|
-| [GM Guide](docs/guides/gm-guide.md) | Six campaign genres, three Sith/evil campaign variants, five alternate timeframes, and an opinionated GM philosophy drawing on the Alexandrian, Sly Flourish, and Burning Wheel design traditions. |
-| [Lore Bible](docs/setting-book/lore-bible.md) | Full timeline, deep faction history, Kreia/Triumvirate, Sith remnants, Jedi fractures, kolto economics, the Freighter Incident scenario, and open design questions. Split across two files pending merge. |
-| [Style Guide](docs/production/style-guide.md) | Visual specifications for InDesign layout: fonts, colors, type hierarchy, master pages, and section-specific tonal shifts. |
+| [GM Guide](docs/guides/gm-guide.md) | An opinionated GM philosophy drawing on the Alexandrian, Sly Flourish, and Burning Wheel design traditions. Campaign genres, Sith/evil campaign variants, alternate timeframes. Not yet formatted for Homebrewery. |
 
 
 ##Homebrewery
@@ -34,21 +30,40 @@ Formatted source files live in [Homebrewery/](Homebrewery/). Layout uses [KOTOR_
 | Book | Source | Homebrewery |
 |------|--------|-------------|
 | Setting Book | [Homebrewery/Setting Book.md](Homebrewery/Setting%20Book.md) | [Edit](https://homebrewery.naturalcrit.com/edit/8Bh534CEmzPy) |
-| Lore Bible I | [Homebrewery/Lore Bible I.md](Homebrewery/Lore%20Bible%20I.md) | [Edit](https://homebrewery.naturalcrit.com/edit/PuSZMHesu1EL) |
-| Lore Bible II | [Homebrewery/Lore Bible II.md](Homebrewery/Lore%20Bible%20II.md) | [Edit](https://homebrewery.naturalcrit.com/edit/GzvXtMiO5Hzs) |
 
 
-##Status & TODO
+## Status & TODO
 
-Writing ongoing. Core documents complete; lore bible merge and structural revisions in progress. Currently in production/layout phase.
+Writing ongoing. Core documents complete; structural revisions and content expansion in progress.
 
-- [ ] Merge `lore-bible.md` and `lore-bible-supplement.md` into a single GM reference document
-- [ ] Revise setting book structure: remove Part/Chapter hierarchy, use Chapters only
-- [ ] Add additional planets to Chapter 8: Worlds, Regions, and Frontiers
-- [ ] Create galactic map: Pre-Concordat era
-- [ ] Create galactic map: Post-Concordat era
-- [ ] Add all art assets to `/assets` folder
-- [ ] Credit all artists used in cover art and illustrations; obtain permission where not cleared
+### Art to Add
+- [ ] Galaxy Map next to "Galaxy at a Glance"
+
+### Revisions
+
+#### (Pg. 33) The Deep Sith
+- [ ] Clarify who Ajunta Pall is, who the Sith were before the Great Hyperspace War, and provide a yearly timeline (or fill in a few thousand years of history to maintain the mystique)
+- [ ] Clarify who the Dark Jedi Exiles are and what differentiates a Dark Jedi from the Jedi Order or the Sith (readers will assume Jedi defectors; the text implies otherwise)
+- [ ] Restructure section order: either introduce the Sith as an ideology first (parallel to the Jedi Order, what they are *now*) then go into history, OR start with history (Exar Kun, Ajunta Pall, Marka Ragnos, the Empire) and lead into what caused the Great Hyperspace War
+- [ ] Beef up the Great Hyperspace War coverage (currently underserved now that Revan's war is de-emphasized)
+- [ ] Remove the "Ancient Survivors" section and find a better place to integrate it
+- [ ] Rename "The Shadow" section (consider: Cults, another faction name, or move under Chapter 13 which is brief and lacking)
+
+### The Sith and Jedi
+- [ ] Find room for both Sith and Jedi codes
+- [ ] Expand the ideological side of both orders
+
+### Art to Commission
+- [ ] Galaxy Map depicting the new Mandalorian Wars and Malak's conquest
+
+### Races
+- [ ] Expand the Twi'lek writeup (and other species entries)
+
+### Other Factions
+- [ ] Expand Czerka, the Exchange, the Hutt Cartels, and regional powers (all grossly underexplored)
+
+### Policy for Homebrew / Introducing Legends Subjects
+- [ ] Define policy for integrating Legends material into the setting
 
 ---
 
