@@ -25,21 +25,18 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
 # Contents
 
 {{toc,wide
-- # [{{ Part I: Welcome}}{{ }}](#p4)
+- # [{{ Part I: The World You're Entering}}{{ }}](#p4)
   - [{{ Chapter 1: To the Players}}{{ 4}}](#p4)
   - [{{ Chapter 2: The Galaxy at a Glance}}{{ 6}}](#p6)
   - [{{ Chapter 3: Making a Character}}{{ 8}}](#p8)
-- # [{{ Part II: The Source Material}}{{}}](#p10)
-  - [{{ Chapter 4: The Games Behind This Setting}}{{ 10}}](#p10)
-    - [{{ The Story of KOTOR}}{{ 10}}](#p10)
-    - [{{ The Story of KOTOR II}}{{ 11}}](#p11)
-    - [{{ How This Setting Diverges}}{{ 12}}](#p12)
-- # [{{ Part III: The Force}}{{}}](#p13)
+    - [{{ The Story of KOTOR}}{{ 8}}](#p8)
+    - [{{ The Story of KOTOR II}}{{ 9}}](#p9)
+    - [{{ How This Setting Diverges}}{{ 10}}](#p10)
+  - [{{ Chapter 4: The Games Behind This Setting}}{{ 11}}](#p11)
   - [{{ Chapter 5: What Is the Force?}}{{ 13}}](#p13)
   - [{{ Chapter 6: The Force in Crisis}}{{ 15}}](#p15)
     - [{{ The Rakata and the Star Forge}}{{ 17}}](#p17)
     - [{{ The Star Maps}}{{ 18}}](#p18)
-- # [{{ Part IV: The Wars That Made Us}}{{}}](#p20)
   - [{{ Timeline}}{{ 20}}](#p20)
   - [{{ Chapter 7: A History of the Concordat Era}}{{ 21}}](#p21)
     - [{{ The Great Hyperspace War}}{{ 21}}](#p21)
@@ -50,24 +47,23 @@ This setting draws on the *Star Wars* Expanded Universe — *Knights of the Old 
     - [{{ The Ashen Campaigns}}{{ 26}}](#p26)
     - [{{ The Dhas'kara and the Concordat}}{{ 28}}](#p28)
     - [{{ The Years Since}}{{ 29}}](#p29)
-- # [{{ Part V: The Powers}}{{}}](#p30)
+- # [{{ Part II: Who Holds Power}}{{}}](#p30)
   - [{{ Chapter 8: The Concordat}}{{ 30}}](#p30)
   - [{{ Chapter 9: The Revanchist Remnant}}{{ 33}}](#p33)
   - [{{ Chapter 10: The Neo-Mandalorian Coalition}}{{ 36}}](#p36)
   - [{{ Chapter 11: The Jedi Order}}{{ 39}}](#p39)
   - [{{ Chapter 12: The Sith}}{{ 45}}](#p45)
   - [{{ Chapter 13: Independent Powers}}{{ 49}}](#p49)
-- # [{{ Part VI: Belief and Meaning}}{{}}](#p50)
+- # [{{ Part III: What They Believe}}{{}}](#p50)
   - [{{ Chapter 14: The Jedi Way}}{{ 50}}](#p50)
   - [{{ Chapter 15: The Sith Tradition}}{{ 52}}](#p52)
   - [{{ Chapter 16: Sith Sorcery & Alchemy}}{{ 53}}](#p53)
   - [{{ Chapter 17: The Mandalorian Creed}}{{ 54}}](#p54)
   - [{{ Chapter 18: Other Traditions}}{{ 56}}](#p56)
-- # [{{ Part VII: The Galaxy You Inhabit}}{{}}](#p57)
+- # [{{ Part IV: Where You Live}}{{}}](#p57)
   - [{{ Chapter 19: Life, Trade, and Survival}}{{ 57}}](#p57)
   - [{{ Chapter 20: Worlds and Frontiers}}{{ 60}}](#p60)
   - [{{ Chapter 21: Peoples and Species}}{{ 63}}](#p63)
-- # [{{ Part VIII: Where We Begin}}{{}}](#p67)
   - [{{ Chapter 22: Starting Scenarios}}{{ 67}}](#p67)
     - [{{ The Freighter Incident}}{{ 67}}](#p67)
     - [{{ The Windfall Protocol}}{{ 67}}](#p67)
@@ -93,27 +89,15 @@ Use "footnote,white" for white text on the dark CampaignFrame background.
 *A letter to the players*
 }}
 
-**This campaign takes place roughly four thousand years before the events of the Star Wars films.** There is no Darth Vader, no Empire, no Rebellion, no Luke Skywalker. Those stories happen millennia from now. The galaxy you are entering is older, stranger, and governed by powers the films never showed you.
+This campaign takes place four thousand years before the Star Wars films. There is no Darth Vader, no Empire, no Rebellion, no Luke Skywalker. Those stories happen millennia from now.
 
-**This is a political setting.** The Concordat Era is built on factional tension, competing governments, and characters with opinions about how the galaxy should be run. Your character needs a political position, alliances, and grudges. Exploration, survival, and personal drama will happen, but they happen inside a galaxy where three governments are fighting over the future and every person in it has chosen a side or is being forced to choose one.
+You are playing in the Old Republic era, when thousands of Jedi walked the galaxy, when the Sith were a living empire rather than a legend, and when the Force was infrastructure that civilizations depended on. Two wars have torn that world apart. The government that emerged from the wreckage holds power through a fragile bargain between former enemies. Three factions contest the galaxy's future, and each one believes it is saving what remains.
 
-**If you know *Knights of the Old Republic*,** the Old Republic MMO, or the Expanded Universe material from this era, you will recognize names, places, and ideas adapted for this setting. The Concordat Era is not a retelling of those stories. It asks: what if the choices went differently? What if the war never cleanly ended? What if the people expected to become heroes or villains became something more complicated instead? Chapter 4 explains the original games and where this setting departs from them.
+This is a political setting. Your character needs opinions, loyalties, and debts. Exploration and personal drama happen inside a galaxy where governments are failing and every person has chosen a side or is being forced to choose one.
 
-**If you don't know any of that material, you lose nothing.** Every proper noun is explained when it first appears. Bring a character with opinions and a willingness to follow where those opinions lead.
+If you know *Knights of the Old Republic*, you will recognize names and places adapted for this setting. Chapter 4 explains the original games and where this world diverges from them. If you have never heard of KOTOR, you lose nothing. This book explains every term, faction, and event from scratch.
 
-You are about to play in a galaxy where the old certainties have failed.
-
-Twelve years ago, a war between the Republic and the Sith Empire cracked the Force itself, the energy field that connects all living things and that has powered civilizations, religions, and warfare across the galaxy for millennia. Five years after that, a second war between the Republic and the Mandalorian clans cracked everything else: the government, the economy, the military, the Jedi Order, and any remaining agreement about how civilization ought to work.
-
-The Concordat Era is what grew in the wreckage. A new government, forged from a battlefield bargain between a Jedi general and a Mandalorian warlord, holds the galaxy's center. Two rival factions contest its authority from the margins. The Jedi Order is fractured. The Sith, presumed destroyed, are not gone. The Force continues to deteriorate in ways no one fully understands, making medicine, travel, communication, warfare, and daily life all less reliable in ways most people can feel but few can explain.
-
-All three major governments believe they're saving the galaxy. All three have done things that demand accounting. The Concordat provides stability through authoritarianism. The Revanchist Remnant fights for democratic ideals while its leader disappears into obsession. The Neo-Mandalorian Coalition defends a code of honor that may be killing its own people. A hidden faction works toward an end none of the others see coming.
-
-Your characters enter this world with their own histories, loyalties, and convictions. Some of you will have fought in the Mandalorian Wars. Some will have grown up during them. Some will be too young to remember a galaxy that worked properly and will assume this is normal.
-
-Bring characters who believe things. Characters who owe debts they can't repay, carrying scars, grudges, and obligations with reasons to get out of bed in the morning that have nothing to do with saving the galaxy. The campaign will give you opportunities to shape the fate of governments and peoples. It will also ask what your character does when the kolto runs out, when the navigation computer fails in a dead zone, when the officer across the table offers a deal that would solve everything if you could live with the terms.
-
-The galaxy has not decided what it is yet. That decision belongs to the people living in it, and for the next several dozen sessions, some of those people are yours.
+Bring a character who believes something strongly enough to act on it. The galaxy will test that belief.
 
 \column
 
@@ -126,7 +110,7 @@ The galaxy has not decided what it is yet. That decision belongs to the people l
 ![The Concordat Era](https://temp-image.com/ib/SlwUWEB8gnO99h8_1774586568.png){position:absolute,top:-1,left:0,width:100%,height:120%,z-index:-1}
 }}
 
-{{footnote,white Part I: Welcome}}
+{{footnote,white Part I: The World You're Entering}}
 {{pageNumber,auto}}
 
 \page
@@ -138,62 +122,63 @@ The galaxy has not decided what it is yet. That decision belongs to the people l
 
 :
 
-The year is 3952 BBY. The fourth year of the Concordat Era. Twelve years since the Great Hyperspace War broke the Force, the energy field that connects all living things and that has powered civilizations, religions, and warfare across the galaxy for millennia. The galaxy functions, barely, and no one agrees on what should come next.
+### The Basics
 
-{{note
-##### Quick Orientation
-**The galaxy** is organized in concentric rings outward from the center. The **Core Worlds** (Coruscant, Alderaan, Corellia) are the wealthy, densely populated center of civilization. The **Inner Rim** surrounds the Core. The **Mid Rim** is the middle band: developed but less stable. The **Outer Rim** is the frontier: underdeveloped, undergoverned, and home to most of the galaxy's resource extraction. **Wild Space** and the **Unknown Regions** lie beyond the Outer Rim, largely unexplored.
+The galaxy is a disk of hundreds of billions of star systems. Civilizations have occupied it for tens of thousands of years. Ships travel between stars through **hyperspace**, a faster-than-light dimension that compresses interstellar distances into journeys of days or weeks. The galaxy is organized in concentric rings: the wealthy **Core Worlds** (Coruscant, Alderaan, Corellia) at the center, the **Mid Rim** in the middle band, and the underdeveloped **Outer Rim** at the frontier. Beyond the Outer Rim lies the **Unknown Regions**, largely unexplored.
 
-**Hyperspace** is the faster-than-light dimension that makes interstellar travel possible. Ships equipped with hyperdrives can cross the galaxy in days or weeks rather than centuries.
+The **Galactic Republic** governed most of known space for thousands of years. It was a democratic federation: a Senate on Coruscant, elected representatives, trade agreements, shared infrastructure. It is now fractured.
 
-**The Force** is an energy field generated by all living things. Force-sensitive beings can perceive and manipulate it: telekinesis, precognition, healing, empathy. Chapter 5 explains the Force in full. For now, know that it is real, measurable, integrated into galactic civilization, and failing.
+The **Jedi Order** served the Republic as peacekeepers, diplomats, healers, and mediators. Jedi are Force-sensitive beings trained from childhood to perceive and manipulate the Force, an energy field generated by all living things. A trained Jedi can move objects through concentration, sense danger before it manifests, heal wounds, and read emotions. The Order maintained roughly ten thousand members at its peak. It is now broken into factions that disagree about everything.
 
-**Kolto** is the galaxy's primary healing substance, produced on the ocean world Manaan alone. It accelerates cellular regeneration and treats trauma. With Force healing unreliable, kolto has become the most strategically valuable substance in the galaxy.
+The **Sith** are three things at once: a red-skinned Force-sensitive species native to the planet Korriban, the religious-political order that conquered them seven thousand years ago, and a philosophical tradition built on passion and power. The Sith Empire fought a war against the Republic twelve years ago and lost. Most people consider the Sith a defeated enemy. Most people are wrong.
 
-**The Sith** are three things at once: a red-skinned Force-sensitive species native to Korriban, the religious-political order that conquered them, and a philosophical tradition. Chapter 12 and Chapter 15 sort this out. For now, know that the Sith Empire was destroyed twelve years ago, that most people consider the Sith a defeated enemy, and that most people are wrong.
-}}
+The **Mandalorians** are a warrior culture organized around clans, honor codes, and combat. They are not a species but a creed: anyone who follows Mandalorian ways and earns acceptance can become Mandalorian. They waged a devastating war of expansion against the Republic that ended seven years ago.
 
-The **Concordat** governs from Coruscant, the galaxy's capital world. Its leader is Supreme Chancellor-General Malak, a former general of the Jedi Order, the Force-trained guardians who served as the Republic's peacekeepers and mediators for thousands of years. Malak ended the Mandalorian Wars by defeating Mandalore the Vindicated in single combat and forging an alliance between Republic administration and Mandalorian military strength. The Concordat holds the Core Worlds, most of the Inner Rim, and significant portions of the Mid Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors to contested systems, and maintains emergency powers with no expiration date.
+The **Force** is real, measurable, and woven into the fabric of galactic civilization. Hospitals relied on Force-sensitive healers. Navigators used the Force to plot safer hyperspace routes. Governments employed Jedi as mediators and peacekeepers. Chapter 5 explains the Force in full. For now, know that it is failing, and nobody understands why.
 
-Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force. Half the galaxy calls him a savior. The other half calls him a dictator. Both halves are working with incomplete information.
+**Kolto** is the galaxy's primary healing substance, produced on the ocean world Manaan alone. It accelerates cellular regeneration and treats trauma. With Force healing unreliable, kolto has become the most valuable substance in the galaxy.
 
-The **Revanchist Remnant** holds twenty-three systems in the Outer Rim and claims to be the legitimate Republic. Its figurehead is Revan, the philosopher-general who led the first Jedi revolt against the Council's inaction during the Mandalorian Wars. Revan spent two years in the Unknown Regions chasing ancient technology and has just returned, diminished and obsessed. The Remnant's actual operations are managed by Admiral Kaeranth. Its greatest weapon is the fact that every time the Concordat overreaches, someone in the affected system starts listening to Remnant recruiters.
+\column
 
-The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a Mandalorian traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space, hitting both Concordat and Remnant shipping. Life in the Coalition is hard, proud, and unsustainable.
+### What Happened
 
-None of these governments commands universal loyalty. Citizens across hundreds of worlds make daily choices about which authority to obey, which to resist, and which to ignore. On the frontier, the answer is often "none of the above."
+Two wars broke the galaxy.
 
+**The Great Hyperspace War** (3964 BBY, twelve years ago): The Sith Empire invaded the Republic. The war ended with the Empire's collapse, but the fighting left permanent scars in the Force itself. Dead zones appeared, places where the Force simply stopped working. The Sith as a political power were destroyed. The Sith as a species were scattered. The Sith as an idea survived.
+
+**The Mandalorian Wars** (3963-3955 BBY): Mandalorian clans launched a campaign of conquest across the Outer and Mid Rim. The Jedi Council refused to intervene. Two Jedi, Revan and Malak, defied the Council, built a military from volunteers and defectors, and fought the Mandalorians for seven years. The war ended when Malak challenged Mandalore the Vindicated to single combat, won, and negotiated a political settlement called the Concordat. The cost of victory included twelve planets with permanent Force damage, approximately six hundred thousand civilian dead, and a Jedi Order that could no longer agree on what it stood for.
+
+### Who Holds Power Now
+
+The year is 3952 BBY. The fourth year of the Concordat Era.
+
+The **Concordat** governs from Coruscant. Supreme Chancellor-General Malak, the Jedi general who won the war, leads a hybrid government merging Republic administration with Mandalorian military strength. The Concordat holds the Core Worlds and most of the Inner Rim. It provides stability, infrastructure, and a functional economy. It also monitors Force-sensitive citizens, appoints military governors, and maintains emergency powers with no expiration date. Malak wears prosthetics where his jaw and arm used to be, the price paid for beating Mandalore with iron rather than the Force.
+
+The **Revanchist Remnant** holds twenty-three Outer Rim systems and claims to be the legitimate Republic. Its figurehead is Revan, the strategist who started the Jedi revolt against Council inaction. Revan spent two years in the Unknown Regions chasing ancient technology and returned diminished and obsessed. Admiral Kaeranth runs the Remnant's actual operations.
+
+The **Neo-Mandalorian Coalition** answers to Canderous Ordo, a traditionalist who rejected the Concordat as a betrayal of warrior honor. The Coalition holds no fixed territory. It raids from hidden bases across the Outer Rim and Wild Space.
+
+None of these governments commands universal loyalty. Citizens across hundreds of worlds make daily choices about which authority to obey, which to resist, and which to ignore.
 
 ### The Force Is Dying
 
-Something is wrong with the Force, and no one agrees on what it is, how far it will go, or whether it can be stopped.
+Something is wrong with the Force. Jedi healers find their abilities fail without warning. Seers report fragmented visions and stretches of silence. Combat-trained Jedi feel their precognition stutter mid-fight.
 
-Jedi healers find their abilities unreliable. A technique that worked yesterday fails today. Seers report fragmented visions, contradictory prophecies, and stretches of silence where the Force offers nothing. Combat-trained Jedi feel their precognition stutter in the middle of a fight, and soldiers who depended on that precognition to stay alive have learned to flinch whenever their Jedi commander pauses.
+Dead zones mark places where the Force has gone absent. In a dead zone, a lightsaber still cuts (it is a plasma weapon, powered by a crystal), but every other Force ability fails. Species like the Miraluka, who perceive the world through the Force rather than through eyes, go blind. The zones are growing.
 
-Across the galaxy, dead zones mark places where the Force has gone absent. In a dead zone, lightsabers still cut (they're plasma weapons, powered by crystals), but everything else fails. Precognition. Telekinesis. Healing. Force-sensitive species like the Miraluka, who perceive the world through the Force rather than through eyes, are blinded.
-
-The zones are growing. Slowly, but measurably.
-
-::
-
-Hyperspace, the faster-than-light dimension that makes interstellar travel possible, has become unreliable. Ships drop out of hyperspace days early. Some don't drop out at all.
-
+Hyperspace has become unreliable. Ships drop out days early. Some don't drop out at all.
 
 ### A Galaxy in Transition
 
-The Concordat Era is not a post-apocalypse. The holonet, the galaxy-wide communication and broadcast network, still functions. Freighters still carry cargo. Cantinas still serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
+The Concordat Era is not a post-apocalypse. The holonet (the galaxy-wide communication network) still functions. Freighters carry cargo. Cantinas serve drinks. But governance is fragile, supply chains are unreliable, and the Force can no longer be trusted.
 
 {{descriptive
 *A merchant on Taris negotiates trade permits with a Mandalorian customs officer where a Republic bureaucrat used to sit.*
 
 *A veteran of the Ashen Campaigns works as a dock loader on Nar Shaddaa because the Revanchist military doesn't exist anymore and the Concordat doesn't want soldiers who know what they did.*
 
-*A crimson Twi'lek professor on Coruscant teaches ancient history at the university and wears long sleeves to cover their sith-like skin that makes strangers nervous.*
-
 *A Cathar teenager on a refugee transport practices with a vibroknife because Mandalorians destroyed her homeworld and no one is going to protect her, so she'll protect herself.*
 }}
-
-Your characters walk into this. Armed, opinionated, and connected to a galaxy that hasn't finished breaking.
 
 {{footnote Chapter 2: The Galaxy at a Glance}}
 {{pageNumber,auto}}
@@ -204,34 +189,32 @@ Your characters walk into this. Armed, opinionated, and connected to a galaxy th
 
 ### How to Use This Book
 
-This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge, common opinion, and the kind of detail a well-traveled spacer or curious university student might have. Some of it is accurate. Some of it is propaganda that everyone has heard so often it passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
+This book describes the Concordat Era as a reasonably informed person living in it would understand it. The history is what most educated citizens were taught. The faction descriptions reflect public knowledge and common opinion. Some of it is accurate. Some of it is propaganda that passes for truth. Some of it is contested, and the book will tell you when reasonable people disagree.
 
-There are things this book does not contain. Hidden conspiracies that no one in the galaxy has uncovered. The true answer to what is killing the Force. The secret plans of people who have successfully kept their secrets. Your GM has that information. You will discover it in play, and the discoveries will mean more because you didn't read them in advance.
+Hidden conspiracies, the true answer to what is killing the Force, and the secret plans of people who have kept their secrets belong to your GM. You will discover them in play.
 
-**For character creation,** start with Chapter 3, right after this section. It gives you the questions your character needs to answer. Then read the faction chapters (8 through 13) to find where your character fits in the political landscape. Chapter 21 covers species and peoples. Come back to Chapter 3 when you're ready to finalize.
+**If you know *Knights of the Old Republic*,** read Chapter 4 for the full summary of the original games and how this setting diverges. The biggest shift: the Great Hyperspace War happened twelve years ago in this setting, transforming the Sith Empire's fall from ancient history into living trauma. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names appear, but the choices went differently.
 
-**For understanding the setting,** read as much or as little as you want. Chapter 5 explains what the Force is and how it works in this era. Chapter 6 covers the Force crisis. Chapter 7 provides the full history. Chapters 14 through 17 go deep on the Jedi, Sith, and Mandalorian belief systems. None of these chapters will spoil the campaign's surprises, but together they'll give you the texture to make grounded, specific choices in play.
+**If you've never played KOTOR,** you lose nothing. This book explains everything from scratch. Chapter 4 summarizes the games for context, but the setting stands on its own.
 
-**If you've never played KOTOR or read Star Wars Expanded Universe material,** you lose nothing. This book explains every term, faction, and historical event from scratch. You do not need prior knowledge. The setting is designed to work for players who have never heard of the Old Republic and for players who can recite the Sith Code from memory.
+**For character creation,** go to Chapter 3 after reading this section. It gives you the questions your character needs to answer. Then read the faction chapters (8 through 13) to find where your character fits. Chapter 21 covers species and peoples.
 
-**If you have played KOTOR,** read Chapter 4 for the full summary of the original games and how this setting diverges. The biggest shift: the Great Hyperspace War, which in the games occurred roughly a thousand years before the events of KOTOR, happened twelve years ago in this setting. That single change transforms the Sith Empire's fall from ancient history into living trauma, and everything downstream follows from it. Malak never fell to the dark side. Revan never had his memory wiped. The Mandalorian Wars ended through a political bargain, not a superweapon. Familiar names and places appear, but the choices went differently.
+**For understanding the setting,** read as much or as little as you want. Chapter 5 explains the Force. Chapter 6 covers the Force crisis. Chapter 7 provides the full history. Chapters 14 through 17 cover Jedi, Sith, and Mandalorian belief systems.
 
-**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. You will find references to aspects, skills, and stunts in Chapter 3 where they're relevant to character creation, but the setting material is system-agnostic. The political and cultural details matter more than any mechanical element. If you understand who your character is, what they believe, and who they owe, the system will follow.
+**On the Fate system:** this campaign uses Fate, but this book is not a Fate rulebook. The setting material is system-agnostic. If you understand who your character is, what they believe, and who they owe, the system will follow.
 
 {{note
 ##### A Note on Calendars
-This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment.
-
-**Out of character:** The Battle of Yavin is the destruction of the Galactic Empire's Death Star above Yavin 4, the climactic battle of the Galactic Civil War depicted in *A New Hope*. It is Year Zero of the BBY/ABY calendar system. Nobody in 3952 BBY has any knowledge of it. BBY appears in this book as an orientation tool for readers who know the broader Star Wars canon.
+This book uses two dating systems. **BBY** (Before the Battle of Yavin) is the standard reference calendar used by Star Wars historians. The campaign takes place 3,952 years before that moment. Nobody in 3952 BBY has any knowledge of the Battle of Yavin. BBY appears as an orientation tool for readers who know the broader Star Wars timeline.
 
 In-world, characters use the **Concordat Era calendar**. Events before the Concordat's signing use **BC** (Before Concordat): 9 BC at the Great Hyperspace War's end, counting down to 1 BC. Events after use **CE** (Concordat Era): 1 CE, 2 CE, and so on. The campaign begins in 4 CE.
 
-The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.* Expect these in play when timing matters.
+The year contains **10 months of approximately 35 days each** (368 days total), numbered Month 1 through Month 10. Full dates read: *Day 14 of Month 6, 4 CE.*
 
-In-universe, the calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
+The calendar is political. Using Concordat Era dating signals loyalty to Malak's government. The Remnant uses the old Republic Standard Calendar. The Neo-Mandalorians use their own reckoning based on Mandalore cycles. How a character dates a letter tells you who they answer to.
 }}
 
-{{footnote Part I: Welcome}}
+{{footnote Part I: The World You're Entering}}
 {{pageNumber,auto}}
 
 \page
@@ -241,70 +224,294 @@ In-universe, the calendar is political. Using Concordat Era dating signals loyal
 # Chapter 3
 ### Making a Character for the Concordat Era
 
-Character creation in the Concordat Era starts with questions, not statistics.
+You do not need to know anything about Star Wars, the Force, or tabletop roleplaying games to build a character for this campaign. You need a person with a past, a problem, and a reason to be in the room when everything goes wrong.
 
-**Where are you from?** The answer determines your character's baseline assumptions about the galaxy. A Core World citizen grew up with functioning institutions and considers the Concordat normal. An Outer Rim frontier resident grew up with none of the above and considers self-reliance normal. A Mandalorian from Dxun grew up in a warrior culture that trained her to fight since she could walk. A Sith Pureblood from Nar Shaddaa grew up hiding her heritage in a galaxy that considers her species a threat.
+Character creation starts with six questions. Each one shapes who your character is and how they connect to the galaxy. Read the question, pick the answer that interests you, and move on. You can change your mind later. Nothing is permanent until the first session starts.
 
-**What did you do during the wars?** If your character is old enough to have served, which war? The Great Hyperspace War? The Mandalorian Wars? The Ashen Campaigns? Which side? What did they see? What did they do? If your character is too young to have fought, what happened to the people who raised them?
+### The Questions That Matter
 
-**Who do you work for?** The Concordat? The Remnant? The Coalition? Nobody? Is your employment ideological or economic? Would you quit if you discovered your employer had done something unforgivable, or have you already made that discovery and stayed?
+**Where are you from?**
 
-**What do you believe about the Force?** Is it dying? Should it be saved? Is its death a catastrophe or a liberation? If you're Force-sensitive, what does the unreliability of your abilities mean to you? If you're not Force-sensitive, how has the Force crisis affected your life anyway?
+Your homeworld determines what your character considers normal. Someone raised on Coruscant grew up surrounded by government offices, military patrols, and the assumption that the Concordat keeps the galaxy running. Someone raised on the Outer Rim grew up fixing their own equipment, settling disputes without authorities, and treating central government as a rumor. These assumptions shape how your character reacts when the campaign puts them in unfamiliar territory.
 
-**What do you owe?** Debts, obligations, promises, oaths, grudges. Who saved your life? Who destroyed something you loved? Who is waiting for you to come home? The galaxy's political factions are abstractions. Debts are personal.
-
-**What are you afraid of?** Not what threatens your character's life. What threatens their sense of who they are? A Jedi who fears losing the Force. A Mandalorian who fears losing her honor. A Concordat officer who fears discovering that the government he serves is doing something indefensible.
+- "I grew up on Coruscant. My family worked in Concordat civil administration. I thought the government was boring and functional until I started noticing what it hid."
+- "I'm from a farming settlement on Dantooine. We saw a Jedi once when I was twelve. She healed a neighbor's broken leg and left before dinner. That's my entire experience with the Force."
+- "I was born on Dxun. My clan trained me to fight from the time I could hold a blade. The Mandalorian Wars ended before I was old enough to serve, and I've spent my whole life preparing for a war that already happened."
+- "I'm Sith Pureblood. I grew up on Nar Shaddaa pretending to be something else, because the galaxy treats my species like a threat."
 
 \column
 
+**What did you do during the wars?**
+
+Two wars define this era. The Great Hyperspace War ended twelve years ago when the Sith Empire collapsed. The Mandalorian Wars ended six years ago when Malak killed Mandalore the Vindicated in single combat. If your character is old enough, they fought in one or both. If they are too young, the wars shaped the people who raised them.
+
+- "I served in the Republic Navy during the Mandalorian Wars. I followed Revan because the Jedi Council refused to act. I saw what the Ashen Campaigns did to civilian populations, and I signed the next deployment order anyway."
+- "I was a Jedi Padawan when the Council ordered us to stay neutral. I obeyed. Four hundred of my peers left to fight. Some came back changed. Some did not come back."
+- "I was a child during the Great Hyperspace War. Sith soldiers occupied my homeworld for two years. I remember the sound of their ships leaving when the Empire fell."
+- "I'm twenty-three. Both wars happened before I could hold a blaster. But my mother fought at Dxun and my father died at Malachor V, so the wars raised me whether I served or not."
+
+**Who do you work for?**
+
+Three governments compete for control of the galaxy. The Concordat runs the former Republic from Coruscant under Malak's authority. The Revanchist Remnant fights a guerrilla campaign for democratic restoration. The Neo-Mandalorian Coalition governs Mandalorian space through warrior tradition and honor codes. Your character works for one of them, works for none of them, or works for whoever pays.
+
+- "I'm Concordat military intelligence. I believe in stability. The alternative is another war."
+- "I run supplies for the Remnant. I don't love their politics, but they pay on time and they've never asked me to do something I couldn't sleep after."
+- "I'm Neo-Mandalorian. I swore an oath to my clan and I honor it. Galaxy politics are someone else's problem until they become my clan's problem."
+- "I'm freelance. I haul cargo. I don't ask what's in the crates and I don't care whose flag flies over the spaceport. I care about fuel costs and docking fees."
+
+\page
+
+**What do you believe about the Force?**
+
+The Force is failing. Across the galaxy, zones have appeared where the Force stops working. Force-sensitive beings lose their abilities inside these dead zones. Entire planets have gone silent. Nobody knows why. Your character has an opinion about this, whether they can use the Force or not.
+
+- "I'm a Jedi Knight. The Force has been the foundation of my life since I was four years old. Losing it, even for a moment inside a dead zone, feels like going deaf. I need to understand what's happening before it takes everything."
+- "I think the Force is a natural phenomenon, like gravity. It fluctuates. People who built their lives around it are panicking because they confused a tool for a divine right. I feel sorry for them, but I don't share their crisis."
+- "I'm not Force-sensitive. I never was. But my sister is, and watching her lose her abilities piece by piece is destroying her. The Force crisis is personal for me because it's personal for someone I love."
+- "Good riddance. The Force gave the Jedi and the Sith power over everyone else for thousands of years. If it dies, maybe ordinary people get to run the galaxy for once."
+
+**What do you owe?**
+
+Debts keep characters anchored to the world. A debt can be financial, emotional, or moral. Someone saved your character's life. Someone destroyed something your character loved. Someone is waiting for your character to come home. Political factions are abstractions. Debts are specific.
+
+- "A Mandalorian pulled me out of a burning transport during the evacuation of Serroco. I never learned her name. I've been looking for her for six years."
+- "I owe the Jedi Order my training, my discipline, my sense of purpose. The Order also lied to me about what happened at Malachor V. I haven't decided which of those facts matters more."
+- "I borrowed forty thousand credits from a Hutt syndicate to buy my ship. I've paid back thirty-eight. The last two thousand are the most dangerous money in the galaxy."
+
+\column
+
+**What are you afraid of?**
+
+Not physical danger. What threatens your character's sense of who they are? The answer to this question generates your character's best moments at the table, the scenes where they face the thing they've been avoiding.
+
+- "I'm afraid the Concordat is right. That authoritarian stability is the only thing standing between the galaxy and collapse. I joined the Remnant because I believed in democracy, and I'm terrified that belief is naive."
+- "I'm afraid I'll use the Force in anger and discover I'm good at it. Every Jedi fears the dark side in theory. I fear it because I've felt it respond to me."
+- "I'm afraid of being ordinary. My whole life I've been the best pilot in every room. The Force crisis is producing people with nothing to lose and skills I can't match. I don't know who I am if I'm not the best."
+
 ### Types of Characters That Fit
 
-**The Veteran.** Fought in the wars. Carries the experience in their body and their choices. What are they now?
+Six archetypes appear in Concordat Era campaigns. These are starting points, not limits.
 
-**The Operative.** Works for a faction's intelligence apparatus. The Concordat Era runs on information.
+**The Veteran.** Fought in the wars. Carries the experience in body and choices. A veteran knows what violence costs. The question that follows them: was it worth it?
 
-**The Exile.** Left something behind. What drove them out, and what are they looking for?
+**The Operative.** Works for a faction's intelligence apparatus. The Concordat Era runs on information, stolen transmissions, compromised agents, encrypted data. An operative lives in the gap between what factions say and what they do.
 
-**The Believer.** Holds convictions strong enough to act on them. The Concordat Era tests every belief system. What does yours look like after the test?
+**The Exile.** Left something behind. A former Jedi who walked away from the Order. A Mandalorian who broke an oath. A Concordat officer who deserted. The exile carries two questions: what drove them out, and what would bring them back?
 
-**The Survivor.** Did not choose a side. The galaxy's political drama is someone else's problem, until it shows up in their cargo hold.
+**The Believer.** Holds convictions strong enough to act on. The Concordat Era tests every belief system. A Jedi who believes in the Code. A Sith traditionalist who believes in the old ways. A democratic idealist fighting for the Remnant. The campaign asks: what happens to conviction when reality stops cooperating?
 
-**The Inheritor.** Too young to have fought. Old enough to live with the consequences. The war made the world they inherited. What will they do with it?
+**The Survivor.** Chose no side. The galaxy's political drama is someone else's problem, until it shows up in the cargo hold. Survivors tend to develop opinions fast once the campaign forces them into situations where neutrality stops being an option.
 
-These are starting points. Characters who don't fit these templates are welcome. A drifter with no political opinions will develop them fast once the campaign starts, because the galaxy will force the question. A smuggler who wants nothing to do with faction politics will find faction politics in her cargo hold by session three. Build what interests you. The setting will meet you where you are.
+**The Inheritor.** Too young to have fought. Old enough to inherit the consequences. The wars made the world they live in. They had no say in it. What they do next is the first choice that belongs to them.
+
+\page
+
+### What If None of Those Fit?
+
+Build what interests you. The six archetypes above cover common entry points, but the Concordat Era accommodates any character concept that has a reason to exist in this galaxy.
+
+A few examples of characters who fall outside the standard archetypes:
+
+**A journalist.** The HoloNet still functions. Someone reports on the Concordat's policies, the Remnant's guerrilla actions, the Force crisis. A journalist character moves through faction territory asking questions that make powerful people uncomfortable.
+
+**A doctor.** Force healers are failing. Conventional medicine is picking up the slack. A trauma surgeon working the Outer Rim sees the human cost of every political decision. Medical skill is valuable to every faction, which means every faction wants your loyalty.
+
+**A mechanic.** Ships break. Droids malfunction. Infrastructure decays. A skilled mechanic is welcome on any crew and in any port. The galaxy runs on technology, and someone has to keep it running.
+
+**A Force-sensitive who never trained.** Not every Force-sensitive person joined the Jedi or the Sith. Some grew up on planets where no recruiter visited. Some had families who refused to give them up. An untrained Force-sensitive in the Concordat Era feels the crisis as a strange absence of something they never learned to name.
+
+**A Sith species scholar.** The Sith as a species predate the Sith as a philosophy by thousands of years. A Sith Pureblood studying their own cultural heritage navigates a galaxy that conflates their identity with the Empire that enslaved their ancestors.
+
+If your concept involves the Force, you can use it. If your concept involves no Force at all, you can use it. If your concept is "a bartender who got on the wrong ship," that works too. The campaign's opening scenario (Chapter 22) puts the party in a crisis that requires cooperation regardless of background. Whatever you bring to the table, the setting will give you something to push against.
+
+\column
+
+### Building Your Character in Fate
+
+This campaign uses the **Fate Core** or **Fate Condensed** tabletop roleplaying system. If you have never played Fate before, here is what you need to know to build a character.
+
+Fate characters are built from words, not numbers. Where other RPG systems define a character through statistics (Strength 16, Dexterity 14), Fate defines a character through short phrases called **aspects**. An aspect is a sentence fragment that describes something true about your character. Aspects can be invoked during play to gain bonuses when they're relevant, and they can be compelled to create complications when they'd make the story more interesting.
+
+Every Fate character has three core aspects:
+
+**High concept.** This is a Fate system term. Your high concept is a short phrase that captures the most important thing about your character: who they are, what they do, and what makes them distinct. A high concept should be specific enough that someone reading it can picture the character.
+
+- "Disillusioned Concordat Intelligence Officer" tells you this person works for the government, gathers secrets, and has started questioning what they serve.
+- "Mandalorian Combat Medic Who Broke Her Oath" tells you this person heals, fights, comes from warrior culture, and carries a specific failure.
+- "Jedi Sentinel Hunting Dead Zones" tells you this person is an active Jedi with a mission tied to the Force crisis.
+- "Skilled Spy" tells you almost nothing. Too vague. Push further.
+
+**Trouble.** Your trouble is the aspect that makes your character's life difficult. The best troubles connect to the setting's conflicts and create situations your character cannot avoid.
+
+- "My Unit Committed War Crimes at Onderon" connects to the Mandalorian Wars and produces guilt, loyalty conflicts, and the threat of exposure.
+- "The Force Answers When I'm Angry" connects to the light/dark tension and means every fight risks pulling your character toward something dangerous.
+- "Has Enemies" could mean anything. Too generic. Name the enemy. Name the reason.
+
+\page
+
+**Relationship aspect.** This aspect connects your character to another player character. You build this one at the table during Session Zero, after everyone has their high concept and trouble. The best relationship aspects contain a seed of tension: a shared history, a debt, an unresolved conflict, or a bond complicated by faction loyalty.
+
+- "She Pulled Me Out of the Wreck at Onderon" means you owe someone your life. What they ask of you now may cost more than the life they saved.
+- "We Served in the Same Unit Before I Defected" means trust survived a betrayal. The question is how much trust remains.
+- "Her Clan Destroyed My Homeworld and She Knows It" means the Mandalorian and the Cathar sit with the weight of history between them at every meal.
+
+**Free aspects (two).** Your remaining two aspects round out the character. Use them for a skill or reputation, a possession that matters, a belief that drives action, or a connection outside the party.
+
+- "The Datacron Revan Brought Back From Lehon" is an object with secrets. Everyone wants it. You have it. Why?
+- "Strength Is Forged, Not Given" is the Doctrine of Necessary Strength as personal creed. It creates trouble when self-reliance meets a situation where you need help.
+- "I Still Wear the Robes but I Stopped Praying" is a Jedi identity in crisis. The uniform stays. The faith is gone.
+
+In this campaign, the word **tensions** refers to the setting's major unresolved conflicts: the political struggle between the Concordat, the Remnant, and the Coalition; the Force crisis and the dead zones spreading across the galaxy; the question of what Revan found in the Unknown Regions; the philosophical disagreements between Jedi and Sith about the nature of the Force. Your aspects should connect your character to at least one of these tensions. A character who cares about none of the galaxy's problems will struggle to find their place in the story.
+
+### Skills
+
+Fate characters have **skills**: rated abilities that determine what your character is good at. The Concordat Era uses nineteen skills arranged in a pyramid:
+
+- 1 skill at Great (+4)
+- 2 skills at Good (+3)
+- 3 skills at Fair (+2)
+- 4 skills at Average (+1)
+- Everything else at Mediocre (+0)
+
+Your Great (+4) skill is what your character does better than almost anyone. Your pyramid's shape tells the table who you are before you describe a single scene.
+
+The full skill list: **Academics** (formal education, institutional knowledge), **Athletics** (running, dodging, zero-gravity maneuvering), **Burglary** (breaking in, slicing systems, bypassing locks), **Contacts** (knowing people, calling in favors), **Crafts** (building, repairing, jury-rigging), **Deceive** (lying, disguise, forged documents), **Drive** (piloting starships, speeders, anything with a throttle), **Empathy** (reading people, detecting lies), **Fight** (melee combat, lightsabers, vibroblades), **Investigate** (methodical examination, piecing together evidence), **Lore** (obscure knowledge, Force traditions, Sith archaeology), **Notice** (immediate perception, spotting danger), **Physique** (strength, endurance, toughness), **Provoke** (intimidation, goading, emotional pressure), **Rapport** (building trust, persuasion, diplomacy), **Resources** (wealth, requisition authority), **Shoot** (ranged combat, blasters), **Stealth** (moving unseen, electronic countermeasures), **Will** (mental fortitude, resistance to pressure).
+
+Two skills deserve special attention. **Academics** covers what universities teach: history, law, medicine, political science. **Lore** covers what universities do not know: Sith archaeology, dead-zone phenomena, Rakatan ruins, kolto biochemistry, frontier survival wisdom. A Republic-trained doctor has Academics. A Korriban tomb crawler has Lore. Some characters have both.
+
+### Stunts
+
+**Stunts** are special tricks or talents that let your character break the normal rules in specific ways. You start with three free stunts (two if you take the Force-Sensitive Extra). Each stunt follows one of two templates:
+
+**Template A:** "Because I [something exceptional about you], I get +2 when I use [skill] to [action] when [specific circumstance]."
+
+- "Because I trained in traditional Mandalorian saber combat, I get +2 when I use Fight to defend against lightsaber-wielding opponents."
+- "Because I've spent years reading signals intelligence, I get +2 when I use Investigate to create advantages by analyzing intercepted communications."
+- "Because I carry legitimate Concordat authorization, I get +2 when I use Rapport to overcome bureaucratic obstacles in Concordat territory."
+
+**Template B:** "Because I [something exceptional about you], once per session I can [special effect] instead of [what you'd normally do]."
+
+- "Because I understand fire discipline, once per session I can use Shoot to create the advantage **Pinned Down** on every enemy in a zone with a single roll."
+- "Because I've run Remnant supply lines for three years, once per session I can automatically succeed on a Drive roll to escape pursuit in a system where I've established a hidden route."
+
+Build stunts that reflect your character's history. A stunt is a story compressed into a mechanical bonus.
+
+\page
+
+### Force-Sensitive Characters: The Mechanical Trade-Off
+
+The Force in this campaign functions as an **extra**: a bundle of permissions and costs that changes how your character interacts with the world. If you want to play a Force-sensitive character, here is what it costs and what it gives you.
+
+**Cost:** One of your three stunt slots goes to the Force-Sensitive Extra (you get two free stunts instead of three). Your trouble aspect must involve the Force crisis in some way.
+
+**Benefit:** You choose two **Force techniques** from the list below. Each technique lets you use an existing skill in an expanded way. You can purchase additional techniques as stunts.
+
+The available techniques: **Telekinesis** (use Physique to move objects at distance), **Precognition** (use Notice to sense danger before it arrives), **Force Healing** (use Academics to accelerate recovery), **Battle Meditation** (use Rapport to coordinate allies in combat), **Force Empathy** (use Empathy to perceive emotional states at supernatural depth), **Force Concealment** (use Stealth to suppress your Force presence), **Lightsaber Mastery** (use Fight to deflect blaster bolts and perform Force-enhanced combat), **Force Persuasion** (use Provoke or Rapport to influence weak-willed targets).
+
+**The catch: Force Instability.** The GM has a standing compel against your Force-related aspects whenever you use a Force technique. The Force fails roughly one-third of the time in normal space, two-thirds of the time near dead zones, and requires a fate point to attempt at all inside dead zones. When the compel fires, you take a fate point and find a non-Force solution. When you buy off the compel with a fate point, the Force works.
+
+This creates a specific economy. Force-sensitive characters earn fate points faster (they get compelled more often) but spend them to guarantee their abilities work. Non-Force characters earn fate points through other compels and spend them on different advantages. The party's economy balances itself.
+
+**Miraluka characters** deserve a special note. Miraluka perceive the world through the Force. For a Miraluka, Force instability means temporary blindness: the character loses their primary sense. This is harsh. It is also accurate to the setting. As compensation, Miraluka characters receive the **Force Empathy** technique for free (in addition to their two chosen techniques), because Force perception is their baseline existence. Playing a Miraluka means accepting moments of terrifying vulnerability in exchange for a richer baseline awareness than any other species possesses.
+
+### Stress, Consequences, and Fate Points
+
+Every character has **stress boxes** (your ability to absorb hits before taking real harm) and **consequences** (lasting injuries or setbacks that stick around after the fight). Physique determines your physical stress capacity. Will determines your mental stress capacity.
+
+Consequences come in three severities: **mild** (a bruise, a shaken nerve), **moderate** (a blaster wound, broken trust), and **severe** (a crushed leg, a severed Force connection). Severe consequences alter your character's story. In the Concordat Era, Force-related consequences heal slower than physical ones, because the Force itself is unreliable.
+
+**Kolto treatment** accelerates physical recovery. A character with medical training (Academics) who applies kolto can begin clearing a physical consequence one step faster than normal. A mild consequence clears immediately. A moderate consequence starts clearing after one scene instead of one session. Kolto availability depends on where you are: affordable in the Core Worlds, expensive in contested space, scarce on the frontier, and absent in ungoverned territory unless you packed it yourself. Chapter 19 covers kolto economics, supply chains, and the counterfeit market in detail.
+
+**Fate points** are your currency for influencing the story. You start each session with a **Refresh** of 3 (reduced by 1 for each stunt beyond your free allotment, minimum 1). You earn fate points when the GM compels your aspects, and you spend them to invoke aspects for bonuses or to buy off compels you do not want. The Concordat Era generates compels constantly. Political tensions, overlapping loyalties, Force instability, and troubled histories built into your aspects mean you will earn 2-4 fate points per session and spend them freely. The economy flows. Do not hoard.
+
+Your GM will walk you through the full mechanical details during character creation. The Fate Condensed Player Guide for this setting covers skills, techniques, stunts, and dead zone rules in complete detail. For now, focus on the questions, the aspects, and the concept. The numbers come last.
+
+\column
+
+### Two Characters, Built From Scratch
+
+These two characters demonstrate how the same process produces different people. One relies on the Force. One does not. Both belong in this campaign.
+
+{{descriptive
+**Kael Draven, Jedi Sentinel**
+
+*Where are you from?* The Jedi Enclave on Dantooine. Kael entered the Order at age five and trained under Master Vandar until the Mandalorian Wars.
+
+*What did you do during the wars?* Kael followed Revan. He served as a forward scout, using Force perception to map Mandalorian positions ahead of Republic advances. He witnessed three Ashen Campaign strikes and carries that knowledge in silence.
+
+*Who do you work for?* Officially, the Jedi Council. In practice, Kael operates alone. The Council assigned him to investigate dead zones, and he has spent two years mapping their spread across the Outer Rim.
+
+*What do you believe about the Force?* Kael believes the Force is wounded. He feels it the way a doctor feels a patient's fever. Something is wrong at a level deeper than politics or philosophy, and if nobody identifies the cause, the patient dies.
+
+*What do you owe?* Kael watched a Padawan named Sila die during a dead zone event on Katarr. The Force vanished. His healing abilities cut out. She bled to death while he held pressure with his hands. He owes her an answer to what happened.
+
+*What are you afraid of?* That the Force is dying because of something Revan did in the Unknown Regions. That the investigation Kael has devoted two years to will lead him to a truth the Jedi Council does not want found.
+
+**High concept:** "Jedi Sentinel Mapping the Force's Wounds"
+**Trouble:** "I Watched a Padawan Die Because My Healing Failed"
+**Relationship aspect:** (built at Session Zero with another PC)
+**Free aspects:** "The Council Sent Me to Find Answers, Not Ask Questions" / "Two Years Alone in Dead Space Changes a Person"
+
+**Skills:** Investigate at Great (+4). Lore and Notice at Good (+3). Athletics, Will, and Fight at Fair (+2). Academics, Stealth, Empathy, and Drive at Average (+1).
+
+**Force-Sensitive Extra:** Kael chose **Precognition** (Notice) and **Force Healing** (Academics) as his two Force techniques. His trouble ties to the Force crisis as required.
+
+**Stunts (2 free):** "Because I've mapped dead zones for two years, I get +2 when I use Investigate to overcome challenges related to dead zone phenomena." / "Because the Force trained my reflexes before it failed me, I get +2 when I use Fight to defend in melee when I can sense my opponent through the Force."
+
+**Refresh:** 3
+}}
+
+\page
+
+{{descriptive
+**Voss Kelari, Freelance Pilot**
+
+*Where are you from?* Nar Shaddaa. Voss grew up in the refugee quarter after her family fled the Great Hyperspace War. She learned to fly stolen speeders before she learned to read.
+
+*What did you do during the wars?* Voss ran blockade cargo during the Mandalorian Wars. She never enlisted. She flew medical supplies to besieged planets because the Remnant paid triple rates for pilots willing to dodge Concordat patrols.
+
+*Who do you work for?* Whoever pays. Voss owns a modified YT-1000 freighter called the *Rust Hymn*. She takes contracts from Remnant sympathizers, Concordat shipping firms, independent traders. Loyalty to a faction means loyalty to their problems. She prefers her own.
+
+*What do you believe about the Force?* Voss is not Force-sensitive. She has watched Force users move objects with their minds, predict danger before it arrives, and heal wounds that should have killed. She respects the ability the way she respects a good hyperdrive: useful, impressive, and not something she depends on. The Force crisis troubles her because the people losing their abilities are the same people the galaxy built its infrastructure around. When a Jedi healer fails, the hospital fails. When a Force-sensitive navigator goes dark, ships crash.
+
+*What do you owe?* A Mandalorian named Torreck saved her life during a pirate ambush in the Hydian corridor. He refused payment. In Mandalorian culture, that means the debt stands until you repay it with something of equal weight. Voss has been looking for Torreck for three years. She suspects he is dead. She cannot stop looking.
+
+*What are you afraid of?* That she will never own anything permanent. Every ship, every contract, every friendship exists on a timer. Nar Shaddaa taught her that anything you love can vanish between breakfast and lunch. She flies because movement is the only thing that feels stable. Stopping means confronting the fact that she has nowhere to stop.
+
+**High concept:** "Nar Shaddaa Blockade Runner Who Owes a Dead Mandalorian"
+**Trouble:** "Loyalty Is a Luxury I Can't Afford"
+**Relationship aspect:** (built at Session Zero with another PC)
+**Free aspects:** "The Rust Hymn Is the Only Home That Hasn't Burned Down" / "I Know Every Smuggler's Route in the Mid Rim"
+
+**Skills:** Drive at Great (+4). Shoot and Contacts at Good (+3). Crafts, Notice, and Stealth at Fair (+2). Deceive, Resources, Athletics, and Will at Average (+1).
+
+**Not Force-sensitive.** Voss has no Force techniques. She gets three free stunts.
+
+**Stunts (3 free):** "Because I've run Remnant supply lines for three years, once per session I can automatically succeed on a Drive roll to escape pursuit in a system where I've established a hidden route." / "Because I fix things with whatever's available, I get +2 when I use Crafts to overcome equipment failure with improvised materials." / "Because I know the underworld's channels, I get +2 when I use Contacts to acquire black-market goods or services in Exchange-controlled territory."
+
+**Refresh:** 3
+}}
+
+Both characters belong at the same table. Kael brings the Force and its crisis into every scene. Voss brings practical skills that never fail because the galaxy is having a spiritual emergency. When a dead zone hits, Kael loses his abilities and Voss keeps flying. When the Force reveals danger seconds before it arrives, Kael saves the crew and Voss recalibrates her respect for something she cannot touch. The campaign needs both.
+
+\column
 
 {{note
-##### For the GM: Why the Party Stays Together
+##### For the GM Only: Why the Party Stays Together
 The Concordat Era's political fractures mean party members may come from opposing factions. A Concordat officer, a Remnant sympathizer, a Neo-Mandalorian warrior, and a Jedi Sentinel have no institutional reason to cooperate.
 
-Parties stay together for the same reason people in crisis form crews: necessity, shared survival, and the bonds that form when you depend on each other under pressure. The Freighter Incident (Chapter 22) is designed to establish these bonds. By the time the party escapes their first crisis, they've saved each other's lives, shared information that makes them liabilities to their respective factions, and discovered that the person across the table is more complicated than the uniform suggested.
+Parties stay together for the same reason people in crisis form crews: necessity, shared survival, and the bonds that form when you depend on each other under pressure. The Freighter Incident (Chapter 22) establishes these bonds. By the time the party escapes their first crisis, they have saved each other's lives, shared information that makes them liabilities to their respective factions, and discovered that the person across the table is more complicated than the uniform suggested.
 
 The campaign will test party cohesion. Let it. Characters who disagree about politics but trust each other in combat produce better stories than characters who agree about everything.
 }}
 
-### A Note on Fate
-
-This campaign uses **Fate Core** or **Fate Condensed** TTRPG Systems. Your character's high concept, trouble, and other aspects should reflect the setting's tensions. A high concept is a short phrase that captures who your character is at their core.
-
-{{note
-##### Strong Aspects for This Campaign
-A high concept like "Disillusioned Concordat Intelligence Officer" carries more weight than "Skilled Spy."
-
-A trouble like "My Unit Committed War Crimes at Onderon" generates more play than "Has Enemies."
-
-Your aspects should make your character's relationship to the setting's central conflicts unavoidable.
-}}
-
-Your skills and stunts should reflect what your character can do, not what the Force might let them do. In a galaxy where Force abilities are unreliable, a character whose competence rests on conventional skills (shooting, piloting, negotiation, medicine, engineering) is never helpless. A character who relies on the Force is sometimes extraordinary and sometimes nothing. Both types of characters belong in this campaign. A Force-dependent character will face moments of extraordinary vulnerability. A non-Force character will face moments when the Force-user beside them does something impossible. Build what interests you, and know the tradeoffs.
-
 {{footnote Chapter 3: Making a Character}}
 {{pageNumber,auto}}
+\page
 
 \page
 
 {{Ch1,tab}}
-
-# Part II: The Source Material
 
 ## Chapter 4: The Games Behind This Setting
 
@@ -375,8 +582,6 @@ Named characters, places, and concepts appear throughout, but the choices went d
 \page
 
 {{Ch3,tab}}
-
-# Part III: The Force
 
 ## Chapter 5: What Is the Force?
 
@@ -555,6 +760,18 @@ The Miraluka navigator thinks *"I see through the Force. When the Force fails, I
 
 **Daily life:** The crisis registers in accumulation. Kolto costs more because Force healing covers less. Travel takes longer because hyperspace routes near dead zones need manual recalculation. Construction projects run over schedule because the specialists who reinforced structures through the Force can't do it reliably. Food costs more on worlds that depended on Force-sensitive agriculture. Medical wait times lengthen. Infrastructure repair backlogs grow. No single failure is catastrophic. The sum of them reshapes how ordinary people plan their weeks, spend their credits, and think about the future.
 
+### Dead Zone Severity
+
+Dead zones vary. Some stutter. Some scream. The campaign uses a three-tier scale to describe how bad a given zone is.
+
+**Partial dead zone.** The Force works intermittently. A Force user feels her abilities flicker like a lamp with a bad connection. Techniques succeed about half the time. A partial dead zone covers a region where the Force was weakened but not destroyed: the edges of major dead zones, areas where Sith rituals left residual damage, the fringes of the Kashyyyk Shadowlands.
+
+**Significant dead zone.** The Force resists use. Every technique requires more effort and concentration than it should. A Jedi attempting telekinesis in a significant dead zone feels the Force respond sluggishly, like moving through water. Precognition delivers fragments instead of visions. Healing takes longer and accomplishes less. These zones surround areas of heavy Force damage: the space near Onderon, the Perlemian corridor dead patches, the expanding zones Kael Draven has been mapping for two years.
+
+**Total dead zone.** The Force is absent. Telekinesis fails. Precognition goes silent. Healing produces nothing. A Miraluka goes blind. A lightsaber still ignites (it is a plasma weapon powered by a crystal, not the Force) but the precognition, enhanced reflexes, and combat awareness that make a lightsaber master lethal do not function. A Jedi in a total dead zone holds a glowing sword with no supernatural advantage. The Kashyyyk Shadowlands where the Star Map was destroyed. Whatever Onderon's jungle became after the Second Siege.
+
+Force-related injuries and consequences heal slower inside dead zones, or not at all. A Jedi whose Force connection was damaged in a total dead zone may need to leave the zone entirely before recovery begins.
+
 {{footnote Chapter 6: The Force in Crisis}}
 {{pageNumber,auto}}
 
@@ -643,8 +860,6 @@ Intact but corrupted. The Star Map in the Valley of the Dark Lords has been ther
 
 {{Ch1,tab}}
 
-# Part IV: The Wars That Made Us
-
 {{wide
 ## Timeline
 }}
@@ -667,7 +882,7 @@ Intact but corrupted. The Star Map in the Valley of the Dark Lords has been ther
 | **3952** | **Campaign start. Revan returns from the Unknown Regions. The Freighter Incident.** | **4 CE** |
 }}
 
-{{footnote Part IV: The Wars That Made Us}}
+{{footnote Part I: The World You're Entering}}
 {{pageNumber,auto}}
 
 \page
@@ -974,7 +1189,7 @@ This is the galaxy in 3952 BBY. Everything after it is up to you.
 
 {{Ch2,tab}}
 
-# Part V: The Powers
+# Part II: Who Holds Power
 
 ## Chapter 8: The Concordat
 
@@ -1448,7 +1663,7 @@ Foreign embassies in Ahto City compete for influence. Intelligence operatives fr
 
 {{Ch4,tab}}
 
-# Part VI: Belief and Meaning
+# Part III: What They Believe
 
 ## Chapter 14: The Jedi Way
 
@@ -1907,7 +2122,7 @@ The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused
 
 {{Ch4,tab}}
 
-# Part VII: The Galaxy You Inhabit
+# Part IV: Where You Live
 
 ## Chapter 19: Life, Trade, and Survival
 
@@ -1967,6 +2182,22 @@ Your character's position on them is one of the most important things about them
 
 A character who has thought about these questions and arrived at a nuanced position they'll defend under pressure is exactly what this campaign needs.
 }}
+
+### The Sovereignty Gradient
+
+Control thins as you move outward from the Core. The galaxy operates on a sliding scale of governance that determines what kind of trouble you encounter and what resources you can count on.
+
+**Core Sovereignty.** Concordat-controlled Core Worlds: Coruscant, Alderaan, Corellia. Full government services, law enforcement, medical infrastructure, holonet access. Trouble here is political and subtle: intelligence operations, Senate intrigue, Force-monitoring programs. Violence is rare and carries severe consequences.
+
+**Administered Territory.** Concordat-controlled Mid Rim: Taris, Telos. Military governors run joint Mandalorian-Republic patrols. Infrastructure functions under stress. Smuggling operations, faction espionage, and occasional armed resistance keep the garrison busy. Combat happens but draws official attention.
+
+**Contested Space.** Regions where multiple factions claim authority: Onderon, Dantooine, the Perlemian corridor. Overlapping jurisdictions, unreliable services, active intelligence operations from every direction. Guerrilla raids, diplomatic crises, criminal enterprises, and dead-zone encounters rotate through the news cycle. Combat is common. Consequences depend on who saw it.
+
+**Frontier.** Outer Rim regions with minimal governance: the Remnant's twenty-three systems, Neo-Mandalorian operating territory, Hutt Space border regions. Limited infrastructure, unreliable communications, danger from pirates, warlords, wildlife, and dead zones. Survival is the primary concern. Combat is expected.
+
+**Ungoverned Space.** Beyond the frontier. No government services, no reliable hyperspace routes, no medical infrastructure, no law. Sith remnant territories, unexplored systems, deep frontier. Kolto is whatever you brought with you. Law is whatever you enforce. Combat is just another day.
+
+Where your character lives on this gradient shapes what "normal" means to them. A Coruscant bureaucrat considers a locked door the boundary between safe and dangerous. A frontier mechanic considers a charged blaster the same boundary.
 
 {{footnote Chapter 19: Life, Trade, and Survival}}
 {{pageNumber,auto}}
@@ -2325,11 +2556,9 @@ A kolto merchant who knows exactly where her product goes. A member of the Order
 
 {{Ch5,tab}}
 
-# Part VIII: Where We Begin
-
 ## Chapter 22: Starting Scenarios
 
-### 21.1 The Freighter Incident
+### 22.1 The Freighter Incident
 
 **Premise:** You are aboard a freighter traveling a major hyperlane. The ship drops out of hyperspace six days early, stranded at the edge of a dead zone. The Force doesn't work here. Hyperspace navigation fails. Three other ships are stuck: a Concordat military transport, a Remnant courier vessel, and a Neo-Mandalorian raiding ship.
 
@@ -2350,7 +2579,7 @@ Everyone on all four ships knows that none of them can leave without solving the
 
 \column
 
-### 21.2 The Windfall Protocol
+### 22.2 The Windfall Protocol
 
 **Premise:** You are Sith-aligned operatives. You wake in kolto immersion tanks inside a blacked-out refining station on the seafloor of an ocean moon. The station is in lockdown. Emergency lighting only. The kolto in your tanks isn't normal: cloudy, faintly luminescent, but it tastes sweet and tart.
 
@@ -2373,7 +2602,7 @@ Trust no one, and remember that the person you suspect the most may be the one y
 
 {{Ch1,tab}}
 
-### 21.3 The Proving of Clan Veshok
+### 22.3 The Proving of Clan Veshok
 
 **Premise:** You are members or recent inductees of Clan Veshok, a small Neo-Mandalorian clan operating from a converted cargo hauler called the *Tra'cysur* ("Star-Grave"). Mandalore Canderous Ordo has called a gathering of the clans at Dxun. For small clans like yours, a gathering is a test: prove your worth through combat trials and you gain standing, territory assignments, and access to the Coalition's shared armories. Fail, and Clan Veshok gets absorbed into a larger clan or scattered.
 
