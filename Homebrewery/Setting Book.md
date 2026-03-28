@@ -646,7 +646,7 @@ This position lacks the historical weight of Orthodox or Imperial doctrine, but 
 
 ### Revan and Malak
 
-Two individuals illustrate the light/dark question more concretely than abstract philosophy can. Revan and Malak, the architects of the Revanchist War and the Ashen Campaigns, both defied the Jedi Council. Both studied Sith techniques. Both led military operations that killed hundreds of thousands. Neither declares himself a Sith Lord, and the Jedi cannot agree on whether they fell or transcended.
+These two individuals illustrate the light/dark question more concretely than any abstract philosophy can. Revan and Malak, the architects of the Revanchist movement and the Ashen Campaigns, defied the Jedi Council, studied Sith techniques, and led military operations that killed hundreds of thousands. Neither declares himself a Sith Lord, and the Jedi cannot agree on whether they fell or transcended.
 
 **Revan**
 
@@ -660,7 +660,6 @@ The Jedi Council reads Revan as a cautionary tale: a brilliant strategist who to
 
 The unanswered question: did Revan fall to the dark side, or did he embrace the Keeper of Adas position, that emotional engagement and aggressive strategy are not inherently corrupting? His diminishment upon return suggests something happened in the Unknown Regions. What he found and what it did to him are questions Revan cannot answer clearly. Your character will form their own opinion.
 
-\column
 
 **Malak**
 
