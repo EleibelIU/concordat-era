@@ -58,6 +58,7 @@ Writing ongoing. Core documents complete; structural revisions and content expan
 
 ### Other Factions
 - [ ] Expand Czerka, the Exchange, the Hutt Cartels, and regional powers (all grossly underexplored)
+- [ ] Move Rakata sections and mentions into their own chapter (under Powers or another appropriate section)
 
 ### Policy for Homebrew / Introducing Legends Subjects
 - [ ] Define policy for integrating Legends material into the setting

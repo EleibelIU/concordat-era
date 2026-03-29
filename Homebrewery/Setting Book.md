@@ -20,9 +20,8 @@
     - [{{ How This Setting Diverges}}{{ 10}}](#p10)
   - [{{ Chapter 5: What Is the Force?}}{{ 12}}](#p12)
   - [{{ Chapter 6: The Force in Crisis}}{{ 15}}](#p15)
-    - [{{ The Rakata and the Star Forge}}{{ 16}}](#p16)
-    - [{{ The Star Maps}}{{ 17}}](#p17)
   - [{{ Chapter 7: A History of the Concordat Era}}{{ 18}}](#p18)
+    - [{{ The Sith Empire}}{{ 18}}](#p18)
     - [{{ The Great Hyperspace War}}{{ 18}}](#p18)
     - [{{ The Mandalorian Wars}}{{ 19}}](#p19)
     - [{{ The Revanchist War}}{{ 20}}](#p20)
@@ -34,18 +33,20 @@
   - [{{ Chapter 10: The Neo-Mandalorian Coalition}}{{ 26}}](#p26)
   - [{{ Chapter 11: The Jedi Order}}{{ 28}}](#p28)
   - [{{ Chapter 12: The Sith}}{{ 31}}](#p31)
-  - [{{ Chapter 13: Independent Powers}}{{ 33}}](#p33)
-- # [{{ Part III: What They Believe}}{{}}](#p34)
-  - [{{ Chapter 14: The Jedi Way}}{{ 34}}](#p34)
-  - [{{ Chapter 15: The Sith Tradition}}{{ 39}}](#p39)
-  - [{{ Chapter 16: Sith Sorcery & Alchemy}}{{ 42}}](#p42)
-  - [{{ Chapter 17: The Mandalorian Creed}}{{ 44}}](#p44)
-  - [{{ Chapter 18: Fringe Traditions}}{{ 46}}](#p46)
+  - [{{ Chapter 13: The Rakata and the Star Forge}}{{ 33}}](#p33)
+    - [{{ The Star Maps}}{{ 34}}](#p34)
+  - [{{ Chapter 14: Independent Powers}}{{ 35}}](#p35)
+- # [{{ Part III: What They Believe}}{{}}](#p36)
+  - [{{ Chapter 15: The Jedi Way}}{{ 36}}](#p36)
+  - [{{ Chapter 16: The Sith Tradition}}{{ 39}}](#p39)
+  - [{{ Chapter 17: Sith Sorcery & Alchemy}}{{ 42}}](#p42)
+  - [{{ Chapter 18: The Mandalorian Creed}}{{ 44}}](#p44)
+  - [{{ Chapter 19: Fringe Traditions}}{{ 46}}](#p46)
 - # [{{ Part IV: Where You Live}}{{}}](#p47)
-  - [{{ Chapter 19: Life, Trade, and Survival}}{{ 47}}](#p47)
-  - [{{ Chapter 20: Worlds and Frontiers}}{{ 50}}](#p50)
-  - [{{ Chapter 21: Peoples and Species}}{{ 53}}](#p53)
-  - [{{ Chapter 22: Starting Scenarios}}{{ 56}}](#p56)
+  - [{{ Chapter 20: Life, Trade, and Survival}}{{ 47}}](#p47)
+  - [{{ Chapter 21: Worlds and Frontiers}}{{ 50}}](#p50)
+  - [{{ Chapter 22: Peoples and Species}}{{ 53}}](#p53)
+  - [{{ Chapter 23: Starting Scenarios}}{{ 56}}](#p56)
     - [{{ The Freighter Incident}}{{ 56}}](#p56)
     - [{{ The Windfall Protocol}}{{ 56}}](#p56)
     - [{{ The Proving of Clan Veshok}}{{ 56}}](#p56)
@@ -743,80 +744,6 @@ Dead zones vary. Some stutter. Some scream. The campaign uses a three-tier scale
 
 Force-related injuries and consequences heal slower inside dead zones, or not at all. A Jedi whose Force connection was damaged in a total dead zone may need to leave the zone entirely before recovery begins.
 
-
-## The Rakata
-
-Thirty thousand years before the Concordat Era, the Rakata ruled a galaxy-spanning empire powered by the Force engineering. They built machines that drew on the Force as an energy source: hyperdrives that navigated through Force currents, terraformers that reshaped planetary ecosystems through Force manipulation, and at the apex of their civilization, the **Star Forge**.
-
-The Star Forge orbits a star in the Lehon system, deep in the Unknown Regions. It is a factory the size of a small moon. It draws energy from the star it orbits and from the Force itself, converting both into raw material: ships, weapons, droids, armor, anything its operators can conceive. At its height, the Star Forge produced entire fleets in days. It won the Rakata their empire and then consumed them.
-
-The Rakata's collapse followed a pattern that Force scholars recognized: they used the Force as a resource, and the resource ran out. Operators who used the Star Forge grew more aggressive as dark-side energy fed back into them, accelerating a feedback loop of conquest, consumption, and corruption. The Rakata's slave species revolted. A plague swept through the Rakata population. Their Force sensitivity deteriorated. Without the Force, their technology stopped working. Without their technology, their empire collapsed.
-
-Within a few centuries, the Rakata went from ruling the galaxy to squatting in the ruins of their own monuments, unable to open doors their ancestors had built.
-
-##### Why the Rakata Matter Now
-
-The Rakatan collapse is the historical precedent for the current Force crisis. A civilization that built everything on the Force, lost the Force, and died.
-
-Revan noticed the parallels. He was not the first. The Jedi Archives on Ossus contained fragmentary references to the Infinite Empire before they burned in the Great Hyperspace War. Sith scholars on Korriban maintained their own records of Rakatan ruins found in the Stygian Caldera (the nebula surrounding Sith space) and interpreted them through a Sith theological lens: the Rakata were a warning about what happens when a civilization relies on Force power without the discipline to sustain it.
-
-
-The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated in the twelve years since the Great Hyperspace War at a rate no model predicts. Whether the cause is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified yet is the campaign's central mystery.
-
-### The Star Forge
-
-Whether the Star Forge is operational, dormant, or destroyed remains unknown. Revan believes he located it. His research notes reference "the station" and "the engine" in ways that suggest he found something in the Lehon system. What matters for the galaxy is that the possibility of the Star Forge drives faction behavior:
-
-{{note
-- If the Star Forge exists and can be activated, whoever controls it can build an infinite fleet.
-- If the Star Forge exists and requires the Force to operate, then in a galaxy where the Force is dying, it may be the thing that finishes the job.
-- If Revan found it and it broke him, that is its own kind of answer.
-}}
-
-Factions will pursue it. Players will hear about it. What the Star Forge is, and what it does if activated, belongs to the campaign's arc.
-
-{{footnote Chapter 6: The Force in Crisis}}
-{{pageNumber,auto}}
-
-\page
-
-{{Ch3,tab}}
-
-## The Star Maps
-
-The Rakata built Star Maps as navigational monuments: self-sustaining holographic systems, powered by the Force, that recorded the location of the Star Forge and other key Infinite Empire installations. Five Star Maps were scattered across the galaxy on worlds significant to the Rakata: Dantooine, Kashyyyk, Manaan, Tatooine, and Korriban.
-
-The maps were designed to be self-repairing. When the Rakata destroyed them during their collapse (to prevent their slave species from seizing the Star Forge), the maps slowly reconstructed themselves over millennia, drawing on residual Force energy embedded in their construction sites.
-
-What each faction knows about the Star Maps varies with their access to Revan's research, their own archaeological records, and the accidents of geography.
-
-##### Dantooine
-Intact but partially degraded. Located in Rakatan ruins near the Jedi Enclave.
-
-**Jedi** scholars at the enclave studied it for decades without understanding what it was. **Concordat** military surveys have catalogued the ruins as low priority. **Remnant** intelligence knows Revan studied this map before forming the Revanchists; his notes reference it as one of five. When the Mandalorians established their presence on Dantooine, the map fell into a contested zone. Its current status is uncertain: the enclave may have moved it, the Mandalorians may have seized it, or it may still be sitting in the ruins, guarded by nothing but geography and Force-sensitive fauna.
-
-##### Kashyyyk
-Destroyed. A dead zone marks where it stood in the Shadowlands.
-
-**Remnant** records confirm Revan's forces located the Star Map during Year Five of the Mandalorian Wars. After extracting the navigational data, Revan ordered the map demolished to prevent anyone from following his trail. Wookiee elders who witnessed the destruction reported that the ruins "screamed" in the Force when the map was broken. **Most factions** know a dead zone exists in the Shadowlands but not why. The dead zone around the former map site has not healed.
-
-
-
-##### Manaan
-Intact and hidden. Submerged deep beneath Ahto City, in the ocean trenches near the Hrakert Rift, the deep-sea geological formation where kolto is produced.
-
-**The Selkath** know about the Rakatan ruins. They have known for longer than the Republic has existed. The **Order of Shasa** (the Selkath Force tradition) maintains the site as a sacred place and does not discuss it with outsiders. The connection between the Star Map, the Hrakert Rift, and kolto's Force-resonant properties is not a coincidence, and the Selkath know more about this relationship than they share. **Other factions** suspect Rakatan ruins exist in Manaan's deep ocean but have no access.
-
-##### Tatooine
-Destroyed.
-
-**Remnant** intelligence indicates that Malak's forces located this map during Year Six, acting on intelligence separate from Revan's research. Malak destroyed it. He recognized what the Star Forge represented: an infinite factory powered by the Force. He concluded that in a galaxy where the Force was dying, an engine that consumed the Force to produce weapons was the last thing anyone needed. His destruction of the Tatooine map was a strategic decision. It may have been the most morally clear decision Malak has ever made. **Concordat** records do not publicize this event. **Most people** have no idea the map existed.
-
-##### Korriban
-Intact but corrupted. The Star Map in the Valley of the Dark Lords has been there since before the Dark Jedi Exiles arrived to found the Sith Empire. It predates everything the Sith built on Korriban.
-
-**Sith traditionalists** and **Keepers of Adas** know the map is ancient, their oral traditions connect it to King Adas's war against the Rakata twenty-seven thousand years ago. Sith sorcerers drew on its residual Force energy for millennia without understanding its origin. By the Concordat Era, the Korriban map is saturated with dark-side energy accumulated over thousands of years of Sith ritual practice. Whether it still functions as a navigational tool is unclear. What it has become, a Force artifact soaked in millennia of death, is something else entirely. **Other factions** know Korriban's reputation and stay away. Few outside the Sith know the map exists.
-
 {{footnote Chapter 6: The Force in Crisis}}
 {{pageNumber,auto}}
 
@@ -850,17 +777,45 @@ Intact but corrupted. The Star Map in the Valley of the Dark Lords has been ther
 }}
 
 
+## The Sith Empire
+
+The Sith Empire did not begin with the Sith.
+
+Seven thousand years before the Great Hyperspace War, a group of Jedi defectors lost a civil war called the **Hundred-Year Darkness**. These Jedi had embraced the dark side of the Force, experimenting with alchemy, flesh-shaping, and techniques the Jedi Order condemned. The Order defeated them. Rather than execute the survivors, the Jedi Council exiled them to the Unknown Regions.
+
+Their leader was **Ajunta Pall**, a former Jedi Master whose alchemical research had produced mutations in living creatures, weapons fused with dark-side energy, and a philosophical framework that placed individual will above communal harmony. The Order called him and his followers **Dark Jedi**: Jedi who used the Force through passion, domination, and hunger rather than through the Order's discipline of calm surrender.
+
+The exiles found **Korriban**.
+
+The Sith species had lived on Korriban for tens of thousands of years. They were a red-skinned, Force-sensitive people organized into castes: **Kissai** priests who practiced sorcery tied to the natural world, **Massassi** warriors who channeled the Force through combat, and **Zuguruk** engineers who built monuments and machines on a scale that rivaled the Rakata at their height. The Sith had repelled a Rakatan invasion under **King Adas** roughly twenty thousand years before the exiles arrived. They had Force traditions and a theology that predated the Jedi Order.
+
+Ajunta Pall and the Dark Jedi conquered them.
+
+The exiles held two advantages: lightsabers and a combat-tested understanding of the Force that the Sith had not encountered. Within a generation, the Dark Jedi ruled Korriban as a priestly aristocracy. They called themselves the **Lords of the Sith**, adopting the species' name for their new order.
+
+Over the next two thousand years, interbreeding (accelerated by Sith alchemy) blurred the genetic line between conqueror and conquered. The word "Sith" came to mean both the original species and the hybrid empire the exiles built on their labor. Kissai sorcery merged with Dark Jedi philosophy, Massassi combat traditions absorbed lightsaber technique, and Zuguruk engineers incorporated alchemical metallurgy. The result was a civilization the Republic had never seen.
+
+The empire expanded through the Stygian Caldera, the nebula surrounding Sith space, colonizing worlds and building a military infrastructure hidden from Republic knowledge. For five thousand years, the Republic did not know the Sith Empire existed.
+
+**Marka Ragnos** ruled during the empire's golden age, holding the fractious Sith Lords together through personal authority and overwhelming power. When Ragnos died, two rivals claimed succession: **Naga Sadow**, an expansionist who believed the empire should conquer the Republic, and **Ludo Kressh**, a conservative who argued for isolation and consolidation. Sadow won. He turned the empire outward.
+
+\page
+
+{{Ch1,tab}}
+
 ## The Great Hyperspace War 
 
-The Great Hyperspace War in this setting is not distant ancient history. It ended twelve years before the campaign starts. The veterans are middle-aged. The orphans are young adults. 
+The Great Hyperspace War ended twelve years before the campaign starts. The veterans are middle-aged. The orphans are young adults.
 
-The Sith Empire under **Naga Sadow** launched an invasion of the Republic that came closer to succeeding than any official history admits. Sith battle fleets struck the Core Worlds. Sith sorcerers performed ritual warfare on a scale the galaxy had never seen: mass sacrifice, reality distortion, Force-severing techniques that could strip Jedi of their abilities mid-battle.
+Naga Sadow launched his invasion after Republic hyperspace explorers stumbled into Sith space, giving him both a pretext and a navigational route into the Core. Sith battle fleets struck along multiple axes. The Republic, which had enjoyed millennia of military complacency, scrambled to respond.
 
-On **Ossus**, the Jedi Archives burned. Ten thousand Jedi fought the Sith war machine, and when the massed rituals peaked, the defenders felt something unprecedented: silence. Not the quiet of a calm mind, but the silence of a severed connection. For minutes that stretched like hours, the Force vanished from Ossus. Jedi who had relied on precognition for decades fought blind. Jedi healers watched patients die under their hands. Some collapsed, unable to process the absence.
+Sith sorcerers performed ritual warfare at a scale the Republic had never seen: massed sacrifice, reality distortion, Force-severing techniques that stripped a Jedi's connection mid-battle.
 
-The Republic won because the Sith rituals were unstable. The sorcery that severed Jedi also consumed Sith practitioners. Naga Sadow's forces imploded as their own weapons devoured them. The Republic counter-invasion shattered what remained of the Sith Empire and drove the survivors into the Unknown Regions and the fringes of Wild Space.
+On **Ossus**, the Jedi Archives burned. Ten thousand Jedi fought the Sith war machine, and when the massed rituals peaked, the defenders felt something they had no framework to process: silence. The Force vanished from Ossus. Jedi who had relied on precognition for decades fought blind. Healers watched patients die under their hands, and some collapsed where they stood.
 
-The victory was pyrrhic. The war severed trade routes and depopulated entire sectors. The Core Worlds bore bombardment scars that would take generations to repair. And the Jedi whispered about something worse: the Force itself was damaged. Not on Ossus alone, but spreading. Places where Sith rituals had been performed became dead zones. The zones kept growing.
+Naga Sadow's sorcerers pushed Force channeling past the point of stability. The rituals consumed their own practitioners, and Sadow's forces collapsed from within. The Republic counter-invasion shattered what remained of the empire. Survivors fled into the Unknown Regions and Wild Space.
+
+The victory was pyrrhic. The war severed trade routes and depopulated sectors. The Core Worlds bore bombardment scars that would take generations to repair. The Jedi whispered about something worse: the Force itself was damaged. Places where Sith rituals had been performed became dead zones, and the zones kept spreading.
 
 The Republic needed resources to rebuild. Cortosis for hull plating. Durasteel for infrastructure. Kolto for the millions of wounded. Fuel for the shattered fleet. Food for the displaced.
 
@@ -1460,11 +1415,11 @@ Sith Purebloods who've integrated into Republic society navigate this daily. The
 
 ### The Deep Sith
 
-The Sith Empire that fought the Great Hyperspace War was already a hybrid civilization. Seven thousand years before the GHW, renegade Dark Jedi led by **Ajunta Pall** — exiled after losing the Hundred-Year Darkness — arrived on Korriban and found a Force-sensitive  caste society built around the Force,  Kissai priests practiced sorcery, Massassi warriors who channeled the Force through combat, and Zuguruk engineers built megastructures that would challenge the Rakata at the height of their power.
+The Sith Empire that fought the Great Hyperspace War was a hybrid civilization seven thousand years in the making. Chapter 7 covers the full history: how Ajunta Pall's exiled Dark Jedi conquered Korriban, merged with the Sith species through alchemy and interbreeding, and built an empire the Republic did not know existed until Naga Sadow's fleets appeared in the Core.
 
-The Dark Jedi Exiles conquered the Sith through a combination of Force superiority and technological advantage. Over the next two thousand years, interbreeding (facilitated by Sith alchemy) blurred the line between the two populations. The word "Sith" came to mean both the original species and the hybrid culture that the Exiles built on their backs.
+By the time of the Great Hyperspace War, millennia of cultural fusion had blurred the line between the original species and the Dark Jedi-descended aristocracy.
 
-But the original Sith, the people who lived on Korriban before Ajunta Pall arrived, did not vanish into the hybrid population uniformly. Some Kissai lineages maintained what they called *Jen'jidai tsiss*, "blood before the Exiles." These were Pureblood families who traced their ancestry to pre-Exile Sith, whose Force traditions predated the Dark Jedi by millennia, and who viewed the hybrid Sith Empire as a colonial imposition on their culture rather than a natural evolution.
+But not all of the original Sith merged into the hybrid population. Some Kissai lineages maintained what they called *Jen'jidai tsiss*, "blood before the Exiles." These Pureblood families traced their ancestry to pre-Exile Sith. Their Force traditions predated the Dark Jedi by millennia. They viewed the hybrid Sith Empire as a colonial imposition on their culture.
 
 \page
 
@@ -1475,14 +1430,6 @@ Among the oldest Sith Pureblood traditions is the cult of **King Adas**, an anci
 
 The Keepers of Adas are not a formal organization in the Concordat Era. They are a cultural memory maintained by elder Kissai in diaspora communities, transmitted through oral tradition, ritual practice, and a small number of Sith-language texts that predate the Exiles' arrival. The Keepers hold that the "true Sith" are the people, not the philosophy. That the Force traditions of the original Sith — which emphasized the relationship between passion, the natural world, and the Force as an elemental power rather than a moral binary — were corrupted by the Dark Jedi Exiles, who imposed their own light-side/dark-side framework onto a tradition that had never needed it.
 
-
-### Ancient Survivors
-
-The tombs on Korriban are not all empty. Sith sorcerers of extraordinary power practiced techniques for extending life: stasis fields, Force-sustained hibernation, the transfer of consciousness into artifacts or constructed bodies. The Valley of the Dark Lords contains dozens of sealed tombs, and the Force crisis has destabilized some of those seals.
-
-{{descriptive
-Reports from Korriban in the last two years include: tremors in sealed tomb complexes, activation of security systems that have been dormant for centuries, and (in one unverified report from a Czerka archaeological team) a voice speaking Old Sith from behind a wall that the team's sensors said was solid stone.
-}}
 
 ### Sith Pureblood Character Identities
 
@@ -1526,6 +1473,84 @@ Concordat Intelligence has compiled twenty-seven incidents matching this pattern
 {{Ch2,tab}}
 
 # Chapter 13
+### The Rakata and the Star Forge
+
+Thirty thousand years before the Concordat Era, the Rakata ruled a galaxy-spanning empire powered by Force engineering. They built machines that drew on the Force as an energy source: hyperdrives that navigated through Force currents, terraformers that reshaped planetary ecosystems through Force manipulation, and at the apex of their civilization, the **Star Forge**.
+
+The Star Forge orbits a star in the Lehon system, deep in the Unknown Regions. It is a factory the size of a small moon. It draws energy from the star it orbits and from the Force itself, converting both into raw material: ships, weapons, droids, armor, anything its operators conceive. At its height, the Star Forge produced entire fleets in days. It won the Rakata their empire and then consumed them.
+
+The Rakata's collapse followed a pattern that Force scholars recognized: they used the Force as a resource, and the resource ran out. Operators who used the Star Forge grew more aggressive as dark-side energy fed back into them, accelerating a feedback loop of conquest, consumption, and corruption. The Rakata's slave species revolted. A plague swept through the Rakata population. Their Force sensitivity deteriorated. Without the Force, their technology stopped working. Without their technology, their empire collapsed.
+
+Within a few centuries, the Rakata went from ruling the galaxy to squatting in the ruins of their own monuments, unable to open doors their ancestors had built.
+
+##### Why the Rakata Matter Now
+
+The Rakatan collapse is the historical precedent for the current Force crisis. A civilization that built everything on the Force, lost the Force, and died.
+
+Revan noticed the parallels. He was not the first. The Jedi Archives on Ossus contained fragmentary references to the Infinite Empire before they burned in the Great Hyperspace War. Sith scholars on Korriban maintained their own records of Rakatan ruins found in the Stygian Caldera and interpreted them through a Sith theological lens: the Rakata were a warning about what happens when a civilization relies on Force power without the discipline to sustain it.
+
+The difference between the Rakatan collapse and the current crisis is speed. The Rakata declined over centuries. The galaxy's current Force deterioration has accelerated in the twelve years since the Great Hyperspace War at a rate no model predicts. Whether the cause is the Sith rituals, the Ashen Campaigns, some deeper structural failure, or something no one has identified is the campaign's central mystery.
+
+### The Star Forge
+
+Whether the Star Forge is operational, dormant, or destroyed remains unknown. Revan believes he located it. His research notes reference "the station" and "the engine" in ways that suggest he found something in the Lehon system. The possibility of the Star Forge drives faction behavior:
+
+{{note
+- If the Star Forge exists and can be activated, whoever controls it can build an infinite fleet.
+- If the Star Forge exists and requires the Force to operate, then in a galaxy where the Force is dying, it may be the thing that finishes the job.
+- If Revan found it and it broke him, that is its own kind of answer.
+}}
+
+Factions will pursue it. Players will hear about it. What the Star Forge is, and what it does if activated, belongs to the campaign's arc.
+
+{{footnote Chapter 13: The Rakata and the Star Forge}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch3,tab}}
+
+## The Star Maps
+
+The Rakata built Star Maps as navigational monuments: self-sustaining holographic systems, powered by the Force, that recorded the location of the Star Forge and other key Infinite Empire installations. Five Star Maps were scattered across the galaxy on worlds significant to the Rakata: Dantooine, Kashyyyk, Manaan, Tatooine, and Korriban.
+
+The maps were designed to be self-repairing. When the Rakata destroyed them during their collapse (to prevent their slave species from seizing the Star Forge), the maps reconstructed themselves over millennia, drawing on residual Force energy embedded in their construction sites.
+
+Faction knowledge of the Star Maps varies with access to Revan's research, archaeological records, and geography.
+
+##### Dantooine
+Intact but partially degraded. Located in Rakatan ruins near the Jedi Enclave.
+
+**Jedi** scholars at the enclave studied it for decades without understanding what it was. **Concordat** military surveys have catalogued the ruins as low priority. **Remnant** intelligence knows Revan studied this map before forming the Revanchists; his notes reference it as one of five. When the Mandalorians established their presence on Dantooine, the map fell into a contested zone. Its current status is uncertain: the enclave may have moved it, the Mandalorians may have seized it, or it may still sit in the ruins, guarded by geography and Force-sensitive fauna.
+
+##### Kashyyyk
+Destroyed. A dead zone marks where it stood in the Shadowlands.
+
+**Remnant** records confirm Revan's forces located the Star Map during Year Five of the Mandalorian Wars. After extracting the navigational data, Revan ordered the map demolished to prevent anyone from following his trail. Wookiee elders who witnessed the destruction reported that the ruins "screamed" in the Force when the map was broken. **Most factions** know a dead zone exists in the Shadowlands but not why. The dead zone around the former map site has not healed.
+
+##### Manaan
+Intact and hidden. Submerged deep beneath Ahto City, in the ocean trenches near the Hrakert Rift, the deep-sea geological formation where kolto is produced.
+
+**The Selkath** know about the Rakatan ruins. They have known for longer than the Republic has existed. The **Order of Shasa** (the Selkath Force tradition) maintains the site as a sacred place and does not discuss it with outsiders. The connection between the Star Map, the Hrakert Rift, and kolto's Force-resonant properties is not a coincidence, and the Selkath know more about this relationship than they share. **Other factions** suspect Rakatan ruins exist in Manaan's deep ocean but have no access.
+
+##### Tatooine
+Destroyed.
+
+**Remnant** intelligence indicates that Malak's forces located this map during Year Six, acting on intelligence separate from Revan's research. Malak destroyed it. He recognized what the Star Forge represented: an infinite factory powered by the Force. He concluded that in a galaxy where the Force was dying, an engine that consumed the Force to produce weapons was the last thing anyone needed. His destruction of the Tatooine map was a strategic decision, and perhaps the most clear-eyed judgment Malak has made. **Concordat** records do not publicize this event. **Most people** have no idea the map existed.
+
+##### Korriban
+Intact but corrupted. The Star Map in the Valley of the Dark Lords has been there since before the Dark Jedi Exiles arrived to found the Sith Empire. It predates everything the Sith built on Korriban.
+
+**Sith traditionalists** and **Keepers of Adas** know the map is ancient; their oral traditions connect it to King Adas's war against the Rakata twenty-seven thousand years ago. Sith sorcerers drew on its residual Force energy for millennia without understanding its origin. By the Concordat Era, the Korriban map is saturated with dark-side energy accumulated over thousands of years of Sith ritual practice. Whether it still functions as a navigational tool is unclear. What it has become, a Force artifact soaked in millennia of death, is something else. **Other factions** know Korriban's reputation and stay away. Few outside the Sith know the map exists.
+
+{{footnote Chapter 13: The Rakata and the Star Forge}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+# Chapter 14
 ### Independent Powers
 
 **Hutt Space** encompasses approximately three hundred systems under Hutt clan authority. The Hutts have been neutral in the Concordat conflict, which means they've sold weapons, intelligence, kolto, and logistical support to every side while profiting from the chaos.
@@ -1544,7 +1569,7 @@ Internal Selkath politics are fracturing under the pressure:
 
 Foreign embassies in Ahto City compete for influence. Intelligence operatives from every faction circulate through the city's markets and cantinas.
 
-{{footnote Chapter 13: Independent Powers}}
+{{footnote Chapter 14: Independent Powers}}
 {{pageNumber,auto}}
 
 
@@ -1554,7 +1579,7 @@ Foreign embassies in Ahto City compete for influence. Intelligence operatives fr
 
 # Part III: What They Believe
 
-## Chapter 14: The Jedi Way
+## Chapter 15: The Jedi Way
 
 {{descriptive
 *In the quiet hours before dawn, a Jedi sits in stillness. She does not empty her mind of thought, though centuries of teaching have suggested this. She opens her awareness to the web around her. She feels the breathing of the sleeping city blocks away, the metabolic hum of the cantina's nervous staff two floors below, the electrical pulse through the tower's data-core. A child wakes in fear three streets over. An old man's heart stutters. A maintenance droid follows its predetermined path without question or complaint. All of it touches her simultaneously. All of it is the Force, and she holds it in her palm without grasping.*
@@ -1597,7 +1622,7 @@ The Mandalorians attacked, and the Council counseled restraint. Revan walked out
 
 The Code became difficult to maintain. *There is no emotion*: but young Jedi watched their mentors burn in orbital bombardment. *There is no passion*: but the Council ordered them to kill. *There is no chaos, there is harmony*: but Mandalorian weapons introduced literal chaos into the Force itself, disrupting the web of connection, leaving scars in places that should have been whole.
 
-{{footnote Chapter 14: The Jedi Way}}
+{{footnote Chapter 15: The Jedi Way}}
 {{pageNumber,auto}}
 
 \page
@@ -1762,14 +1787,14 @@ Revan walked out when these teachings conflicted. Four hundred followed. The Cou
 
 The Council still has no answer for why the Code's own logic justified leaving the institution that teaches it. The Order would have to either abandon universal truth-claims or abandon institutional structure. Either choice transforms the Order into something different.
 
-{{footnote Chapter 14: The Jedi Way}}
+{{footnote Chapter 15: The Jedi Way}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-# Chapter 15
+# Chapter 16
 ### The Sith Tradition
 
 Understanding the Sith requires holding three meanings simultaneously. The word "Sith" refers to a species, an order, and a philosophy. Confusing these is the most common mistake outsiders make, and the distinction matters for your character.
@@ -1876,14 +1901,14 @@ The modern Sith Order teaches power through dominance. The Keepers teach power t
 
 In the Concordat Era, when the Republic crumbles and the Force grows unstable, the Sith tradition offers something no other belief system does: the promise that you need not surrender to what is. You need only find the strength to oppose it.
 
-{{footnote Chapter 15: The Sith Tradition}}
+{{footnote Chapter 16: The Sith Tradition}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-# Chapter 16
+# Chapter 17
 ### Sith Sorcery & Alchemy
 
 {{descriptive
@@ -1934,14 +1959,14 @@ The real question: nobody knows what happens to existing sorcery when the Force 
 **For Players:** Sith artifacts surface on black markets. Someone reconstructs a Kissai ritual from tomb carvings and initiates it without training. Your character encounters sorcerous objects or practitioners attempting rituals they half-understand. Knowing the difference between Kissai (collective, temporary, ritual-based) and Zuguruk (individual, permanent, object-based) work could save your life. Kissai workers can be interrupted. Zuguruk creations cannot be unmade. This distinction determines your tactical response.
 }}
 
-{{footnote Chapter 16: Sith Sorcery & Alchemy}}
+{{footnote Chapter 17: Sith Sorcery & Alchemy}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-# Chapter 17
+# Chapter 18
 ### The Mandalorian Creed
 
 {{descriptive
@@ -2013,7 +2038,7 @@ It promises that you will never be helpless.
 \page
 {{Ch4,tab}}
 
-# Chapter 18
+# Chapter 19
 ### Fringe Traditions
 
 The galaxy contains thousands of Force traditions beyond the Jedi and the Sith.
@@ -2024,7 +2049,7 @@ The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused
 
 **Anti-Force secularism** has grown in the Concordat Era. Political movements on Core Worlds and Mid Rim systems argue that Force users, whether Jedi, Sith, or otherwise, have caused the galaxy's problems and that governance should be secular. These movements range from principled humanism to crude speciesism directed at Force-sensitive peoples like the Miraluka and the Sith Purebloods.
 
-{{footnote Chapter 18: Other Traditions}}
+{{footnote Chapter 19: Other Traditions}}
 {{pageNumber,auto}}
 
 \page
@@ -2033,7 +2058,7 @@ The **Baran Do Sages** of the Kel Dor practice a contemplative tradition focused
 
 # Part IV: Where You Live
 
-## Chapter 19: Life, Trade, and Survival
+## Chapter 20: Life, Trade, and Survival
 
 {{descriptive
 *A Concordat citizen in the Core Worlds wakes in an apartment that hasn't changed much since before the wars. The holonet plays the morning news: Senate proceedings, trade reports, a segment on kolto prices that nobody wants to hear.*
@@ -2174,14 +2199,14 @@ Every military in the galaxy learned from the Mandalorian Wars and the Force's d
 
 Force users in all three forces operate as unreliable force multipliers. Smart commanders plan operations that succeed without Force support and benefit from it when it's available. Foolish commanders rely on Force support and lose soldiers when it fails.
 
-{{footnote Chapter 19: Life, Trade, and Survival}}
+{{footnote Chapter 20: Life, Trade, and Survival}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-# Chapter 20
+# Chapter 21
 ### Worlds and Frontiers
 
 Each world entry lists two tags: **Control** and **Security**. These are orientation tools for GMs and players.
@@ -2228,7 +2253,13 @@ Beneath the surface, the Selkath maintain a relationship with their ocean that o
 
 **Control:** Sith traditionalist garrison. **Security:** Low (dangerous).
 
-The tomb world of the Sith. The Force crisis has changed Korriban: ancient seals on tomb complexes have weakened, security systems dormant for centuries have activated, and the dark-side energy saturating the Valley of the Dark Lords has not diminished with the rest of the Force. If anything, it has concentrated — as though the Force's retreat has left the dark side pooled in the places where it was always strongest.
+The tomb world of the Sith. The Force crisis has changed Korriban: ancient seals on tomb complexes have weakened, security systems dormant for centuries have activated, and the dark-side energy saturating the Valley of the Dark Lords has not diminished with the rest of the Force. If anything, it has concentrated, as though the Force's retreat has left the dark side pooled in the places where it was strongest.
+
+The tombs are not all empty. Sith sorcerers of extraordinary power practiced techniques for extending life: stasis fields, Force-sustained hibernation, the transfer of consciousness into artifacts or constructed bodies. The Valley contains dozens of sealed tombs, and the Force crisis has destabilized some of those seals.
+
+{{descriptive
+Reports from Korriban in the last two years include: tremors in sealed tomb complexes, activation of security systems that have been dormant for centuries, and (in one unverified report from a Czerka archaeological team) a voice speaking Old Sith from behind a wall that the team's sensors said was solid stone.
+}}
 
 A Rakatan Star Map, older than the Sith Empire, sits in the Valley. It has been drawing on dark-side energy for millennia. What it has become is unclear.
 
@@ -2246,7 +2277,7 @@ The Smuggler's Moon. Nar Shaddaa is where the galaxy's margins meet: refugees, c
 
 For a player character, Nar Shaddaa is where you go when every other faction has a reason to arrest you.
 
-{{footnote Chapter 20: Worlds and Frontiers}}
+{{footnote Chapter 21: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
 \page
@@ -2303,7 +2334,7 @@ The Telos Restoration Project is the Concordat's showcase: proof that the new go
 Beneath the showcase, the politics are vicious. Lorso uses Telos's reconstruction needs to extract concessions from Malak while publicly opposing his emergency powers. Czerka's engineering teams have embedded themselves so thoroughly in the restoration infrastructure that removing them would set the project back years. 
 
 
-{{footnote Chapter 20: Worlds and Frontiers}}
+{{footnote Chapter 21: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
 \page
@@ -2349,14 +2380,14 @@ The Revanchist Remnant's twenty-three systems are scattered across the Outer Rim
 **Deralia** is a former Jedi enclave world where the local Jedi chapter defected to the Remnant rather than follow the Council's non-intervention directive. Forty Jedi and their support staff operate from the enclave, running training programs for Remnant volunteers and providing Force-healing services that draw patients from across the Remnant's territory. The enclave's senior Jedi, Master Nayama Voss, has adapted her teaching to the Force crisis: students spend as much time learning conventional medicine as Force technique, and every healing session begins with a kolto backup standing ready.
 
 
-{{footnote Chapter 20: Worlds and Frontiers}}
+{{footnote Chapter 21: Worlds and Frontiers}}
 {{pageNumber,auto}}
 
 \page
 
 {{Ch4,tab}}
 
-# Chapter 21
+# Chapter 22
 ### **Peoples and Species**
 
 ## Humans
@@ -2473,7 +2504,7 @@ A kolto merchant who knows exactly where her product goes. A member of the Order
 
 {{Ch5,tab}}
 
-# Chapter 22
+# Chapter 23
 ### Starting Scenarios
 
 ## The Freighter Incident
@@ -2533,7 +2564,7 @@ Between your ship and Dxun lies a transit corridor controlled by Concordat patro
 Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplies for eight days, and a reputation that amounts to "competent but small." Rival clans will test you at the gathering. Some will offer alliance. Some will offer absorption. You need to arrive with a leader chosen and your people unified, or Clan Veshok ends at Dxun.
 }}
 
-{{footnote Chapter 22: Starting Scenarios}}
+{{footnote Chapter 23: Starting Scenarios}}
 {{pageNumber,auto}}
 
 \page
