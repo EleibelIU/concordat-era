@@ -64,6 +64,23 @@ Writing ongoing. Core documents complete; structural revisions and content expan
 
 ---
 
+## Art Credits & Attribution
+
+The setting book's cover and interior art were created through photobashing and color work over existing artwork. Credit and thanks to the original artists whose work served as a foundation:
+
+| Artist | Contribution |
+|--------|-------------|
+| [Benjamin Carré](https://www.artstation.com/artwork/VbbB8) | "KOTOR piece" used as the basis for the front cover (photobashed and recolored) |
+| [AeronDrake](https://www.reddit.com/user/AeronDrake/) | Homebrewery template, page textures, and decorative elements (adapted from the Daggerheart theme) |
+
+*Historical painting references used for mood and tonal direction:*
+- **François Gérard**, *La Bataille d'Austerlitz* (1810)
+- **Eugène Delacroix**, *La Liberté guidant le peuple* (1830)
+
+This repository is public for hosting purposes only. All artwork is placeholder and will be replaced with original commissioned pieces. If you are an artist whose work appears in this project and you have not been credited or would like your work removed, please open an issue or contact the repo owner. This is a non-commercial fan project.
+
+---
+
 <details>
 <summary>Repository Structure</summary>
 
