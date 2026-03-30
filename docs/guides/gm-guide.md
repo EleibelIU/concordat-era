@@ -18,7 +18,7 @@ This is an experiment. It might fail. I plan to enjoy it regardless. Take what w
 
 **Part II** prevents the first three sessions of mistakes that happen when a GM skips Session Zero in a morally ambiguous setting. Safety tools, tone calibration, and character creation as a group exercise.
 
-**Part III** breaks ten campaign genres into concrete running advice, each with faction clocks, NPC construction, and session structure specific to how that genre plays in the Concordat Era.
+**Part III** breaks fourteen campaign genres into concrete running advice, each with faction clocks, NPC construction, and session structure specific to how that genre plays in the Concordat Era.
 
 **Part IV** solves the scope problem: how to run a one-shot that feels complete, an arc that builds, or a long campaign where faction clocks keep the galaxy moving between sessions.
 
@@ -494,6 +494,194 @@ Each of these worlds presents reconstruction as a campaign: who controls the bud
 
 ---
 
+## Genre 11: Dirty Hands
+
+### What It Is
+
+The party serves the system. OFA field agents executing detention orders. Concordat military governors enforcing extraction quotas. Sith Triumvirate operatives advancing Kreia's managed severance project. Czerka security chiefs managing labor operations where contract workers end their terms owing more than they started. The party has institutional power, backup, and resources the other genres deny. The tension is moral, not tactical. The campaign asks when you draw the line and what it costs you when you do.
+
+### Why It Works Here
+
+Director Valio's OFA detained 216 individuals on predictive modeling, not criminal evidence, because the Force crisis makes Force-sensitives genuinely dangerous and the alternative is waiting for casualties. Forty of those individuals sat in detention for six months without formal charges. One is fourteen years old with no criminal history. Valio knows the numbers. He also knows three unregistered Force-sensitives caused sixteen civilian deaths last year when their abilities failed in public spaces. The math works. The math is monstrous.
+
+A Dirty Hands campaign puts the party inside that math. The players enforce policies they can justify and watch the human cost accumulate. The setting's moral ambiguity, which other genres observe from outside, becomes the party's daily operational reality.
+
+The genre inverts the standard RPG power dynamic. The party is not the underdog. The drama comes from what happens when the person holding institutional authority recognizes a face.
+
+### How to Run It
+
+**The institution is the patron.** The party receives missions from an institutional superior with access to intelligence, logistics, and legal authority. An OFA field team gets dossiers, transit authorization, and armed backup. A Concordat military governor's staff gets requisition orders, garrison troops, and comm priority. A Czerka security detail gets corporate legal cover, surveillance equipment, and labor contracts the local population signed under pressure.
+
+Build the patron as a Fate character with aspects. Director Valio: "Protecting the Galaxy From What It Cannot See" (high concept), "The Detention Numbers Keep Me Awake" (trouble). The patron's aspects create compels against the party: Valio assigns a detention mission the party finds repulsive, and the party's institutional loyalty aspect compels them to comply or spend a fate point to refuse.
+
+**Routine is the weapon.** Do not start the campaign with the worst assignment. Start with a routine operation the party can justify. Registration checks at a spaceport. A security patrol in a Czerka extraction zone. Escorting a tax collector through Mandalorian agricultural territory. The party completes the mission. The system works. The party's competence produces a visible result: the spaceport is safer, the extraction runs on schedule, the tax revenue funds a hospital.
+
+Session two: the routine produces a complication. The registration check flags a Cathar family whose eldest child tested positive for Force sensitivity. OFA protocol requires the child to report for assessment. The family has seen what assessment means. The party delivers the summons. The mother asks the squad leader, by name, to give them one day. One day deviates from protocol. One day is enough time to disappear.
+
+**Compels drive the drama.** The party's institutional aspects ("OFA Field Agent, Third Year," "Concordat Military Governor's Staff") provide mechanical bonuses when the party acts within the system. The GM compels those same aspects when the system demands something the player resists. A compel accepted earns a fate point and advances the institution's agenda. A compel refused costs a fate point and creates institutional friction: the handler notes the deviation, the performance review flags an anomaly, a colleague questions the party's reliability.
+
+Track institutional trust as a shared situation aspect. "Trusted Operatives" starts the campaign. Each refusal shifts it: "Under Observation," then "Flagged for Review," then "Compromised." The aspect's progression generates escalating consequences without the GM deciding the party is wrong. The institution responds to deviation the way institutions do: with documentation.
+
+**Combat is asymmetric.** The party has better equipment, numerical advantage, and legal authority. A standard encounter pits four OFA agents against a single unregistered Force-sensitive hiding in a Taris Undercity apartment. The Force-sensitive has Will +3 and a lightsaber. The party has Shoot +3, blaster rifles, stun grenades, and four sets of stress boxes. The tactical question is not whether the party wins. The question is how much force they use and what the neighbors see.
+
+Build encounters where the party's tactical superiority creates moral exposure. The Czerka security team ordered to suppress a Wookiee labor protest has riot gear, stun batons, and authorization to use lethal force. The Wookiees have their hands and a grievance the party can read on the foreman's requisition logs. The encounter ends in two exchanges. The consequence track after the encounter is where the campaign lives: who filed the report, what the report says, whether the footage reaches Lynira Saal's Independent Coruscant Press.
+
+**The line is the campaign's climax.** Every Dirty Hands campaign builds toward the moment a player refuses an order. The refusal might be quiet (falsifying a report, losing a file, giving someone a head start) or loud (defecting, whistleblowing, sabotage). The campaign's final act is the consequence of that refusal: the institution responds, allies inside the system choose sides, and the party discovers what their principles cost when the institution stops protecting them.
+
+### What Can Go Wrong
+
+Dirty Hands campaigns fail when the GM makes the institution cartoonishly evil. If the OFA tortures children in session one, the party has no reason to serve. The institution must be defensible for the first three sessions. The erosion is gradual. The party notices the cost because they pay attention, not because the GM underlined it.
+
+The genre also fails if the party never draws the line. If eight sessions pass and the party complies with everything, the campaign has become a power fantasy with paperwork. Escalate the human cost until compliance requires active self-deception. The fourteen-year-old in OFA detention is the setting's challenge to the party: justify this one.
+
+---
+
+## Genre 12: Heist
+
+### What It Is
+
+Plan the job. Assemble the crew. Execute the plan. Survive the fallout. Heist campaigns are discrete operations with a target, a crew, and a ticking clock. The party steals something, breaks someone out, or plants something where it should not be. The plan goes wrong. The crew adapts.
+
+### Why It Works Here
+
+The Concordat Era's layered institutional security makes heists rewarding because the obstacles are specific and knowable. A Concordat military installation has garrison troops, OFA monitoring stations, encrypted comm networks, and military governor authorization codes. A Czerka corporate facility on Telos has private security, Senator Lorso's forensic audit team performing quarterly inspections, and a docking ring controlled by Citadel Station authority. An OFA detention center holds 216 individuals behind biometric locks, rotating guard shifts, and a director who logs every visitor's identity against the twelve thousand Force-sensitive profiles in the system.
+
+Each security layer maps to a skill check. Each skill check maps to a crew role. Each crew role maps to a player who gets a scene where their character's competence is the difference between clean extraction and catastrophic exposure.
+
+The setting's political density gives every heist a second dimension. Stealing Czerka's Telos billing records is a break-in. Deciding who receives those records (Senator Lorso's committee, Kaeranth's intelligence staff, Lynira Saal's broadcast network, the Exchange's highest bidder) is a political choice that compounds across sessions.
+
+### How to Run It
+
+**The planning phase builds the plan as a shared aspect.** Before the heist, the party gathers intelligence and creates advantages. Each successful create advantage roll places a free invoke on the plan. "We Know the Guard Rotation" (Investigate). "Forged Docking Credentials" (Deceive). "Bribed the Maintenance Technician" (Contacts). "Mapped the Ventilation System" (Notice). Each free invoke represents preparation the party spends during execution when the plan goes wrong.
+
+Limit the planning phase to one session. Longer planning stalls momentum. The party needs enough preparation to feel competent and enough gaps to feel tension.
+
+**The execution phase is a challenge with zones.** Map the target as three to five zones: exterior approach, security checkpoint, interior corridors, the vault (or cell block, or server room), and the exit route. Each zone presents one primary obstacle matched to a skill domain.
+
+Sample heist: breaking into an OFA detention center to extract a fourteen-year-old held without charges.
+
+- **Zone 1: Exterior approach.** Situation aspect: "Concordat Patrol Overhead." Stealth to approach without triggering perimeter sensors, or Deceive to bluff through the main entrance with forged credentials.
+- **Zone 2: Security checkpoint.** Situation aspect: "Biometric Locks, Rotating Guard." Burglary to bypass the lock, or Contacts to invoke "Bribed the Maintenance Technician" for a backdoor route.
+- **Zone 3: Interior corridors.** Situation aspect: "OFA Monitoring Station With Three Analysts." Stealth to navigate without detection, or Deceive to maintain cover if confronted. Failure here starts a countdown clock: the analysts flag an anomaly, and response time is four exchanges.
+- **Zone 4: Detention block.** Situation aspect: "216 Cells, One Target." Investigate to locate the specific cell. The complication: the target does not want to leave. She has been told her family will be detained if she runs. Rapport to convince her, or the party takes her without consent and deals with that choice later.
+- **Zone 5: Exit route.** Situation aspect: "Lockdown Protocol Activated." The plan is blown. Pilot to reach the ship, Athletics to run, Fight if cornered. The free invokes from the planning phase spend here.
+
+**Flashbacks replace over-planning.** When the execution hits an obstacle the party did not prepare for, allow a flashback. The player spends a fate point and describes a preparation scene that happened before the heist: "I stopped by the spaceport cantina last week and bought drinks for a dock worker. He told me about the service tunnel." The GM sets a difficulty for the flashback's skill check. Success creates a new advantage on the spot. Failure means the preparation happened but did not work: the dock worker gave bad information, or the service tunnel is welded shut.
+
+Limit flashbacks to one per player per heist. More than that, and the planning phase becomes meaningless.
+
+**The fallout is the second half.** A heist campaign does not end when the party escapes. The target's owner responds. Czerka's security chief locks down the docking ring and runs facial recognition on yesterday's visitor logs. The OFA director cross-references the detention center breach with known Remnant operative profiles. The Exchange hears about the successful job and shows up with a contract offer the party did not request.
+
+Each heist's fallout generates the next session's content. The party's reputation grows: "Crew That Hit the OFA Detention Center" becomes a campaign aspect that brings work, attention, and enemies in equal measure.
+
+**Fate mechanics for heist play.** Heists run on Burglary, Deceive, Stealth, and Athletics as primary skills, with Investigate and Contacts dominating the planning phase. The execution challenge uses graduated success: each zone can be passed with style (no complications), passed normally (minor complication carries to next zone), or failed (major complication, countdown clock starts or advances). A clean heist (all zones passed with style) is rare and spectacular. A messy heist (three complications compounding through the exit) produces the sessions players remember.
+
+### What Can Go Wrong
+
+Heist campaigns stall when the planning phase lasts two sessions and the execution takes twenty minutes. Cap planning at one session. Let the flashback mechanic cover gaps.
+
+Heists also lose tension when success has no cost. The party got the records, but nobody knows and nothing changes. Every heist needs a fallout that matters more than the score.
+
+---
+
+## Genre 13: Horror
+
+### What It Is
+
+Something is wrong and the party cannot fix it by fighting harder. Horror campaigns center on dead zones, Korriban's waking tombs, Nihilus's hunger, and the existential dread of a galaxy whose fundamental infrastructure is being consumed. The party enters places where the Force does not work, where things older than the Republic stir, and where survival means accepting that some questions do not have answers you can live with.
+
+### Why It Works Here
+
+The Concordat Era's horror is existential, not supernatural. The Force was infrastructure. Hospitals depended on Force healers. Navigators used Force sensitivity to plot safe hyperspace routes. An entire species, the Miraluka, perceives the world through the Force instead of eyes. The Force is dying. The horror is what happens to a civilization that depended on something it never understood.
+
+Korriban's Valley of the Dark Lords holds tombs sealed for millennia. The seals are weakening. Dormant security systems activate on their own. A Czerka archaeological team reported an encounter with a voice speaking Old Sith from a solid stone wall. The team filed a preliminary report. Czerka classified it. Three members requested transfers within a week.
+
+Duro's dead zone is the galaxy's largest. It pulses on a rhythm that Force-sensitive observers describe as deliberate. Scrappers who enter report disorientation, headaches, and the persistent sensation of being watched. Nothing has attacked anyone. Nothing needs to.
+
+The Kashyyyk Shadowlands near the dead zone's edge present a different kind of wrong: the wroshyr trees "forgot themselves," growing toward the void instead of away from it. Wookiee caretakers call this *Kachirho-naa* and refuse to enter the affected groves. Animals circle the dead zone's perimeter in patterns that suggest navigation around something they can sense and the party cannot.
+
+Nihilus is the setting's apex predator. He feeds on Force-sensitives. He does not negotiate, monologue, or explain. He arrives, he consumes, and the people nearby feel the Force drain from the area like warmth leaving a room. A horror campaign does not need Nihilus as the antagonist. Nihilus needs to be the thing the party hears about, the thing witnesses describe in broken sentences, the thing that gives the dead zones a face.
+
+### How to Run It
+
+**Mental stress is the primary threat.** Horror campaigns run on Will checks and mental stress more than physical combat. Entering a dead zone is a Will roll: Fair (+2) at the partial edge, Good (+3) at significant depth, Great (+4) at total dead zone boundary, Superb (+5) inside a total dead zone. Failure inflicts mental stress. A Miraluka character who fails a dead zone entry roll goes blind until they leave. That blindness is a severe consequence that reshapes how the player operates for the rest of the session.
+
+Physical threats exist but fight differently. A Korriban tomb guardian is ancient, relentless, and does not respond to pain. In Fate terms, the guardian has no stress track. It absorbs consequences and keeps advancing. The party cannot defeat it through damage. They create advantages to escape it ("Collapsed the Corridor Behind Us"), redirect it ("Triggered the Secondary Burial Chamber's Seal"), or outlast it ("The Guardian Stopped at the Outer Chamber Threshold"). The guardian is a problem to survive, not an enemy to beat.
+
+**Information degrades.** In horror campaigns, the party's intelligence about the situation is incomplete and unreliable. Investigate rolls in a dead zone face a -2 penalty. Lore rolls about Rakatan ruins in a corrupted tomb face -1 (the texts are damaged, the inscriptions are wrong, the translation software flags anomalies it cannot resolve). The party makes decisions based on information they cannot trust.
+
+Build scenes where the party must choose between two interpretations of the same evidence. The Czerka archaeological report says the voice from the stone wall spoke Old Sith. The Keeper specialist in the party recognizes the dialect as pre-Exiles, seven thousand years old. Two possibilities: a recording (ancient Sith security system) or a presence (something in the tomb is aware). The party cannot determine which without going deeper. Going deeper costs Will stress the party may not absorb.
+
+**Isolation is structural.** Horror campaigns work when the party cannot call for help. On the frontier, comms range is limited. In a dead zone, Force-based communication fails. On Korriban, the nearest Concordat garrison is Dreshdae settlement, and Dreshdae's commander has standing orders not to send personnel into the Valley without OFA authorization three systems away. The party enters knowing that extraction depends on their own resources.
+
+Limit the party's supplies mechanically. Kolto doses are finite (track them as a numbered resource, not a skill roll). Blaster power cells deplete after extended use (a severe consequence on equipment: "Low Power, One Shot Per Exchange"). The ship orbiting overhead cannot land in the Valley due to gravitational anomalies that prevent a clean extraction.
+
+**The unknown stays unknown.** Horror requires restraint. The party hears the voice from the stone wall. They do not meet the voice. They find the Czerka team's abandoned equipment. They do not find the team. A dead zone pulses with rhythm. The party does not learn why. Nihilus consumed a colony of Force-sensitives on a Miraluka outpost. The party arrives three days later and finds empty buildings with meals still on tables.
+
+The GM's instinct in horror is to explain. Resist it. Explanation kills dread. The party's theories about what happened are scarier than any answer the GM provides. Let the players fill the silence.
+
+**Fate mechanics for horror play.** Horror runs on Will, Notice, Investigate, and Athletics as primary skills. Will checks govern dead zone endurance, psychological resistance, and dark-side resonance. Notice checks detect environmental hazards (the air pressure changed, the walls are damp where they should be dry, the shadows moved). Investigate checks decode the evidence previous explorers left behind. Athletics checks handle the physical reality of navigating ancient ruins, zero-visibility environments, and collapsing architecture.
+
+Concessions in horror carry a unique weight. A character who concedes to a dead zone's psychological pressure accepts a lasting consequence: "Something Followed Me Out of the Valley" or "I Hear the Pulse When I Sleep." That consequence persists into subsequent sessions and becomes compellable. Horror seeps into other genres when the party returns to civilization carrying aspects from places they should not have entered.
+
+### What Can Go Wrong
+
+Horror campaigns fail when the GM treats dead zones as combat encounters with invisible enemies. No monster jumps out. The dead zone is the monster. It does nothing, and that is the point.
+
+Horror also fails when the party has too many resources. A fully supplied Concordat expeditionary team with military backup and OFA oversight is an investigation campaign, not a horror campaign. Horror requires the party to be under-equipped, under-informed, and unable to leave on their own schedule.
+
+---
+
+## Genre 14: Archaeology and Exploration
+
+### What It Is
+
+The party enters ancient sites, decodes alien technology, and recovers artifacts that factions will kill to possess. Archaeology campaigns move through Rakatan ruins older than the Republic, Korriban tombs that predate the Dark Jedi Exiles, Star Map fragments that chart the Unknown Regions, and the wreckage of civilizations that made the same mistakes the galaxy is making now.
+
+### Why It Works Here
+
+The Concordat Era sits on thirty thousand years of galactic history, and most of it is buried. The Rakata built the Star Forge and the Infinite Empire across a hundred worlds. Their civilization collapsed when the Force failed them. That precedent haunts every theory about the current crisis. Five Star Map sites scattered across the galaxy hold navigational data pointing toward the Star Forge in the Lehon system. Dantooine's map is intact and contested between the Concordat and the Remnant. Kashyyyk's was destroyed inside a dead zone. Manaan's is hidden in ruins the Selkath consider sacred. Tatooine's was destroyed by Malak's forces during the Ashen Campaign. Korriban's is intact but saturated with dark-side energy that corrupts anyone who studies it for extended periods.
+
+Each site is a destination with hazards, guardians, competing expeditions, and artifacts that change the campaign's political landscape. A party that recovers Rakatan technology from a ruin on Kashyyyk possesses something Kaeranth's researchers need, the Triumvirate's agents want, and Director Valio's OFA would classify and lock in a vault. The recovery is the adventure. The decision about who gets it is the campaign.
+
+Archaeology in this setting carries a warning. The Rakata had the Force. They built the Star Forge. They extracted so much from the Force that their connection died and their civilization collapsed over centuries. The current crisis has run twelve years and is accelerating. Every Rakatan ruin the party enters is a case study in what happens when a civilization treats the Force as an inexhaustible resource. The party reads the writing on the walls. The writing says: you are next.
+
+### How to Run It
+
+**Each site is a five-room dungeon.** Adapt the classic dungeon framework for Concordat Era archaeology:
+
+1. **The approach.** Environmental obstacle. The Star Map site on Kashyyyk sits inside a dead zone in the Shadowlands. The Korriban tomb entrance is buried under a rockslide that Czerka's team partially cleared before they filed their transfer requests. The Manaan ruins require submersible navigation through ocean trenches the Selkath have not mapped in centuries. Skill checks: Athletics, Pilot, Crafts.
+
+2. **The guardian.** Something protects the site. Rakatan security drones operating on thirty-thousand-year-old power cells. A Korriban tomb's Sith illusion system projecting the builder's final test for intruders. A dead zone's psychological pressure intensifying the deeper the party goes. Skill checks: Fight, Will, Investigate (to find a bypass).
+
+3. **The puzzle.** The site's purpose encoded in its architecture. Rakatan inscriptions that Lore can partially translate. A Star Map interface that requires a Force-sensitive to activate (and the Force fails one-third of the time). A Sith meditation chamber that reveals information only to someone who opens themselves to the dark side: a Will check at Superb (+5) to resist the corruption, or accept a temporary aspect ("Touched by the Dark Side of Korriban") the GM can invoke for free once before it fades. Skill checks: Lore, Investigate, Will.
+
+4. **The complication.** The competing expedition arrives, the site begins to collapse, or the artifact's activation triggers something unexpected. Czerka's second archaeological team shows up with corporate authorization and armed security. A Triumvirate agent embedded in the party's expedition reveals herself. The Star Map's activation sends a signal to Lehon. Skill checks: Rapport, Deceive, Fight, Pilot.
+
+5. **The prize and the price.** The artifact recovered and the choice it demands. A Rakatan device that stabilizes Force energy in a localized area could save the Miraluka colony on Katarr or power a weapon Malak's military advisors have theorized about. Star Map data charting a route to the Star Forge could reunite the galaxy or destroy it. A Sith alchemical text describing Force severance techniques could advance Kreia's project or help the Jedi understand what she is doing. The party possesses the artifact. The galaxy wants it.
+
+**Track expedition resources.** An archaeology campaign uses Resources, Crafts, and Contacts as logistics skills. The party needs funding (a patron who pays for the expedition and expects results), equipment (climbing gear, submersibles, translation software, medical supplies), and specialists (an NPC linguist for Rakatan inscriptions, a geologist for Korriban's unstable caverns, a submersible pilot for Manaan's ocean trenches). Each specialist is a Fate character with one aspect. Losing a specialist to injury, fear, or betrayal removes a skill resource the party depended on.
+
+Model expedition supplies as a countdown track: ten boxes for a major expedition. Each day in the field consumes one box. A complication (cave-in, equipment failure, hostile encounter) consumes an additional box. When the track empties, the expedition withdraws or accepts consequences from operating without supplies: mild (rationing), moderate (equipment failure), severe (medical emergency without kolto).
+
+**Competing expeditions create faction pressure.** The party is not the only team looking for Rakatan artifacts. Czerka funds archaeological expeditions across Kashyyyk and Korriban using contract labor and corporate infrastructure. Kaeranth's Remnant researchers need Star Map data to chart safe hyperspace routes through expanding dead zones. The Triumvirate's agents seek specific artifacts related to Force severance. A Jedi research team from the Dantooine Enclave studies dead zone phenomena and Star Map energy signatures.
+
+Each competing expedition operates on its own clock. If the party delays at a site, a rival team arrives. If the party recovers an artifact and word spreads, rival teams converge on the party's next destination. Track rival expeditions the same way you track faction clocks: advancing one segment per session whether the party intervenes or not.
+
+**Artifacts are aspects with teeth.** Every recovered artifact functions as a Fate extra: an aspect with mechanical weight. "Rakatan Force Stabilization Device" can be invoked to suppress dead zone effects in a localized area (one zone, one scene). It can be compelled when the device attracts Triumvirate attention, when a faction demands the party surrender it, or when the device's energy signature interferes with the ship's navigation systems.
+
+Powerful artifacts carry corruption risk. A Korriban artifact compels its holder once per session with a dark-side temptation. The holder rolls Will against Superb (+5). Success resists the compel. Failure gives the holder a temporary aspect ("The Dark Side Whispers Solutions") that the GM invokes for free once before it fades.
+
+**Fate mechanics for archaeology play.** Archaeology runs on Investigate, Lore, Athletics, and Crafts as primary skills. Site exploration uses the challenge framework: each room of the five-room dungeon is one to two skill checks against graduated difficulty. Create advantage actions during exploration place aspects on the site ("Mapped the Eastern Corridor," "Decoded the Rakatan Warning Inscription") that the party invokes in later rooms. The five-room structure ensures each session contains discovery, danger, and a decision. A site that takes two sessions should split at the complication (room four): the session ends with the rival team arriving and the next session opens with the confrontation.
+
+### What Can Go Wrong
+
+Archaeology campaigns lose momentum when the sites feel like puzzle boxes disconnected from the setting. Every artifact connects to a faction's agenda. Every ruin tells a story that comments on the current crisis. The Rakatan ruins on Kashyyyk do not exist to give the party a gadget. They exist to show the party what happens when a civilization extracts too much from the Force. The party walks through the warning. The question is whether they heed it.
+
+The genre also fails when the GM treats artifacts as loot. An artifact with no political consequence is treasure. An artifact that three factions want is a campaign.
+
+---
+
 ## Combining Genres
 
 Most Concordat Era campaigns blend two or three genres across their arc. A campaign that opens as investigation (the party discovers Czerka's Telos billing fraud) shifts to political intrigue (the party navigates Senator Lorso's committee to present evidence) and resolves as reconstruction (the party oversees the corrected restoration project). Genre blending follows a natural arc: discovery → confrontation → consequence.
@@ -510,6 +698,10 @@ Most Concordat Era campaigns blend two or three genres across their arc. A campa
 | Reconstruction | Trade & Economics | Rebuilding requires resources; resource acquisition requires trade relationships |
 | Espionage | Force Mystery | Intelligence operations uncover Triumvirate activity; Force phenomena generate intelligence gaps |
 | Religious Schism | Political Intrigue | Theological positions align with political factions; political pressure forces theological compromises |
+| Dirty Hands | Political Intrigue | Institutional enforcement creates political consequences; political maneuvering determines which orders the party receives |
+| Heist | Espionage | Intelligence networks identify targets; heist fallout generates intelligence obligations |
+| Horror | Force Mystery | Dead zone phenomena demand investigation; investigation pulls the party deeper into zones they should leave |
+| Archaeology | Frontier Survival | Expedition logistics mirror frontier resource management; remote sites require self-reliance |
 
 ### Building a Multi-Genre Campaign
 
@@ -675,25 +867,25 @@ Fate Condensed's 19 skills map directly onto Concordat Era play. The following a
 
 | Skill | Setting Application | Primary Genres |
 |---|---|---|
-| Athletics | Physical movement, zero-G navigation, dead zone escape | Military, Frontier, Space Opera |
-| Burglary | Facility infiltration, data theft, lock bypassing | Espionage, Investigation |
-| Contacts | Faction networking, finding informants, locating NPCs | Trade, Political, Espionage |
-| Crafts | Ship repair, structure building, weapon modification | Frontier, Reconstruction, Trade |
-| Deceive | Cover identities, bluffing patrols, concealing cargo | Espionage, Trade, Investigation |
+| Athletics | Physical movement, zero-G navigation, dead zone escape | Military, Frontier, Space Opera, Horror, Archaeology |
+| Burglary | Facility infiltration, data theft, lock bypassing | Espionage, Investigation, Heist |
+| Contacts | Faction networking, finding informants, locating NPCs | Trade, Political, Espionage, Heist |
+| Crafts | Ship repair, structure building, weapon modification | Frontier, Reconstruction, Trade, Archaeology |
+| Deceive | Cover identities, bluffing patrols, concealing cargo | Espionage, Trade, Investigation, Heist |
 | Drive | Vehicle operation, speeder chases, ground transport | Military, Frontier |
 | Empathy | Reading NPC motives, detecting lies, emotional assessment | Political, Religious Schism, Investigation |
 | Fight | Melee combat, lightsaber duels, boarding actions | Military, Space Opera |
-| Investigate | Evidence searches, record analysis, pattern recognition | Investigation, Force Mystery, Espionage |
-| Lore | Force theory, galactic history, faction knowledge | Force Mystery, Religious Schism |
+| Investigate | Evidence searches, record analysis, pattern recognition | Investigation, Force Mystery, Espionage, Archaeology, Horror |
+| Lore | Force theory, galactic history, faction knowledge | Force Mystery, Religious Schism, Archaeology |
 | Notice | Surveillance detection, environmental awareness, danger sense | All genres |
 | Physique | Endurance, physical resistance, manual labor | Military, Frontier, Reconstruction |
 | Pilot | Ship navigation, fleet maneuvers, dead zone transit | Space Opera, Trade, Military |
 | Provoke | Intimidation, fear tactics, emotional manipulation | Military, Espionage, Political |
 | Rapport | Negotiation, trust-building, alliance formation | Political, Trade, Reconstruction, Religious Schism |
 | Resources | Purchasing, funding operations, economic leverage | Trade, Reconstruction, Political |
-| Shoot | Ranged combat, ship weapons, suppressive fire | Military, Space Opera, Frontier |
-| Stealth | Covert movement, avoiding detection, hiding cargo | Espionage, Frontier |
-| Will | Mental resistance, Force resilience, dead zone endurance | Force Mystery, Religious Schism, all Force play |
+| Shoot | Ranged combat, ship weapons, suppressive fire | Military, Space Opera, Frontier, Dirty Hands |
+| Stealth | Covert movement, avoiding detection, hiding cargo | Espionage, Frontier, Heist |
+| Will | Mental resistance, Force resilience, dead zone endurance | Force Mystery, Religious Schism, Horror, Dirty Hands, all Force play |
 
 ### Force Skills as Extensions
 
