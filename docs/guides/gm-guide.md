@@ -32,19 +32,31 @@ The Force crisis adds a layer that pure political settings lack: the infrastruct
 
 ### How to Run It
 
-**Build faction clocks.** Steal from Blades in the Dark. Each major faction has 2-3 ongoing projects (the Concordat is expanding its military governor system; the Remnant is planning a supply raid; the Triumvirate is eliminating a rival). Track their progress. The projects advance whether the party intervenes or not. The party's actions accelerate, delay, or redirect faction projects, but the galaxy does not wait for the player characters to act.
+**Build faction clocks.** Steal from Blades in the Dark. Each major faction has 2-3 ongoing projects. Track their progress. The projects advance whether the party intervenes or not.
 
-**Make NPCs want two things.** Every NPC in a political scene wants something they'll tell the party about and something they won't. Senator Lorso wants the Concordat's emergency powers sunset (she'll say this). She also wants Malak's private intelligence files because they contain evidence of her husband's involvement in the Ashen Campaigns (she won't say this). When the party discovers the second want, they have leverage, and leverage is the currency of political intrigue.
+Sample clocks for a political intrigue campaign:
+- **Concordat:** Director Korius Valio requests expanded authority for the Office of Force Affairs. The Senate Oversight Committee debates. Three thousand unregistered Force-sensitives sit in a backlog. If the clock fills, mandatory assessment becomes law.
+- **Remnant:** Kaeranth's supply depot raid reaches operational readiness. Six months of planning, three Outer Rim garrisons identified with sympathy indicators. If the clock fills, the raid launches and the Concordat loses a logistics node.
+- **Mandalorian Integration:** Veera Ordo petitions for reduced taxation on Dxun agricultural output (40% extraction to Core). Cassus Fett builds a parallel officer corps of 9,000 warriors. If Veera's clock fills, Mandalorian loyalty to the Concordat strengthens. If Fett's fills, the Concordat gains a military faction that answers to Fett before Malak.
+- **Jendri Reparations:** Droga Jendri petitions the Senate for Cathar reparations. If the clock fills, the petition succeeds and creates a legal precedent that every faction with war crimes in its history will fight to contain.
+
+The party's actions accelerate, delay, or redirect these clocks. The galaxy does not wait for the player characters to act.
+
+**Make NPCs want two things.** Every NPC in a political scene wants something they'll tell the party about and something they won't. Senator Lorso leads the Restorationist faction and wants the Concordat's emergency powers to sunset (she'll say this). She also wants Malak's private intelligence files because they contain evidence of her husband's involvement in the Ashen Campaigns (she won't say this). When the party discovers the second want, they have leverage, and leverage is the currency of political intrigue.
+
+**Map the internal factions.** The Concordat alone contains four political factions: Integrationists (Veera Ordo, Mandalorian cooperation), Restorationists (Senator Lorso, democratic restoration), Militarists (General Zeval, expansion by force), and Pragmatists (mid-level staff keeping the machinery running). A political intrigue campaign tracks which faction gains influence based on the party's actions. The Senate requires a two-thirds supermajority (418 of 626 members) to override the Supreme Chancellor-General. No faction has achieved that threshold. The party could tip the balance.
 
 **Information is the treasure.** In a dungeon crawl, the party finds gold. In a political campaign, the party finds intelligence: who's meeting whom, what's in the classified report, which officer is feeding information to the Remnant, what Kreia's agent said to the Selkath ambassador. Treat intelligence the way you'd treat magic items. Each piece of information opens new options and creates new dangers.
 
-**Let the party change the setting.** Political intrigue only works if the players' decisions matter. If the party exposes the Concordat's Force-monitoring program to the Senate, the political landscape shifts. If they negotiate a secret ceasefire between a Remnant cell and a Concordat garrison commander, that ceasefire is real and has consequences. The setting book describes the galaxy at campaign start. By session ten, the galaxy should look different because the party acted in it.
+**Fate mechanics for political play.** Political scenes use Rapport, Deceive, Provoke, and Contacts as primary skills. A Senate debate is a social conflict: the party and their opponents occupy zones (Senate floor, committee chamber, media gallery, private office), and movement between zones changes who hears the argument. A contested vote is a challenge: three or four skill rolls against escalating difficulty, each representing a phase of the political process (committee hearing, floor debate, backroom deals, final vote). Compel the party's factional aspects to create loyalty tests: the Concordat intelligence officer whose Restorationist contact asks them to leak OFA surveillance data faces a compel on their trouble aspect that drives the scene.
+
+**Let the party change the setting.** Political intrigue only works if the players' decisions matter. If the party exposes the OFA's detention of 216 individuals held without charges, the Senate's response reshapes Concordat politics. If they negotiate a secret ceasefire between a Remnant cell and a Concordat garrison commander, that ceasefire is real and has consequences. The setting book describes the galaxy at campaign start. By session ten, the galaxy should look different because the party acted in it.
 
 ### What Can Go Wrong
 
-Political intrigue stalls when the party doesn't know what to do. The GM's job is to make sure the party always has at least two problems demanding attention, so they're choosing between actions rather than searching for one. If the players look lost, have an NPC walk in with a crisis.
+Political intrigue stalls when the party doesn't know what to do. Keep at least two faction clocks advancing toward consequences the party cares about. If the players look lost, have an NPC walk in with a demand tied to a faction clock that's about to fill.
 
-Political intrigue also stalls when the consequences feel abstract. "The Senate votes to extend emergency powers" is abstract. "The Mandalorian patrol ship that just docked outside your apartment building is here because you missed your Force-sensitive registration check" is concrete. Make politics personal.
+Political intrigue also stalls when the consequences feel abstract. "The Senate votes to extend emergency powers" is abstract. "The Mandalorian patrol ship that just docked outside your apartment building is here because you missed your Force-sensitive registration check, and Director Valio's expanded authority means they can hold you for seventy-two hours without charges" is concrete. Make politics personal.
 
 ---
 
@@ -56,23 +68,34 @@ The party is a unit. They have a chain of command, a mission, and an operational
 
 ### Why It Works Here
 
-The Concordat Era's military landscape is rich, specific, and full of moral friction. A Concordat joint unit includes Republic regulars and Mandalorian clan warriors training together while their cultures argue about everything from meal schedules to the ethics of the Ashen Campaigns. A Remnant battle group runs guerrilla operations with forty capital ships against a navy ten times its size, and the Jedi officers who should be the unit's greatest asset can't guarantee their abilities will work.
+The Concordat Era's military landscape is rich, specific, and full of moral friction. A Concordat joint unit includes Republic regulars and Mandalorian clan warriors from Cassus Fett's 9,000-strong officer corps, training together while their cultures argue about everything from meal schedules to the ethics of the Ashen Campaigns. Veera Ordo's 6,000 warriors on Dxun maintain garrison readiness while 40% of their agricultural revenue flows to the Core as taxation. A Remnant battle group runs guerrilla operations with forty capital ships and 12,000 personnel against a navy ten times its size, and the Jedi officers who should be the unit's greatest asset can't guarantee their abilities will work.
 
-Military campaigns in this setting force the party to confront the setting's central tensions in operational terms. You can argue about whether Malak's government is legitimate over drinks. The argument changes when you're carrying out orders from a military governor who's requisitioning food from a civilian population that's already hungry.
+The beskar forge access dispute gives military campaigns an economic dimension. Coalition armor degrades without forge access. A neutral forge has been proposed and blocked. The party might be ordered to secure, destroy, or negotiate access to a forge, and the order they receive depends on which faction they serve.
+
+Military campaigns in this setting force the party to confront the setting's central tensions in operational terms. You can argue about whether Malak's government is legitimate over drinks. The argument changes when you're carrying out orders from a military governor (one of forty-three systems under direct military governance) who's requisitioning food from a civilian population that's already hungry.
 
 ### How to Run It
 
-**Give the party a commanding officer.** An NPC who assigns missions, provides intelligence, and represents the institution the party serves. The CO should be competent, morally complicated, and wrong often enough to matter. The party follows orders. The drama comes from what the orders require and what the party discovers while carrying them out.
+**Give the party a commanding officer.** An NPC who assigns missions, provides intelligence, and represents the institution the party serves. The CO should be competent, morally complicated, and wrong often enough to matter.
 
-**Build missions with moral friction.** A military operation in the Concordat Era should always have a tactical objective and a moral cost. Escort this kolto shipment (tactical). The shipment is being diverted from a civilian hospital to a military installation (moral). Secure this frontier outpost (tactical). The outpost's previous garrison was executed by Neo-Mandalorian raiders and the settlers want revenge, not protection (moral). The party succeeds at the mission. The question is what they do about the thing they discover along the way.
+Sample COs by faction:
+- **Concordat:** Commander Valix, Malak's operations staff. Competent, loyal, privately troubled by the OFA's expanded authority. Assigns missions that serve institutional stability. The moral friction: the party discovers that Valix's orders originate from OFA intelligence rather than military planning, and the target is a civilian community harboring unregistered Force-sensitives.
+- **Remnant:** Commander Akaavi, Kaeranth's Second Battle Group. Direct, aggressive, believes the Remnant's survival depends on action. Assigns missions tied to Kaeranth's six-month supply depot raid plan. The moral friction: Akaavi pushes the timeline because she's seen the desertion numbers and knows the fleet can't hold together long enough for Kaeranth's careful planning.
+- **Coalition:** A clan chieftain. No rank structure the party recognizes. Missions come as requests from a leader who earns authority through competence, not appointment. The moral friction: the chieftain asks the party to raid a Concordat supply convoy that feeds a civilian settlement.
 
-**Use the Force crisis as a tactical wildcard.** In every combat encounter, there's a chance the Force fails. Build your encounters so they're solvable without Force support. Then, when the Force works, it feels like a windfall. When it doesn't, it feels like the setting reminding everyone what it is. The Jedi Commander whose precognition cuts out mid-fight has to fall back on conventional tactics. The medic who can't Force-heal has to use kolto and hope it's enough. These moments define military campaigns in this setting.
+**Build missions with moral friction.** A military operation in the Concordat Era should have a tactical objective and a moral cost. Escort this kolto shipment (tactical). The shipment is being diverted from a civilian hospital to a military installation (moral). Secure this frontier outpost (tactical). The outpost sits on Serroco, where the Stereb have cortisis mining claims the Concordat has not recognized, and the garrison's presence protects mining operations the Stereb did not authorize (moral). The party succeeds at the mission. The question is what they do about the thing they discover along the way.
 
-**Casualties matter.** Name the NPCs in the party's unit. Give them one personality trait each. When the Mandalorian scout who always hums while cleaning his blaster dies in an ambush, the party feels it. Military campaigns that track faceless casualties produce war-game detachment. Military campaigns where the party knows the names of the soldiers they lost produce drama.
+**Use the Force crisis as a tactical wildcard.** In combat, the GM has a standing compel against any Force-related aspect. Build encounters so they're solvable without Force support. In Fate terms: every military encounter should be winnable using Fight, Shoot, Athletics, and Notice alone. Force abilities are bonuses, not requirements.
+
+When a Jedi character invokes a Force aspect to gain a bonus, the GM can compel Force Instability: the ability stutters, fragments, or fails. The Jedi Commander's precognition cuts out mid-fight (compel on "Jedi Battle Commander," earn a fate point, lose the precognition advantage this exchange). The medic's Force healing fails (compel on "Force Healer," earn a fate point, the wounded NPC needs kolto instead). These moments define military campaigns in the Concordat Era.
+
+**Casualties matter.** Name the NPCs in the party's unit. Give each one a single aspect that captures their personality. "Mandalorian Scout Who Hums While Cleaning His Blaster." "Republic Medic, Three Months From Retirement." "Jedi Padawan on Her First Deployment." When a named NPC with an aspect dies, the party takes a mild consequence representing grief or guilt. That consequence clears normally, but the name on it stays in the fiction.
+
+**Fate mechanics for military play.** Fleet engagements use zone-based conflict: zones represent range bands (Close, Short, Medium, Long), each with situation aspects (asteroid field, dead zone proximity, debris field). Ship-to-ship combat uses Pilot to move between zones, Shoot to attack, and Engineering (a setting-specific application of Crafts) to manage damage. A boarding action shifts from ship zones to interior zones. A ground assault uses terrain zones with elevation, cover, and environmental hazards as aspects.
 
 ### What Can Go Wrong
 
-Military campaigns can become linear if the GM treats missions as sequential objectives. Avoid this by giving the party operational freedom within their mission parameters. "Secure the corridor between Taris and Onderon" is a mission. How the party secures it (diplomacy with local leaders, preemptive strikes on raider bases, intelligence operations, or a combination) is their call.
+Military campaigns can become linear if the GM treats missions as sequential objectives. Give the party operational freedom within their parameters. "Secure the corridor between Taris and Onderon" is a mission. How the party secures it is a challenge with multiple approaches: diplomacy with local leaders (Rapport), preemptive strikes on raider bases (Fight/Shoot), intelligence operations (Investigate/Contacts), or a combination the party devises.
 
 ---
 
@@ -84,19 +107,27 @@ The party operates beyond the reach of any government. They're on the Outer Rim 
 
 ### Why It Works Here
 
-The Concordat Era's frontier is a place where the setting's big political questions become survival questions. The Concordat's military governor system doesn't reach here. The Remnant's democratic ideals don't feed anyone here. The Mandalorian Doctrine of Necessary Strength is tested every day by people who are strong and still starving.
+The Concordat Era's frontier is a place where the setting's big political questions become survival questions. The Concordat's forty-three military governor systems don't reach here. The Remnant's democratic ideals don't feed anyone here. The Mandalorian doctrine of necessary strength gets tested by people who are strong and still starving because Czerka controls the supply depot and the Exchange sets the kolto price.
 
-Frontier campaigns ground the setting's abstractions in dirt, hunger, and the mechanical reality of a ship that needs fuel and a crew that needs kolto. The Force crisis here is the healer whose abilities failed and the patient who died.
+Frontier campaigns ground the setting's abstractions in dirt, hunger, and the mechanical reality of a ship that needs fuel and a crew that needs kolto. The Force crisis here is the healer whose abilities failed and the patient who died. The economic crisis is the Stereb on Serroco whose cortisis mining claims the Concordat has not recognized, and the Czerka extraction site built on their ancestral land.
 
 ### How to Run It
 
-**The ship is a character.** Give the party's ship a name, a personality (expressed through its quirks and recurring failures), and a maintenance cost that matters mechanically. The ship needs fuel, parts, and repairs. The party's relationship with their ship creates stakes that political and military campaigns sometimes lack. When the hyperdrive fails in a dead zone, the ship's survival and the party's survival are the same thing.
+**The ship is a character.** In Fate terms, the party's ship has aspects, a stress track, and consequences. Give the ship a high concept ("Patched-Together YT-1300 With a Grudge Against Hyperspace"), a trouble ("The Hyperdrive Likes to Quit Near Dead Zones"), and one or two additional aspects reflecting its history. The ship takes stress from combat, environmental hazards, and neglect. It takes consequences from damage the party can't repair immediately. A ship with the consequence "Leaking Fuel Cell" creates urgency that drives the next three sessions.
 
-**Build the frontier as a web of communities.** The frontier is not empty. Mining camps, agricultural outposts, refugee settlements, hermit communities, Sith Pureblood frontier families, Czerka extraction sites, Exchange waypoints. Each community has resources, needs, and a reason to either help or hinder the party. The party moves through this web, building relationships that pay off sessions later.
+Ship maintenance uses Crafts (Engineering) against difficulty set by the ship's current condition. Fuel costs Resources rolls at each port. A failed Resources roll means the party can't afford fuel, parts, or kolto, and needs to find work, trade cargo, or make a deal with someone who has what they need.
 
-**Dead zones are dungeons.** A dead zone on the frontier is a place the party must enter and survive. Inside, the Force doesn't work. Technology behaves strangely. The environment is hostile in ways that science can't fully explain. Dead zones are the Concordat Era's dungeons: dangerous spaces with rewards (salvage, information, artifacts, trapped people who need rescue) and costs (stress, consequences, equipment damage, the psychological weight of being in a place where the galaxy's fundamental operating system has crashed).
+**Build the frontier as a web of communities.** The frontier is not empty. Mining camps on Serroco, Czerka extraction sites on Kashyyyk, refugee settlements on the Outer Rim, Sith Pureblood frontier families hiding their heritage, Exchange waypoints, Wookiee tree-cities under corporate occupation. Each community has aspects that define its resources ("Cortisis Deposits Worth Fighting Over"), its needs ("Kolto Shortage, Fourth Month Running"), and its problems ("Czerka Security Chief Answers to No One").
 
-**Resource scarcity drives decisions.** On the frontier, the party's Resources skill matters every session. Food, fuel, kolto, ammunition, spare parts. Track what the party has. Let them run low. When they have to choose between buying kolto for the wounded crew member and buying fuel to reach the next system, the campaign writes itself.
+A frontier campaign tracks community relationships. When the party helps the Stereb mining settlement on Serroco resist Czerka's land seizure, that community becomes an ally with an aspect the party can invoke later ("Stereb Miners Owe Us One"). When the party ignores the Exchange's demand for protection money at a waypoint, the Exchange becomes an enemy with a faction clock ticking toward consequences.
+
+**Dead zones are dungeons.** A dead zone on the frontier is a Fate challenge: a series of obstacles the party must overcome to reach the reward inside. The outer edge is a Will roll at Fair (+2) to enter without psychological stress. Deeper zones increase difficulty: Good (+3) for partial, Great (+4) for significant, Superb (+5) for total. Each failure inflicts mental stress. Inside a total dead zone, Force abilities fail automatically. A fate point buys one attempt.
+
+The reward inside the dead zone justifies the danger: Rakatan technology, Star Map fragments, trapped survivors who need rescue, stable Force ecology that Jolee Bindo's research suggests shouldn't exist. The party enters knowing the Force won't protect them. They survive on skills, equipment, and cooperation.
+
+**Resource scarcity drives decisions.** On the frontier, the party's Resources skill matters every session. Kolto costs a Resources roll at Good (+3) for a single dose. Ship fuel costs Fair (+2) per system hop. Spare parts cost Average (+1) on a developed world, Good (+3) on the frontier. Track what the party has by tracking their last Resources roll outcome. Consequences from failed Resources rolls represent debt ("Owe the Exchange for the Fuel"), rationing ("Half Rations Until Manaan"), or desperation ("Sold the Backup Hyperdrive").
+
+**Fate mechanics for frontier play.** Frontier survival runs on Crafts, Resources, Contacts, and Notice. A typical session contains 1-2 challenges (multiskill obstacles like "repair the ship before the dead zone expands," "negotiate passage through Exchange territory") and 1 conflict (pirates, Czerka security, local disputes). Contests work for races against time: can the party deliver kolto to the settlement before the patient dies? Resources vs. the clock. Crafts vs. the failing engine. Contacts vs. the locked supply depot.
 
 ---
 
@@ -108,15 +139,29 @@ The campaign centers on the Force crisis. The party investigates what's happenin
 
 ### Why It Works Here
 
-The Force crisis is the deepest thread in the setting. It's the question that connects the GHW to the Ashen Campaigns to the current political order. Every faction has a theory about the Force and a policy based on that theory. Following the trail of the Force crisis leads the party through the entire setting: Jedi enclaves, Sith tombs, Rakatan ruins, Selkath ocean temples, Mandalorian philosophical traditions, and eventually into the Unknown Regions where the answers (or the questions behind the answers) are buried.
+The Force crisis is the deepest thread in the setting. It connects the Great Hyperspace War's mass ritual warfare to the Ashen Campaign's forty-one strikes to the expanding dead zones to the Triumvirate's shadow operations. Five competing theories offer different diagnoses:
+
+- **Jedi scholars** believe using the Force accelerates the damage. Their prescription: restraint, study, reduced Force usage. Their weakness: the galaxy needs Force infrastructure to function, and restraint may come too late.
+- **Sith scholars** believe ten thousand years of treating the Force as a tool broke the relationship. The light/dark binary was a misunderstanding. Their weakness: this diagnosis offers no actionable remedy.
+- **Revan's scar tissue theory** holds that the Force operates as an ecosystem, not a consciousness. Dead zones are an immune response. Force users are the pathogen. Star Forge precedent supports this: the Rakata depleted the Force through industrial extraction and their civilization collapsed. Their weakness: if Revan is right, every faction's winning strategy accelerates the crisis.
+- **Jolee Bindo's observation** that the Kashyyyk Shadowlands Force ecology remains stable and untouched suggests the crisis is a disruption problem, not systemic failure. His weakness: one data point does not generalize, and Jolee refuses to investigate further.
+- **Kreia's theory** holds that the Force is a cosmic prison that enforces its will through sentient intermediaries. The crisis is the first crack in that prison. Her weakness: her proposed solution (managed severance) might kill millions of Force-dependent beings.
+
+Following the trail leads the party through Jedi enclaves, Sith tombs, five Star Map locations (Dantooine intact and contested, Kashyyyk destroyed in a dead zone, Manaan hidden and Selkath-sacred, Tatooine destroyed by Malak, Korriban intact but corrupted), Rakatan ruins, and eventually into the Unknown Regions where Revan found something that broke him.
 
 ### How to Run It
 
-**Layer the mystery.** The Force crisis has multiple causes and multiple theories. No single revelation explains everything. Structure the mystery so that each discovery answers one question and opens two more. The party finds a Rakatan ruin that proves the Force has collapsed before. Good. Now they have a new question: what did the Rakata do differently, and is the current crisis following the same pattern?
+**Layer the mystery using the five theories.** Each theory is partially correct. Structure the campaign so that early discoveries support one theory, mid-campaign discoveries complicate it, and late-campaign discoveries force the party to synthesize their own understanding. The party finds a Rakatan ruin that proves the Force has collapsed before (supports Revan's theory). Then they discover the Rakata's collapse followed a different pattern than the current crisis (complicates it). Then Jolee's Shadowlands data suggests a mechanism the Rakata never discovered (opens a new line of investigation).
 
-**Make the mystery personal.** A Force mystery campaign works when the crisis affects the party's bodies and identities, not just their quest log. The Jedi whose healing fails. The Miraluka who goes blind for the first time. The non-Force-sensitive soldier who watches the Jedi Commander freeze mid-combat and realizes that the Force was never the safety net he'd been told it was. The mystery should matter to the characters as people, not just as investigators.
+In Fate terms, each theory functions as a situation aspect the party accumulates. "Revan's Scar Tissue Theory Has Precedent" can be invoked when the party makes decisions based on that framework. It can be compelled when acting on that theory leads them in a direction that serves Kreia's interests without their knowledge.
 
-**Kreia is the final boss, but she might be right.** The Force mystery trail leads to Kreia. She is the architect behind the Triumvirate, the Ashen Campaigns' acceleration, and the galaxy's march toward Force severance. She is also the person who has thought most clearly about the Force crisis and who has the most coherent plan for addressing it. When the party finally confronts her arguments, they should have to reckon with the possibility that her analysis is correct. Her solution may be monstrous. Her diagnosis may be accurate. The campaign's climax asks the party to decide whether the villain is wrong.
+**Track the Triumvirate's 27-incident file.** Concordat Intelligence has logged twenty-seven incidents: Force-user deaths that don't match known conflict patterns, stolen Rakatan research materials, compromised relay stations, encrypted communications referencing "the Wound." The party's investigation intersects with this file. Each incident the party investigates reveals a piece of the Triumvirate's operations. The pattern emerges gradually. Kaeranth has warned his staff. Carth's intelligence analysts have noticed anomalies. Bastila's battle meditation detected something feeding on her range. The pieces of the same puzzle exist across faction lines, and the party might be the first group to assemble them.
+
+**Make the mystery personal.** A Force mystery campaign works when the crisis affects the party's bodies and identities. The Jedi whose healing fails mid-operation (compel on Force Healer, the patient takes a severe consequence instead of recovering). The Miraluka navigator who goes blind for the first time entering a dead zone (Force Empathy is their baseline perception; losing it means losing sight). The non-Force-sensitive soldier who watches the Jedi Commander freeze mid-combat and realizes the Force was a single point of failure in the unit's tactical doctrine.
+
+**Fate mechanics for Force mystery.** Investigation scenes use Investigate, Lore, and Contacts. A Star Map site is a challenge: Investigate to find the entrance, Lore to interpret the Rakatan inscriptions, Will to resist the dark-side resonance (or the dead-zone pressure). Each success reveals a clue. Each failure inflicts stress or creates a complication (the Sith tomb's guardian activates, the dead zone expands, a Triumvirate agent arrives).
+
+**Kreia is the final act, and she might be right.** The Force mystery trail leads to Kreia. She built the Triumvirate. She accelerated the Ashen Campaign's damage through the Force-channeling techniques Malak's forces used. She has the most coherent plan for addressing the crisis: managed severance. When the party confronts her arguments, the campaign's accumulated evidence should leave the question open. Her diagnosis may be accurate. Her solution may be monstrous. The party decides.
 
 ---
 
@@ -128,15 +173,23 @@ The party are operatives. Intelligence agents, Sentinel Program assets, Exchange
 
 ### Why It Works Here
 
-Every faction in the Concordat Era runs intelligence operations. The Concordat has the Office of Force Affairs and military intelligence. The Remnant has Carth Onasi's intelligence network. The Neo-Mandalorians have scouts and informants. The Triumvirate operates through covert agents. The Exchange trades in information as a commodity. Espionage is the setting's connective tissue: the means by which factions interact when diplomacy fails and war is too expensive.
+Every faction runs intelligence operations. The Concordat has the Office of Force Affairs (12,000 tracked individuals, 216 held without charges at Tier 2 or above) and General Zeval's military intelligence apparatus. The Remnant has Carth Onasi's intelligence network, coordinating across twenty-three systems with limited secure communications. The Sentinel Program fields roughly 300 agents trained under Atris's accelerated curriculum, operating in Concordat territory with unclear oversight. The Neo-Mandalorians have scouts and informants seeded in Concordat military posts. The Triumvirate operates through covert agents whose coordination pattern left twenty-seven incidents in Concordat Intelligence files that nobody has connected. The Exchange trades information as a commodity, pricing intelligence the way Manaan prices kolto.
+
+Espionage is the setting's connective tissue: the means by which factions interact when diplomacy fails and war is too expensive.
 
 ### How to Run It
 
-**Missions have layers.** The handler says: extract this defector from Concordat territory. Layer one: the extraction (getting the defector out). Layer two: the defector knows something the handler didn't mention (the intelligence has value the party wasn't told about). Layer three: someone else is running the same operation from the other side (a competing faction's agents are extracting or eliminating the same target).
+**Missions have layers.** The handler says: extract this defector from Concordat territory. Layer one: the extraction (getting the defector out). Layer two: the defector is a former OFA analyst who knows the locations of all sixteen covert monitoring stations on the Outer Rim (the intelligence has value the party wasn't told about). Layer three: a Sentinel Program operative is running a parallel extraction because the defector also has information about Atris's off-the-books research into Force severance (a competing faction's agent with their own handler and their own secrets).
 
-**Cover identities are aspects.** When an operative is undercover, their cover identity functions as a temporary high concept that can be invoked and compelled. The cover works until someone challenges it. A Concordat intelligence operative posing as a kolto merchant can invoke "Kolto Merchant From Manaan" to access trade networks. The GM can compel it when a real kolto merchant asks technical questions the operative can't answer.
+**Cover identities are aspects.** When an operative goes undercover, their cover identity functions as a temporary high concept. In Fate terms, the operative replaces their existing high concept with the cover identity for the duration of the mission. "Kolto Merchant From Manaan" can be invoked to access trade networks (create advantage with Deceive, place the aspect, invoke it for Contacts rolls). The GM can compel it when the cover is tested: a real kolto merchant asks about Ahto City Council export tariffs, and the operative needs a Deceive roll against the merchant's Investigate to maintain the lie. A failed roll doesn't blow the cover immediately; it creates a situation aspect ("Merchant Is Suspicious") that compounds in later scenes.
 
-**Trust as currency.** Espionage campaigns run on trust: trust between the party and their handler, trust between party members (who may have separate orders), trust between the party and their sources. Track trust the way you'd track a relationship in a social game. When trust breaks, operatives get burned. A burned operative is a character in freefall, which is some of the best play this genre produces.
+**Trust as currency.** Espionage campaigns track trust between the party and their handler, between party members who may have separate orders, and between the party and their sources. In Fate terms, trust is a shared situation aspect: "Handler Trusts Us With Sensitive Operations" can be invoked and compelled. When the party acts outside their handler's instructions, the GM compels the trust aspect to create consequences: the handler restricts access to intelligence, assigns a minder to the party, or burns a source the party relied on to punish the deviation.
+
+Carth Onasi runs Remnant intelligence with the paranoia of a man who watched Revan's mind fracture and now trusts documentation over relationships. An espionage party working for Carth discovers that their handler keeps records of their performance, their deviations, and their contacts. The records are a contingency. If the party's loyalty wavers, Carth has the information to neutralize them. This is not villainy. This is operational security from a man who learned what happens when you trust the wrong person.
+
+**Fate mechanics for espionage play.** Espionage scenes use Deceive, Investigate, Stealth, and Contacts as primary skills. An infiltration is a challenge: Stealth to enter the facility, Investigate to find the intelligence, Deceive to maintain cover if confronted, Athletics to exit under pressure. A surveillance operation is a contest: the party's Notice vs. the target's Stealth, played across multiple exchanges as the target moves through zones (public market, private residence, secure facility). A handler meeting is a social conflict when the handler and the party disagree about the next operation.
+
+**The Triumvirate as the invisible opponent.** In an espionage campaign, the party may discover the Triumvirate's operations before any faction's leadership does. The twenty-seven incidents in Concordat Intelligence files become the party's investigation: each incident is a clue, and the pattern reveals a coordination structure that operates across faction lines. Kreia's agents are embedded in the Concordat, the Remnant, the Exchange, and the Jedi Order. The party uncovers operatives one at a time, and each discovery raises the stakes: the Triumvirate knows someone is looking.
 
 ---
 
@@ -148,15 +201,150 @@ The grand scale. Duels that decide the fate of systems. Fleet engagements over c
 
 ### Why It Works Here
 
-The Concordat Era was built for this. The setting's Napoleonic parallels, its grand political conflicts, its flawed-but-compelling leaders, and its genuine uncertainty about the future all produce space opera naturally. Malak's Concordat is an empire in formation. Revan's obsession is a quest into the unknown. Kreia's long game is a conspiracy that spans decades. The Force crisis is an existential threat. These are opera-scale elements.
+Revan's fractured mind generates opera-scale stakes by itself. On lucid days, Revan dictates strategic directives that prove accurate months later. On bad days, Revan scrawls Rakatan transcriptions on bulkhead walls and speaks in the third person about someone named "the Revanchist." Kaeranth, Carth, Bastila, and Meetra Surik each manage this reality from a different angle: Kaeranth filters the lucid intelligence into operational orders, Carth documents the decline, Bastila maintains a Force bond that feeds her Revan's emotions whether she wants them or not, and Meetra watches for the moment the decline becomes irreversible. A space opera campaign centered on the Remnant asks whether the party can hold an alliance together when the alliance's founder is losing the capacity to lead.
+
+Malak's Concordat provides the opposing opera: an empire consolidating under a man who lost his jaw and sword arm to the person he served, who now governs forty-three systems through military governors and the Senate's reluctant ratification. The Concordat's internal factions (Integrationists, Restorationists, Militarists, Pragmatists) pull Malak's government in four directions. Director Valio's OFA expansion, General Zeval's military restructuring, and the Senate's 2/3 supermajority requirement for wartime decrees create friction at every level. A space opera campaign centered on the Concordat asks whether the players prop up a system that works but isn't free, or help the people inside it who want to change the terms.
+
+The Mandalorian succession question raises a third opera. Mandalore the Vindicated serves as Second Consul, but Canderous Ordo contests the title. Fett commands 9,000 officers and expects the next Dxun gathering to confirm his authority. Veera Ordo has assembled 6,000 warriors and disagrees. The gathering is six months away. A space opera campaign about the Mandalorians asks who inherits a warrior culture's future and what they do with it.
 
 ### How to Run It
 
-**Give the party a ship that goes fast and a reason to use it.** Space opera needs movement. The party should travel across the galaxy, visiting the setting's key worlds, meeting its major figures, and arriving at crises just in time to matter.
+**Give the party a ship and a reason to cross the galaxy.** Space opera needs movement. The party visits Coruscant's Senate chambers, Manaan's kolto processing platforms, Dxun's gathering camps, Korriban's Valley of the Dark Lords. Each world presents a distinct conflict with distinct NPCs who need something from the party.
 
-**Collapse the distance between personal and political.** In space opera, the Jedi Commander's crisis of faith and the Remnant's struggle for survival are the same story told at different scales. When the Commander decides to trust the Force one more time, that decision matters for the battle, for the faction, and for the galaxy's relationship with the Force. Build scenes where personal choices have galactic weight.
+**Collapse the distance between personal and political.** A Jedi Commander's decision to trust the Force one more time matters for the battle, for the Remnant's morale, and for the galaxy's relationship with the Force. In Fate terms, the Commander's high concept ("Last Jedi Commander of the Outer Rim Fleet") and the Remnant's situation aspect ("Hanging Together By Kaeranth's Will") are linked. Compelling one creates pressure on the other. Build scenes where the GM compels a personal aspect and the consequence is political, or compels a faction aspect and the consequence is personal.
 
-**Go big, then go small.** A space opera session should contain at least one moment of grand scale (a fleet engagement, a confrontation with a faction leader, a revelation about the Force crisis) and at least one moment of intimate scale (a quiet conversation between two characters, a personal loss, a moment of grace in the middle of catastrophe). The contrast is what makes both work.
+**Build act structure around escalating faction collisions.** Act one: the party operates within a single faction's orbit. They run missions for Kaeranth, enforce Concordat policy under a military governor, or scout for Clan Ordo. Act two: a second faction enters the party's operations. The Remnant mission intersects with a Triumvirate operation; the Concordat assignment requires cooperation with a Mandalorian unit; the Mandalorian scout discovers a Star Map site that Bastila's researchers need. Act three: the party's choices from acts one and two converge into a crisis that forces them to pick a side, broker a deal, or find a third option that nobody offered.
+
+**Go big, then go small.** A space opera session needs at least one grand-scale moment (a fleet engagement over Onderon, a confrontation with Malak's inner circle, a revelation about the Star Forge's operational status) and at least one intimate moment (Kaeranth reading Revan's latest incoherent transmission alone in his quarters, a Mandalorian warrior admitting to the party that she doubts the Creed, a Jedi discovering that his Force sight is dimming). The contrast makes both land.
+
+**Fate mechanics for opera-scale play.** Space opera campaigns use the full range of Fate conflict types. Fleet engagements use zone-based conflict with ships as characters (aspects, skills, stress tracks, consequences). Political confrontations use social conflict with senators, admirals, and clan chiefs as opposition. Personal duels use standard physical conflict with lightsaber mastery as a skill. The GM should shift between conflict types within a single session: a political negotiation fails, triggering a chase scene, which leads to a duel. Each shift changes the relevant skills and the stakes. Concessions in Fate become the opera's turning points: a fleet commander concedes a battle by retreating to save her ships, but the narrative cost is losing a system. A senator concedes a vote but extracts a promise that becomes a future compel.
+
+---
+
+## Genre 7: Investigation and Journalism
+
+### What It Is
+
+The party uncovers the truth and decides what to do with it. Investigative campaigns center on documentary evidence, witness testimony, classified records, and institutional cover-ups. The party gathers proof of something a faction would prefer stay buried and then confronts the most dangerous question in the setting: who do you tell?
+
+### Why It Works Here
+
+The Concordat Era runs on controlled information. Director Valio's OFA classifies intelligence assessments that the Security Council reviews behind closed doors. Kaeranth edits Revan's communications before the Remnant officer corps reads them. The Cadera archives on Concord Dawn opened to Republic scholars, and afterward someone altered texts that neither Jicoln nor Maraelle can identify. Czerka bills the Senate for Telos restoration work that Senator Lorso's forensic accountants proved unfinished. Lynira Saal runs the Independent Coruscant Press from Nar Shaddaa's Exchange-adjacent broadcast infrastructure because the Concordat revoked her credentials after she published OFA detention statistics. The setting's institutions generate secrets faster than anyone can expose them.
+
+The 27-incident file in Concordat Intelligence sits unconnected because nobody with access has the authority to investigate Sith-pattern operations, and nobody with the authority knows the file exists. Carth Onasi's six analysts found the correlation independently. Bastila felt the pattern during battle meditation. Kaeranth received Revan's warning. Three puzzle pieces in three people's hands, and institutional structure prevents assembly.
+
+### How to Run It
+
+**Build the evidence chain.** An investigation campaign needs a central question ("Who altered the Cadera archives?" or "What connects the twenty-seven incidents?") and five to eight pieces of evidence scattered across factions and worlds. Each piece advances the answer and creates a new problem. The party retrieves Ves'kaan massacre documentation from Concordat military records and discovers the report was filed by an officer now serving on Malak's Security Council. The evidence answers one question (who ordered the cover-up) and raises another (what does the Security Council member protect today?).
+
+**Sources have agendas.** Lynira Saal provides the party with OFA detention statistics, but she needs the party to verify a second source before she broadcasts. The verification requires entering a Concordat facility. Saal doesn't mention that publishing the statistics serves her personal vendetta against Director Valio, who revoked her credentials. In Fate terms, Saal's aspect ("Exiled Journalist With a Grudge") is invokable by the party for access to her network and compellable by the GM when Saal's agenda conflicts with the party's investigation.
+
+**Publication is a choice, not a conclusion.** The party assembles proof that Czerka defrauded the Telos restoration project. Publishing through the Independent Coruscant Press embarrasses the Senate but tips off Czerka, who destroys secondary evidence. Delivering the proof to Senator Lorso triggers an Oversight Committee investigation, but Lorso buries any findings that implicate her own coalition allies. Handing the evidence to Kaeranth gives the Remnant propaganda ammunition but makes the party intelligence assets for a hostile government. Each option has consequences the party can model using Fate's create advantage action: "Published Proof of Czerka Fraud" is a situation aspect that multiple factions invoke and compel for different purposes.
+
+**Fate mechanics for investigation play.** Investigation scenes use Investigate, Contacts, Lore, and Notice as primary skills. A records search is a challenge: Investigate to find the relevant files, Lore to contextualize the information, Deceive to explain why you need access. Interviewing a reluctant witness is a contest: Rapport vs. the witness's Will, played across multiple exchanges as the witness weighs cooperation against self-preservation. A confrontation with the subject of the investigation (a Concordat official, a Czerka executive, a Sith agent) is a social conflict with the evidence as ammunition. Each piece of evidence the party gathered earlier becomes a boost or a free invoke on an advantage created during the investigation phase.
+
+---
+
+## Genre 8: Trade and Economics
+
+### What It Is
+
+The party navigates the galaxy's broken supply chains, contested trade routes, and resource monopolies. Trade campaigns put the party at the intersection of commerce and survival, where a kolto shipment's destination determines whether a frontier clinic stays open or a military hospital takes priority, and the party chooses the buyer.
+
+### Why It Works Here
+
+The Concordat Era's economy runs on scarcity. Kolto from Manaan is the sole reliable alternative to Force healing, and the Selkath's Ahto City Council sets prices with the leverage of a species that can destroy its own infrastructure rather than surrender sovereignty. Beskar circulates through Mandalorian channels that Cassus Fett controls for integrated clans and Tarre Vizla supplies to non-Concordat buyers at triple price, routing half the proceeds to Tera Skirata's eighteen rural clinics. Czerka Corporation operates the Telos restoration project, the Kashyyyk resource extraction operation, and supply contracts across forty-three military governor systems. The Exchange fills governance gaps on Nar Shaddaa at premium rates.
+
+Rav Skirata's three temperate farming worlds produce kkanmur grain that feeds twelve garrisons, but Concordat administrators set the prices and control the distribution routes. Rav's petition for agricultural autonomy sat before Fieldmarshal Kelborn for nine months. A trade campaign enters this economy and forces the party to decide whose prices they honor, whose embargoes they respect, and whose people they feed.
+
+### How to Run It
+
+**The ship is the business.** In a trade campaign, the party's ship has a cargo hold, a fuel budget, and a reputation. Model the ship as a Fate character with aspects ("Rebuilt Corellian Freighter With a Reputation for Discretion"), a stress track (3 physical, 2 structural), and consequences (mild: damaged sensor array, moderate: cracked hull plating, severe: engine failure). The ship's trouble ("Fuel Reserves Run Low Between Stops") generates compels that drive sessions: the party needs fuel, the nearest depot is a Czerka station on Kashyyyk where Wookiee laborers process tibanna under armed guard, and buying fuel means paying Czerka.
+
+**Contracts create obligations.** A Selkath export contract specifies delivery timelines, quantities, and penalties for breach. If the party signs a contract to deliver kolto to a Remnant agricultural world, they invoke "Selkath Export Contract" for legitimacy at customs checkpoints. The GM compels it when a Concordat patrol demands to inspect sealed medical cargo, because the Selkath contract voids if a foreign government opens the containers.
+
+**Price is politics.** Beskar costs more in Coalition territory because Fett controls the integrated supply chain and Vizla charges triple for non-Concordat channels. Kolto costs more on the frontier because transport adds risk premiums that Manaan doesn't absorb. The party learns that a Concordat military hospital on Telos pays Good (+3) for kolto, a Remnant clinic on Dantooine pays Fair (+2) but offers intelligence contacts as payment-in-kind, and a Cathar refugee settlement offers nothing except the knowledge that children survive. These are not abstract choices. They are session-driving decisions with mechanical consequences: selling to the Remnant creates a relationship aspect ("Trusted Supplier to Dantooine Clinic") that generates future advantages and future compels.
+
+**Fate mechanics for trade play.** Trade negotiations use Rapport, Deceive, Resources, and Contacts as primary skills. A market negotiation is a contest: the party's Rapport vs. the buyer's Will, with advantages created by the party's reputation and the cargo's scarcity. A smuggling run past a Concordat patrol is a challenge: Pilot to navigate, Stealth to avoid detection, Deceive to bluff through an inspection. Trade campaigns track the party's Resources skill as a fluctuating score: successful contracts provide temporary boosts (+1 for a session), failed deliveries impose consequences that reduce effective Resources until the party recovers financially. A faction relationship (positive or negative) created through trade practice becomes a permanent campaign aspect that compounds over time.
+
+---
+
+## Genre 9: Religious Schism
+
+### What It Is
+
+The party enters the theological and philosophical conflicts that the Force crisis has made urgent. Religious schism campaigns put players inside the Jedi Order's five-faction debate, the Sith community's struggle between imperial heritage and Keeper traditions, or the Mandalorian Creed's fracture over what the Resol'nare requires when two leaders claim the sixth tenet.
+
+### Why It Works Here
+
+The Jedi Order has eight hundred members split across five factions who disagree about the Force's nature, the Order's purpose, and whether using the Force accelerates the crisis. Council Loyalists at Coruscant study the problem and minimize Force use. Remnant Jedi maintain Revanchist military ranks under Revan's government. Concordat Advisors serve Malak as healers and administrators. Atris's Sentinel Program trains three hundred operatives in an accelerated curriculum that the Council never approved, and thirty-seven are dead, twelve deserted, and eight turned to the dark side. Independents left the Order and scatter across the frontier as teachers, farmers, and bartenders.
+
+The Sith community fractures along different lines. The hybrid Sith tradition (seven thousand years of Dark Jedi conquest overlaid on Pureblood culture) produced the Imperial Code: "Peace is a lie, there is only passion." The Keepers of Adas preserved the older tradition: "Strength serves pattern. Passion illuminates truth." Kreia's Triumvirate pursues managed severance of the Force, arguing that both light and dark sides enslave Force-users to a cosmic system that does not care about them. A Sith Pureblood born after the Great Hyperspace War inherits all three perspectives and has to decide which one (if any) represents what "Sith" means.
+
+The Mandalorian Creed's sixth tenet ("Answer the call of Mandalore") is the wedge that splits the culture. Mandalore the Vindicated serves the Concordat. Canderous Ordo rejects the Concordat as a violation of warrior autonomy. Jicoln Cadera argues that Mandalore answered a non-Mandalorian authority, which invalidates the office. Satine Kryze advocates demilitarization. Each position interprets the same six tenets and reaches a different conclusion about Mandalorian identity.
+
+### How to Run It
+
+**Schisms are personal.** A schism campaign traces the macro-level debate through individual characters. Session one does not open with a Council debate. It opens with a Jedi healer in a Concordat clinic on Taris who healed a patient this morning and filed a report to the OFA about the patient's Force sensitivity this afternoon. The healer believes both actions serve the same principle (knowledge protects the community). The party disagrees, or agrees, or splits on the question. That disagreement is the campaign.
+
+**Belief is an aspect.** Each major NPC carries a belief statement as an aspect. Master Vrook's "The Force Rewards Restraint" is invokable when the Council's caution prevents a mistake and compellable when restraint lets a crisis worsen. Jicoln Cadera's "Resol'nare Permits No Compromise" gives him rhetorical force in debate and makes him brittle when the party presents evidence that compromise saved Mandalorian lives. The party's own belief statements function the same way: invokable when the belief guides the party toward effective action, compellable when it blinds them to alternatives.
+
+**Debates are social conflicts.** A Jedi Council session where the party argues for a new policy is a social conflict with stress tracks. The Council's collective Will represents institutional inertia. Each faction present (Loyalists, Sentinels) brings aspects that support or oppose the party's argument. The party creates advantages by presenting evidence (Investigate), building coalitions (Contacts), or framing the argument emotionally (Rapport). A successful debate grants the party narrative permission to act (a Council mandate, a Sentinel assignment, a faction endorsement). A failed debate means the institution blocks the party, and the party must decide whether to comply or act outside institutional authority.
+
+**Schism campaigns end with a choice, not a victory.** The campaign's final session presents the party with a theological or philosophical decision that the party has spent sessions building toward. No answer is correct. The Jedi healer who filed OFA reports can advocate for the Council to sever ties with the Concordat, or can argue that institutional cooperation saves more lives than principled withdrawal. The Sith Pureblood who studied both the Imperial Code and the Keeper tradition can advocate for Keeper principles within the diaspora community, or can argue that the hybrid tradition reflects seven thousand years of adaptation and shouldn't be discarded. The party's choice becomes a permanent campaign aspect for subsequent play.
+
+---
+
+## Genre 10: Reconstruction
+
+### What It Is
+
+The party rebuilds. Reconstruction campaigns focus on a single community, world, or institution recovering from war, occupation, genocide, or infrastructure collapse. The party allocates resources, negotiates with factions, manages populations, and confronts the tension between doing things fast and doing them right.
+
+### Why It Works Here
+
+The Mandalorian Wars and the Ashen Campaign left twelve planets permanently damaged and dozens of worlds in various states of collapse. Telos runs a Czerka-managed restoration project where Senator Lorso's forensic accountants proved the corporation bills for unfinished work. Cathar, the Cathar homeworld, is a genocide recovery site where the Ves'kaan massacre killed fourteen thousand and the surviving population rebuilds without Republic aid that matches the scale of the loss. Onderon endured the Second Siege during the Ashen Campaign, and Mandalorian auxiliaries devastated the agricultural base: the world now imports forty percent of its food. Serroco's Stereb native population coexists with Mandalorian cortisis mining operations under a resource pact that the Stereb signed under duress.
+
+Each of these worlds presents reconstruction as a campaign: who controls the budget, who decides what gets rebuilt first, who loses when resources go to one district instead of another.
+
+### How to Run It
+
+**The community is a Fate character.** Build the community using the Fate Fractal. A Cathar resettlement district has a high concept ("Genocide Survivors Rebuilding From Rubble"), a trouble ("Republic Aid Covers Thirty Percent of Need"), aspects ("Matrilineal Clan Elders Lead Consensus" and "Younger Generation Demands Faster Progress"), skills (Resources at Average +1, Will at Good +3), and a stress track. When the party secures a kolto shipment for the clinic, the community clears a mild consequence. When a Concordat administrator redirects grain shipments to a military garrison, the community takes stress.
+
+**Every resource decision is a trade-off.** The party has three construction teams and four projects: housing, a water treatment facility, a clinic, and a defensive wall. Housing satisfies the population's demand. The water treatment facility prevents disease. The clinic treats existing casualties. The defensive wall protects against Mandalorian raids. The party can complete three this season. Choosing means someone suffers. That choice generates the next session's conflict: the faction whose project was cut demands an explanation, and the party either defends the decision or changes priorities.
+
+**Reconstruction attracts competing interests.** Czerka offers to fund the water treatment facility in exchange for a mineral survey license. The party knows Czerka's labor practices on Kashyyyk (Wookiee forced labor under Concordat contract), but the facility saves lives this month. A Mandalorian clan offers defensive support in exchange for recruitment access to the community's young adults. The community's elders refuse on principle, but the raids continue. In Fate terms, each offer is a potential aspect with invokable benefits and compellable costs. "Czerka-Funded Water Treatment" provides clean water (invoke for community health) and gives Czerka a foothold (compel when Czerka exercises the mineral survey rights).
+
+**The population has opinions.** Reconstruction campaigns track community morale as a situation aspect that shifts based on the party's decisions. "Cautiously Hopeful" becomes "Growing Impatient" after two sessions without visible progress. "Growing Impatient" becomes "Demanding New Leadership" if the party prioritizes external negotiations over local needs. Community morale affects NPC cooperation: a hopeful community provides volunteers and information freely, while an impatient community demands explanations and withholds labor.
+
+**Fate mechanics for reconstruction play.** Reconstruction uses Crafts, Resources, Rapport, and Contacts as primary skills. Building a structure is a challenge: Crafts for construction, Resources for materials, Rapport for labor recruitment. Negotiating with a faction supplier is a contest: the party's Rapport vs. the supplier's demand (Czerka's Deceive, a Mandalorian clan chief's Will). A political crisis within the community (an elder refuses to house non-Cathar refugees, a youth faction demands militarization) is a social conflict where the party mediates. Community stress tracks and consequences give the GM a mechanical framework for tracking whether the reconstruction succeeds or stalls.
+
+---
+
+## Combining Genres
+
+Most Concordat Era campaigns blend two or three genres across their arc. A campaign that opens as investigation (the party discovers Czerka's Telos billing fraud) shifts to political intrigue (the party navigates Senator Lorso's committee to present evidence) and resolves as reconstruction (the party oversees the corrected restoration project). Genre blending follows a natural arc: discovery → confrontation → consequence.
+
+### Genre Pairing Table
+
+| Primary Genre | Strong Secondary | Session Shift Pattern |
+|---|---|---|
+| Political Intrigue | Espionage | Political scenes reveal intelligence needs; intelligence scenes create political leverage |
+| Military Operations | Frontier Survival | Battles create supply crises; supply missions create combat encounters |
+| Force Mystery | Religious Schism | Evidence about the Force crisis challenges beliefs; belief systems interpret evidence differently |
+| Investigation | Trade & Economics | Following money reveals institutional corruption; trade contacts provide access to evidence |
+| Space Opera | Any genre | Opera provides the scale frame; secondary genre provides session-level structure |
+| Reconstruction | Trade & Economics | Rebuilding requires resources; resource acquisition requires trade relationships |
+| Espionage | Force Mystery | Intelligence operations uncover Triumvirate activity; Force phenomena generate intelligence gaps |
+| Religious Schism | Political Intrigue | Theological positions align with political factions; political pressure forces theological compromises |
+
+### Building a Multi-Genre Campaign
+
+**Act structure drives genre shifts.** A three-act campaign (12 sessions) might run Act One as investigation (sessions 1-4, the party discovers the problem), Act Two as espionage (sessions 5-8, the party gathers intelligence and builds alliances), and Act Three as political intrigue or military operations (sessions 9-12, the party acts on what they know). Each act uses different primary skills, different NPC relationships, and different Fate mechanical frameworks. The GM signals genre shifts by changing the types of scenes offered: investigation acts feature evidence searches and witness interviews; espionage acts feature cover identities and handler meetings; political acts feature debates and faction negotiations.
+
+**Aspects carry across genres.** An advantage created during an investigation act ("Documented Proof of OFA Overreach") persists into the political act, where the party invokes it during a Senate committee hearing. A relationship aspect built during trade sessions ("Trusted by Rav Skirata's Supply Network") provides access during a reconstruction arc. Genre shifts change which skills the party uses, not which aspects matter.
+
+**The Force crisis connects all genres.** Dead zones affect trade routes (frontier survival), military planning (military operations), intelligence gathering (espionage), institutional debates (religious schism), and community recovery (reconstruction). A campaign that tracks the Force crisis as its spine can shift genres session by session while maintaining narrative coherence: the party investigates the crisis (Force mystery), debates its implications (religious schism), navigates its economic fallout (trade), and rebuilds communities damaged by it (reconstruction).
 
 ---
 
@@ -170,7 +358,7 @@ The Concordat Era was built for this. The setting's Napoleonic parallels, its gr
 
 Traditional evil campaigns fail for a predictable reason: they give the players permission to act without consequences, and consequence-free action is boring. A party of cackling villains torturing innocents produces shock for about two sessions and tedium forever after. The problem is structural. Evil campaigns remove the tension that makes tabletop RPGs work: the tension between what the character wants and what the character can get away with.
 
-The Concordat Era solves this problem by refusing to offer a faction that's simply evil. The Sith in this setting are a people, a diaspora, a fractured military, a set of philosophical traditions, and (in the Triumvirate) a conspiracy with goals that might be correct. A Sith campaign offers a different lens on the same galaxy.
+The Concordat Era solves this problem by refusing to offer a faction that is evil without qualification. The Sith in this setting are a people, a diaspora, a fractured military, a set of philosophical traditions, and (in the Triumvirate) a conspiracy with goals that might be correct. A Sith campaign offers a different lens on the same galaxy.
 
 ### The Three Sith Campaigns
 
@@ -220,7 +408,282 @@ The GM running a Sith campaign should remember: the party's choices define their
 
 ---
 
-# PART III: ALTERNATE CAMPAIGN FRAMES
+# PART III: CAMPAIGN SCOPE AND STRUCTURE
+
+## Three Scales of Play
+
+The Concordat Era supports campaigns at three scope tiers. Each tier uses different primary skills, features different NPC power levels, and asks different questions. The tier you choose determines how much of the galaxy the party touches and how much influence they wield.
+
+### Personal Scope (1 world, 1 community, 1 problem)
+
+The party operates within a single location and solves a bounded problem. A personal-scope campaign might span a single city district on Taris, a kolto processing platform on Manaan, a Mandalorian garrison on Dxun, or a Jedi Enclave on Dantooine. The party knows most NPCs by name. The stakes are local: a community's survival, a leader's decision, a secret that affects dozens of people.
+
+**Primary Fate skills:** Rapport, Investigate, Notice, Crafts, Contacts. Personal-scope campaigns favor social and investigative skills because the party interacts with the same NPCs repeatedly, builds trust (or suspicion), and operates within a constrained environment where relationships compound.
+
+**Session structure:** 2-3 scenes per session. Each scene deepens the party's understanding of the location and its people. The GM tracks 3-5 NPC relationships as situation aspects that evolve session to session. A successful personal campaign feels like a novel set in one place: Tera Skirata's eighteen rural clinics, the Cathar resettlement district, the Selkath export council chamber.
+
+**Best genres:** Reconstruction, Investigation, Religious Schism, Frontier Survival.
+
+**Sample campaign:** The party runs Tera Skirata's newest clinic on a Mandalorian agricultural world. Patients arrive with war trauma the Mandalorian vocabulary lacks words for. OFA compliance requires patient registration that Tera refuses to implement. The season's kkanmur grain harvest fails, and Rav Skirata's petition for agricultural autonomy sits unanswered. The party treats patients, negotiates with administrators, and discovers that the grain failure traces to a dead zone expanding from a ritual site three valleys west. Six sessions. Personal scope. The community's fate depends on twelve decisions the party makes across six weeks of play.
+
+### Regional Scope (3-5 worlds, 1-2 factions, interconnected problems)
+
+The party operates across a cluster of related worlds and navigates interconnected problems that affect a region. A regional-scope campaign might cover the Onderon-Dxun system (the Beast Riders, the Second Siege aftermath, the Mandalorian garrison, the agricultural crisis), the Outer Rim corridor between Dantooine and Kashyyyk (Remnant supply lines, Czerka operations, Wookiee resistance), or the Telos-Manaan trade route (kolto contracts, Czerka reconstruction fraud, Selkath diplomacy).
+
+**Primary Fate skills:** Contacts, Resources, Pilot, Shoot, Deceive. Regional campaigns require travel, economic management, and faction navigation. The party maintains a ship, a budget, and relationships across multiple worlds.
+
+**Session structure:** 3-4 scenes per session. The party travels between worlds, and each world presents a distinct problem that connects to the regional arc. The GM tracks 2-3 faction clocks that advance whether or not the party intervenes. Regional campaigns feel like a television season: each world-visit is an episode with its own resolution that advances the season arc.
+
+**Best genres:** Military Operations, Espionage, Trade & Economics, Space Opera.
+
+**Sample campaign:** The party runs Remnant supply operations along the Outer Rim corridor. Kaeranth assigns them a six-month supply raid plan targeting three Concordat depot clusters. Each depot has a sympathetic garrison commander, a hostile security complement, and a civilian population that suffers when supplies disappear. Commander Akaavi coordinates the raiding fleet. Bralor Vizsla leads the boarding teams. The party discovers that one depot stores confiscated Sith artifacts, and the artifacts correlate with Carth Onasi's 27-incident file. Twelve sessions. Regional scope. The supply war intersects with the Triumvirate's operations, and the party must decide whether to report the artifacts to Kaeranth, investigate independently, or hand them to the Jedi.
+
+### Galactic Scope (6+ worlds, 3+ factions, systemic crisis)
+
+The party operates across the galaxy and engages with the setting's largest conflicts. A galactic-scope campaign tracks the Force crisis investigation, the three-government power struggle, the Triumvirate's emergence, the Star Forge question, or the Mandalorian succession. The party meets faction leaders, influences institutional decisions, and witnesses (or causes) events that reshape the political order.
+
+**Primary Fate skills:** All 19 skills see use. Galactic campaigns require the full skill pyramid because the party faces military, political, social, investigative, and survival challenges across varied environments. The GM tracks 5+ faction clocks, and faction leaders respond to the party as actors with their own intelligence networks and agendas.
+
+**Session structure:** 3-5 scenes per session. Galactic campaigns alternate between macro-scale scenes (fleet engagements, Council debates, faction-leader meetings) and personal scenes (a quiet conversation between party members, an NPC's private confession, a moment of vulnerability). The contrast between scales produces the emotional range that sustains a long campaign.
+
+**Best genres:** Space Opera, Political Intrigue, Force Mystery.
+
+**Sample campaign:** The party investigates the Force crisis across the galaxy. They consult Jolee Bindo in the Kashyyyk Shadowlands (Force ecology is stable and untouched). They examine the Star Map on Dantooine (Jedi Enclave ruins, contested territory). They visit the Baran Do Sages on Dorin (first incorrect forecast in 1 CE). They gain an audience with Malak on Coruscant (the Supreme Chancellor-General destroyed the Tatooine Star Map and wants to know what the party learned). They encounter Kreia (the woman who speaks about the Force in terms that feel persuasive and wrong). Twenty sessions. Galactic scope. The party assembles the truth about the Force crisis from fragments scattered across factions, worlds, and philosophies, and the truth demands a response that no faction has endorsed.
+
+---
+
+## Campaign Length and Structure
+
+### Mini-Campaigns (3-6 sessions)
+
+A mini-campaign answers a single question. "Can the Cathar resettlement survive its first winter?" "Who altered the Cadera archives?" "Will the kolto shipment reach Dantooine before the clinic runs out?" Mini-campaigns suit actual play formats because they provide a definitive ending: the audience hears a complete story with resolution, stakes, and consequences.
+
+**Structure:** Session 1 establishes the situation and the central question. Sessions 2-4 complicate the question through discoveries, setbacks, and faction interference. The final session (5 or 6) presents a decisive moment where the party answers the question through action. No cliffhangers. The story ends. The consequences persist into the next mini-campaign if the group continues play.
+
+**Fate setup:** Characters start at Good (+3) peak skill. Three aspects (high concept, trouble, one additional). Two stunts (one may be Force-Sensitive Extra). Abbreviated backstory: one formative event, one faction relationship. Mini-campaign characters are competent but not positioned at the galaxy's center of power.
+
+**Pacing targets:** 2-3 scenes per session. 8-15 total scenes across the campaign. Each scene advances the central question or reveals a new facet of the answer. Cut scenes that don't serve the question.
+
+### Standard Campaigns (7-12 sessions)
+
+A standard campaign follows a three-act structure. Act One (sessions 1-3) establishes the party's position, allies, and the central conflict. Act Two (sessions 4-8) complicates the conflict through faction interference, moral dilemmas, and escalating stakes. Act Three (sessions 9-12) resolves the central conflict through a decisive sequence where the party's accumulated choices converge.
+
+**Structure:** Act transitions should feel like gear shifts. Act One operates at personal scale (the party meets NPCs, establishes relationships, identifies the problem). Act Two expands to regional scale (the problem connects to faction operations, the party travels, new threats emerge). Act Three contracts back to personal scale but with galactic stakes (the party's decision affects the region, the faction, or the Force crisis, but the moment of decision is intimate: a conversation, a duel, a vote).
+
+**Fate setup:** Standard pyramid (Great +4 peak). Five aspects. Three stunts. Full backstory from the six narrative questions. Standard campaign characters occupy meaningful positions within or adjacent to faction structures.
+
+### Long Campaigns (13-20 sessions)
+
+Long campaigns track systemic change across the setting. The party's actions reshape faction positions, institutional policies, and the galaxy's response to the Force crisis. Long campaigns require the GM to maintain faction clocks, update NPC statuses between sessions, and track consequences across acts.
+
+**Structure:** Four acts. Act One (sessions 1-4): discovery and positioning. Act Two (sessions 5-10): faction entanglement and escalation. Act Three (sessions 11-16): crisis convergence (multiple faction clocks reach zero, the party faces interconnected crises demanding prioritization). Act Four (sessions 17-20): resolution and consequence (the galaxy after the party's choices). Long campaigns need a mid-point recalibration (session 10-11) where the GM checks faction clocks, reviews player engagement, and adjusts the remaining arc to follow the players' energy.
+
+**Fate setup:** Standard pyramid with advancement milestones at act breaks (significant milestone after Act One, major milestone after Act Two, second major milestone after Act Three). Characters grow across the campaign: skill upgrades, new stunts, aspect rewrites that reflect the character's arc as player and character agree on the evolution.
+
+---
+
+## Actual Play Structure
+
+The Concordat Era is built for a podcast, and podcast campaigns prefer definitive endings over open-ended serial play. A season of actual play should be a mini-campaign (3-6 episodes) or a standard campaign (7-12 episodes) with a clear final episode that resolves the season's central question.
+
+### Season Structure
+
+**Season 1:** A mini-campaign (3-6 episodes) that introduces the setting through a contained story. The audience learns the galaxy's political landscape through the party's experience, not exposition. Best entry points: a frontier community dealing with dead zone expansion (Genres 3 + 10), a Mandalorian garrison navigating integration tensions (Genres 1 + 9), or a crew running kolto between Manaan and the Outer Rim (Genres 8 + 3).
+
+**Season 2:** A standard campaign (7-12 episodes) that expands the scope. Returning characters from Season 1 carry aspects, relationships, and consequences forward. The GM introduces 1-2 new factions from the setting's roster. The season's central question should be larger than Season 1's but still bounded enough for definitive resolution.
+
+**Season 3+:** Standard or long campaigns that build on accumulated continuity. Faction clocks from earlier seasons advance. NPCs who survived earlier play return with changed positions. The audience has context that makes faction politics legible without exposition. Each season introduces new aspects of the setting: Season 1 might cover the Outer Rim frontier, Season 2 the Concordat's inner politics, Season 3 the Force crisis investigation at galactic scale.
+
+### Shared Continuity, Independent Stories
+
+Each season tells a complete story. A listener can start at Season 2 and follow the narrative. Returning listeners benefit from accumulated context but new listeners do not need it. The GM achieves this by treating each season's central question as self-contained while allowing the setting's background (faction clocks, NPC statuses, Force crisis progression) to evolve between seasons. A Season 1 NPC who appeared in three episodes becomes a Season 2 faction leader without re-introduction: the returning audience knows them, and the new audience meets them at their current position.
+
+### Campaign Planning Worksheet
+
+Before session 1, answer these questions:
+
+1. **Scope tier:** Personal, Regional, or Galactic?
+2. **Campaign length:** Mini (3-6), Standard (7-12), or Long (13-20)?
+3. **Primary genre:** Which of the 10 genres drives the campaign?
+4. **Secondary genre:** Which genre provides variety?
+5. **Central question:** One sentence. "Can the [party] achieve [goal] before [threat] makes it impossible?"
+6. **Starting world:** Where does session 1 open?
+7. **Starting faction:** Which faction's orbit does the party occupy at the start?
+8. **Opposing faction:** Which faction creates the primary obstacle?
+9. **The Force crisis hook:** How does the Force crisis affect the party's specific situation?
+10. **The Triumvirate thread:** At what point (if ever) does the party encounter evidence of Sith Triumvirate activity?
+
+---
+
+# PART IV: FATE AT THE TABLE
+
+## Aspects as Campaign Architecture
+
+Aspects are the GM's primary tool for connecting character, faction, and setting. The Concordat Era uses aspects at four scales: character aspects, ship aspects, faction aspects, and situation aspects. Each scale interacts with the others through invocations and compels.
+
+### Character Aspects
+
+Every PC has five aspects: a high concept, a trouble, and three additional aspects derived from the six narrative questions in character creation. These aspects are contracts between the player and the GM. The player says "this is what my character cares about," and the GM says "then scenes will test that care."
+
+In the Concordat Era, character aspects should reference faction relationships, Force status, and the wars. "Last Jedi Commander of the Outer Rim Fleet" tells the GM this character has military authority, Jedi identity, and Remnant loyalty. Each of those three elements can be invoked or compelled independently. "My Unit Burned Onderon and I Signed the Orders" gives the GM a standing compel for guilt, a standing invocation for military competence, and a relationship hook with Onderon's surviving population.
+
+**Aspect design advice for players:** Write aspects that pull in two directions. An aspect that only helps is boring. An aspect that helps and hurts creates play. "Cassus Fett Trusts Me With Sensitive Operations" provides access to Fett's intelligence network and compels the character when Fett's orders conflict with the character's principles.
+
+### Ship Aspects
+
+Ships in the Concordat Era are Fate characters with aspects, skills, stress tracks, and consequences. A party's ship carries a high concept ("Armed Remnant Corvette With Outdated Sensor Arrays") and a trouble ("Fuel Reserves Run Low Between Stops"). The ship's aspects affect every scene that involves travel, combat, or arrival at a new world.
+
+**Ship creation:** High concept (class, condition, distinguishing feature), trouble (primary operational limitation), one additional aspect (reputation, cargo specialty, hidden modification). Ships have a 3-box physical stress track and a 2-box systems stress track. Ship consequences: mild (damaged sensors, cracked viewport), moderate (engine malfunction, hull breach), severe (navigation failure, structural collapse).
+
+### Faction Aspects
+
+The GM assigns aspects to factions and tracks them across sessions. Faction aspects change when the party's actions (or faction clock advancement) shifts a faction's position.
+
+**Starting faction aspects:**
+- Concordat: "Stability Through Emergency Authority" / "The Senate Ratified Our Power"
+- Remnant: "Hanging Together By Kaeranth's Will" / "The Fleet Shrinks Every Month"
+- Coalition: "Honor Without Territory" / "Twelve Thousand Warriors and No Plan"
+- Jedi Order: "Five Factions, One Dying Institution" / "Using the Force May Accelerate Its Death"
+- Sith Triumvirate: "Operating Undetected Across All Factions" / "Twenty-Seven Incidents Nobody Has Connected"
+
+Faction aspects are GM tools. The GM invokes a faction aspect to represent institutional momentum: "Stability Through Emergency Authority" grants a +2 when a Concordat official acts within the system's established procedures. The GM compels a faction aspect to represent institutional limitation: "The Fleet Shrinks Every Month" compels a Remnant officer to accept a risky mission because the fleet can't afford to wait for a better opportunity.
+
+### Situation Aspects
+
+Every scene carries 1-3 situation aspects that the GM establishes at the scene's start. "Crowded Market on Ahto City" provides cover and witnesses. "Dead Zone Expanding From the Valley Floor" imposes Force failure conditions. "Concordat Patrol Overhead" creates surveillance pressure.
+
+Situation aspects are the GM's primary session-prep tool. For each scene, write 2 aspects that describe the scene's environment and constraints. These aspects replace boxed text: instead of reading a paragraph of description, the GM states the aspects and lets the players' imaginations fill the space between them.
+
+---
+
+## The Skill List in the Concordat Era
+
+Fate Condensed's 19 skills map directly onto Concordat Era play. The following annotations describe how each skill functions in this setting and which genres use them most.
+
+| Skill | Setting Application | Primary Genres |
+|---|---|---|
+| Athletics | Physical movement, zero-G navigation, dead zone escape | Military, Frontier, Space Opera |
+| Burglary | Facility infiltration, data theft, lock bypassing | Espionage, Investigation |
+| Contacts | Faction networking, finding informants, locating NPCs | Trade, Political, Espionage |
+| Crafts | Ship repair, structure building, weapon modification | Frontier, Reconstruction, Trade |
+| Deceive | Cover identities, bluffing patrols, concealing cargo | Espionage, Trade, Investigation |
+| Drive | Vehicle operation, speeder chases, ground transport | Military, Frontier |
+| Empathy | Reading NPC motives, detecting lies, emotional assessment | Political, Religious Schism, Investigation |
+| Fight | Melee combat, lightsaber duels, boarding actions | Military, Space Opera |
+| Investigate | Evidence searches, record analysis, pattern recognition | Investigation, Force Mystery, Espionage |
+| Lore | Force theory, galactic history, faction knowledge | Force Mystery, Religious Schism |
+| Notice | Surveillance detection, environmental awareness, danger sense | All genres |
+| Physique | Endurance, physical resistance, manual labor | Military, Frontier, Reconstruction |
+| Pilot | Ship navigation, fleet maneuvers, dead zone transit | Space Opera, Trade, Military |
+| Provoke | Intimidation, fear tactics, emotional manipulation | Military, Espionage, Political |
+| Rapport | Negotiation, trust-building, alliance formation | Political, Trade, Reconstruction, Religious Schism |
+| Resources | Purchasing, funding operations, economic leverage | Trade, Reconstruction, Political |
+| Shoot | Ranged combat, ship weapons, suppressive fire | Military, Space Opera, Frontier |
+| Stealth | Covert movement, avoiding detection, hiding cargo | Espionage, Frontier |
+| Will | Mental resistance, Force resilience, dead zone endurance | Force Mystery, Religious Schism, all Force play |
+
+### Force Skills as Extensions
+
+Force-sensitive characters access Force techniques through the Force-Sensitive Extra (costs 1 stunt slot, leaving 2 free stunts instead of 3). Force techniques function as skill extensions, not separate skills:
+
+- **Telekinesis:** Extends Physique (lifting, pushing) and Fight (Force-enhanced strikes)
+- **Precognition:** Extends Notice (danger sense) and Investigate (pattern recognition)
+- **Force Healing:** Extends Lore (medical application through Force knowledge), replacing a physician's instruments with Force sensitivity
+- **Battle Meditation:** Extends Rapport (coordinating allies) at fleet scale
+- **Force Empathy:** Extends Empathy (emotional read) with Force perception. Miraluka get this free.
+- **Force Concealment:** Extends Stealth (hiding Force presence from other sensitives)
+- **Lightsaber Mastery:** Extends Fight with lightsaber-specific techniques (forms, defensive maneuvers)
+- **Force Persuasion:** Extends Rapport or Provoke (Force-enhanced suggestion)
+
+Each technique can be invoked for a bonus when the character's Force status allows it. In normal space, Force techniques succeed roughly two-thirds of the time. Near dead zones, they succeed roughly one-third of the time. In total dead zones, Force techniques fail automatically unless the character spends a fate point, and even then success is partial.
+
+---
+
+## Stress, Consequences, and the Cost of War
+
+### Physical Stress and Combat
+
+The Concordat Era's combat is lethal by intent. Characters have 2-3 physical stress boxes and can absorb mild (2), moderate (4), and severe (6) consequences before being taken out. A lightsaber hit that exceeds the defender's stress capacity forces a consequence: a mild lightsaber wound (burned arm, singed armor), a moderate wound (deep cut, disabling injury), or a severe wound (lost limb, life-threatening damage).
+
+**Kolto and consequence recovery.** Kolto replaces Force healing as the setting's primary medical tool. A kolto application clears a mild consequence immediately (instead of waiting until end of scene). A kolto treatment clears a moderate consequence after 1 scene (instead of waiting 1 full session). Severe consequences still require a full scenario to recover. Kolto scarcity means the GM can compel "Kolto Supply Running Low" as a situation aspect that makes every combat riskier: the party can fight, but they can't afford to get hurt.
+
+### Mental Stress and the Force Crisis
+
+Mental stress tracks (2-3 boxes) absorb Force failure, psychological pressure, and the emotional weight of the setting's moral dilemmas. A Force-sensitive character who attempts telekinesis in a significant dead zone and fails takes 1 mental stress from the dissonance between expectation and absence. A Miraluka character who enters a total dead zone takes a moderate consequence ("Blind and Disoriented") immediately, because the Force is their sight.
+
+**Force Instability as standing compel.** The GM has a standing compel against any aspect that references Force sensitivity. Once per session (more near dead zones), the GM can compel a character's Force-related aspect to represent the Force crisis's unpredictable interference. "Jedi Commander With Battle Meditation" compels when the meditation field flickers during a fleet engagement. "Sith Sorcerer With Blood-Marked Hands" compels when a ritual draws power from a source the character doesn't expect. The player can accept the compel (take the fate point, narrate the failure) or pay a fate point to resist.
+
+### Concessions and Survival
+
+Fate's concession mechanic is critical in the Concordat Era. A character (or faction, or ship) can concede a conflict before being taken out. Conceding means the character loses the conflict but survives and retains some narrative control over the terms of the loss.
+
+In military play, concession means retreat: the fleet withdraws, losing the system but preserving ships and crew. In political play, concession means compromise: the senator withdraws the motion but secures a promise from the opposition. In personal play, concession means surrender: the character drops the lightsaber, admits defeat, and accepts the captor's terms.
+
+Concessions generate the Concordat Era's most dramatic moments. Kaeranth concedes a supply raid (loses the depot, saves the boarding team) and the narrative cost becomes a situation aspect: "Kaeranth's Raiders Failed at Depot Seven" that the Concordat invokes for morale and the Remnant's internal critics invoke for ammunition. The concession is not a failure state. It is a story engine.
+
+---
+
+## Contests, Challenges, and Conflicts
+
+Fate Condensed provides three structured action frameworks. The Concordat Era uses all three and assigns each to specific setting situations.
+
+### Contests (Competition Without Direct Opposition)
+
+Two sides pursue a goal. The first side to accumulate three victories wins. Contests model races, chases, competing research, and parallel operations where both sides work toward the same objective without direct contact.
+
+**Setting examples:**
+- A Remnant intelligence team and an OFA surveillance unit both try to locate the same Sith artifact. Contest: the party's Investigate vs. the OFA's Investigate, resolved over 3-5 exchanges. Each exchange represents a day of research, a lead pursued, or a contact interrogated.
+- A kolto merchant and a Concordat purchasing agent compete for the same Selkath export contract. Contest: Rapport vs. Rapport, with advantages created by prior relationship-building.
+
+### Challenges (Multiple Obstacles, No Opposition)
+
+A complex task requires multiple skill rolls to complete. The GM sets 3-5 obstacles, each requiring a different skill. The party divides the obstacles among members. Successes and failures accumulate and determine the overall outcome.
+
+**Setting examples:**
+- Navigating a dead zone: Pilot (route calculation), Lore (dead zone behavior prediction), Will (mental resilience against Force absence), Crafts (ship systems maintenance under stress). Three or more successes: safe passage. Two successes: passage with a ship consequence. One or fewer successes: the ship takes serious damage and the party arrives in a degraded state.
+- Infiltrating a Concordat facility: Stealth (approach), Burglary (entry), Investigate (locate target intelligence), Deceive (bluff past internal security). Failures create situation aspects that compound: "Guard Noticed Movement" makes later stealth harder.
+
+### Conflicts (Direct Opposition With Stress and Consequences)
+
+Two or more sides oppose each other directly in exchanges of actions. Conflicts use zones, stress tracks, and consequences. The Concordat Era uses conflict for combat (physical), debates (social), and fleet engagements (ship-scale).
+
+**Zone-based fleet combat.** Space battles use four zones: Close (boarding range), Short (weapon range, turbolaser effective), Medium (fighter engagement, torpedo range), Long (sensor contact, approach vectors). Ships occupy zones and maneuver between them. A Remnant corvette at Short range fires turbolasers (Shoot vs. target's Pilot). A Mandalorian boarding shuttle at Close range deploys marines (Fight vs. ship's Physique for hull breach). Commander Akaavi's battle group operates at Medium range, using fighters to soften targets before closing.
+
+**Social conflict.** Senate debates, Council sessions, and faction negotiations use social conflict with mental stress tracks. The "combatants" trade arguments (Rapport to persuade, Provoke to intimidate, Deceive to misdirect). Advantages represent evidence, alliances, and rhetorical positioning. Consequences represent political damage: a mild consequence ("Publicly Embarrassed") lasts one scene, a moderate consequence ("Lost Coalition Support") lasts a session, a severe consequence ("Senate Censure") persists across sessions.
+
+---
+
+## The Fate Fractal: Factions as Characters
+
+The Fate Fractal allows anything to be modeled as a character with aspects, skills, stress, and consequences. The Concordat Era uses the Fractal for factions, communities, ships, and institutions.
+
+### Building a Faction Character
+
+**The Concordat:**
+- High Concept: "Three-Consul Government With Permanent Emergency Powers"
+- Trouble: "The Senate Has Never Achieved a 2/3 Supermajority"
+- Aspects: "Office of Force Affairs Tracks 12,000 Sensitives" / "43 Systems Under Military Governors"
+- Skills: Fight Good (+3), Resources Great (+4), Will Fair (+2), Contacts Good (+3), Deceive Fair (+2)
+- Stress: 4 physical (military capacity), 3 mental (institutional cohesion)
+- Consequences: Mild (policy reversal), Moderate (faction defection), Severe (constitutional crisis)
+
+**The Remnant:**
+- High Concept: "Renegade Fleet Government Under a Fracturing Figurehead"
+- Trouble: "40 Ships, 12,000 Personnel, Losing People Monthly"
+- Aspects: "Kaeranth Holds It Together" / "23 Worlds With Better Courts Than the Concordat"
+- Skills: Fight Fair (+2), Resources Average (+1), Will Good (+3), Contacts Fair (+2), Pilot Good (+3)
+- Stress: 2 physical (limited military), 3 mental (conviction-driven)
+- Consequences: Mild (supply shortage), Moderate (fleet engagement loss), Severe (Kaeranth's death or capture)
+
+### Using Faction Characters in Play
+
+Faction characters interact with PC actions through their aspects, skills, and stress tracks. When the party disrupts a Concordat Intelligence operation, the Concordat takes mental stress (institutional disruption). When the party delivers kolto to a Remnant world, the Remnant clears a mild consequence (supply restored). Faction stress and consequences give the GM a mechanical framework for tracking the setting's political shifts across sessions.
+
+The GM rolls faction skills when faction-scale actions occur offscreen: the Concordat's Contacts skill determines whether OFA surveillance detects the party's movements; the Remnant's Pilot skill determines whether a supply convoy evades a Concordat patrol. Faction actions happen between sessions, and the GM reports results at the start of the next session as evolved situation aspects.
+
+---
+
+# PART V: ALTERNATE CAMPAIGN FRAMES
 
 ## Alternate Takes on the Post-Mandalorian War Galaxy
 
@@ -278,7 +741,39 @@ The setting book describes the Concordat Era at 3952 BBY. The GM is not obligate
 
 ---
 
-# PART IV: AN OPINIONATED PHILOSOPHY FOR RUNNING THE CONCORDAT ERA
+# PART VI: AN OPINIONATED PHILOSOPHY FOR RUNNING THE CONCORDAT ERA
+
+## Session Zero: Build the Table Before You Build the Galaxy
+
+Run a Session Zero with your full party before the campaign starts. This session is required. You cannot skip it. A GM who launches a Concordat Era campaign without a Session Zero will spend the first three sessions fixing problems that Session Zero prevents in ninety minutes.
+
+### What You Cover
+
+**The setting pitch.** Explain the Concordat Era in five minutes. You do not need to know every faction. You need three sentences: "Three governments claim legitimacy over a fractured galaxy. The Force is dying and no one agrees why. You play characters who have to pick a side, or refuse to, in a political landscape that has not finished forming." If the players buy that pitch, you have a campaign. If they do not, run a different setting.
+
+**Campaign genre.** Tell the players what kind of game you plan to run. Political intrigue, frontier survival, military operations, espionage, or a blend. Ask them what they respond to. A player who wants dogfights and boarding actions will not thrive in a Senate intrigue campaign. Match the genre to the table, or negotiate.
+
+**Safety tools.** Use Lines and Veils, X-Card, or whatever safety framework your table prefers. The Concordat Era contains surveillance states, genocide aftermath (the Cathar), forced displacement, psychological deterioration (Revan), and systemic exploitation (Twi'leks, Wookiees). Name these topics in Session Zero. Ask which topics the table handles and which it avoids. No surprises.
+
+**Tone calibration.** This setting runs on moral ambiguity. The Concordat provides stability through authoritarianism. The Remnant fights for democracy while its leader fractures. The Mandalorians defend honor while their people starve. No faction is correct. Tell your players this. Ask if they want a campaign where the right answer is unclear. Players who need a clear villain will struggle here. Players who want arguments that keep them up at night will flourish.
+
+### Character Creation at the Table
+
+Build characters together, not in isolation. Fate Condensed's six narrative questions drive character creation, and those questions produce better characters when the whole table hears the answers.
+
+**Aspects as contracts.** When a player writes "The Concordat Took Everything From Me," that player has told the GM and the other players what scenes they want. Session Zero is where the table reads these contracts aloud. The GM confirms: "I will give you scenes where the Concordat's cost is personal." The other players confirm: "I will engage with your character's pain when it surfaces." Aspects written in private miss this step. Aspects written at the table create a shared understanding of what the campaign is about.
+
+**Party composition.** The Concordat Era does not require faction alignment. A mixed-faction party (one Concordat veteran, one Remnant sympathizer, one frontier independent, one Mandalorian exile) produces more internal tension and better sessions than a party that agrees on everything. Session Zero is where the players negotiate these relationships. "My character served under your character during the Ashen Campaigns. She hasn't forgiven you for Serroco." That negotiation takes five minutes in Session Zero. It fuels thirty sessions of play.
+
+**Force-sensitive decisions.** The Force-Sensitive Extra costs one stunt slot. Players who take it accept the Force Instability standing compel: the GM can compel their Force-related aspects at any time, and the Force fails roughly one-third of the time in normal space. Session Zero is where Force-sensitive players understand this cost. A player who expects reliable Jedi powers will be frustrated. A player who sees Force Instability as a source of dramatic tension will produce the best scenes in the campaign.
+
+### What a Newcomer GM Needs to Know
+
+You do not need to have played KOTOR. You do not need to know the Expanded Universe. You need the Setting Book's first six chapters and this GM Guide. Read the Three Laws below, understand the faction summary in the Setting Book's Chapter 2, and internalize the Force crisis from Chapter 6. The rest you can learn as the campaign progresses.
+
+The Concordat Era's Napoleonic parallels help GMs who know the period, but they are not required knowledge. The parallels inform the setting's design. They do not require the GM to teach history at the table. If you know Napoleon's Consulate, you will recognize Malak's government. If you do not, Malak's government works on its own terms.
+
+---
 
 ## The Three Laws
 
@@ -344,6 +839,22 @@ A player whose trouble is "My Unit Burned Onderon and I Signed the Orders" has t
 
 Aspects are a contract between the player and the GM. The player says: "this is what my character cares about." The GM says: "then I will give you scenes where that matters." That contract holds the campaign together.
 
+### Steal From the Angry GM
+
+Scott Rehm's central argument: every encounter answers a dramatic question. "Can the party escape the Concordat blockade before the patrol identifies their ship?" is a dramatic question. "Roll initiative against some patrol fighters" is not. The dramatic question gives the fight a condition the players care about beyond survival. Survival alone produces no stories. Survival while the cargo bay vents atmosphere and the Selkath diplomat bleeds out in the med bay produces a session the players reference six months later.
+
+Rehm's second principle: the GM builds hostile architecture. You design situations that test the characters' abilities and the players' judgment. You build encounters where the obvious move is wrong, where success demands creative problem-solving, where the tension stays uncomfortable. Your job is to make the situation difficult and then watch the players surprise you with their solutions.
+
+The Concordat Era hands you hostile architecture on every page. Three governments with irreconcilable goals. A Force that betrays its users at random. Supply lines that run through contested space. You do not need to manufacture tension. Aim the setting's existing pressure at the party and let it compress.
+
+### Steal From MCDM
+
+Matt Colville's action-oriented design solves a problem Fate GMs encounter often: significant enemies who feel reactive. In traditional initiative structures, the villain acts on their turn and waits. Colville's fix: give the villain actions that fire regardless of turn order. The battlefield shifts on a rhythm the players cannot control.
+
+In Fate, this translates to villain aspects that activate each exchange. The Sith apprentice's Force aura disrupts electronics in her zone at the end of every exchange. The Concordat siege walker fires suppression bolts into the nearest occupied zone before any character acts. The Exchange crime lord's bodyguard detail repositions to block the nearest exit after each exchange ends. Players cannot prevent these actions with clever positioning. They are environmental conditions the players must incorporate into every decision.
+
+Colville's boss design adds phase shifts. A boss changes behavior when it absorbs damage, gaining new abilities and losing old ones. In Fate terms: when a significant NPC takes a consequence, their situation aspects shift. The Sith Lord who absorbs a moderate consequence drops "Measured Precision" and gains "Fury Without Restraint." The environment reacts: lights dim, objects lift off surfaces, the air pressure changes. The fight becomes a different fight, and the players must adjust.
+
 ---
 
 ## Scene Construction
@@ -370,6 +881,80 @@ These details cost nothing to include and build the setting in the background of
 
 ---
 
+## Art, Terrain, and the Case Against Theater of the Mind
+
+Fate Condensed uses zones. Zones are spatial. The moment your combat has three zones with different aspects, a hazard clock, and an escalation trigger, theater of the mind collapses. A player cannot track "Searchlight Sweeps Every Thirty Seconds" in Zone 1, "Security Blast Doors on a Timer" in Zone 2, and "Lockdown Clock at 2 of 4" in Zone 3 while also choosing their action. You will repeat yourself. They will forget. The scene loses momentum.
+
+Put the zones on the table. Index cards with zone names and aspects written in marker cost nothing and save ten minutes of confusion per combat. A printed map with labeled zones costs twenty minutes of prep and saves the entire table from the moment where someone says "wait, which zone am I in?" That moment kills pacing. Kill it first.
+
+### Why Visual Aids Work
+
+**Zones become real.** A player who sees "Landing Pad" written on a card with "Searchlight — Exposed" beneath it makes different decisions than a player who heard the GM describe the landing pad two minutes ago. The card sits on the table. The player glances at it before acting. The environment participates in the fight without the GM repeating the description.
+
+**Aspect tracking becomes visible.** Write situation aspects on sticky notes and place them in the relevant zone. "Loose Crates Sliding Toward Airlock" sits in Zone 2 until someone deals with it. Players see the aspect and consider using it. Create advantage actions increase because the free invokes are visible, sitting on the table, asking to be spent.
+
+**Art creates emotional anchors.** Show the players a portrait of Council Elder Shasa before the negotiation. They will remember her face. Show them an image of Korriban's Valley of the Dark Lords before they enter. The visual context sets the tone faster than any description. You do not need commissioned art. Concept art, screenshots, historical paintings, and AI-generated reference images all serve the purpose: give the players something to look at while you talk.
+
+**Terrain prompts creative play.** A player who sees a zone labeled "Fuel Storage — Volatile" will ask if they can ignite it. A player operating in pure theater of the mind will not think of it because they forgot that detail from the GM's opening description. Visible terrain features become interactive. Invisible ones become wallpaper.
+
+### When Theater of the Mind Works
+
+Conversations between two characters in a single location. A briefing scene. A quiet moment in the ship's galley. Scenes with no spatial complexity and no zone-based decisions. Theater of the mind works when the only thing that matters is what people say to each other.
+
+The moment a scene involves movement, positioning, environmental hazards, or more than two zones, switch to visual aids. The preparation time costs less than the table time you save.
+
+### For the Podcast
+
+Your audience cannot see the map. Describe what the players see at the top of every scene. When a player moves between zones, narrate the transition. "You sprint across the landing pad, the searchlight beam tracking two seconds behind you, and slam through the corridor blast doors." The map serves the players at the table. Your narration serves the listeners. Both layers run in parallel.
+
+---
+
+## Combat as Event
+
+You have 150 minutes at the table. A combat scene in Fate takes 30-50 minutes when it matters. You can afford one fight per session, maybe two short ones. That math demands that every fight justify its place in the session.
+
+A fight earns its place when it answers a dramatic question the party cares about, changes at least one relationship or political condition, and forces at least one decision the party would rather avoid. "Clear out the gang hideout" fails all three tests. "Board the OFA transport to extract the prisoner before the ship reaches Coruscant, knowing the crew are conscripts who did not choose this posting" answers a dramatic question (can you get the prisoner?), changes a political condition (the OFA loses a prisoner and gains a vendetta), and forces a decision (how much violence do you use against people who are not your enemies?).
+
+Design every combat encounter with three layers:
+
+**The objective.** Something beyond "defeat the enemies." Extract the prisoner. Hold the position until the transport launches. Retrieve the data core before the station self-destructs. The fight is the obstacle between the party and the objective. The party can win the fight and fail the objective, or achieve the objective while losing the fight.
+
+**The environment.** Zones with aspects that change. Hazards on clocks. Terrain that rewards movement and punishes static play. The cargo bay has "Magnetic Clamps Holding Crates in Place" until someone overloads the system; then it becomes "Loose Crates Sliding Toward the Airlock." The Korriban tomb has "Failing Illumination" that shifts to "Total Darkness" after three exchanges. The Sith cultists can see in the dark. Your players cannot. Design the battlefield to participate in the fight.
+
+**The escalation.** Something gets worse each exchange. Reinforcements arrive. The reactor countdown advances. The Sith Lord stops holding back. The building takes structural damage. Players should feel pressure increasing with each exchange. Stalling costs more than acting.
+
+A well-built fight in the Concordat Era produces two to three compels, at least one create advantage action that changes the tactical picture, and a consequence that carries into the next scene. The party boards the OFA transport, fights through the security team, rescues the prisoner, and discovers the prisoner does not want to leave. The OFA was protecting her from the Triumvirate. The players spend the rest of the session recalculating.
+
+### What a Good Fight Looks Like
+
+The party infiltrates a Concordat detention facility to extract a Force-sensitive prisoner. Zone 1: the landing pad, exposed, with the aspect "Searchlight Sweeps Every Thirty Seconds." Zone 2: the corridor, narrow, with "Security Blast Doors on a Timer." Zone 3: the cell block, guarded by an OFA lieutenant whose aspect reads "Following Orders She Didn't Write." The lieutenant has a villain action: at the end of each exchange, she triggers a facility-wide alert that advances a "Lockdown Clock" from 0 to 4. At Lockdown 4, blast doors seal and gas floods the corridors.
+
+The party must reach the prisoner before Lockdown 4. The lieutenant fights to delay, not to kill. The party can take her down fast (violence against a soldier doing her job) or talk her down (overcoming her aspect costs fate points and takes exchanges the clock does not give them). The searchlight on the landing pad means extraction under fire. The prisoner, once freed, reveals information that recontextualizes the mission. That fight takes 40 minutes. It produces three compels, two create advantage rolls, a moral decision, and a clue that drives the next session.
+
+### What a Bad Fight Looks Like
+
+Four Exchange thugs ambush the party in a Nar Shaddaa alley. The thugs have no aspects beyond "Hired Muscle." The alley has no zone features. The thugs fight until the party defeats them. Nothing changes. The thugs carry no information. The fight produces no consequences beyond a cleared stress box. The party's situation before and after the fight is identical. That fight takes 25 minutes and produces nothing.
+
+The difference is not complexity. The good fight has three layers (objective, environment, escalation) and each layer generates decisions. The bad fight has one layer (opposition) and generates dice rolls. Dice rolls without decisions are a waste of table time in a 2.5-hour session.
+
+### Combat Math: Damage, Duration, and Design
+
+Fate does not use hit points, but it has an absorption economy you can calculate. Understanding that economy lets you design fights that last the number of exchanges you want.
+
+**PC absorption capacity.** A Fate Condensed character has a 1-shift stress box and a 2-shift stress box (3 shifts of stress), plus three consequence slots: Mild (absorbs 2 shifts), Moderate (absorbs 4 shifts), and Severe (absorbs 6 shifts). Total absorption before taken out: 15 shifts. A PC who takes a consequence carries that consequence into future scenes. Stress clears after the scene. This means a PC can absorb 3 shifts of stress per fight for free but pays a narrative price for anything beyond that.
+
+**Average damage per exchange.** A competent attacker rolls their skill (typically +3 or +4) against the defender's skill (typically +2 or +3). Average margin: +1 shift. With a free invoke from a previous create advantage: +3 shifts. A party of four PCs produces roughly two successful attacks per exchange, dealing 2-3 shifts each. Total party output: 4-8 shifts per exchange, averaging around 5-6.
+
+**NPC absorption.** A nameless NPC (a mook, a thug, a patrol trooper) has no stress boxes and no consequences. One successful hit takes them out. A named NPC with a pointed skill rating has 1-2 stress boxes and one or two consequence slots. A significant opponent absorbs 8-12 shifts before going down. A boss-tier NPC absorbs 15+ shifts and triggers phase transitions at consequence thresholds.
+
+**Exchange-to-duration mapping.** Each exchange at the table takes 5-10 minutes of real time (all participants declare and resolve actions). A three-exchange fight runs 15-25 minutes. A five-exchange fight runs 30-45 minutes. Seven exchanges push past an hour. For a 2.5-hour session with 3-4 scenes, you want your combat to land in the 4-5 exchange range: long enough to feel consequential, short enough to leave room for the scenes around it.
+
+**Design backward from duration.** Decide how many exchanges the fight should last. Multiply by your party's average output (5-6 shifts per exchange). That number is your opposition's total absorption capacity. A 4-exchange fight needs opposition that absorbs 20-24 shifts total. Split that across enemies: one named NPC (12 shifts) and two nameless NPCs (taken out in 1 hit each, but they occupy the party's actions for 1-2 exchanges). Add environmental hazards and objectives that extend the fight beyond raw damage trading. A lockdown clock that forces the party to split attention between the enemy and the objective adds 1-2 exchanges of effective duration without adding more NPC absorption.
+
+**Phase transitions as pacing tools.** When a boss-tier NPC takes a Moderate consequence, change their situation aspects. The fight's tempo shifts. Players who learned the boss's pattern in exchanges 1-3 must adapt in exchanges 4-6. Each phase transition adds perceived complexity without adding a new opponent. A three-phase boss (fresh → wounded → desperate) feels like three fights compressed into one. Plan each phase's behavior in advance: what aspects change, what villain actions shift, what environmental trigger fires.
+
+---
+
 ## NPC Design
 
 ### The Two-Want NPC
@@ -389,6 +974,56 @@ The two-want NPC creates natural role-playing hooks. The party interacts with wa
 This is a specific piece of advice for actual play: if you name an NPC, you should be willing to kill them. Named NPCs who are immune to consequence flatten the setting's stakes. The party should believe that the characters they care about can be lost.
 
 This does not mean you should kill NPCs for shock value. It means that when the logic of the situation demands a death, you should not protect an NPC because you like them. The NPC dies. The party grieves, and that grief makes the next decision harder.
+
+---
+
+## The Players You Want at This Table
+
+The Concordat Era assumes players who treat system mastery and roleplay as the same skill. A player who knows Fate's economy (how to invoke aspects, when to compel, how create advantage builds fictional positioning) can roleplay without interrupting the fiction to ask mechanical questions. Mechanical fluency lets the narrative flow without pause.
+
+This is the player who reads their character's trouble aspect and seeks situations where it fires. The player understands that a self-compel earns a fate point, and that fate point lets them succeed at something they care about three scenes later. The trouble aspect becomes a feature of the character's personality, not a penalty the GM imposes. The player who optimizes their fate point economy is the same player who volunteers their character's worst moments.
+
+The Concordat Era's political complexity rewards this approach. A player navigating the three-faction landscape generates aspects from every interaction. The Remnant officer who shares classified patrol routes gives the party "Remnant Intelligence Owes Us a Favor." The Concordat bureaucrat who catches the party with forged transit papers creates "The OFA Has Our Biometrics." Both aspects are campaign currency. The player who tracks these aspects and deploys them at the right moment plays the political game at the mechanical level, and that mechanical play produces the best scenes at the table.
+
+Fate's compel economy fuses system mastery and roleplay. The GM offers a fate point: "Your trouble is 'My Unit Burned Onderon.' The person across the negotiating table is wearing an Onderon refugee camp bracelet. This goes badly for you." The player who understands Fate takes the compel, plays the scene where their character's composure breaks, and banks the fate point. Three scenes later, at the campaign's climactic moment, that player spends the fate point to invoke "I Will Not Let Onderon Happen Again" and succeeds at the roll that matters. The mechanical loop and the narrative loop are the same loop.
+
+### Do Not Replace Roleplay With Skill Checks
+
+Some systems try to solve social encounters by abstracting them into mechanical subsystems. Pathfinder 2e's Influence system is the clearest example: track NPC disposition on a numbered scale, make skill checks to move the number, hit the target number and the NPC cooperates. The mechanic replaces the conversation with a progress bar.
+
+Do not do this. Fate gives you the tools to reward great roleplay and punish bad judgment without replacing either with dice. The player argues their case to Council Elder Shasa. If the argument is sharp, specific, and accounts for Shasa's stated concerns, the GM calls that a create advantage action and gives the player a free invoke on "Shasa Trusts Our Intel." That invoke carries into the council vote scene. The roleplay produced the mechanical benefit. The player talked, and the system rewarded the quality of the talk.
+
+The reverse works too. A player who insults a Mandalorian clan chief's honor in front of her warriors does not get a Diplomacy check to walk it back. The GM compels the situation: "You said that to Clan Chief Kelborn in her own war hall. Her warriors heard it. This costs you." The player takes the fate point and lives with the fallout, or spends a fate point to resist the compel and explain how their character recovers. Either way, the fiction drove the mechanic, and the consequence persists.
+
+The goal is amplification. Mechanics should make good roleplay more rewarding and bad roleplay more costly. A player who reads the room, adjusts their pitch to the NPC's wants, and delivers a specific argument earns free invokes and avoided compels. A player who treats social encounters as "I roll Rapport" misses the invokes and eats the compels. The Fate economy punishes autopilot and rewards attention. You do not need a subsystem for that. You need a GM who listens and responds.
+
+### What a Good Session Looks Like
+
+The party needs the Selkath council's vote to reroute a kolto shipment to a Remnant field hospital.
+
+**Scene 1:** The party meets Council Elder Shasa in a private chamber. She supports the vote if the party retrieves evidence of Concordat price-fixing from a corporate office in Ahto City's trade district. Shasa has a second want she will not mention: she needs the evidence to protect her position against a rival council faction that accuses her of Concordat sympathies. The scene runs 25 minutes. The party agrees, negotiates terms, and notices Shasa's discomfort when they ask why the council cannot retrieve the evidence itself.
+
+**Scene 2:** The party infiltrates the corporate office. Zone-based challenge with environmental aspects: "Czerka Security Rotation Every Ten Minutes," "Encrypted Terminal Requires Physical Access," "Ahto City Law Prohibits Weapons in Commercial Districts." No combat. The tension comes from the clock (security rotation) and the cost (breaking Ahto City law means losing Selkath goodwill). Two players create advantages while one handles the terminal. A compel fires on the party face's trouble: their forged Czerka credentials trigger a biometric flag that starts a secondary timer. The scene runs 35 minutes and produces the evidence plus a new complication: Czerka now has the face's real identity.
+
+**Scene 3:** The party returns to Shasa with the evidence. Shasa reveals her second want: the rival faction presents its case to the full council tomorrow. She needs the party to attend and make their case publicly, putting their faces and affiliations on record. The party must decide. Public exposure means Concordat intelligence learns they intervened. Walking away means the kolto shipment stays rerouted to Concordat military hospitals. The session ends on this question.
+
+Three scenes. Two hours, fifteen minutes. Each scene escalated from the last. The session produced five fate points in circulation, two new situation aspects, one new enemy (Czerka's local office), one political obligation, and a cliffhanger. The players made three decisions that carry consequences.
+
+### What a Bad Session Looks Like
+
+The party arrives on Manaan.
+
+**Scene 1:** They explore Ahto City. The GM describes the architecture, the Selkath, the kolto processing facilities. No one wants anything. The party asks questions the GM answers. Thirty minutes pass.
+
+**Scene 2:** A Concordat officer hassles the party at a checkpoint. The party talks their way through. The officer has no second want. The checkpoint carries no consequence. Twenty minutes pass.
+
+**Scene 3:** The party finds a cantina and asks around for kolto shipment information. The GM improvises a bartender who knows something. The bartender asks for payment. The party pays. The bartender delivers the information. No complication. No cost beyond credits. Twenty-five minutes pass.
+
+**Scene 4:** Exchange thugs ambush the party. (See the bad fight example above.) Twenty-five minutes pass.
+
+Four scenes. One hundred minutes. No decisions, no consequences, no fate points changing hands, no aspects created. The party's situation at the end matches the beginning, plus one piece of information they could have received in scene one. No one talks about the session afterward.
+
+The difference between these two sessions is preparation, not talent. The good session has NPCs with two wants, scenes with clocks and costs, and a dramatic question that connects every scene to the next. The bad session has locations without tension and NPCs without agendas. A GM who preps situations using the Alexandrian's faction clocks, Sly Flourish's strong starts, Rehm's dramatic questions, and Colville's action-oriented design will produce the first session. A GM who preps locations and hopes for improvisation will produce the second.
 
 ---
 
@@ -412,33 +1047,135 @@ Do not end sessions on resolution. End them on questions. "The kolto shipment is
 
 ---
 
-## The Podcast Consideration
+# PART VII: THE ACTUAL PLAY
 
-### You Are Performing
+## Why Record This
 
-An actual play podcast is a performance. The GM's job is not just to run the game but to run it in a way that produces compelling audio. This means:
+An actual play podcast is not a performance for an audience. Record it because the recording captures something no other medium can: emergent storytelling. A novelist controls the entire narrative. A screenwriter controls the dialogue. A GM controls the situation, and then four other humans make choices the GM did not predict, and a story grows that no single person authored.
 
-**Cut dead air.** If the table goes quiet for more than ten seconds, something is wrong. Either the scene lacks tension (add a complication) or the party doesn't know what to do (have an NPC make a demand). Silence is fine in prose. It's death on a podcast.
+The recording preserves those moments. The player who refuses to abandon the burning station because her aspect reads "I Don't Leave People Behind" and the GM did not plan for that choice. The negotiation scene that becomes a confession because one player self-compelled and another player responded in character. The combat where the party's plan fell apart in exchange two and the improvised solution was better than anything the GM had prepped. No screenwriter produces these moments. They exist because real humans committed to fictional people in real time.
 
-**Voice your NPCs.** You don't need accents (though accents help). You need distinct speech patterns. Malak speaks in short, declarative sentences. Revan speaks in long, circling monologues that arrive at a point three paragraphs after the listener expected one. Canderous speaks with the direct simplicity of someone who has never needed to lie. A Selkath diplomat speaks with the patient precision of someone who knows you need them more than they need you.
+That is the thesis. The actual play format shows listeners what collaborative fiction looks like when the participants take it seriously. The value is not entertainment, though good sessions entertain. The value is proof: five people at a table can build a story that surprises all of them.
 
-**Frame your scenes.** At the top of every scene, spend 15-30 seconds describing where the party is and what they can see, hear, and feel. The audience can't see the battlemap. They need your words to build the room.
+---
 
-**Let the players shine.** The GM's job in actual play is to create moments where the players do something memorable. The dramatic speech, the clever plan, the moment of vulnerability, the joke that breaks the tension. Your scenes should be designed so that the players' choices are the climax, not your NPC monologues.
+## Emergent Storytelling and the Moments You Cannot Script
 
-**Edit in post.** Rules discussions, bathroom breaks, cross-talk about pizza orders, and the ten-minute argument about whether Provoke or Rapport applies to this specific social maneuver: all of this gets cut. Record everything. Cut without hesitation. The final audio should be the game at its best, not the game at its most complete.
+The best moments in an actual play campaign will not appear in your prep notes. You build the situation. You populate it with NPCs who want things. You establish the pressures, the clocks, the factions grinding against each other. Then the players walk into that situation and do something you did not anticipate.
+
+Prep gives the story structure. The players give it life. A GM who scripts key scenes will produce a podcast that sounds like a GM reading aloud. A GM who preps situations and reacts to the players will produce sessions where the GM laughs, hesitates, and scrambles, because the story went somewhere new. Listeners hear the difference. The scripted version sounds polished and dead. The emergent version sounds rough and alive.
+
+Chase the alive version. Record the session where you had to throw out your notes because the players turned left when you expected right. Record the argument between two PCs that neither player planned. Record the quiet scene where a player sat in silence for eight seconds before saying something that changed the campaign. These moments define actual play as a medium. They cannot exist in any other format.
+
+---
+
+## Bleed Is Your Greatest Asset
+
+Bleed is the emotional crossover between player and character. The player whose character lost a friend in-fiction and who feels the loss at the table. The player who disagrees with their own character's decision and sits with the discomfort. The player whose voice changes when their character confronts someone who hurt them.
+
+The Concordat Era produces bleed because its moral complexity maps onto real emotional territory. A character who served in the Ashen Campaigns carries guilt that the player must inhabit to play the character. A character navigating the Concordat's surveillance state feels the claustrophobia of institutional suspicion. A character watching Revan deteriorate experiences the grief of watching someone brilliant lose themselves.
+
+Do not manage bleed out of existence. Create the conditions for it. Design scenes where the character's fictional situation touches the player's real emotional responses. The negotiation where the NPC is right and the character's faction is wrong. The moment where loyalty conflicts with conscience. The slow realization that the character's mentor was complicit. Bleed makes these scenes land. Without it, the characters are puppets and the audience hears puppet theater.
+
+Manage bleed responsibly. Check in with players after intense scenes. Use the safety tools established in Session Zero. A player who needs to step out of character for a moment should feel safe doing so. Bleed is powerful because it is real emotion. Treat it with the respect you would give any real emotion at the table.
+
+---
+
+## The Critical Role Trap
+
+Critical Role features professional voice actors with decades of performance experience. Trying to match their production quality or acting caliber will make your cast self-conscious and your recordings stiff. The attempt to perform like professionals produces the opposite of what you want: performers imitating performers instead of humans experiencing a story.
+
+The actual play recordings that listeners return to are the ones where the humans at the table felt something. A player who stumbles through their character's breakdown, voice cracking, searching for words, produces a more compelling recording than a player who delivers a rehearsed monologue with perfect diction. The stumble is real. The monologue is performance. Listeners can tell the difference.
+
+Your cast does not need acting training. Your cast needs a GM who builds situations that make them care, a table culture where emotional honesty is safe, and a campaign where their choices carry weight. The recording captures the rest.
+
+Aim for sincerity over polish. A session where the players laugh at themselves, argue with each other in character, and sit in uncomfortable silence when the fiction demands it will outperform a session where everyone tries to sound like a voice actor. Your table's authenticity is your competitive advantage over every other actual play podcast. Do not sand it down.
+
+---
+
+## Coaching Non-Actors Into Great Performances
+
+Your players are not actors. You can make them perform like actors without them noticing.
+
+### Ask Actions, Not Emotions
+
+"What does your character do?" produces better responses than "how does your character feel?" The first question prompts a concrete choice. The second prompts self-conscious introspection. A player who tells you what their character does will communicate emotion through the action. "She puts the datapad down and walks out without saying anything" conveys more than "she feels betrayed."
+
+### Use the System to Create the Moments
+
+Compels are your tool. A compel forces a character into a situation their trouble aspect creates. The player does not have to decide to be vulnerable. The system puts them there. "Your trouble is 'The Concordat Took Everything From Me.' The officer processing your transit papers is wearing the unit insignia from the battalion that burned your homestead. This goes badly." The player takes the fate point and plays the reaction. The system provided the moment. The player provides the performance.
+
+Self-compels work the same way in reverse. A player who learns to self-compel has learned to author their own dramatic moments. "I think my character sees the insignia and cannot keep her composure. That's a compel, right?" That player has become the author of their character's story. The system taught them how.
+
+### Model Vulnerability First
+
+Your NPCs go first. If you want your players to show emotion at the table, show them what that looks like through the characters you control. The Remnant officer who pauses mid-briefing because the casualty report includes a name he recognizes. The Mandalorian warrior who covers grief with anger and lets the grief show for half a second. The Selkath diplomat whose professional composure slips when the conversation touches her daughter's safety.
+
+Players mirror the GM. A GM who plays NPCs as information dispensaries will get players who treat NPCs as quest givers. A GM who plays NPCs as people with emotional lives will get players who respond in kind. Go first. Show them it is safe.
+
+### Celebrate Choices, Not Performances
+
+"That was a great decision" produces a different table culture than "that was great acting." The first rewards engagement with the fiction. The second rewards performance skill. Players who feel rewarded for their choices will make bolder, more honest choices. Players who feel evaluated on their acting will play it safe.
+
+After a session, name the specific moments that mattered. "The moment you decided to let the prisoner go rather than deliver her to the Remnant changed the campaign. I had not planned for that." The player hears that their choice had impact. They will make riskier choices next session. Riskier choices produce better recordings.
+
+---
+
+## The GM Is a Player Too
+
+The GM has stakes in the fiction. The GM's surprise at the players' choices, audible on the recording, is one of actual play's most compelling qualities. A listener who hears the GM laugh in disbelief because the party did something unexpected knows the story is real. No one scripted that reaction.
+
+Play your NPCs with investment. When the party kills an NPC you cared about, let that register. When a player's choice makes the campaign better than your prep, say so at the table. Your genuine reactions give the players permission to have genuine reactions. Emotional honesty flows from the GM outward.
+
+The GM's enjoyment matters. A bored GM produces lifeless sessions. A GM who is curious about what the players will do, who builds situations that have multiple possible outcomes and is excited to discover which one happens, who treats NPC deaths as losses and player victories as gifts, produces sessions that crackle with energy. The recording captures that energy.
+
+You are not a service provider running a product for your players. You are a collaborator building a story with them. You contribute situations, consequences, and NPC perspectives. They contribute choices, creativity, and emotional commitment. The story belongs to all of you, and the recording preserves the version that existed at the table, before anyone cleaned it up.
+
+---
+
+## Production Craft
+
+### Cut Dead Air
+
+If the table goes quiet for more than ten seconds, something is wrong. Either the scene lacks tension (add a complication) or the party does not know what to do (have an NPC make a demand). Silence works in prose. On a podcast, it sounds like a technical problem.
+
+The exception: silence after a revelation or an emotional beat. A player who goes quiet because their character received devastating news produces silence that listeners feel. Let those moments breathe. Cut the silence where no one knows what to say. Preserve the silence where everyone knows and no one can speak.
+
+### Voice Your NPCs
+
+You do not need accents (though accents help). You need distinct speech patterns. Malak speaks in short, declarative sentences. Revan speaks in long, circling monologues that arrive at a point three paragraphs after the listener expected one. Canderous speaks with the direct simplicity of someone who has never needed to lie. A Selkath diplomat speaks with the patient precision of someone who knows you need them more than they need you.
+
+Listeners identify NPCs by cadence and diction, not accent. Give each recurring NPC one verbal habit: Kaeranth qualifies his statements ("the projections suggest," "if the intelligence is accurate"). An Exchange crime lord uses casual familiarity regardless of context. An OFA interrogator asks questions she knows the answer to and lets the silence do the work. One habit per NPC. Listeners will recognize them.
+
+### Frame Every Scene
+
+At the top of every scene, spend 15-30 seconds describing where the party is and what they can see, hear, and feel. The audience cannot see the battlemap. They need your words to build the room. "You're in a private chamber on the forty-second floor of the Ahto City administrative tower. The walls are transparent aluminum. The ocean stretches in every direction. Council Elder Shasa stands at the far window with her back to you. She does not turn around when you enter."
+
+That framing costs fifteen seconds. It gives the audience a location, an atmosphere, and a character dynamic. Without it, the audience hears voices in a void. With it, they hear voices in a room.
+
+### Let the Players Shine
+
+The GM's job in actual play is to create moments where the players do something memorable. The dramatic speech. The clever plan. The moment of vulnerability. The joke that breaks the tension. Design your scenes so that the players' choices are the climax, not your NPC monologues.
+
+A GM who takes the spotlight produces a podcast about the GM. A GM who builds spotlights for the players produces a podcast about the story. The second version is the one listeners subscribe to.
+
+### Edit in Post
+
+Rules discussions, bathroom breaks, cross-talk about pizza orders, and the ten-minute argument about whether Provoke or Rapport applies to this specific social maneuver: cut all of it. Record everything. Edit without hesitation. The final audio should be the game at its best, not the game at its most complete.
+
+Keep the laughter. Keep the genuine surprise. Keep the moment where a player says "oh no" because they understand what the compel means. Cut the logistics. The listeners came for the story.
 
 ---
 
 ## A Final Note: Why This Setting Exists
 
-The Concordat Era exists because the KOTOR games asked questions that they weren't built to answer. What happens when a democracy chooses a strongman because the alternative is chaos? What happens when the Force fails and the people who built their identities on it have to find out who they are without it? What happens when the person who understands the problem best has a solution that might be worse than the disease?
+The Concordat Era exists because the KOTOR games asked questions they were not built to answer. A democracy chooses a strongman because the alternative is chaos. The Force fails and the people who built their identities on it have to discover who they are without it. The person who understands the problem best has a solution that might be worse than the disease.
 
-The Star Wars frame makes these questions accessible, the KOTOR characters make them personal, and the Napoleonic parallels ground them in history. Your job as GM is to take these questions to your table and let your players wrestle with them.
+The Star Wars frame makes these questions accessible. The KOTOR characters make them personal. The Napoleonic parallels ground them in history. Your job as GM is to bring these questions to your table and let your players wrestle with them.
 
-You will not resolve them. That's fine. The point of a good campaign is not to answer every question. It's to make the questions matter to the people who played it.
+You will not resolve them. The point of a good campaign is not to answer every question. The point is to make the questions matter to the people who played it.
 
-Run the game, trust your players, and let the galaxy move under their hands.
+Run the game. Trust your players. Let the galaxy move under their hands.
 
 ---
 
