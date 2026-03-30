@@ -1,12 +1,44 @@
 # THE CONCORDAT ERA — GM GUIDE
 
-## Genres, Evil Campaigns, Alternate Frames, and an Opinionated Philosophy for Running Games in This Setting
+## Before You Begin, Session Zero, Genres, Scope, Fate Mechanics, Game-Running, Alternate Frames, Evil Campaigns, and Actual Play
 
 This is a GM-facing document. Players should not read it. Not because it contains spoilers (though it does), but because the advice here works best when the GM has internalized it and the players experience its effects without seeing the machinery.
 
 ---
 
-# PART I: CAMPAIGN GENRES
+# PART I: BEFORE YOU BEGIN
+
+## How to Use This Guide
+
+You do not need this book. The Setting Book gives you enough to run a campaign on its own.
+
+The Concordat Era was built to serve an actual play. That changes how you design a setting. A traditional campaign prep asks: what do my players need to have fun on Tuesday night? An actual play asks that and a second question: what does the audience need to stay? Those two questions pull in different directions. Players want agency, surprise, the freedom to derail a plan. Audiences want coherence, stakes they can track, and the sense that the story is going somewhere even when the characters are lost. A setting designed for both has to give the GM enough structure that the audience can follow the political landscape across episodes, and enough flexibility that the players can crack it open and reshape it at the table.
+
+That tension shaped this guide. A traditional GM prep document gives you encounters, maps, stat blocks. This guide gives you faction architecture: who wants what, who opposes them, what happens on a calendar whether the players intervene or not. It gives you design reasoning so you can improvise inside a political framework that holds up under audience scrutiny. It treats your table as a writers' room where the GM builds the world and the players write the characters, and the story that comes out of that room is something none of you could have written alone. The audience gets to watch real people make real decisions with real consequences in a galaxy that responds.
+
+The Setting Book speaks in-universe. Its narrator is a galactic citizen with blind spots, biases, and gaps where the truth is contested. This guide breaks the fourth wall. It tells you which gaps are deliberate, what faction leaders believe in private, and where the presented facts are incomplete. Your players read the Setting Book. You hold both documents. That asymmetry is your sharpest tool.
+
+This is an experiment. It might fail. I plan to enjoy it regardless. Take what works. Leave what does not.
+
+### Why Read This Book
+
+**Part I** gives you the three rules that keep the setting from collapsing into a standard Star Wars campaign, and a critique of "yes, and" that changes how you handle consequences at the table.
+
+**Part II** prevents the first three sessions of mistakes that happen when a GM skips Session Zero in a morally ambiguous setting. Safety tools, tone calibration, and character creation as a group exercise.
+
+**Part III** breaks ten campaign genres into concrete running advice. Political intrigue, frontier survival, military operations, espionage, Force mystery, criminal enterprise, exploration, humanitarian crisis, religious schism, resistance. Each genre gets faction clocks, NPC construction, and session structure specific to how that genre plays in the Concordat Era.
+
+**Part IV** solves the scope problem: how to run a one-shot that feels complete, an arc that builds, or a long campaign where faction clocks keep the galaxy moving between sessions.
+
+**Part V** turns Fate Condensed mechanics into political tools. Aspects become public positions. Compels become faction pressure. Challenges become institutional confrontations. The system stops feeling generic and starts feeling like the Concordat Era.
+
+**Part VI** gives you NPC construction, scene framing, pacing, and information control for a setting where the players can reshape the political landscape without breaking it.
+
+**Parts VII and VIII** open campaign frames you cannot run without this guide: Concordat loyalists enforcing a surveillance state, deep-cover Sith operatives, characters who believe the Force should die. These frames require GM tools the Setting Book does not provide.
+
+**Part IX** covers actual play production. Recording, editing, audience engagement, and how to build a show that respects both the game at the table and the listeners who were not there.
+
+---
 
 ## What This Setting Does Well (And What It Doesn't)
 
@@ -17,6 +49,114 @@ This means the setting excels at genres that involve people arguing about what t
 If you want to run a game where the heroes fight evil, this setting will frustrate you. If you want to run a game where the heroes discover that "evil" is a word people use to describe the faction they're not in, and then have to decide what to do about it, this setting will reward you for years.
 
 ---
+
+## Why Star Wars
+
+I love Star Wars. I love KOTOR. I built this setting because those stories left questions I wanted to answer at a table with other people. But affection is not a design reason. I could have built this experiment on Dune, on Mass Effect, on Legend of the Five Rings, on an original IP with no inherited audience. I chose Star Wars for three reasons, and all three serve the actual play.
+
+**Star Wars is the largest shared vocabulary in genre fiction.** A player who hears "Jedi Temple" pictures it. A player who hears "hyperspace" knows what it does. A listener who tunes into episode four of an actual play and hears "the Senate" carries forty years of assumptions about corruption and bureaucracy before anyone describes a single senator. An original setting forces players and audiences through a vocabulary phase: learn my governments, my religions, my species, my technology before you can form opinions. Star Wars skips that phase. Players arrive with opinions loaded. Audiences follow the story faster because Lucas built the glossary decades ago.
+
+**Player assumptions generate content.** A player says "my character is a smuggler." No briefing needed. The table pictures Han Solo: fast ship, debts to dangerous people, a blaster under the table during negotiations. The player acts on that image. Then the Concordat Era's version hits: smuggling in this galaxy means running kolto past Concordat blockades, moving Force-sensitive refugees off-grid before the Office of Force Affairs finds them, bribing port officials who answer to a military governor instead of a customs bureau. The player arrived with Han Solo and discovered someone darker, more necessary, and more politically exposed. That gap between the assumption and the reality generates scenes the GM did not have to plan. In an actual play, the audience watches a real person revise their expectations in real time. The drama comes from the revision, not from a scripted reveal.
+
+**Subversion requires something to subvert.** The Concordat Era spends inherited vocabulary on dissonance. Your players know the Jedi are supposed to be wise. When they meet Jedi who police Force-sensitive registration for a surveillance state, the dissonance hits because the players arrived with expectations. An original setting's religious order carries no baggage. The Jedi carry decades of it. The player says "I bet the Sith Lord has a red lightsaber." The Sith Lord has a red lightsaber. The Sith Lord also runs a humanitarian clinic for Pureblood refugees and argues that the Imperial Code corrupted older Sith philosophy. The correct assumption pulled the player in. The unexpected context gave them something to wrestle with.
+
+Subversion has a shelf life. "The Jedi aren't what you expected" surprises a player once. By session five, the surprise is spent. A setting that relies on novelty alone collapses into a one-note gimmick: everything you thought was wrong, here's the twist, repeat. The Concordat Era's design accounts for this. Subversion gets players through the door. The genre architecture keeps them in the room. A political intrigue campaign sustains itself on faction clocks, competing agendas, and information as currency. A frontier survival campaign sustains itself on kolto costs, hyperspace failures, and communities that need practical help. A military operations campaign sustains itself on logistics, chain of command, and the gap between orders and the situation on the ground. Part III covers ten genres with concrete running advice, and those ten are starting points. The faction density supports horror campaigns, heist campaigns, courtroom dramas, theological debates played as social combat. None of them depend on the Jedi being surprising. They depend on the political landscape being dense enough that the players keep discovering new problems rooted in the same structural tensions. The smuggler who arrived expecting Han Solo stays because the kolto trade has three factions competing for the same supply routes, and the player's choices about which faction to serve reshape the frontier economy. That problem renews itself. The subversion was the introduction.
+
+---
+
+## The Three Laws
+
+A television show has a bible. The bible tells the writers what the show is: which rules hold, which characters exist, what the world does and does not allow. A writers' room without a bible produces episodes that contradict each other, characters who forget their own motivations, and a show that loses its audience because the audience stops trusting it. The Setting Book is your bible. These three laws keep the room producing coherent story across sessions, across genres, across the unpredictable decisions your players will make. You can bend tone. You can shift genre. You can let the players reshape the political map. Break one of these three, and the shared fiction loses the structural integrity that lets everyone at the table build on what came before.
+
+### Law 1: No Faction Is Correct
+
+The Concordat provides stability through authoritarianism. This is defensible. This is also corrosive. The Remnant fights for democratic principles while its leader may be losing his mind. The Neo-Mandalorians defend warrior honor while their people starve. The Jedi Council advocates restraint while the galaxy burns. Kreia may understand the Force better than anyone alive, and her solution might kill millions.
+
+Your job as GM is to present every faction's best case with conviction and every faction's worst actions without apology. The moment you signal to your players that one faction is "the good guys," you collapse the setting's political complexity into a quest with a right answer. The Concordat Era does not have a right answer. It has competing arguments, and the players' job is to navigate them.
+
+This is a production decision as much as a design one. The best television dramas sustain themselves on characters the audience cannot dismiss. Tony Soprano runs a criminal empire and loves his children. Walter White poisons a child and funds his family's future. The audience cannot resolve these characters into a single moral verdict, and that irresolution keeps them watching. A TTRPG actual play has an advantage television does not: the characters making these impossible choices are real people at a table, reacting without a script. When the players meet a Concordat governor who restricts Force-sensitive movement and has the casualty reports to justify it, the audience hears real people argue about whether he is right. That argument, unresolved and genuine, is content no writers' room can manufacture. If you hand the players a villain, the audience gets a fight scene. If you hand them a defensible position doing indefensible things, the audience gets a conversation that carries across episodes.
+
+In practice: when an NPC speaks on behalf of their faction, make that NPC believe what they're saying. The Concordat military governor who restricts Force-sensitive movement on a frontier world believes he's protecting civilians from people whose abilities are unreliable and dangerous. He has examples. He has casualty reports from incidents where Jedi abilities failed mid-operation and civilians died. He's not a cartoon authoritarian. He's a bureaucrat doing his job in a galaxy where the rules keep changing.
+
+When the party encounters that governor, they should leave the scene arguing about whether he's right.
+
+### Law 2: The Force Crisis Is Real
+
+The Force is dying. The Force crisis is the setting's material condition, not a plot device that resolves when the party finds the right artifact or defeats the right villain. It is to the Concordat Era what climate change is to the 21st century: a slow-motion catastrophe that everyone can observe, that no one fully understands, and that shapes every other problem in the setting.
+
+Do not resolve the Force crisis cheaply. Do not present a cure. Do not let a single quest line fix it. The Force crisis is the setting's skeleton. If you remove it, everything else collapses.
+
+You can reveal its causes. You can let the party understand it better than anyone else in the galaxy. You can let them stabilize a dead zone, or protect a community from its effects, or discover a principle that suggests the Force might not be dying but changing. But the crisis itself persists. The galaxy at the end of the campaign should still be dealing with it, even if the party has changed how people understand it.
+
+The Concordat Era is not heroic game design. Heroic design gives the party a problem scaled to their power and a solution within their reach. The dragon threatens the kingdom; the party kills the dragon; the kingdom is saved. That structure produces satisfying sessions, but it produces bad actual plays. Heroic stories resolve. Resolution means the audience watches a problem appear, escalate, and disappear. The show has to manufacture a new threat or raise the stakes, and the audience learns to expect the cycle. Political dramas sustain audiences because the problems persist and the characters' responses to those problems reveal who they are over time. The West Wing ran seven seasons on the same structural tensions. The Wire ran five. The problems did not resolve. The characters changed within them, and the audience stayed to watch the change. The Force crisis gives the Concordat Era that same engine. It cannot be solved. It can be understood, managed, contested, exploited, feared, studied, denied. Each of those responses generates a different kind of story. The party's choices about how to respond to the crisis define who their characters are, and that character definition, sustained across sessions, is what makes an actual play worth following.
+
+This redefines where player agency lives. The party cannot fix the crisis. They can decide who gets the kolto, which faction's theory gains political traction, whether a dead zone becomes a quarantine or a research site, whether the people in their sector trust the Concordat's explanation or Revan's. The crisis is the weather. The players decide what their community builds in it.
+
+In practice: compel Force instability in every session. Not in every scene. Not as punishment. But enough that the players never forget that their galaxy's operating system is unreliable. The Force crisis should feel the way inflation feels: present in every transaction, every plan, every assumption about the future.
+
+### Law 3: The Characters' Choices Must Matter
+
+The Concordat Era's political landscape can change. If the party negotiates a ceasefire between a Concordat garrison and a Remnant cell, that ceasefire is real. If the party exposes a Triumvirate agent in the Senate, the Triumvirate's operations in that region are disrupted. If the party discovers something about the Force crisis that no faction has found, that discovery reshapes how factions respond.
+
+This is the actual play's structural advantage over scripted television. A television show can depict a galaxy that responds to its characters, but the audience knows a writers' room decided the response. The drama is authored. An actual play inverts that contract. The GM builds the faction architecture, the political pressures, the ticking clocks. The players make choices the GM did not predict. The galaxy responds according to its own logic, and the audience watches consequences unfold that no one at the table planned. That unpredictability is the medium's signature. A scripted show can surprise its audience. An actual play can surprise itself. When the party brokers a ceasefire that reshapes a sector's politics, the audience knows no one wrote that outcome in advance. That knowledge makes the stakes feel real in a way scripted drama cannot replicate.
+
+This does not mean the party can fix everything. It means the things they fix stay fixed, the things they break stay broken, and the galaxy's political actors respond to what the party does with the same self-interest and imperfect understanding that drives real-world politics.
+
+In practice: after every session, spend five minutes updating your faction clocks based on what the party did. Did they disrupt a Concordat intelligence operation? The Office of Force Affairs redirects resources to find them. Did they deliver kolto to a frontier community? That community becomes a potential ally. Did they kill a Neo-Mandalorian raider captain? The Coalition's operations in that sector shift. The galaxy moves, and the party's fingerprints are on the motion.
+
+---
+
+## A Note on "Yes, And"
+
+"Yes, and" is improv's first principle. Accept what your scene partner offers and build on it. Tabletop RPGs borrowed the concept because it prevents blocking: the GM who says "no, you can't do that" shuts down creative play. The principle solves a real problem. It also creates one.
+
+A table that internalizes "yes, and" as dogma starts softening consequences, avoiding confrontation between characters, and routing around the moments where a character's choices should produce resistance. The GM says yes, and the galaxy stops pushing back. Sessions drift toward comfortable resolution. Campaigns lose the friction that makes political thrillers work.
+
+Daggerheart's Hope and Fear system codifies this tendency. Good rolls add Hope tokens. Bad rolls add Fear tokens. The GM spends Fear tokens to trigger complications. The design looks self-balancing. Players learn that complications follow failure, not the fiction's internal logic. A Concordat patrol searches the party's ship because the story demands it, not because someone rolled badly. The moment complications require a resource expenditure from the GM, the GM starts rationing difficulty. Hostile architecture becomes an expense rather than a given. The table drifts toward comfort.
+
+The Concordat Era needs hostile architecture. Malak's surveillance state monitors Force-sensitives whether the party rolled well or not. Kaeranth's supply crisis worsens on a calendar. The Dxun gathering happens in six months regardless of any token economy. Complications flow from the setting's political reality, and that reality does not negotiate with the dice.
+
+The alternative to "yes, and" is not "no." Affirm the player's choice as valid. Then deliver the fiction's response at full force. The player decides to accuse the Concordat military governor of corruption in front of the Senate press gallery. Yes, that accusation lands. The governor faces an inquiry. The governor's intelligence staff also opens a file on the party. The Restorationist faction pressures the party to testify under oath. The OFA reclassifies the party's transit permits. The player got what they wanted. The galaxy responded with its own agenda.
+
+This approach preserves "yes, and" where it works (creative action, character expression, narrative contribution) and rejects it where it fails (consequence mitigation, difficulty avoidance, friction elimination). The Concordat Era's three-faction landscape generates friction by design. Your job is to channel that friction through scenes and aim it at the characters.
+
+---
+
+# PART II: SESSION ZERO
+
+## Session Zero: Build the Table Before You Build the Galaxy
+
+Run a Session Zero with your full party before the campaign starts. This session is required. You cannot skip it. A GM who launches a Concordat Era campaign without a Session Zero will spend the first three sessions fixing problems that Session Zero prevents in ninety minutes.
+
+### What You Cover
+
+**The setting pitch.** Explain the Concordat Era in five minutes. You do not need to know every faction. You need three sentences: "Three governments claim legitimacy over a fractured galaxy. The Force is dying and no one agrees why. You play characters who have to pick a side, or refuse to, in a political landscape that has not finished forming." If the players buy that pitch, you have a campaign. If they do not, run a different setting.
+
+**Campaign genre.** Tell the players what kind of game you plan to run. Political intrigue, frontier survival, military operations, espionage, or a blend. Ask them what they respond to. A player who wants dogfights and boarding actions will not thrive in a Senate intrigue campaign. Match the genre to the table, or negotiate.
+
+**Safety tools.** Use Lines and Veils, X-Card, or whatever safety framework your table prefers. The Concordat Era contains surveillance states, genocide aftermath (the Cathar), forced displacement, psychological deterioration (Revan), and systemic exploitation (Twi'leks, Wookiees). Name these topics in Session Zero. Ask which topics the table handles and which it avoids. No surprises.
+
+**Tone calibration.** This setting runs on moral ambiguity. The Concordat provides stability through authoritarianism. The Remnant fights for democracy while its leader fractures. The Mandalorians defend honor while their people starve. No faction is correct. Tell your players this. Ask if they want a campaign where the right answer is unclear. Players who need a clear villain will struggle here. Players who want arguments that keep them up at night will flourish.
+
+### Character Creation at the Table
+
+Build characters together, not in isolation. Fate Condensed's six narrative questions drive character creation, and those questions produce better characters when the whole table hears the answers.
+
+**Aspects as contracts.** When a player writes "The Concordat Took Everything From Me," that player has told the GM and the other players what scenes they want. Session Zero is where the table reads these contracts aloud. The GM confirms: "I will give you scenes where the Concordat's cost is personal." The other players confirm: "I will engage with your character's pain when it surfaces." Aspects written in private miss this step. Aspects written at the table create a shared understanding of what the campaign is about.
+
+**Party composition.** The Concordat Era does not require faction alignment. A mixed-faction party (one Concordat veteran, one Remnant sympathizer, one frontier independent, one Mandalorian exile) produces more internal tension and better sessions than a party that agrees on everything. Session Zero is where the players negotiate these relationships. "My character served under your character during the Ashen Campaigns. She hasn't forgiven you for Serroco." That negotiation takes five minutes in Session Zero. It fuels thirty sessions of play.
+
+**Force-sensitive decisions.** The Force-Sensitive Extra costs one stunt slot. Players who take it accept the Force Instability standing compel: the GM can compel their Force-related aspects at any time, and the Force fails roughly one-third of the time in normal space. Session Zero is where Force-sensitive players understand this cost. A player who expects reliable Jedi powers will be frustrated. A player who sees Force Instability as a source of dramatic tension will produce the best scenes in the campaign.
+
+### What a Newcomer GM Needs to Know
+
+You do not need to have played KOTOR. You do not need to know the Expanded Universe. You need the Setting Book's first six chapters and this GM Guide. Read the Three Laws in Part I, understand the faction summary in the Setting Book's Chapter 2, and internalize the Force crisis from Chapter 6. The rest you can learn as the campaign progresses.
+
+The Concordat Era's Napoleonic parallels help GMs who know the period, but they are not required knowledge. The parallels inform the setting's design. They do not require the GM to teach history at the table. If you know Napoleon's Consulate, you will recognize Malak's government. If you do not, Malak's government works on its own terms.
+
+---
+
+# PART III: CAMPAIGN GENRES
 
 ## Genre 1: Political Intrigue
 
@@ -348,67 +488,7 @@ Most Concordat Era campaigns blend two or three genres across their arc. A campa
 
 ---
 
-# PART II: EVIL CAMPAIGNS AND THE SITH
-
-## Running an Evil Campaign in the Concordat Era
-
-"Evil campaign" is a misnomer. The Concordat Era has factions that do evil things for reasons their members consider justified. The closest thing to a traditional evil campaign in this setting is a Sith campaign, but even that requires redefining what "Sith" means.
-
-### The Problem With "Evil"
-
-Traditional evil campaigns fail for a predictable reason: they give the players permission to act without consequences, and consequence-free action is boring. A party of cackling villains torturing innocents produces shock for about two sessions and tedium forever after. The problem is structural. Evil campaigns remove the tension that makes tabletop RPGs work: the tension between what the character wants and what the character can get away with.
-
-The Concordat Era solves this problem by refusing to offer a faction that is evil without qualification. The Sith in this setting are a people, a diaspora, a fractured military, a set of philosophical traditions, and (in the Triumvirate) a conspiracy with goals that might be correct. A Sith campaign offers a different lens on the same galaxy.
-
-### The Three Sith Campaigns
-
-#### 1. The Diaspora Campaign
-
-The party are Sith Purebloods navigating life in a galaxy that views their species as a threat. This is a campaign about identity, prejudice, survival, and the question of what "Sith" means when the Empire is ash.
-
-**Tone:** Immigrant narrative meets political thriller. The party members maintain cultural identity while navigating a galaxy that monitors, restricts, and fears them. Think The Americans crossed with a displacement narrative. The "evil" in this campaign is structural: the Concordat's Force-monitoring programs, the Republic's legacy of anti-Sith violence, the prejudice that makes a red-skinned engineer on Nar Shaddaa take a different route home when the patrol ships are out.
-
-**The party might include:** A Kissai scholar preserving traditions in a diaspora school. A Massassi veteran working as a mercenary because no one else will hire a former Sith soldier. A Zuguruk engineer whose technical skills are valued but whose heritage is hidden. A young Pureblood who's never seen Korriban and defines "Sith" through their grandmother's stories.
-
-**What drives the campaign:** The Triumvirate's agents contact the party. They offer something the diaspora desperately wants: organization, purpose, resources, and a path back to significance. The price is unclear. The party has to decide whether to accept help from people whose ultimate goals might not align with diaspora survival. Meanwhile, the Concordat's Office of Force Affairs is tightening its surveillance, and the party must navigate between compliance, resistance, and the possibility of a community that could become a target for a crackdown they didn't cause.
-
-**Why this works as a "Sith campaign":** The party's Sith identity is the source of conflict, but the conflict is political and personal rather than moral. The party isn't choosing between good and evil. They're choosing between safety and dignity, between assimilation and preservation, between accepting help from dangerous allies and going it alone.
-
-#### 2. The Remnant Military Campaign
-
-The party are officers or operatives in a Sith military remnant flotilla. They command ships, manage personnel, and pursue strategic objectives in a galaxy that considers them a defeated enemy.
-
-**Tone:** The Hunt for Red October in space. A military campaign where the party serves a command structure that has lost its state, its logistics, and its strategic context but has retained its discipline, its ships, and its institutional pride. The "evil" in this campaign is the question of what a professional military does when the cause it served no longer exists.
-
-**The party might include:** A fleet captain maintaining combat readiness with diminishing supplies. A Sith intelligence officer running operations without a government to report to. A ship's counselor (Kissai tradition) managing the spiritual health of a crew that has been in exile for twelve years. A weapons officer who was seventeen during the GHW and has spent her entire adult life aboard warships that have no home port.
-
-**What drives the campaign:** The flotilla receives an offer. From the Concordat (defect and receive amnesty). From the Remnant (join and fight a common enemy). From the Triumvirate (serve and receive a purpose). From Hutt Space (hire out as mercenaries and eat regularly). Each option has costs. The party advises their commander, executes operations, and eventually discovers that their flotilla possesses something every faction wants: intelligence, an artifact, a person, a navigational chart to something in the Unknown Regions. The campaign becomes a hunt, with the party as both predator and prey.
-
-**Why this works as a "Sith campaign":** The party's loyalties are to their ship, their crew, and the remnant of a civilization that the galaxy has written off. Their choices are driven by survival and institutional loyalty, not by dark-side philosophy. The "evil" label is something others apply to them based on species and heritage, not based on their actions.
-
-#### 3. The Triumvirate Campaign
-
-The party are Kreia's agents. They may not know it.
-
-**Tone:** Tinker Tailor Soldier Spy meets cosmic horror. An espionage campaign where the party operates within the Triumvirate's network, executing missions whose true purpose is hidden. The "evil" in this campaign is Kreia's endgame: the managed severance of the Force from the galaxy, a project that might save civilization or destroy it, depending on variables that Kreia herself hasn't fully calculated.
-
-**The party might include:** A former Jedi recruited by a Triumvirate contact who offered answers about the Force crisis. A Sith Pureblood intelligence operative who believes she's working for a diaspora protection network. A non-Force-sensitive fixer who was hired for a job and hasn't been told who's paying. A Force-sensitive civilian who was identified by Kreia's network as having a specific, rare relationship with the Force that makes them useful for reasons they don't understand.
-
-**What drives the campaign:** The party receives missions through handlers. Each mission advances Kreia's plan without revealing the plan. Redirect a kolto shipment. Eliminate a researcher who's close to understanding the Force crisis. Plant intelligence that will provoke a specific faction response. Deliver an artifact to a location the party isn't told about. Over time, the party pieces together the shape of the conspiracy they're part of. The campaign's central question becomes: now that you know what you're building, do you keep building it?
-
-**Why this works as a "Sith campaign":** Kreia is the most compelling antagonist in the KOTOR tradition because she might be right. A Triumvirate campaign forces the party to reckon with her arguments on their merits. If the Force is a dependency that makes civilizations fragile, if its death is inevitable regardless of what anyone does, if the only responsible action is to prepare the galaxy for a post-Force existence, then Kreia's project is the most important work in the galaxy. If she's wrong about any of those premises, her project is a genocide of Force-sensitive peoples disguised as liberation. The party's job is to figure out which.
-
-### What Makes These Different From the Standard Campaign
-
-The standard Concordat Era campaign (the Freighter Incident opening, the mixed-faction party) asks: what kind of galaxy should this be? The Sith campaigns ask a different question: who gets to decide?
-
-A standard party argues about the Concordat's legitimacy from outside the power structures. A Sith party argues about it from underneath. The Concordat monitors them. The Remnant views them with suspicion. The Mandalorians might respect them or hunt them depending on clan. The galaxy's political debates look different when your species is the one being debated about.
-
-The GM running a Sith campaign should remember: the party's choices define their moral position, not their faction. A Sith Pureblood kolto merchant who heals people regardless of faction is morally indistinguishable from a Jedi healer. A Jedi Sentinel who assassinates a political target on Council orders is morally indistinguishable from a Sith assassin. Factions assign the labels. The characters choose the ethics.
-
----
-
-# PART III: CAMPAIGN SCOPE AND STRUCTURE
+# PART IV: CAMPAIGN SCOPE AND STRUCTURE
 
 ## Three Scales of Play
 
@@ -515,7 +595,7 @@ Before session 1, answer these questions:
 
 ---
 
-# PART IV: FATE AT THE TABLE
+# PART V: FATE AT THE TABLE
 
 ## Aspects as Campaign Architecture
 
@@ -683,133 +763,7 @@ The GM rolls faction skills when faction-scale actions occur offscreen: the Conc
 
 ---
 
-# PART V: ALTERNATE CAMPAIGN FRAMES
-
-## Alternate Takes on the Post-Mandalorian War Galaxy
-
-The setting book describes the Concordat Era at 3952 BBY. The GM is not obligated to start there. The following alternate frames adjust the starting conditions while keeping the setting's core tensions intact.
-
-### Frame 1: The Year of the Concordat (3955 BBY / 1 CE)
-
-**When:** The Concordat has just been signed. Malak stands over Mandalore with a shattered jaw and a severed arm. Canderous Ordo is walking away. The Senate hasn't ratified anything yet.
-
-**What's different:** Everything is in motion. The Jedi Council hasn't fractured yet (most Revanchist Jedi still hold their titles). The Remnant doesn't exist (Kaeranth hasn't defected). The Neo-Mandalorians are forming but haven't conducted their first raids. Kreia is watching from the shadows, evaluating whether the Concordat serves or threatens her plan. Revan is about to leave for the Unknown Regions and hasn't told anyone.
-
-**Why run this:** The party witnesses the birth of the Concordat Era's political order. They're present for the decisions that created the setting. A party that includes a Revanchist Jedi, a Mandalorian warrior, and a Republic senator's aide can participate in the events that the main setting book describes as history. The campaign's central question: can the Concordat become something legitimate, or is it authoritarian from the first day?
-
-**GM note:** This frame requires the GM to be comfortable with political worldbuilding on the fly. The factions are forming. Their policies aren't set. The party's actions can shape the Concordat, the Remnant, and the Neo-Mandalorians into different versions of what the setting book describes.
-
-### Frame 2: The Ashen Campaigns (3957-3956 BBY / 2-1 BC)
-
-**When:** The Mandalorian Wars are at their most desperate. Malak has just discovered coordinated Force-channeling. The first Ashen strikes are being tested. Revan is in the Unknown Regions or unreachable. The war is grinding both sides to dust.
-
-**What's different:** The party is at war. The Concordat doesn't exist yet. The Mandalorians are the enemy (or the party is Mandalorian and the Revanchists are the enemy). The Jedi Council is watching from Coruscant in horror. Dead zones are appearing for the first time, and nobody understands what they are.
-
-**Why run this:** War stories. The Ashen Campaigns are the setting's moral crucible. A party that participates in them (as Revanchists, as Mandalorians, as Republic regulars caught between) confronts the setting's hardest question in real time: is this weapon acceptable? What about the next one? At what point does the cost of winning exceed the cost of losing?
-
-**GM note:** This frame is grimdark in the truest sense. The party will be asked to do terrible things for defensible reasons. The campaign works when the GM presents each Ashen operation as a choice rather than an order: the party can follow through, resist, sabotage, or find alternatives, but the war's pressure makes every alternative worse than the last.
-
-### Frame 3: The Fracture (3953 BBY / 3 CE)
-
-**When:** One year before the standard campaign start. The Sentinel Program has just been authorized. Atris has withdrawn to Telos. The Jedi Order is splitting. Revan is in the Unknown Regions. The Concordat is consolidating. The Remnant is established but fragile.
-
-**What's different:** The political order exists but hasn't hardened. The Sentinel Program is brand new, and its operatives are the first generation: untested, undertrained, and facing a galaxy that views them as either hope or threat. Kaeranth is building the Remnant's intelligence network from scratch. Malak's emergency powers have just been extended for the first time.
-
-**Why run this:** The party are pioneers. First-generation Sentinels, first-wave Remnant operatives, early Concordat administrators, or the first Neo-Mandalorian raiders establishing the Coalition's reputation. The campaign's central question: what do the setting's institutions look like when they're still being built?
-
-**GM note:** This frame gives the party outsized influence. A Sentinel operative in 3 CE shapes the Sentinel Program's culture through their actions. A Remnant intelligence officer establishes protocols that will be used for years. The players build the institutions that the main setting book describes.
-
-### Frame 4: After the Concordat Falls
-
-**When:** Years after the standard campaign start. The Concordat has collapsed or been overthrown. The campaign's specific timeline depends on how the standard campaign played out, but the frame assumes a post-Concordat galaxy.
-
-**What's different:** Malak is dead, exiled, or deposed. The political order that held the galaxy together has failed. The Remnant may have won, or may have been destroyed, or may have been absorbed into something new. The Force crisis has either worsened, stabilized, or been resolved (the GM chooses). The galaxy is rebuilding, and no one agrees on the blueprints.
-
-**Why run this:** Reconstruction campaigns. The war is over. The hard work of building a new galaxy from the pieces of the old one has begun. This frame suits parties of diplomats, administrators, community builders, and the veterans who are trying to figure out what peacetime means when the peace was bought with atrocity.
-
-**GM note:** This frame requires the GM to have an opinion about what happened during the standard campaign era. The Concordat fell because [reason]. The Force crisis was addressed by [method]. The party operates in the aftermath. The tone shifts from grimdark to something more hopeful but no less complicated: reconstruction is difficult, boring, and essential, and the people doing it carry everything that happened before.
-
-### Frame 5: The Unknown Regions
-
-**When:** Concurrent with the standard campaign, but elsewhere.
-
-**What's different:** The party follows Revan's trail into the Unknown Regions. They're beyond the galaxy's mapped space, investigating Rakatan ruins, encountering species and civilizations that the Republic has never contacted, and piecing together the truth about the Star Forge, the Infinite Empire, and the Force's deep history. Communications with the known galaxy are intermittent or impossible.
-
-**Why run this:** Exploration and cosmic mystery. The Unknown Regions frame strips away the setting's political factions and replaces them with discovery: ancient technology, alien intelligences, and the possibility that everything the galaxy believes about the Force is incomplete. The campaign's central question: what did Revan find, and what did it cost him?
-
-**GM note:** This is the most demanding frame for the GM because it requires original worldbuilding beyond the setting book's scope. The Unknown Regions are undefined by design. The GM must populate them with civilizations, hazards, and discoveries that feel consistent with the setting's themes (the Force's fragility, the pattern of civilizations that build on the Force and collapse when it fails) without being prescribed by the source material.
-
----
-
-# PART VI: AN OPINIONATED PHILOSOPHY FOR RUNNING THE CONCORDAT ERA
-
-## Session Zero: Build the Table Before You Build the Galaxy
-
-Run a Session Zero with your full party before the campaign starts. This session is required. You cannot skip it. A GM who launches a Concordat Era campaign without a Session Zero will spend the first three sessions fixing problems that Session Zero prevents in ninety minutes.
-
-### What You Cover
-
-**The setting pitch.** Explain the Concordat Era in five minutes. You do not need to know every faction. You need three sentences: "Three governments claim legitimacy over a fractured galaxy. The Force is dying and no one agrees why. You play characters who have to pick a side, or refuse to, in a political landscape that has not finished forming." If the players buy that pitch, you have a campaign. If they do not, run a different setting.
-
-**Campaign genre.** Tell the players what kind of game you plan to run. Political intrigue, frontier survival, military operations, espionage, or a blend. Ask them what they respond to. A player who wants dogfights and boarding actions will not thrive in a Senate intrigue campaign. Match the genre to the table, or negotiate.
-
-**Safety tools.** Use Lines and Veils, X-Card, or whatever safety framework your table prefers. The Concordat Era contains surveillance states, genocide aftermath (the Cathar), forced displacement, psychological deterioration (Revan), and systemic exploitation (Twi'leks, Wookiees). Name these topics in Session Zero. Ask which topics the table handles and which it avoids. No surprises.
-
-**Tone calibration.** This setting runs on moral ambiguity. The Concordat provides stability through authoritarianism. The Remnant fights for democracy while its leader fractures. The Mandalorians defend honor while their people starve. No faction is correct. Tell your players this. Ask if they want a campaign where the right answer is unclear. Players who need a clear villain will struggle here. Players who want arguments that keep them up at night will flourish.
-
-### Character Creation at the Table
-
-Build characters together, not in isolation. Fate Condensed's six narrative questions drive character creation, and those questions produce better characters when the whole table hears the answers.
-
-**Aspects as contracts.** When a player writes "The Concordat Took Everything From Me," that player has told the GM and the other players what scenes they want. Session Zero is where the table reads these contracts aloud. The GM confirms: "I will give you scenes where the Concordat's cost is personal." The other players confirm: "I will engage with your character's pain when it surfaces." Aspects written in private miss this step. Aspects written at the table create a shared understanding of what the campaign is about.
-
-**Party composition.** The Concordat Era does not require faction alignment. A mixed-faction party (one Concordat veteran, one Remnant sympathizer, one frontier independent, one Mandalorian exile) produces more internal tension and better sessions than a party that agrees on everything. Session Zero is where the players negotiate these relationships. "My character served under your character during the Ashen Campaigns. She hasn't forgiven you for Serroco." That negotiation takes five minutes in Session Zero. It fuels thirty sessions of play.
-
-**Force-sensitive decisions.** The Force-Sensitive Extra costs one stunt slot. Players who take it accept the Force Instability standing compel: the GM can compel their Force-related aspects at any time, and the Force fails roughly one-third of the time in normal space. Session Zero is where Force-sensitive players understand this cost. A player who expects reliable Jedi powers will be frustrated. A player who sees Force Instability as a source of dramatic tension will produce the best scenes in the campaign.
-
-### What a Newcomer GM Needs to Know
-
-You do not need to have played KOTOR. You do not need to know the Expanded Universe. You need the Setting Book's first six chapters and this GM Guide. Read the Three Laws below, understand the faction summary in the Setting Book's Chapter 2, and internalize the Force crisis from Chapter 6. The rest you can learn as the campaign progresses.
-
-The Concordat Era's Napoleonic parallels help GMs who know the period, but they are not required knowledge. The parallels inform the setting's design. They do not require the GM to teach history at the table. If you know Napoleon's Consulate, you will recognize Malak's government. If you do not, Malak's government works on its own terms.
-
----
-
-## The Three Laws
-
-Everything that follows comes from three principles. They are not optional. If you violate them, the setting stops working.
-
-### Law 1: No Faction Is Correct
-
-The Concordat provides stability through authoritarianism. This is defensible. This is also corrosive. The Remnant fights for democratic principles while its leader may be losing his mind. The Neo-Mandalorians defend warrior honor while their people starve. The Jedi Council advocates restraint while the galaxy burns. Kreia may understand the Force better than anyone alive, and her solution might kill millions.
-
-Your job as GM is to present every faction's best case with conviction and every faction's worst actions without apology. The moment you signal to your players that one faction is "the good guys," you collapse the setting's political complexity into a quest with a right answer. The Concordat Era does not have a right answer. It has competing arguments, and the players' job is to navigate them.
-
-In practice: when an NPC speaks on behalf of their faction, make that NPC believe what they're saying. The Concordat military governor who restricts Force-sensitive movement on a frontier world believes he's protecting civilians from people whose abilities are unreliable and dangerous. He has examples. He has casualty reports from incidents where Jedi abilities failed mid-operation and civilians died. He's not a cartoon authoritarian. He's a bureaucrat doing his job in a galaxy where the rules keep changing.
-
-When the party encounters that governor, they should leave the scene arguing about whether he's right.
-
-### Law 2: The Force Crisis Is Real
-
-The Force is dying. The Force crisis is the setting's material condition, not a plot device that resolves when the party finds the right artifact or defeats the right villain. It is to the Concordat Era what climate change is to the 21st century: a slow-motion catastrophe that everyone can observe, that no one fully understands, and that shapes every other problem in the setting.
-
-Do not resolve the Force crisis cheaply. Do not present a cure. Do not let a single quest line fix it. The Force crisis is the setting's skeleton. If you remove it, everything else collapses.
-
-You can reveal its causes. You can let the party understand it better than anyone else in the galaxy. You can let them stabilize a dead zone, or protect a community from its effects, or discover a principle that suggests the Force might not be dying but changing. But the crisis itself persists. The galaxy at the end of the campaign should still be dealing with it, even if the party has changed how people understand it.
-
-In practice: compel Force instability in every session. Not in every scene. Not as punishment. But enough that the players never forget that their galaxy's operating system is unreliable. The Force crisis should feel the way inflation feels: present in every transaction, every plan, every assumption about the future.
-
-### Law 3: The Characters' Choices Must Matter
-
-The Concordat Era's political landscape can change. If the party negotiates a ceasefire between a Concordat garrison and a Remnant cell, that ceasefire is real. If the party exposes a Triumvirate agent in the Senate, the Triumvirate's operations in that region are disrupted. If the party discovers something about the Force crisis that no faction has found, that discovery reshapes how factions respond.
-
-Player agency is the tabletop RPG's advantage over every other narrative medium. A novel can describe a galaxy where choices matter. A TTRPG can make it true. The GM's job is to ensure that the setting responds to the party's actions with specificity and consequence.
-
-This does not mean the party can fix everything. It means the things they fix stay fixed, the things they break stay broken, and the galaxy's political actors respond to what the party does with the same self-interest and imperfect understanding that drives real-world politics.
-
-In practice: after every session, spend five minutes updating your faction clocks based on what the party did. Did they disrupt a Concordat intelligence operation? The Office of Force Affairs redirects resources to find them. Did they deliver kolto to a frontier community? That community becomes a potential ally. Did they kill a Neo-Mandalorian raider captain? The Coalition's operations in that sector shift. The galaxy moves, and the party's fingerprints are on the motion.
-
----
+# PART VI: RUNNING THE GAME
 
 ## Prep Philosophy: The Situation, Not the Story
 
@@ -1047,7 +1001,125 @@ Do not end sessions on resolution. End them on questions. "The kolto shipment is
 
 ---
 
-# PART VII: THE ACTUAL PLAY
+# PART VII: ALTERNATE CAMPAIGN FRAMES
+
+## Alternate Takes on the Post-Mandalorian War Galaxy
+
+The setting book describes the Concordat Era at 3952 BBY. The GM is not obligated to start there. The following alternate frames adjust the starting conditions while keeping the setting's core tensions intact.
+
+### Frame 1: The Year of the Concordat (3955 BBY / 1 CE)
+
+**When:** The Concordat has just been signed. Malak stands over Mandalore with a shattered jaw and a severed arm. Canderous Ordo is walking away. The Senate hasn't ratified anything yet.
+
+**What's different:** Everything is in motion. The Jedi Council hasn't fractured yet (most Revanchist Jedi still hold their titles). The Remnant doesn't exist (Kaeranth hasn't defected). The Neo-Mandalorians are forming but haven't conducted their first raids. Kreia is watching from the shadows, evaluating whether the Concordat serves or threatens her plan. Revan is about to leave for the Unknown Regions and hasn't told anyone.
+
+**Why run this:** The party witnesses the birth of the Concordat Era's political order. They're present for the decisions that created the setting. A party that includes a Revanchist Jedi, a Mandalorian warrior, and a Republic senator's aide can participate in the events that the main setting book describes as history. The campaign's central question: can the Concordat become something legitimate, or is it authoritarian from the first day?
+
+**GM note:** This frame requires the GM to be comfortable with political worldbuilding on the fly. The factions are forming. Their policies aren't set. The party's actions can shape the Concordat, the Remnant, and the Neo-Mandalorians into different versions of what the setting book describes.
+
+### Frame 2: The Ashen Campaigns (3957-3956 BBY / 2-1 BC)
+
+**When:** The Mandalorian Wars are at their most desperate. Malak has just discovered coordinated Force-channeling. The first Ashen strikes are being tested. Revan is in the Unknown Regions or unreachable. The war is grinding both sides to dust.
+
+**What's different:** The party is at war. The Concordat doesn't exist yet. The Mandalorians are the enemy (or the party is Mandalorian and the Revanchists are the enemy). The Jedi Council is watching from Coruscant in horror. Dead zones are appearing for the first time, and nobody understands what they are.
+
+**Why run this:** War stories. The Ashen Campaigns are the setting's moral crucible. A party that participates in them (as Revanchists, as Mandalorians, as Republic regulars caught between) confronts the setting's hardest question in real time: is this weapon acceptable? What about the next one? At what point does the cost of winning exceed the cost of losing?
+
+**GM note:** This frame is grimdark in the truest sense. The party will be asked to do terrible things for defensible reasons. The campaign works when the GM presents each Ashen operation as a choice rather than an order: the party can follow through, resist, sabotage, or find alternatives, but the war's pressure makes every alternative worse than the last.
+
+### Frame 3: The Fracture (3953 BBY / 3 CE)
+
+**When:** One year before the standard campaign start. The Sentinel Program has just been authorized. Atris has withdrawn to Telos. The Jedi Order is splitting. Revan is in the Unknown Regions. The Concordat is consolidating. The Remnant is established but fragile.
+
+**What's different:** The political order exists but hasn't hardened. The Sentinel Program is brand new, and its operatives are the first generation: untested, undertrained, and facing a galaxy that views them as either hope or threat. Kaeranth is building the Remnant's intelligence network from scratch. Malak's emergency powers have just been extended for the first time.
+
+**Why run this:** The party are pioneers. First-generation Sentinels, first-wave Remnant operatives, early Concordat administrators, or the first Neo-Mandalorian raiders establishing the Coalition's reputation. The campaign's central question: what do the setting's institutions look like when they're still being built?
+
+**GM note:** This frame gives the party outsized influence. A Sentinel operative in 3 CE shapes the Sentinel Program's culture through their actions. A Remnant intelligence officer establishes protocols that will be used for years. The players build the institutions that the main setting book describes.
+
+### Frame 4: After the Concordat Falls
+
+**When:** Years after the standard campaign start. The Concordat has collapsed or been overthrown. The campaign's specific timeline depends on how the standard campaign played out, but the frame assumes a post-Concordat galaxy.
+
+**What's different:** Malak is dead, exiled, or deposed. The political order that held the galaxy together has failed. The Remnant may have won, or may have been destroyed, or may have been absorbed into something new. The Force crisis has either worsened, stabilized, or been resolved (the GM chooses). The galaxy is rebuilding, and no one agrees on the blueprints.
+
+**Why run this:** Reconstruction campaigns. The war is over. The hard work of building a new galaxy from the pieces of the old one has begun. This frame suits parties of diplomats, administrators, community builders, and the veterans who are trying to figure out what peacetime means when the peace was bought with atrocity.
+
+**GM note:** This frame requires the GM to have an opinion about what happened during the standard campaign era. The Concordat fell because [reason]. The Force crisis was addressed by [method]. The party operates in the aftermath. The tone shifts from grimdark to something more hopeful but no less complicated: reconstruction is difficult, boring, and essential, and the people doing it carry everything that happened before.
+
+### Frame 5: The Unknown Regions
+
+**When:** Concurrent with the standard campaign, but elsewhere.
+
+**What's different:** The party follows Revan's trail into the Unknown Regions. They're beyond the galaxy's mapped space, investigating Rakatan ruins, encountering species and civilizations that the Republic has never contacted, and piecing together the truth about the Star Forge, the Infinite Empire, and the Force's deep history. Communications with the known galaxy are intermittent or impossible.
+
+**Why run this:** Exploration and cosmic mystery. The Unknown Regions frame strips away the setting's political factions and replaces them with discovery: ancient technology, alien intelligences, and the possibility that everything the galaxy believes about the Force is incomplete. The campaign's central question: what did Revan find, and what did it cost him?
+
+**GM note:** This is the most demanding frame for the GM because it requires original worldbuilding beyond the setting book's scope. The Unknown Regions are undefined by design. The GM must populate them with civilizations, hazards, and discoveries that feel consistent with the setting's themes (the Force's fragility, the pattern of civilizations that build on the Force and collapse when it fails) without being prescribed by the source material.
+
+---
+
+# PART VIII: EVIL CAMPAIGNS AND THE SITH
+
+## Running an Evil Campaign in the Concordat Era
+
+"Evil campaign" is a misnomer. The Concordat Era has factions that do evil things for reasons their members consider justified. The closest thing to a traditional evil campaign in this setting is a Sith campaign, but even that requires redefining what "Sith" means.
+
+### The Problem With "Evil"
+
+Traditional evil campaigns fail for a predictable reason: they give the players permission to act without consequences, and consequence-free action is boring. A party of cackling villains torturing innocents produces shock for about two sessions and tedium forever after. The problem is structural. Evil campaigns remove the tension that makes tabletop RPGs work: the tension between what the character wants and what the character can get away with.
+
+The Concordat Era solves this problem by refusing to offer a faction that is evil without qualification. The Sith in this setting are a people, a diaspora, a fractured military, a set of philosophical traditions, and (in the Triumvirate) a conspiracy with goals that might be correct. A Sith campaign offers a different lens on the same galaxy.
+
+### The Three Sith Campaigns
+
+#### 1. The Diaspora Campaign
+
+The party are Sith Purebloods navigating life in a galaxy that views their species as a threat. This is a campaign about identity, prejudice, survival, and the question of what "Sith" means when the Empire is ash.
+
+**Tone:** Immigrant narrative meets political thriller. The party members maintain cultural identity while navigating a galaxy that monitors, restricts, and fears them. Think The Americans crossed with a displacement narrative. The "evil" in this campaign is structural: the Concordat's Force-monitoring programs, the Republic's legacy of anti-Sith violence, the prejudice that makes a red-skinned engineer on Nar Shaddaa take a different route home when the patrol ships are out.
+
+**The party might include:** A Kissai scholar preserving traditions in a diaspora school. A Massassi veteran working as a mercenary because no one else will hire a former Sith soldier. A Zuguruk engineer whose technical skills are valued but whose heritage is hidden. A young Pureblood who's never seen Korriban and defines "Sith" through their grandmother's stories.
+
+**What drives the campaign:** The Triumvirate's agents contact the party. They offer something the diaspora desperately wants: organization, purpose, resources, and a path back to significance. The price is unclear. The party has to decide whether to accept help from people whose ultimate goals might not align with diaspora survival. Meanwhile, the Concordat's Office of Force Affairs is tightening its surveillance, and the party must navigate between compliance, resistance, and the possibility of a community that could become a target for a crackdown they didn't cause.
+
+**Why this works as a "Sith campaign":** The party's Sith identity is the source of conflict, but the conflict is political and personal rather than moral. The party isn't choosing between good and evil. They're choosing between safety and dignity, between assimilation and preservation, between accepting help from dangerous allies and going it alone.
+
+#### 2. The Remnant Military Campaign
+
+The party are officers or operatives in a Sith military remnant flotilla. They command ships, manage personnel, and pursue strategic objectives in a galaxy that considers them a defeated enemy.
+
+**Tone:** The Hunt for Red October in space. A military campaign where the party serves a command structure that has lost its state, its logistics, and its strategic context but has retained its discipline, its ships, and its institutional pride. The "evil" in this campaign is the question of what a professional military does when the cause it served no longer exists.
+
+**The party might include:** A fleet captain maintaining combat readiness with diminishing supplies. A Sith intelligence officer running operations without a government to report to. A ship's counselor (Kissai tradition) managing the spiritual health of a crew that has been in exile for twelve years. A weapons officer who was seventeen during the GHW and has spent her entire adult life aboard warships that have no home port.
+
+**What drives the campaign:** The flotilla receives an offer. From the Concordat (defect and receive amnesty). From the Remnant (join and fight a common enemy). From the Triumvirate (serve and receive a purpose). From Hutt Space (hire out as mercenaries and eat regularly). Each option has costs. The party advises their commander, executes operations, and eventually discovers that their flotilla possesses something every faction wants: intelligence, an artifact, a person, a navigational chart to something in the Unknown Regions. The campaign becomes a hunt, with the party as both predator and prey.
+
+**Why this works as a "Sith campaign":** The party's loyalties are to their ship, their crew, and the remnant of a civilization that the galaxy has written off. Their choices are driven by survival and institutional loyalty, not by dark-side philosophy. The "evil" label is something others apply to them based on species and heritage, not based on their actions.
+
+#### 3. The Triumvirate Campaign
+
+The party are Kreia's agents. They may not know it.
+
+**Tone:** Tinker Tailor Soldier Spy meets cosmic horror. An espionage campaign where the party operates within the Triumvirate's network, executing missions whose true purpose is hidden. The "evil" in this campaign is Kreia's endgame: the managed severance of the Force from the galaxy, a project that might save civilization or destroy it, depending on variables that Kreia herself hasn't fully calculated.
+
+**The party might include:** A former Jedi recruited by a Triumvirate contact who offered answers about the Force crisis. A Sith Pureblood intelligence operative who believes she's working for a diaspora protection network. A non-Force-sensitive fixer who was hired for a job and hasn't been told who's paying. A Force-sensitive civilian who was identified by Kreia's network as having a specific, rare relationship with the Force that makes them useful for reasons they don't understand.
+
+**What drives the campaign:** The party receives missions through handlers. Each mission advances Kreia's plan without revealing the plan. Redirect a kolto shipment. Eliminate a researcher who's close to understanding the Force crisis. Plant intelligence that will provoke a specific faction response. Deliver an artifact to a location the party isn't told about. Over time, the party pieces together the shape of the conspiracy they're part of. The campaign's central question becomes: now that you know what you're building, do you keep building it?
+
+**Why this works as a "Sith campaign":** Kreia is the most compelling antagonist in the KOTOR tradition because she might be right. A Triumvirate campaign forces the party to reckon with her arguments on their merits. If the Force is a dependency that makes civilizations fragile, if its death is inevitable regardless of what anyone does, if the only responsible action is to prepare the galaxy for a post-Force existence, then Kreia's project is the most important work in the galaxy. If she's wrong about any of those premises, her project is a genocide of Force-sensitive peoples disguised as liberation. The party's job is to figure out which.
+
+### What Makes These Different From the Standard Campaign
+
+The standard Concordat Era campaign (the Freighter Incident opening, the mixed-faction party) asks: what kind of galaxy should this be? The Sith campaigns ask a different question: who gets to decide?
+
+A standard party argues about the Concordat's legitimacy from outside the power structures. A Sith party argues about it from underneath. The Concordat monitors them. The Remnant views them with suspicion. The Mandalorians might respect them or hunt them depending on clan. The galaxy's political debates look different when your species is the one being debated about.
+
+The GM running a Sith campaign should remember: the party's choices define their moral position, not their faction. A Sith Pureblood kolto merchant who heals people regardless of faction is morally indistinguishable from a Jedi healer. A Jedi Sentinel who assassinates a political target on Council orders is morally indistinguishable from a Sith assassin. Factions assign the labels. The characters choose the ethics.
+
+---
+
+# PART IX: THE ACTUAL PLAY
 
 ## Why Record This
 
