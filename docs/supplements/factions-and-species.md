@@ -108,7 +108,7 @@ The Jedi Order in the fourth year of the Concordat Era contains at least five di
 
 **Base:** Coruscant and Concordat administrative centers across the Core and Mid Rim.
 
-**Leadership:** No formal Jedi hierarchy. Concordat Advisors report to their Concordat government supervisors. Informal coordination happens through a network of senior Advisors, the most prominent of whom is Master Doris Fennel, a former Consular who serves as Malak's primary Force advisor and detests the position.
+**Leadership:** No formal Jedi hierarchy. Concordat Advisors report to their Concordat government supervisors. Informal coordination happens through a network of senior Advisors, the most prominent of whom is Master Maraina Valyn, a former Consular who serves as Malak's primary Force advisor and detests the position.
 
 **Doctrine:** The Force's decline is a practical problem requiring practical solutions. Theological debate is a luxury the galaxy cannot afford. Work within the system that exists. Heal who you can. Advise where you're asked. Accept that imperfect governance is better than no governance.
 

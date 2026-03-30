@@ -52,7 +52,7 @@
 | **Dar'manda** | Mandalorian: without identity. Cast out from the creed, dead to their people. | 44 |
 | **Dark Jedi Exiles** | Renegade Dark Jedi who conquered the Sith species on Korriban ~7,000 years before the setting. | 17, 31, 39, 53 |
 | **Dead Zone** | Region where the Force is absent or distorted. Three severity tiers: partial, significant, total. | 4, 8, 12, 15, 16, 21, 48, 49, 50, 51, 54 |
-| **Deralia** | Former Jedi enclave world. Local Jedi defected to the Remnant under Master Nayama Voss. | 52 |
+| **Deralia** | Former Jedi enclave world. Local Jedi defected to the Remnant under Master Heraia Solix. | 52 |
 | **Dhas'kara** | Mandalorian single-combat challenge. Resolves disputes between clans or challenges Mandalore's authority. | 22 |
 | **Doctrine of Necessary Strength** | Mandalorian philosophy: strength must be self-generated; reliance on the Force produces civilizational fragility. | 7, 19, 21, 26, 44 |
 | **Dorak, Master** | Jedi historian who left the Council. Manages Remnant civilian administration. | 25 |
@@ -131,7 +131,7 @@
 | **The Marking** | Keeper practice: apprentice scarification with Korriban minerals to enhance dark-side sensitivity. | 40 |
 | **Massassi** | Warrior caste of Sith Pureblood society. Suffered worst during the Republic counter-invasion. | 31, 53 |
 | **Meditation of Erosion** | Keeper practice: sitting in dark-side energy across years or decades. | 40 |
-| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Tagren Voss. | 23 |
+| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Verex Zeval. | 23 |
 | **Miraluka** | Near-human species perceiving the world through the Force. The Force crisis threatens their survival as a species. | 4, 8, 12, 15, 46, 54 |
 | **Nar Shaddaa** | Smuggler's Moon. Hutt Space. Refugee communities, black markets, and the Exchange's base of operations. | 5, 9, 30, 32, 47, 48, 50, 55 |
 | **Neo-Mandalorian Coalition** | Faction led by Canderous Ordo, rejecting the Concordat. Nomadic raiding force across the Outer Rim. | 4, 22, 26, 27, 45, 56 |
@@ -175,7 +175,7 @@
 | **Star Maps** | Rakatan navigational monuments. Five scattered across the galaxy; current status varies by location. | 10, 16, 17, 50, 51 |
 | **Stereb** | Native population of Serroco. Fewer than two million survivors after the orbital bombardment. | 19, 20, 51 |
 | **Stygian Caldera** | Nebula surrounding Sith space. Contains Rakatan ruins interpreted through Sith theology. | 16 |
-| **Tagren Voss, General** | Career Republic officer. Chairs the Concordat Security Council. Militarist faction leader. | 23 |
+| **Verex Zeval, General** | Career Republic officer. Chairs the Concordat Security Council. Militarist faction leader. | 23 |
 | **Taris** | City-world. First Mandalorian conquest. Upper City / Undercity class divide. | 10, 15, 19, 48, 50, 53, 54 |
 | **Telos** | Concordat restoration zone. Atris's academy. Senator Lorso's constituency. Hydian Way location. | 29, 30, 36, 48, 52, 55 |
 | **Tomb Singing** | Keeper practice: collective vocal ritual chanted in Old Sith harmonic scale at solstice. | 40 |

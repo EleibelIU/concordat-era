@@ -29,29 +29,37 @@
     - [{{ Founding of the Concordat}}{{ 22}}](#p22)
 - # [{{ Part II: Who Holds Power}}{{}}](#p23)
   - [{{ Chapter 8: The Concordat}}{{ 23}}](#p23)
-  - [{{ Chapter 9: The Revanchist Remnant}}{{ 25}}](#p25)
-  - [{{ Chapter 10: The Neo-Mandalorian Coalition}}{{ 26}}](#p26)
-  - [{{ Chapter 11: The Jedi Order}}{{ 28}}](#p28)
-  - [{{ Chapter 12: The Sith}}{{ 31}}](#p31)
-  - [{{ Chapter 13: The Rakata and the Star Forge}}{{ 33}}](#p33)
-    - [{{ The Star Maps}}{{ 34}}](#p34)
-  - [{{ Chapter 14: Independent Powers}}{{ 35}}](#p35)
-- # [{{ Part III: What They Believe}}{{}}](#p36)
-  - [{{ Chapter 15: The Jedi Way}}{{ 36}}](#p36)
-  - [{{ Chapter 16: The Sith Tradition}}{{ 39}}](#p39)
-  - [{{ Chapter 17: Sith Sorcery & Alchemy}}{{ 42}}](#p42)
-  - [{{ Chapter 18: The Mandalorian Creed}}{{ 44}}](#p44)
-  - [{{ Chapter 19: Fringe Traditions}}{{ 46}}](#p46)
-- # [{{ Part IV: Where You Live}}{{}}](#p47)
-  - [{{ Chapter 20: Life, Trade, and Survival}}{{ 47}}](#p47)
-  - [{{ Chapter 21: Worlds and Frontiers}}{{ 50}}](#p50)
-  - [{{ Chapter 22: Peoples and Species}}{{ 53}}](#p53)
-  - [{{ Chapter 23: Starting Scenarios}}{{ 56}}](#p56)
-    - [{{ The Freighter Incident}}{{ 56}}](#p56)
-    - [{{ The Windfall Protocol}}{{ 56}}](#p56)
-    - [{{ The Proving of Clan Veshok}}{{ 56}}](#p56)
-- # [{{ Appendices}}{{}}](#p57)
-  - [{{ Appendix A: Glossary & Index}}{{ 57}}](#p57)
+    - [{{ The Consulate}}{{ 23}}](#p23)
+    - [{{ Alek}}{{ 24}}](#p24)
+    - [{{ The Government}}{{ 26}}](#p26)
+    - [{{ The Office of Force Affairs}}{{ 27}}](#p27)
+  - [{{ Chapter 9: The Revanchist Remnant}}{{ 31}}](#p31)
+    - [{{ The Remnant's Allied Jedi}}{{ 35}}](#p35)
+    - [{{ The Remnant's Operations}}{{ 38}}](#p38)
+  - [{{ Chapter 10: The Mandalorians}}{{ 41}}](#p41)
+    - [{{ The Clans}}{{ 42}}](#p42)
+    - [{{ The Neo-Mandalorian Coalition}}{{ 48}}](#p48)
+  - [{{ Chapter 11: The Jedi Order}}{{ 49}}](#p49)
+  - [{{ Chapter 12: The Sith}}{{ 52}}](#p52)
+  - [{{ Chapter 13: The Rakata and the Star Forge}}{{ 54}}](#p54)
+    - [{{ The Star Maps}}{{ 55}}](#p55)
+  - [{{ Chapter 14: Independent Powers}}{{ 56}}](#p56)
+- # [{{ Part III: What They Believe}}{{}}](#p57)
+  - [{{ Chapter 15: The Jedi Way}}{{ 57}}](#p57)
+  - [{{ Chapter 16: The Sith Tradition}}{{ 62}}](#p62)
+  - [{{ Chapter 17: Sith Sorcery & Alchemy}}{{ 65}}](#p65)
+  - [{{ Chapter 18: The Mandalorian Creed}}{{ 67}}](#p67)
+  - [{{ Chapter 19: Fringe Traditions}}{{ 69}}](#p69)
+- # [{{ Part IV: Where You Live}}{{}}](#p70)
+  - [{{ Chapter 20: Life, Trade, and Survival}}{{ 70}}](#p70)
+  - [{{ Chapter 21: Worlds and Frontiers}}{{ 73}}](#p73)
+  - [{{ Chapter 22: Peoples and Species}}{{ 76}}](#p76)
+  - [{{ Chapter 23: Starting Scenarios}}{{ 79}}](#p79)
+    - [{{ The Freighter Incident}}{{ 79}}](#p79)
+    - [{{ The Windfall Protocol}}{{ 79}}](#p79)
+    - [{{ The Proving of Clan Veshok}}{{ 79}}](#p79)
+- # [{{ Appendices}}{{}}](#p80)
+  - [{{ Appendix A: Glossary & Index}}{{ 80}}](#p80)
 }}
 
 {{footnote
@@ -446,17 +454,17 @@ Your GM will walk you through the full mechanical details during character creat
 
 
 {{descriptive
-**Voss Caldean , Freelance Pilot**
+**Kaeia Caldean , Freelance Pilot**
 
-*Where are you from?* Nar Shaddaa. Voss grew up in the refugee quarter after her family fled the Great Hyperspace War. She learned to fly stolen speeders before she learned to read.
+*Where are you from?* Nar Shaddaa. Kaeia grew up in the refugee quarter after her family fled the Great Hyperspace War. She learned to fly stolen speeders before she learned to read.
 
-*What did you do during the wars?* Voss ran blockade cargo during the Mandalorian Wars. She never enlisted. She flew medical supplies to besieged planets because the Remnant paid triple rates for pilots willing to dodge Concordat patrols.
+*What did you do during the wars?* Kaeia ran blockade cargo during the Mandalorian Wars. She never enlisted. She flew medical supplies to besieged planets because the Remnant paid triple rates for pilots willing to dodge Concordat patrols.
 
-*Who do you work for?* Whoever pays. Voss owns a modified YT-1000 freighter called the *Rust Hymn*. She takes contracts from Remnant sympathizers, Concordat shipping firms, independent traders. Loyalty to a faction means loyalty to their problems. She prefers her own.
+*Who do you work for?* Whoever pays. Kaeia owns a modified YT-1000 freighter called the *Rust Hymn*. She takes contracts from Remnant sympathizers, Concordat shipping firms, independent traders. Loyalty to a faction means loyalty to their problems. She prefers her own.
 
-*What do you believe about the Force?* Voss is not Force-sensitive. She has watched Force users move objects with their minds, predict danger before it arrives, and heal wounds that should have killed. She respects the ability the way she respects a good hyperdrive: useful, impressive, and not something she depends on. The Force crisis troubles her because the people losing their abilities are the same people the galaxy built its infrastructure around. When a Jedi healer fails, the hospital fails. When a Force-sensitive navigator goes dark, ships crash.
+*What do you believe about the Force?* Kaeia is not Force-sensitive. She has watched Force users move objects with their minds, predict danger before it arrives, and heal wounds that should have killed. She respects the ability the way she respects a good hyperdrive: useful, impressive, and not something she depends on. The Force crisis troubles her because the people losing their abilities are the same people the galaxy built its infrastructure around. When a Jedi healer fails, the hospital fails. When a Force-sensitive navigator goes dark, ships crash.
 
-*What do you owe?* A Mandalorian named Torreck saved her life during a pirate ambush in the Hydian corridor. He refused payment. In Mandalorian culture, that means the debt stands until you repay it with something of equal weight. Voss has been looking for Torreck for three years. She suspects he is dead. She cannot stop looking.
+*What do you owe?* A Mandalorian named Torreck saved her life during a pirate ambush in the Hydian corridor. He refused payment. In Mandalorian culture, that means the debt stands until you repay it with something of equal weight. Kaeia has been looking for Torreck for three years. She suspects he is dead. She cannot stop looking.
 
 *What are you afraid of?* That she will never own anything permanent. Every ship, every contract, every friendship exists on a timer. Nar Shaddaa taught her that anything you love can vanish between breakfast and lunch. She flies because movement is the only thing that feels stable. Stopping means confronting the fact that she has nowhere to stop.
 
@@ -467,7 +475,7 @@ Your GM will walk you through the full mechanical details during character creat
 
 **Skills:** Drive at Great (+4). Shoot and Contacts at Good (+3). Crafts, Notice, and Stealth at Fair (+2). Deceive, Resources, Athletics, and Will at Average (+1).
 
-**Not Force-sensitive.** Voss has no Force techniques. She gets three free stunts.
+**Not Force-sensitive.** Kaeia has no Force techniques. She gets three free stunts.
 
 **Stunts (3 free):** "Because I've run Remnant supply lines for three years, once per session I can automatically succeed on a Drive roll to escape pursuit in a system where I've established a hidden route." / "Because I fix things with whatever's available, I get +2 when I use Crafts to overcome equipment failure with improvised materials." / "Because I know the underworld's channels, I get +2 when I use Contacts to acquire black-market goods or services in Exchange-controlled territory."
 
@@ -829,7 +837,7 @@ Three months after the Treaty of Coruscant ended the Great Hyperspace War, Manda
 He showed them a Jedi dying.
 
 {{descriptive
-The hologram was a battlefield recording from Ossus. A Twi'lek Jedi Master named Rell Odar, one of the finest duelists of his generation, fighting Sith warriors with extraordinary skill. Then the Sith ritual hit. His lightsaber flickered. His enhanced speed vanished. His precognition evaporated. He stood there, confused, and blaster bolts cut him down.
+The hologram was a battlefield recording from Ossus. A Twi'lek Jedi Master named Tal Esicore, one of the finest duelists of his generation, fighting Sith warriors with extraordinary skill. Then the Sith ritual hit. His lightsaber flickered. His enhanced speed vanished. His precognition evaporated. He stood there, confused, and blaster bolts cut him down.
 
 Mandalore replayed it three times.
 }}
@@ -1067,44 +1075,215 @@ The Sith, presumed destroyed, are not gone. In the shadows, something is consoli
 
 Force-sensitive citizens within Concordat territory are required to register with the Office of Force Affairs. The stated purpose is public safety. The unstated purpose is political control: Force users are the Remnant's most effective operatives, and the Concordat treats unregistered Force sensitives as potential insurgents.
 
-## The Chancellor-General
+## The Consulate
 
-The Republic Senate ratified the Concordat by the narrowest margin in its history. Malak was appointed Supreme Chancellor-General — a new position combining civil and military authority. Constitutional scholars protested. Military pragmatists celebrated. Most citizens were too exhausted to care.
+The Republic Senate ratified the Concordat by the narrowest margin in its history: 312 votes to 308, with fourteen abstentions and eleven senators absent. The vote occurred at 0340 hours Coruscant Standard, after a fourteen-hour session in which Malak sat in the visitor's gallery and said nothing. The senators who voted against him later noted that he watched the debate with the patience of a man who already knew how it would end.
 
-Malak's model was not tyranny. It was the Consulate: a government that maintained democratic forms while concentrating executive authority in a leader who could act. The Senate continued to meet. Senators continued to debate. Legislation continued to pass. But the Chancellor-General held emergency powers with no expiration date, military authority that superseded civilian jurisdiction in "contested territories" (a category that Malak's office defined), and the power to appoint military governors to systems deemed "insufficiently stabilized."
+The ratification created a new executive structure: the **Consulate**, three leaders sharing authority in theory, one holding it in practice.
 
-##### Malak the Man
+**First Consul and Chancellor-General: Alek Squinquargesimus.** The galaxy knows him as Malak. His birth name appears on the constitutional documents and nowhere else. He holds supreme executive authority over military operations, emergency governance, and the appointment of territorial administrators. The Senate can override his civil directives by two-thirds vote. The Senate has never achieved a two-thirds vote on anything since ratification.
 
-Malak wears prosthetics for his jaw and arm. In Mandalorian culture, prosthetics mark a warrior who paid the price for victory. In Republic culture, they mark a man who is no longer whole. Malak occupies both readings at once, and the ambiguity is useful.
+**Second Consul and Lord Marshal: Mandalore the Vindicated.** Represents the Mandalorian clans within the executive. Holds authority over Mandalorian military integration, clan dispute arbitration, and joint defense coordination. In practice, Mandalore's consul role formalizes his position as a political hostage. He attends every council session, offers military assessments that Malak takes seriously, and understands that his presence on Coruscant is the chain that keeps Mandalorian clan worlds from open revolt. He accepted the title because the alternative was a war the clans could not win. He performs the role because he is Mandalorian, and Mandalorians do not waste time resenting a cage they chose to enter.
 
-He governs from Coruscant, from the same Senate chambers where Republic Chancellors governed before him. He holds audiences. He meets with senators. He reviews military reports. He sleeps four hours a night and drinks caf that his aide, Lieutenant Commander Vynn Telos, describes as "weaponized."
+**Third Consul and Minister of Civil Order: Eres Vynt.** A Twi'lek constitutional scholar from Ryloth who drafted the Concordat's legal framework. Vynt holds authority over civil governance, legal standards, and the administration of non-military territories. She designed the Consulate's checks and balances: the Senate oversight provisions, the sunset clauses on emergency powers, the legal distinction between military and civil jurisdiction. She built a system of laws meant to constrain ambition.
 
-He is not a monster. He is a man who made a series of decisions that each seemed necessary at the time and that, taken together, have built something that looks like an authoritarian state. He monitored Force-sensitive individuals because unreliable Force users posed a security risk. He expanded military governor authority because contested territories needed rapid decision-making. He curtailed press freedoms because wartime propaganda was destabilizing newly integrated Mandalorian worlds.
+Malak's emergency decrees bypass the architecture she built. The sunset clauses have been extended three times by Senate vote, each time with Militarist bloc support. The legal distinction between military and civil jurisdiction erodes with each new "contested territory" designation. Vynt stays because leaving would remove the last institutional voice arguing that laws bind leaders. She attends every Consulate session with annotated legal briefs that Malak reads and that the Security Council ignores. She has allies in the Senate among the Restorationists, but none in the military. 
 
-Each decision had a defensible justification. Each decision made the next one easier.
+{{footnote Chapter 8: The Concordat}}
+{{pageNumber,auto}}
 
-Malak is aware of what he is becoming. He has private conversations, recorded in journals that are not public, where he asks himself whether the Concordat is a transitional government or a permanent one. He does not have an answer. The galaxy is not stable enough to test the question.
+\page
+
+{{Ch2,tab}}
+
+## Alek
+
+Alek Squinquargesimus, called Malak, is the Supreme Chancellor-General of the Concordat, commander-in-chief of its combined military forces, and the most powerful Force-sensitive individual holding political office in the known galaxy. He is thirty-four years old. He lost his jaw and his right arm at the Dhas'kara duel with Mandalore the Vindicated. He governs four hundred systems from the Senate chambers on Coruscant, where Republic Chancellors governed before him. He has held power for four years and has not relinquished any of it.
+
+##### Origins
+
+He was born on Quelii, an agricultural world at the trailing edge of the Outer Rim. A Jedi watchman on routine circuit identified him at age six after reports that the boy's emotional distress correlated with localized atmospheric disruption: cloud formation, temperature shifts, wind changes in enclosed spaces. His parents gave him to the Order when asked. Quelii families did not refuse the Jedi, and his parents did not know what to do with a child who altered weather patterns when frightened. He has not returned. Quelii was occupied during the Mandalorian Wars, and the resource conscription that followed depopulated the northern settlements where his family had lived. The conscription authorization bears his signature.
+
+##### Force Capabilities
+
+Alek's Force abilities were catalogued during his training at the Coruscant Temple as above-average in raw power, with particular strength in telekinesis and Force-augmented physical combat. His instructors noted an unusual aptitude for sustained exertion: where most Padawans fatigued after extended Force application, Alek could maintain telekinetic holds, physical augmentation, and environmental awareness for hours without measurable decline. Master Zhar, who supervised his early training, described him as "built for endurance rather than brilliance" and assigned him Guardian-track instruction.
+
+His lightsaber technique reflected the same pattern. He studied Form V, Djem So, the power form that converts defensive blocks into immediate counterattacks. He never developed the swordsmanship of a dedicated duelist, but continued to emphasize endurance -- fighting for extended periods at a level that wore down opponents who excelled in short engagements. During the wars, he fought on foot alongside infantry companies for actions that lasted two and three days, sleeping in his armor between engagements, using the Force to suppress fatigue and accelerate wound-closure in the field. His command staff learned to plan around the fact that their commanding general would be at the front of any engagement he considered decisive, regardless of the tactical risk this posed to the chain of command.
+
+The Force crisis has degraded his abilities along the same curve as every other Force user. His telekinetic range has contracted. His precognition is intermittent. His physical augmentation remains more reliable than most practitioners', possibly because endurance-based techniques draw on the Force differently than the burst-intensity abilities that have suffered the sharpest decline. He does not discuss the degradation publicly. Lieutenant Commander Valix has observed him testing his abilities alone in his quarters at night, repeating exercises from his Padawan training, measuring the gap between what he could do and what he can do now.
+
+##### Alek and the Jedi Council
+
+The Jedi Council's assessment of Alek evolved over the course of his career from mild concern to active alarm.
+
+As a Padawan, he was unremarkable in the Council's institutional view. Guardian-track students were common. His academic performance was adequate. His Force sensitivity, while above average, did not place him among the generation's prodigies. The Council's early notes describe a student who was diligent, physically capable, and more interested in military history and tactical theory than in the philosophical curriculum the Council considered essential.
+
+What the Council did not anticipate was what Alek would become when exposed to war. The Mandalorian campaigns revealed capacities his training had not tested: logistical planning at a scale the Temple had never taught, an ability to read troop formations and supply networks the way Consulars read diplomatic negotiations, and a willingness to make decisions that carried body counts without retreating into moral paralysis afterward. The Council had trained him as a Guardian. The war made him a general. The Council had no framework for a Jedi who was more effective as a military commander than he had been as a Jedi Knight, and no precedent for what to do when that commander won.
+
+After the Concordat's founding, the Council formally classified Alek as a *dissident practitioner*: a Force user operating outside the Order's authority with no path to reconciliation under current doctrine. Master Atris argued for a stronger designation. Master Vandar blocked it on the grounds that Alek had not fallen to the dark side and that classifying a sitting head of state as a Sith threat would be both inaccurate and politically catastrophic. The classification remains. The Council monitors his governance through intelligence contacts in the Senate. They do not contact him, and he does not contact them.
+
+##### Alek and Revan
+
+They met at the Coruscant Temple when Alek was eleven and Revan was fourteen. The attachment formed along a pattern that Temple instructors recognized and did not intervene against: a younger student of above-average ability gravitating toward an older student of exceptional ability who treated him as a peer rather than a junior. Revan discussed the political failures of the Jedi Council, the structural incapacities of a Republic that could not authorize its own defense, the philosophical foundations under military necessity. Alek discussed infantry doctrine, logistics, and what kkanmur grain tasted like on Quelii before the drought seasons. Each supplied what the other lacked. Revan saw past the next horizon. Alek counted what stood between here and there.
+
+Their temperaments were complementary in ways that became visible during the wars. Revan conceived operations at strategic scale and lost interest in their execution. Alek executed operations at tactical scale and did not require an overarching strategic vision to sustain his commitment to the work. Revan inspired troops through rhetoric and personal charisma. Alek held their loyalty through presence: he ate what they ate, slept where they slept, and bled when they bled. Soldiers who served under both men said Revan made them believe the war was worth fighting. Alek made them believe they would survive it.
+
+His attitude toward Revan resists simple characterization. He does not worship Revan, but did once. The fealty eroded during the later war years when Revan's attention drifted from command to research, leaving Alek to manage an army, a coalition, and a war that was consuming Force users and planets in increasing volume. What replaced the worship was something closer to the assessment a field officer makes of a brilliant but unreliable weapon: the thing is extraordinary when it functions, but you can't build doctrine around something that may not be there when you need it.
+
+Revan left for the Unknown Regions without telling Alek what he was looking for or when he would return. He did not ask what Alek was supposed to do with a Republic that had signed a peace treaty, but needed someone to run it. Alek waited four months. Then he built the Concordat's institutional architecture without Revan's input, using Vynt's legal scholarship, Fett's military integration proposals, and his own conviction that a government held together by one person's charisma is a government that fails when that person leaves the room. He built a government that would function without Revan; The question of whether he built it against Revan is one he has not answered, including to himself.
+
+\page
+
+{{Ch2,tab}}
+
+##### The Soldier-Consul
+
+He rises before the fourth hour and works by the blue light of the holoterminal in his private office, a room adjoining his quarters that Valix calls the war room and that looks like one. Star charts layered over sector maps. Fleet dispositions updated in real time by a dedicated comm relay. A stack of datapads arranged by priority: overnight intelligence summaries on top, fleet readiness reports beneath, the morning's Senate agenda at the bottom where it belongs. He reads standing, the prosthetic jaw working less stiffly when he is on his feet. By the time his first aide arrives at standard dawn, he has annotated the fleet reports in the personal shorthand that only Lieutenant Commander Vynn Valix can parse, dictated responses to eight of the twelve overnight decisions through a secure recorder keyed to his voiceprint, and held back the four he wants to investigate in person before noon.
+
+The in-person investigation is the habit his staff understands least and fears most. A garrison commander on Onderon once described receiving Malak at 0900 local time, unannounced, accompanied by Valix and two protocol officers, asking to see the supply manifests he had filed the previous quarter. The manifests were accurate. Malak read them for forty minutes, asked three questions about a fuel discrepancy that the commander had flagged and resolved two months prior, confirmed the resolution, and left. The commander told a colleague afterward that the visit was more frightening than the Ashen Campaign bombardment he had survived, because at least the bombardment was impersonal.
+
+He learned command during the wars, and the wars taught him that the distance between a general and his soldiers is measured in lives. At Taris, he slept in the forward trenches for nine days because the company holding the position had lost its captain and its morale in the same artillery barrage, and because Alek believed that an officer who ordered soldiers to hold ground he would not sleep on was spending authority he had not earned. At the Serroco relief action, he directed fleet operations from the bridge of the lead assault frigate rather than the command ship at the rear of the formation. His staff protested. He told them, in a phrase Valix later recorded, that he could not read a battle from the back of the room any more than a surgeon could read a wound from across the ward.
+
+This principle survived the transition to governance intact. The Security Council advises. Alek decides. He does not operate through parallel advisory structures that subordinates can play against each other. He does not permit strategic decisions to pass through intermediaries who will reshape them according to their own interests before executing them. General Zeval finds this arrangement infuriating. Senator Lorso calls it autocratic. Both assessments are accurate. Alek considers them the cost of a government that responds to a fleet movement in hours rather than the weeks the old Senate required.
+
+He knows his officer corps with a specificity that unsettles the officers themselves. Three hundred thousand active personnel serve in the Concordat's combined Mandalorian-integrated military. He cannot know all of them. He knows the garrison commanders and sector captains by name, service record, and the patterns in their dispatches that distinguish competent management from concealment. He has dismissed three garrison commanders in four years, all for falsifying readiness metrics, and had met each of them face to face before their dismissals. Cassus Fett, who has spent a career studying institutional power the way other warriors study blade technique, told Fieldmarshal Kelborn that Malak's command style would produce either the most effective military government in Republic history or the most brittle. Kelborn did not disagree with either possibility.
+
+The jaw aches in cold weather and locks when he speaks for more than two hours. He keeps audiences short. He delegates the talking to Valix when he can, which she manages with the composure of an officer who has learned that her commanding general's silences carry more weight in a room than most leaders' speeches. He wears military dress cut in the Republic command style: grey tunic, rank insignia, no ornamentation. He has not worn Jedi robes since the Concordat's founding and has not carried a lightsaber in public since the ratification vote. He carries one in private. Valix has seen him practice Form V sequences alone in his quarters at 0200, moving through the combat forms with a precision that makes clear he has not stopped training and does not want anyone to know.
+
+He does not believe he was destined for this office, and would distrust anyone who claimed destiny had placed them in power. He believes that no one else was positioned to do what the situation required, and that this absence of alternatives is not the same thing as a mandate. The distinction matters to him. It is the distinction between a man who seized power and a man who occupied a chair that no one else would sit in, and the four years since have blurred the line between those two men in ways he tracks with the same attention he gives fleet dispositions. He has noticed what the Concordat is becoming. He has not stopped it. Whether this is because he cannot, or because stopping it would require relinquishing the apparatus that lets him respond to crises at the speed the galaxy produces them is uncertain.
+
+{{descriptive
+He keeps a physical journal, bantha leather, locked drawer, written in a cipher he invented as a Padawan at twelve. Not a datapad. Ciphered text on animal hide, the way a man writes when he wants to be certain that no slicer, no intelligence operative, no Senate subcommittee will ever read what he has put down. The entries from the first Concordat year are measured and precise. The entries from the third year run longer. The handwriting worsens toward the ends. One entry, dated sixteen months before the current campaign, reads: *Revan would know whether this is still a republic. I do not trust my own answer.* Valix knows the drawer exists. She has not opened it.
+}}
+
+\page
+
+{{Ch2,tab}}
+
+##### The Daily Work of Power
+
+The forty-two analysts who filter Alek's daily briefing have learned that the fastest way to lose their position is to summarize a problem he later discovers they simplified. He reads their output every morning and catches what they missed often enough that they work to prevent it.
+
+Trade disputes go to Vynt's civil governance staff, who apply Republic commercial law modified by Mandalorian customary trade practice. Resource allocation follows the published priorities he set in his first year: military readiness first, reconstruction second, civilian infrastructure third. The priorities have not changed because the conditions that produced them have not changed, and because publishing them in writing means administrators cannot claim ignorance when their requests conflict with the standard. Legal challenges from worlds that signed the Concordat under duress he converts into administrative questions by classifying the challenging worlds as contested territories and assigning military governors. He is aware this defeats the argument rather than answering it. Administrative function is the war he is able to fight.
+
+Three current crises compete for his attention:
+
+**The Telos Reconstruction.** Telos IV suffered orbital bombardment during the Mandalorian Wars. The Concordat committed to a ten-year restoration project funded by Core World taxation. The project is three years behind schedule, over budget, and plagued by corruption in the contracting process. Czerka Corporation holds the primary reconstruction contract and has been billing for work its subsidiaries have not completed. Senator Lorso, who represents Telos, has made the reconstruction failures her primary political weapon against Malak's administration. She is correct about the corruption. She is also using it to build a coalition that could challenge Malak's emergency powers at the next Senate review.
+
+**The Outer Rim Garrison Crisis.** Mandalorian clan forces provide security for thirty-seven Outer Rim systems under Concordat authority. Those garrisons were meant to be temporary. Three years later, the clans have established permanent fortifications, local economies dependent on Mandalorian military spending, and relationships with local populations that range from respected protector to occupying army. Cassus Fett's clan forces on Dxun have begun recruiting local non-Mandalorians into auxiliary units, training them in Mandalorian combat doctrine. The Integrationists see this as cultural exchange. The Restorationists see it as the first stage of a permanent Mandalorian occupation. Both readings are supported by the evidence.
+
+**The Force Registration Backlog.** The Office of Force Affairs has identified approximately three thousand unregistered Force-sensitive individuals in Concordat territory. Registering and monitoring them requires resources the Office does not have. Director Korius Valio, who runs the program, has requested expanded authority to conduct involuntary assessments. The Third Consul has blocked the request on legal grounds. The Security Council has overridden her block twice. The third request is pending.
+
+{{footnote Chapter 8: The Concordat}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+## The Government
+
+The Concordat's authority flows through four institutional channels. Each channel answers to a different consul, which means each channel answers to Malak through a different chain of command.
+
+##### The Senate
+
+Six hundred and twenty-six senators representing Core, Mid Rim, and affiliated Outer Rim systems. Mandalorian clanworlds send *al'verde* (captains) as observers with speaking rights but no vote. The Senate debates legislation, approves budgets, and confirms appointments. It cannot override emergency executive orders without a two-thirds supermajority. In four years, the Senate has not produced a single two-thirds vote. The closest attempt, a motion to restore civilian jurisdiction over the Telos reconstruction, failed by nineteen votes after Militarist bloc senators walked out before the count.
+
+Senator Lorso of Telos chairs the Oversight Committee. She is a small woman with a large voice and a staff of forensic accountants. She believes the Concordat is a constitutional crisis dressed in democratic process, and she pursues that belief through subpoena power, budget hearings, and a network of informants inside the military governor system. She despises Malak. She will not vote to remove him because the alternative is Verex Zeval and unchecked military authority. This calculation makes her miserable, and she does not hide it.
+
+**Senator Rhin Thul of Alderaan** leads the Integrationist caucus in the Senate. The Thul family represents Alderaanian interests in galactic politics, and Rhin Thul has turned the Integrationist platform into Alderaan's foreign policy: cultural exchange as a path to peace, joint institutions as a path to stability, and enough diplomatic maneuvering to ensure Alderaan profits from the reconstruction economy. He is charming, wealthy, and sincere about integration. He is also using the Integrationist caucus to position Alderaan as the Concordat's indispensable diplomatic broker, which means every "neutral" mediation effort channels through his office and his family's trade connections. The Restorationists consider him a useful ally with expensive taste. The Militarists consider him a dilettante. Mandalore the Vindicated considers him the only senator who addresses Mandalorian cultural concerns without condescension, and that assessment is worth more than the others combined.
+
+##### The Security Council
+
+Seven members: three military (General Zeval, Admiral Nyxra Tann, Mandalorian Fieldmarshal Kelborn), two civilian (Director Valio, a Senate-appointed legal observer), and both the First Consul and Second Consul as permanent chairs. The Security Council approves military operations, territorial designations, and intelligence programs. It operates with classification levels that exclude most senators from its deliberations. Its emergency session protocols allow decisions with a quorum of three, which in practice means Malak, Zeval, and whoever else is in the room.
+
+**Admiral Nyxra Tann** commands the Concordat Home Fleet: two hundred capital ships responsible for Core World defense and trade-lane security. She is apolitical by disposition and institutional culture. She served in the Republic Navy before the wars, during the wars, and after the wars, without changing her approach to any of them. She enforces blockades, escorts convoys, and destroys pirates with equal efficiency regardless of which government she serves. She has no opinion about the Consulate's political legitimacy. She has strong opinions about fleet maintenance budgets, which the Senate keeps cutting and which the Security Council keeps redirecting to Outer Rim garrisons. She has told Malak, in council sessions, that the Home Fleet cannot defend the Core and project force into the Rim simultaneously. Malak has not resolved this. She has started diverting maintenance funds from reserve vessels to keep her active fleet operational, a decision that is technically illegal and that no one has challenged because no one wants to audit the person defending Coruscant.
+
+**Mandalorian Fieldmarshal Kelborn** commands the Mandalorian forces integrated into the Concordat military structure. Kelborn served under Mandalore the Vindicated during the wars and accepted the Concordat because Mandalore accepted it. His loyalty is to Mandalore, not to Malak. He sits on the Security Council because the integration agreement requires Mandalorian representation in military command. He uses that seat to protect clan interests: garrison assignments, supply contracts, the legal status of Mandalorian auxiliaries. He speaks rarely in council sessions and votes with Malak on operational matters. He votes against Zeval on anything that expands surveillance of Mandalorian populations. He and Zeval dislike each other with the professional courtesy of men who know they may need each other tomorrow.
+
+\page
+
+{{Ch2,tab}}
+
+##### The Military Governor System
+
+Forty-three systems under direct military administration. Each governor holds combined civil and military authority: law enforcement, taxation, infrastructure, and local defense. Governors report to the Security Council. In practice, they report to General Zeval, who chairs the Military Affairs subcommittee.
+
+The governors range in quality from competent administrators to petty autocrats. The system produces both stability and abuse, sometimes in the same system. A military governor on Onderon restored the planet's agricultural output to pre-war levels and imprisoned six journalists who reported on forced labor in the reconstruction camps. A military governor on Taris kept the peace between refugee communities for three years and embezzled fourteen million credits from the reconstruction fund. When the embezzlement was discovered, Zeval had the governor quietly transferred rather than prosecuted, because the prosecution would have exposed Security Council procurement practices.
+
+**Governor Yusanis of Echani Prime** is the system's most visible success and its most dangerous precedent. Yusanis, an Echani military leader who allied with the Concordat during the Mandalorian Wars, governs Echani Prime with the consent of the Echani population and the mandate of the Security Council. He has rebuilt Echani military infrastructure, restored the Echani combat academies, and integrated Echani martial traditions into the Concordat military training program. His world is prosperous, stable, and loyal. He has also established a personal security force outside the Concordat chain of command, negotiated trade agreements with Hutt Space without Senate authorization, and begun training Echani officer candidates for positions in the Concordat fleet. He is building a power base. Malak is aware. Malak has not acted, because Yusanis delivers results and because confronting a successful governor would prove every Restorationist argument about military overreach.
+
+##### The Office of Force Affairs
+
+The OFA registers, monitors, and assesses Force-sensitive individuals within Concordat territory. Its director, **Korius Valio**, is a former Republic Strategic Information Service officer who built intelligence networks during the Great Hyperspace War and transitioned into domestic surveillance after the Concordat's founding.
+
+Valio is not Force-sensitive, but has spent his career studying them. He watched three planetary governors lose control of their systems during the Mandalorian Wars because rogue Force users destabilized local power structures. He watched Jedi Knights switch allegiances mid-campaign based on visions, emotional states, and philosophical disagreements that had nothing to do with military strategy. He built the OFA to impose institutional control on individuals whose powers exceeded institutional oversight.
+
+The OFA employs six hundred analysts, three hundred field agents, and forty-two Force-sensitive consultants (registered Jedi who provide technical expertise in exchange for limited operational autonomy). It maintains files on approximately twelve thousand known Force-sensitive individuals in Concordat space. The files include: training history, affiliation, psychological assessment, known abilities, and a threat-level classification on a five-tier scale.
+
+The program has prevented three assassination attempts on Concordat officials by identifying radicalized Force users before they acted. It has also detained two hundred and sixteen individuals whose threat classification exceeded Tier 2 based on predictive modeling rather than criminal activity. Forty of those individuals have been held for longer than six months without formal charges. Eres Vynt has filed legal challenges against twenty-three of those detentions. Nine have been released. The others remain in the system.
+
+Valio sits in an office on the forty-seventh floor of the Concordat Security building on Coruscant.  He keeps the blinds drawn. His desk is clean. His filing system is impeccable. He does not enjoy his work. He has watched what happens when Force users operate without institutional oversight, and he considers the OFA's methods preferable to that alternative. His current problem has nothing to do with Force users. He has evidence that someone on the Security Council is leaking classified operational data to the Remnant. His investigation keeps running into classification walls that only the First Consul can lift. He has not asked Malak, because two of his suspects sit on the Council, and because asking the question reveals that he has been investigating Council members without authorization.
+
+{{footnote Chapter 8: The Concordat}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
 
 ## Internal Factions
 
-**The Integrationists** follow Veera Ordo and elements of Cassus Fett's faction. They believe the Concordat should evolve into a genuine hybrid government with permanent Mandalorian representation in Republic institutions. They push for cultural exchange programs, joint military academies, and the legal recognition of Mandalorian customs within Republic law.
+The Concordat's political landscape runs through four major factions. Each faction wants the Concordat to survive. They disagree about what it should be when the emergency ends, or whether the emergency should end at all.
 
-**The Restorationists** are former Republic senators and administrators who accepted the Concordat as a wartime necessity and want to restore full democratic governance as soon as the security situation permits. They support Malak's authority reluctantly and push constantly for timelines, sunset clauses, and the restoration of Senate oversight. Their leader in the Senate is Senator Lorso of Telos, a pragmatist who despises Malak personally but recognizes that removing him would create a power vacuum.
+**The Integrationists** follow Veera Ordo and elements of Cassus Fett's faction. They believe the Concordat should become a permanent hybrid government with Mandalorian representation in Republic institutions. Senator Thul provides their political infrastructure. Their vision: joint military academies, cultural exchange programs, legal recognition of Mandalorian customs, and a Senate that includes Mandalorian voting members within a decade. They point to the Echani integration as a model. Their opponents point to Dxun's auxiliary recruitment as a warning.
 
-**The Militarists** are Malak's core supporters: military officers, Mandalorian chieftains, and security-state architects who believe the galaxy's crisis requires permanent centralized authority. Their most visible advocate is **General Tagren Voss**, a career Republic officer who commanded the rearguard at the Burning of Duro and has not forgotten what happens when governments deliberate while people die. Voss chairs the Concordat Security Council and has pushed for expanded surveillance of Force-sensitive populations, mandatory military service in contested territories, and the classification of Remnant sympathizers as enemy combatants rather than political dissidents. He is effective, popular with the military, and exactly the kind of person that Restorationists point to when they argue the Concordat is sliding toward permanent martial law.
+**The Restorationists** accepted the Concordat as wartime necessity and want to restore full democratic governance as soon as security permits. Senator Lorso leads them. Eres Vynt provides their legal framework. They push for timelines, sunset clauses, and Senate oversight of the Security Council. Their problem: every argument for restoration depends on a stable security environment, and the Security Council controls the metrics that define stability. The Restorationists cannot prove the emergency is over because the people who benefit from the emergency control the evidence.
+
+**The Militarists** are Malak's core supporters: military officers, Mandalorian chieftains, and security-state architects who believe the galaxy's crisis requires permanent centralized authority. **General Verex Zeval** chairs the Security Council and serves as their public face. He commanded the rearguard at the Burning of Duro, an action that cost four thousand Republic soldiers and bought eight hours for the Duro evacuation. Zeval has not forgotten what happens when governments deliberate while people die. He pushes for expanded Force-sensitive surveillance, mandatory military service in contested territories, and the classification of Remnant sympathizers as enemy combatants. He is effective and popular with the military. He is the person the Restorationists invoke when they argue the Concordat is sliding into permanent martial law. He considers that argument proof the Restorationists do not understand the threat environment.
+
+**The Pragmatists** hold no formal faction identity. They are mid-level administrators, junior officers, and civil servants who serve the Concordat because it is the functioning government and because their pensions depend on it. They do not attend faction meetings. They process paperwork, enforce regulations, and keep systems running. They are the reason the Concordat functions as a state rather than a military headquarters. They are also the reason reforms are slow: institutional inertia resists change from any direction, and the Pragmatists have learned that whoever wins the political argument, the paperwork still needs processing. A player character who works within the Concordat will interact with Pragmatists far more than with faction leaders, and will discover that the gap between policy and implementation is where people live.
 
 ## Mandalore the Vindicated
 
-Mandalore occupies a unique position. Bound by Ka'halar to Malak, he serves as a formal advisor with the title of Lord Marshal — a Mandalorian term reforged for Republic consumption. He attends Concordat military councils. He provides insight into Mandalorian clan politics. He is, in essence, a hostage dressed as a partner. He knows this. Malak knows this. Neither acknowledges it publicly. Mandalore's presence legitimizes the Concordat to Mandalorian clans. His captivity guarantees their compliance. The arrangement is stable so long as no one examines it too closely.
+Mandalore occupies a unique position among the three Consuls. Bound by Ka'halar to Malak, he holds the title of Second Consul and Lord Marshal. He attends every Consulate session, every Security Council meeting, every military review. He provides assessments of Mandalorian clan politics that are frank, detailed, and unsettling to people who assumed Mandalorian politics meant "who can fight hardest."
+
+He is a political hostage performing the role of a governing partner. He knows this. Malak knows this. Neither acknowledges it in public. Mandalore's presence on Coruscant legitimizes the Concordat to Mandalorian clans. His captivity guarantees their compliance. The arrangement holds as long as no one examines it in public.
+
+In Consulate sessions, Mandalore votes with Malak on military matters and with Vynt on civil liberties questions. This pattern confuses observers who expect Mandalorians to align with authoritarian governance. Mandalore's reasoning is practical: Mandalorian culture survived thirty thousand years by maintaining internal codes that no external power could override. Force registration and civil surveillance threaten that autonomy. Vynt's legal arguments protect the same principle Mandalore would protect with a blade. He told Vynt this once, privately. She keeps the conversation in her files.
+
+His private quarters on Coruscant contain a Mandalorian war-shrine: weapons of defeated enemies, battle trophies, an unlit forge. He tends the shrine in the mornings before council sessions. His guards, a mix of Mandalorian and Republic personnel, have learned not to interrupt. The shrine is not decorative. Mandalore maintains it because he is Mandalore, and because maintaining the rituals of leadership in captivity is how a Mandalorian keeps from becoming a prisoner.
 
 \page
+
 {{Ch2,tab}}
+
+**His current problem is Cassus Fett.** Fett commands the largest Mandalorian clan contingent integrated into Concordat military forces and has positioned himself as the voice of Mandalorian interests to the Concordat military establishment. Fett is loyal to the Concordat, not to Mandalore. If Mandalore were to challenge the Concordat or attempt to renegotiate Ka'halar, Fett would support Malak over Mandalore and take half the integrated clans with him. Mandalore tolerates Fett because removing him would fracture the Mandalorian position within the Concordat. Fett tolerates Mandalore because the title still carries weight with traditional clans. They exchange courtesies at military reviews and strategize against each other through intermediaries.
+
+##### Eres Vynt
+
+The Third Consul keeps an office in the Senate administrative wing, three floors below the Security Council chambers and a world apart. Her staff of fourteen occupies a space designed for forty. The Rodian clerk Feesa sits outside her door and runs the most complete archive of Concordat legal precedent in existence.
+
+Vynt built the Concordat's legal architecture. She drafted the founding charter during the three-week negotiation between Malak's representatives, the Senate delegation, and Mandalorian clan leaders. She worked from Republic constitutional precedent modified by Mandalorian customary law, producing a document that balanced military authority with civilian rights, executive power with legislative oversight, and integration commitments with species-specific legal protections for Mandalorian cultural practices.
+
+She is proud of the document. Four years of emergency orders have hollowed it out.
+
+The charter contains seventeen sunset provisions tied to specific security benchmarks: when Force-related incidents fall below a threshold, emergency powers lapse; when contested territories achieve stability metrics, military governors transition to civilian authority; when the Senate certifies that the security crisis has ended, the Consulate dissolves and full democratic governance resumes. The Security Council controls the data that determines whether benchmarks have been met. The Security Council has certified zero benchmarks met in four years. Vynt has challenged three certifications through the judicial review process her charter created. She has won one. The other two are pending.
+
+She does not trust Malak. She trusts the system she built, and she stays because the system requires someone willing to enforce it against the person it was designed to constrain. Her relationship with the other two Consuls is professional and cold. Malak treats her legal arguments with genuine intellectual respect and then signs emergency orders that contradict them. Mandalore treats her as the Consulate's conscience and votes with her when it costs him nothing.
+
+Vynt has a daughter on Ryloth. She has not visited in two years. The distance is political: a Third Consul's family is leverage, and Vynt has made enemies on the Security Council. Feesa sends encrypted personal messages on Vynt's behalf through a channel that does not route through OFA surveillance. Whether Valio knows about the channel is a question Vynt prefers not to answer.
+
 {{note
 ##### Concordat Character Hooks
-- A military officer navigating the tensions between Republic and Mandalorian command traditions
-- A bureaucrat in the Office of Force Affairs who's started to doubt the program's purpose
-- A Mandalorian warrior serving in a joint unit who respects her Republic counterparts but wonders what she's fighting for
-- A Restorationist senator's aide who's discovered something about the emergency powers that the Senator needs to hear
+- A military officer navigating tensions between Republic and Mandalorian command traditions who has been offered a promotion that requires enforcing a policy she considers unjust
+- A bureaucrat in the Office of Force Affairs who discovered that a Tier 3 detainee in his caseload is a fourteen-year-old with no criminal history
+- A Mandalorian warrior in a joint unit on Dxun who has started teaching local recruits Mandalorian combat doctrine and has not told her superiors
+- A Restorationist senator's aide who found discrepancies in the Security Council's stability benchmarks for three Outer Rim systems
+- An Echani officer candidate training under Governor Yusanis who suspects the governor's personal security force answers to someone other than the Concordat
+- A forensic accountant on Senator Lorso's staff who has traced Czerka reconstruction funds to a Security Council procurement account
+- A legal clerk in Vynt's office who has been asked to certify a judicial review that the Security Council has pressured them to delay
+- One of Valio's field agents who has been ordered to investigate a Council member and is unsure whether the order came through proper channels
 }}
 
 {{footnote Chapter 8: The Concordat}}
@@ -1119,41 +1298,384 @@ Mandalore occupies a unique position. Bound by Ka'halar to Malak, he serves as a
 
 **What they claim:** The Remnant is the legitimate Republic. The Concordat is a military coup dressed in democratic language. Malak betrayed the principles the Revanchists fought for when he bargained with Mandalorians and consolidated power. The Remnant will restore democratic governance and end the military governor system.
 
-**What they do:** The Remnant holds twenty-three systems in the Outer Rim, mostly agricultural worlds, former Jedi enclaves, and settlements that refused to recognize the Concordat's authority. Its military consists of three battle groups under Admiral Kaeranth: roughly forty capital ships and a network of hidden bases. They cannot fight the Concordat in open battle. They fight supply-line raids, intelligence operations, and propaganda campaigns aimed at Concordat worlds where dissatisfaction is highest.
+**What they do:** The Remnant holds twenty-three systems in the Outer Rim, mostly agricultural worlds, former Jedi enclaves, and settlements that refused to recognize the Concordat's authority. Its military consists of three battle groups under Admiral Kaeranth: roughly forty capital ships and a network of hidden bases. They cannot fight the Concordat in open battle. They fight through supply-line raids, intelligence operations, and propaganda campaigns aimed at Concordat worlds where dissatisfaction runs highest.
 
-Day-to-day governance falls to a triumvirate (a word they avoid, given other associations): Admiral Kaeranth commands the military. Master Dorak, a Jedi historian who left the Council, manages civilian administration. Captain Carth Onasi, a defector from the Concordat military, serves as diplomatic liaison and intelligence coordinator.
+Their greatest weapon is legitimacy. Every Concordat excess feeds Remnant recruitment. Every detained Force-sensitive, every military governor who oversteps, every civil liberty curtailed in the name of stability pushes another system toward the Remnant's message: *the Republic still exists, and we are it.*
 
-Their greatest weapon is legitimacy. Every Concordat excess — every civil liberty curtailed, every military governor who oversteps, every Force-sensitive individual detained for "security evaluation" — feeds Remnant recruitment.
+## The Governing Council
+
+The Remnant avoids the word "triumvirate" (given other associations), but its governing structure amounts to one: three leaders sharing authority over a government-in-exile that holds twenty-three worlds and the loyalty of several thousand soldiers, administrators, and civilians who left the Concordat on principle.
+
+**Admiral Saul Kaeranth** commands the military: three battle groups, forty capital ships, a network of hidden bases scattered through the Outer Rim. He is the Remnant's operational center. Without him, the fleet scatters in weeks.
+
+**Master Dorak** manages civilian administration. A Jedi historian who left the Council, Dorak governs the Remnant's civilian population with an archivist's temperament: he catalogs resources, tracks population movements, and maintains legal records for a government that most of the galaxy does not recognize. He believes institutions matter even when no one is watching, and he documents Remnant governance as if posterity will judge them. His archives may one day prove the Remnant governed justly. They may also prove it governed badly in ways its leaders preferred not to see.
+
+**Captain Carth Onasi** serves as diplomatic liaison and intelligence coordinator, a title that understates the scope of his work. Onasi manages the Remnant's foreign relationships: back-channel negotiations with sympathetic Concordat officials, supply agreements with Hutt intermediaries, intelligence-sharing with Mandalorian defectors, and the constant, exhausting work of convincing neutral systems that the Remnant is a government and not a pirate fleet.
 
 ## Admiral Kaeranth
 
-Saul Kaeranth served under both Revan and Malak during the Mandalorian Wars. He was a career naval officer who'd risen through fleet command during the Great Hyperspace War and transferred his loyalty to the Revanchists when the Republic Senate refused to authorize military action against the Mandalorian expansion.
+Saul Kaeranth is fifty-three years old, the oldest flag officer in either the Concordat or Remnant navies, and the person most responsible for the fact that the Remnant exists as a functioning military organization rather than a collection of refugee ships. He holds the rank of Admiral by Revanchist commission. He commands three battle groups, forty capital ships, a hidden base network scattered through the Outer Rim, and approximately twelve thousand naval personnel who answer to him because he has kept them alive in a guerrilla war for four years. He is the Remnant's operational center. Without him, the fleet fragments in weeks. He knows this. The knowledge does not make him sleep better.
 
-Kaeranth watched Malak consolidate power after the Concordat with the eye of a man who has seen strongmen before. He watched the Senate's authority erode. He watched Force-sensitive individuals placed under surveillance. He recognized the pattern: the Republic was stable, but it was no longer the Republic.
+##### Career and Character
 
-He made quiet contact with officers who felt the same way. When Revan returned from the Unknown Regions — alone, gaunt, carrying crates of datacrons and speaking in sentence fragments about things he'd seen — Kaeranth was ready. He extracted Revan with three battlegroups, enough firepower to discourage pursuit, and enough loyalist personnel to establish a government-in-exile.
+Kaeranth entered Republic fleet service at nineteen, during a peacetime navy that trained officers for patrol duty and pirate suppression and did not expect to fight a galactic war within the decade. He rose through standard promotion cycles: lieutenant on a corvette, tactical officer on a cruiser, executive officer of a frigate assigned to the Outer Rim trade lanes. His fitness reports describe a competent, methodical officer with an aptitude for logistics and fleet coordination. Nothing in those reports predicted what he would become.
 
+The Great Hyperspace War made him. When the Sith Empire's fleets appeared in Republic space, Kaeranth was a commander assigned to the Koros Major defense group. The defense group held for nine days against a Sith assault force that outnumbered it four to one. Kaeranth coordinated the withdrawal that preserved sixty percent of the group's combat strength, a result his superiors called brilliant and Kaeranth called adequate. He was promoted to captain and given a sector command. By the end of the war, he held fleet command responsibility for twelve capital ships and the reputation of an officer who kept his vessels operational when other commanders lost theirs to maintenance failures, crew attrition, and the logistical entropy that kills fleets faster than enemy fire.
 
-At campaign start, Kaeranth is the Remnant's spine. He maintains fleet readiness. He manages the hidden base network. He negotiates through back channels with sympathetic Concordat officers who might defect if the political winds shift. He is a military pragmatist who chose the Remnant out of principle and stays because someone has to keep the lights on while Revan is... whatever Revan is becoming.
+When the Mandalorian expansion began and the Republic Senate refused to authorize military intervention, Kaeranth transferred his loyalty to the Revanchists. He did not join because of Revan's rhetoric, though he respected the strategic assessment. He joined because he had watched the Republic abandon the Outer Rim once before, during the Sith invasion, and had buried the crew members who died because reinforcements arrived too late. He was not willing to bury more.
 
-His relationship with Revan is strained. Kaeranth extracted a hero. What he got back was a man consumed by research, intermittently brilliant and frequently incoherent, who speaks about Rakatan technology and "the pattern beneath the Force" with the intensity of a prophet and the specificity of a fever dream.
+During the Mandalorian Wars, he served as Revan's fleet logistics commander and Alek's naval coordinator, managing the supply chains, repair schedules, and personnel rotations that kept the Revanchist fleet operational across a seven-year campaign. He did not command from the front. He commanded from the operations center, where the war was won or lost in tonnage figures, fuel calculations, and the mathematics of how many ships a fleet can lose before it stops being a fleet. His staff called him "the Book K  eeper" behind his back, because he tracked every vessel, every crew member, every metric ton of ordnance with the compulsive precision of an accountant who knows that a rounding error will cost lives.
 
-Kaeranth protects Revan from the Remnant's rank and file. He filters Revan's communications. He interprets Revan's strategic directives into actionable orders when they're coherent and shelves them when they're not. He does this because the Remnant needs its figurehead, and because he still believes, against mounting evidence, that the person he followed into war is still in there somewhere.
+He is tall, grey-haired, and carries himself with the posture of a man who has spent thirty-four years in uniform. He does not raise his voice. He does not need to. His officers learned years ago that Kaeranth's quietest tone accompanies his most consequential decisions.
 
-## Revan's Return
+##### Kaeranth and Revan
 
-Revan spent two years in the Unknown Regions, chasing fragments of Rakatan Star Maps and the trail of the Star Forge. He found things. He has not shared all of what he found, and what he has shared does not always make sense.
+Kaeranth watched Malak consolidate power after the Concordat's founding with the eye of a man who has seen strongmen before. The Senate's authority eroded by degrees. Force-sensitive individuals went under surveillance. Military governors replaced elected officials. Kaeranth recognized the pattern. He made contact with officers who felt the same way. When Revan returned from the Unknown Regions, alone, gaunt, carrying crates of datacrons and speaking in fragments about things he had seen, Kaeranth was ready. He extracted Revan with three battle groups, enough firepower to discourage pursuit, and enough loyalist personnel to establish a government-in-exile.
 
-He believes the Rakatan collapse and the current Force crisis share a common mechanism. He speaks in long monologues about "the pattern" — a structure he claims to perceive beneath the Force, something deeper than the light-side/dark-side binary. He sketches diagrams on any available surface. He sometimes fails to recognize people he's known for years. He sometimes demonstrates insights so precise and so far ahead of anyone else in the room that Kaeranth wonders if genius and madness are the same thing viewed from different angles.
+He extracted a hero. He got back something else.
 
-The Remnant's rank and file are split. Some worship Revan as a returned savior. Some fear he's become the thing the Jedi Council always warned about: a Force user who chased forbidden knowledge and lost himself. Some are loyal to Kaeranth and don't particularly care what Revan thinks anymore — the Admiral keeps them fed and alive, which is more than Revan has done in two years.
+Kaeranth's relationship with Revan predates the Mandalorian Wars. He served under Revan's strategic command for seven years and watched the young Jedi evolve from a gifted tactician into something the Republic had not seen: a commander who operated across strategic, political, and philosophical registers at once, holding them in balance the way a navigator holds multiple star charts. Kaeranth admired Revan's mind. He trusted Revan's judgment, even when that judgment produced orders that the fleet's senior officers found incomprehensible until the results arrived. He followed Revan because Revan was right more often than anyone else, and because being right mattered more to Kaeranth than being comfortable.
+
+The Revan aboard the *Vigil* retains that mind in fragments. Kaeranth has spent two years learning to read the pattern: which days Revan will be lucid, which conversations will produce usable intelligence, which requests will disappear into the maze of star charts and Rakatan transcriptions that cover every surface of Revan's quarters. He protects Revan from the rank and file. He filters communications, translates strategic directives into actionable orders when they cohere, and shelves them when they do not. He does this because the Remnant needs its figurehead, and because he still believes, against accumulating evidence, that the person he followed into war persists somewhere inside what has come back.
+
+The classified file weighs on him. Seven confirmed predictions. Fourteen pending. The Serroco dead zone expansion, the three Sith operations, the Concordat fleet movements Revan named before Remnant intelligence detected them. Kaeranth cannot dismiss these results, and he cannot build operational doctrine around a source that may produce strategic brilliance or incoherent word association depending on which morning you ask. He has started bringing intelligence reports to Revan's quarters as a daily practice, the way a physician checks vital signs. Some days, Revan reads them and offers analysis that reshapes Kaeranth's operational planning. Some days, Revan does not look up from the floor.
+
+Kaeranth has not told anyone about the Kreia conversation. Revan's warning about "one who eats" and "one who will not die" matches fragments from Onasi's intelligence reports: rumors of Sith-affiliated persons of interest operating in patterns that Concordat Intelligence has catalogued and not explained. Kaeranth does not know what the Sith Triumvirate is. He knows that Revan fears something, and that Revan's fears have a track record of being justified.
+
+{{footnote Chapter 9: The Revanchist Remnant}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### The Admiral's War
+
+At campaign start, Kaeranth fights two wars: the guerrilla campaign against the Concordat, and the slow erosion of his own fleet.
+
+The Remnant loses people every month. Deserters who tire of guerrilla life. Casualties from Concordat patrol encounters. Specialists who defect to the Concordat for better pay and safer conditions. Recruitment from disaffected Concordat worlds replaces some losses, but the quality gap is widening. Kaeranth's veteran officers are aging out. His new recruits are idealists who have never held a sector against a blockade. The Remnant's combat effectiveness declines on a curve Kaeranth tracks the way he tracks fuel reserves: with the awareness that the line crosses zero at a specific point, and that the point is approaching.
+
+He needs a military victory. Large enough to prove the Remnant can fight. Small enough to survive Concordat retaliation. He has been planning one for six months, working through the tactical options with Commander Akaavi, whose Second Battle Group would execute the operation. The target is a Concordat supply depot serving three Outer Rim garrisons whose commanders have quietly indicated sympathy for the Remnant's cause. A successful raid would capture materiel the Remnant needs to survive another year, embarrass Concordat fleet command, and provide Onasi with a diplomatic event he can leverage in back-channel negotiations.
+
+Kaeranth has not told Revan about the operation. He has not told Dorak, who would insist on a governing council vote. He has told Onasi, who approved with conditions, and Akaavi, who began planning immediately. He has not told Bastila, because the operation will require battle meditation coordination and Kaeranth does not want to ask for her support until the plan is mature enough that she cannot reasonably refuse.
+
+He governs through routine. Morning briefing at 0600, fleet status review at 0800, operations meetings through the afternoon, evening dispatches to the base network, and a final walkthrough of the *Vigil*'s bridge before he sleeps. He eats in the officers' mess when he remembers. He reads intelligence reports in his bunk when he cannot sleep, which is most nights. His staff has learned that the Admiral's door is open at any hour, because the Admiral is behind it at any hour, and that the fastest way to earn his respect is to bring a problem with a proposed solution attached.
+
+He misses the Republic. He does not miss what the Republic became under Malak's administration. He misses what it was supposed to be: a civilian government with an independent judiciary, a free press, and a military that answered to elected officials. He built the Remnant to preserve that idea. Four years later, the Remnant is governed by three unelected leaders, conducts military raids that kill fellow Republicans, and maintains Revan as a classified liability. Kaeranth notices the irony. He does not find it amusing.
+
+## Captain Carth Onasi
+
+Carth Onasi is forty years old, a Republic veteran of two wars, and the Remnant's most effective diplomat despite having no diplomatic training and no patience for the work. He serves as the Remnant's liaison to every external entity: Hutt intermediaries, neutral-system governments, sympathetic Concordat officials, Mandalorian defectors, independent traders, and the handful of press-freedom organizations that funnel resources to Lynira Saal's broadcast operation. He holds the rank of Captain by Revanchist commission. He should hold a higher rank. Kaeranth has offered promotion twice. Onasi has declined both times, because Captain is the rank he earned in the Republic navy, and he considers himself a Republic officer on detached assignment, not a Remnant bureaucrat.
+
+##### Service and Defection
+
+Onasi entered Republic fleet service at eighteen. He fought in the Great Hyperspace War as a junior lieutenant assigned to a patrol corvette that spent the war escorting refugee convoys out of Sith-contested systems. He fought in the Mandalorian Wars as a captain under Kaeranth's command, running supply-line defense in the Outer Rim while the front-line fleets gathered the glory and the casualties. He survived both wars. In Republic fleet terms, this means he attended more memorial services than he can count and stopped sleeping well around Year Three of the Mandalorian campaign.
+
+He was a good officer. He executed orders with competence and without complaint. He did not distinguish himself through brilliance or heroism. He distinguished himself through reliability, the quality Kaeranth valued above all others in his logistics chain. He kept his ships operational. He kept his crew alive. He filed accurate reports. In a war that consumed generals and admirals at a rate that made flag rank a death sentence, Onasi's consistent, unglamorous competence was the thing that kept supply lines open.
+
+After the Concordat's founding, Onasi transferred to the Senate liaison office because he believed the new government needed officers loyal to democratic principles inside its institutions. He lasted eighteen months. The breaking point was a classified directive authorizing the Office of Force Affairs to detain Force-sensitive refugees from Sith diaspora communities for "security assessment" without judicial review. Onasi read the directive, confirmed it was real, and filed a formal protest through military channels. The protest was acknowledged, filed, and ignored. He resigned his commission three days later.
+
+He did not defect to the Remnant immediately. He spent four months on Telos, helping his wife's family rebuild their home in the reconstruction zone. Czerka contractors demolished the rebuild to clear ground for a landing pad the reconstruction contract required. The compensation offer was fourteen percent of assessed value. Onasi's wife, Morgana, told him the galaxy had run out of institutions worth trusting. Onasi disagreed, but could not name one she was wrong about. He took his family off-world, made contact with Kaeranth through a smuggler he had known during the wars, and joined the Remnant with his service record and a conviction that the Concordat's institutions had rotted faster than anyone predicted.
+
+##### Carth and the Remnant
+
+At campaign start, Onasi is the Remnant's public face. He negotiates with Hutt intermediaries for medical supplies. He maintains contacts with Concordat officers who might defect. He briefs neutral-system diplomats on Concordat abuses, presenting evidence compiled from OFA leaks, military governor reports, and refugee testimony. He runs a parallel supply network through civilian channels: sympathetic merchants, neutral-system traders, and Czerka employees selling surplus reconstruction materials at a discount because they have their own grievances with management. He manages the Remnant's back-channel relationship with Bralor Vizsla's Mandalorian contacts, who provide intelligence on Concordat garrison rotations in exchange for supplies and the respect the Concordat denies them.
+
+He is good at this work in the way a man who would rather be doing anything else is good at the thing circumstance demands. His staff consists of six intelligence analysts, three communications specialists, and a personal aide who schedules his diplomatic meetings and makes sure he eats. He does not like Hutts. He negotiates with them because the Remnant cannot survive without their supply lines. He does not like lying. He lies to neutral-system diplomats about the Remnant's military strength because telling the truth would end recruitment overnight. He does not like keeping secrets from democratic institutions. He keeps Revan's condition classified because the alternative is the Remnant's collapse.
+
+His wife Morgana and their son Dustil live on a Remnant agricultural world under assumed names. Onasi sees them when his schedule permits, which means twice in the past year. Dustil is seven. He has started asking why other children's fathers come home at night. Morgana writes Onasi weekly reports on Dustil's progress: his schoolwork, his friendships, the way he watches the sky when supply ships arrive. Onasi reads the reports in his quarters aboard the *Vigil* and does not respond half the time, because he cannot think of anything to say that does not feel like an excuse. Bralor Vizsla, who trains marines on the same world where Morgana lives, has become an unofficial presence in Dustil's life. The boy calls him *ba'vodu*. Onasi knows this and has not decided how he feels about it.
+
+##### Carth and Revan
+
+Onasi's relationship with Revan is colder than Kaeranth's, and more honest.
+
+Kaeranth served with Revan during the wars and carries loyalty forged in shared command. Onasi served under Kaeranth's logistics chain. He saw Revan twice during the entire Mandalorian campaign: once at a fleet briefing where Revan addressed eight hundred officers for forty minutes and left every one of them convinced victory was certain, and once at a supply depot where Revan walked through the cargo bays, asked Onasi three questions about quartermaster protocols, and departed. Onasi has no wartime bond with Revan. He has a professional assessment: Revan is a strategic asset whose instability threatens the Remnant's credibility.
+
+He has said this in governing council sessions. He has said it directly to Kaeranth. He has said it to Akaavi, who agrees, and to Bastila, who agrees but will not say so on the record. Kaeranth overruled him. Onasi accepted the decision and noted it in Dorak's records, because Onasi notes everything in Dorak's records. If the Remnant survives, its history will include an accurate account of every decision its leadership made, including the ones that were wrong.
+
+Onasi has read Kaeranth's forwarded intelligence query about Sith-affiliated persons of interest. He does not know it comes from Revan. He has assigned two analysts to cross-reference the descriptions against known Sith operatives and has found partial matches in Concordat Intelligence intercepts that his network has obtained through back channels. The descriptions match no single individual, but the pattern of activity matches reports from Onderon, Nar Shaddaa, and the Telos relay incident. Onasi does not know what the Sith Triumvirate is. He knows that something is operating in patterns his analysts cannot explain, and that the Concordat's intelligence services have noticed the same thing and produced no conclusions.
+
+## Revan
+
+Revan is the Remnant's founder, its figurehead, its greatest strategic asset, and the person most likely to destroy it. He is thirty-seven years old. He holds no formal rank in the government he created. He lives aboard the *Vigil*, Kaeranth's flagship, in quarters he has converted into a research archive that his staff cleans around rather than organizes. He has not issued a coherent strategic directive in fourteen months. His predictions, when he makes them, keep coming true.
+
+##### Origins
+
+The Temple records list his homeworld as unknown. A Jedi watchman on survey in the Mid Rim agricultural corridor identified him at age four because Revan had organized the other children in his settlement crèche into a task-assignment system based on aptitude. He had built a hierarchy.
+
+At the Coruscant Temple, he distinguished himself within his first year. His academic performance was exceptional across every discipline, but his instructors struggled to keep him in any single curriculum long enough to master its foundations before he moved on. Master Zhar, who supervised early training, described him as "the most gifted student I have taught and the most difficult to teach." Master Dorak, who taught history, noted that the boy consumed archival material at a pace suggesting either extraordinary retention or extraordinary selectivity. Both proved true. Revan remembered everything he considered relevant and discarded the rest with a certainty his instructors found troubling in a child of nine.
+
+He met Alek at the Temple when Revan was fourteen and Alek was eleven. The friendship formed along a pattern Temple instructors recognized: a younger student of considerable ability gravitating toward an older student of prodigious ability who treated him as a peer. Each supplied what the other lacked. Revan thought past the next horizon. Alek counted what stood between here and there.
+
+Master Kreia took him as her personal Padawan when he was twelve. The assignment surprised the senior instructors. Kreia taught in the Temple's philosophical wing, a specialist in Force metaphysics and the history of Force traditions outside the Jedi Order. She did not train combat-track students. She requested Revan because his questions about the Force had moved past the curriculum into territory that unsettled the other instructors. He wanted to know why the dark side existed. He wanted to know what the Force was *for*. He asked whether the Jedi Code described the Force's nature or served as a political document designed to keep Force users manageable. He was twelve. The questions were sound. The certainty with which he pursued them was the problem.
+
+Kreia encouraged those questions. She taught him to examine the Force as a phenomenon rather than a doctrine, to study Sith philosophy alongside Jedi teachings, to trace the historical divergence between the Orders and understand that divergence as a political event as much as a spiritual one. She gave him access to restricted archives. She introduced him to Force traditions the Temple did not teach: the Voss Mystics, the Aing-Tii monks, the Rakatan historical fragments the Order had catalogued and filed and never examined.
+
+Kreia shaped everything that followed. Revan's questioning of the Council, his willingness to act outside Jedi authority, his conviction that the Force was a system that could be studied and understood rather than a will to be obeyed, his certainty that the Jedi approach to the Force was incomplete at best and destructive at worst. All of it traces to the years she spent teaching a brilliant child to think for himself about the thing the Order built its identity around controlling.
+
+That this teacher later became Darth Traya, architect of the Sith Triumvirate, is a fact the Remnant does not know and the Jedi Council has not disclosed.
+
+##### Force Capabilities
+
+Revan's Force abilities, catalogued during his Temple training, were classified as exceptional across multiple disciplines. Unlike Alek, whose strength concentrated in telekinesis and sustained physical augmentation, Revan showed breadth: precognitive abilities approaching the range of dedicated Jedi Seers, telepathic sensitivity that allowed him to read tactical situations through the emotional states of combatants across a battlefield, and raw telekinetic output that, while below Alek's endurance capacity, operated in concentrated bursts.
+
+His instructors noted two abilities outside standard classification. The first was strategic precognition: Revan modeled the outcomes of complex decisions with an accuracy that exceeded normal Force-assisted intuition. He did not see the future the way Seers described it, as vision or impression. He calculated it. He examined a tactical situation, extended his awareness through the Force, and produced probability assessments that proved more accurate than military intelligence running on dedicated processing cores. During the wars, his staff learned to trust his operational projections over signal intelligence, because the projections were right more often.
+
+The second was Force persuasion at a scale his instructors had never documented. Revan could address thousands and shift the emotional orientation of everyone present. This was not battle meditation, which coordinates tactical awareness. This was rhetorical: the capacity to make an audience adopt his vision, his assessment, his certainty, with a conviction that persisted after they left his presence. The Council debated for years whether the ability was unconscious or deliberate. Revan, when asked, said he was aware of the effect and did not amplify it. Kreia, when asked, said the distinction between natural charisma and Force persuasion was "a line the Council drew for its own comfort."
+
+The Force crisis has degraded his abilities along a curve that matches no standard pattern. His precognition is intermittent but, when functional, operates at its original depth. His telepathic range has contracted. His telekinetic abilities have declined. His Force persuasion is unchanged, which raises questions about whether it draws on the Force the same way other abilities do, or whether what people experience as his persuasion is something else. Bastila has noted the uneven degradation in her reports to Dorak: whatever happened to Revan's mind in the Unknown Regions did not damage his connection to the Force uniformly. It damaged specific capacities while leaving others intact, as if something reached into his mind and rearranged what it found.
+
+{{footnote Chapter 9: The Revanchist Remnant}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### Revan and the Jedi Council
+
+The Council's relationship with Revan followed the trajectory that brilliant, unmanageable students have always followed in institutions built to produce compliance: recognition, investment, concern, estrangement.
+
+As a Padawan, he drew attention for the quality of his questions. Masters noted his work with approval and reservations in equal measure. As a Knight, he taught informal seminars in the Temple that drew larger audiences than some Masters' official lectures: Force metaphysics, comparative philosophy, military history. The Council tolerated this because the content was sound and because restricting a Knight's study would have required disciplinary action they could not justify.
+
+When the Mandalorian expansion began destroying the Outer Rim, and the Council voted to withhold intervention, Revan moved from questions to accusations. He told the Council, in a session that Dorak recorded as a junior archivist, that their deliberation was a political choice dressed as wisdom. That the Mandalorians burned worlds while the Council debated whether the Force willed them to act. That Republic citizens died while the Council purchased its serenity at the cost of those citizens' lives.
+
+Master Vrook told him he was arrogant. Master Vandar told him he was impatient. Master Kavar told him he was right about the strategic picture and wrong about the Council's motives. All three assessments contained truth. Revan left the Temple with hundreds of Jedi who agreed with him.
+
+After the wars, when the Concordat formed and Revan departed for the Unknown Regions, the Council classified him as a *dissident practitioner* alongside Alek. Master Atris added a personal annotation: *Revan is the most dangerous person the Order has produced. Not because of his power, which is formidable, but because of his certainty, which is absolute.* Master Vandar appended his own: *Atris is correct. Revan has always been certain. We have never been certain enough to stop him.*
+
+At campaign start, the Council monitors Revan through the same intelligence contacts that track the Remnant's military operations. They know he returned diminished. They do not know the specifics. Several Council members, in private conversations that Dorak's network has reported back, express relief that Revan no longer functions at full capacity. They are ashamed of that relief.
+
+##### The Path to War
+
+Revan left the Jedi Order in 3960 BBY because the Mandalorians were destroying the Outer Rim and the Council would not act.
+
+The strategic picture was visible to anyone willing to examine it. Seventeen systems consumed in two years. Republic fleet command stretched across a frontier it could not defend. The Senate debating emergency measures that arrived too late. The Jedi Council meditating and reporting that the situation was unclear and that hasty action risked entanglement with a larger darkness they could not yet perceive.
+
+Revan perceived the darkness too. He drew different conclusions about what it demanded.
+
+He organized the Revanchist movement over six months: recruiting Jedi, building contacts with Republic officers who shared his assessment, assembling the logistical framework for a campaign the Order would not sanction. He recruited Alek, who brought tactical competence and a willingness to execute plans Revan designed. He recruited Meetra Surik, who brought field command experience from her Outer Rim assignments. He recruited hundreds of Knights who had spent years watching the Council deliberate while the frontier burned.
+
+During the wars, Revan commanded at the strategic level. He designed campaigns that exploited Mandalorian logistical weaknesses, identified industrial targets whose destruction would cascade through the Mandalorian supply network, and anticipated enemy doctrine with accuracy that suggested either extraordinary intelligence work or Force-assisted insight.
+
+The war changed him. His officers noticed. He grew more efficient, more detached, more willing to accept civilian casualties as components of strategic calculation. He authorized the Ashen Campaign methodology, which collapsed Force ecologies on targeted Mandalorian-held worlds. He did not order those strikes with enthusiasm or cruelty. He ordered them because they worked and because the alternative was a Mandalorian advance into the Mid Rim that would have cost more lives. He made the calculation and moved to the next problem. His officers, who lived with the results in ways Revan did not, began to understand why the Council had feared him.
+
+After the war ended, Revan did not return to the Council. He did not accept a role in the government Alek was building. He told Kaeranth and Alek that the Mandalorian Wars were a symptom of the Force crisis the Council had sensed was accelerating, and that the answer was in the Unknown Regions, in the ruins of a civilization that had faced the same crisis twenty-five thousand years earlier. He took a ship, a skeleton crew, and two years of supplies. He did not explain what he expected to find. He did not say when he would return.
+
+\page
+
+{{Ch2,tab}}
+
+##### Force Beliefs and the Scar Tissue Theory
+
+Kreia taught Revan to examine the Force as a system. He has spent twenty years building on that foundation. The conclusion he has reached would terrify anyone who understood it.
+
+Revan does not believe the Force has a will. He believes it has a function the way an ecosystem has a function: it regulates, balances, and maintains the conditions for life, but it does not choose or plan or prefer. The Jedi interpretation, which treats the Force as a guiding consciousness whose will can be discerned through meditation, is a category error in Revan's view: the mistake of reading feedback loops as intention, the way a river's current might look like purpose to someone who has never studied hydrology.
+
+The Sith interpretation, which treats the Force as a power source to be dominated, makes the same error in reverse: assuming a system designed for regulation can be overridden by a single user without consequences to the system itself. Revan considers both approaches equivalent to a farmer who misreads weather and plows during drought.
+
+The dead zones are his central evidence. Across the galaxy, regions where the Force once flowed have gone silent. The Jedi call these wounds. The Sith call them opportunities. Revan, during his years in the Unknown Regions, found Rakatan records describing the same phenomenon twenty-five thousand years earlier. The Rakata documented it with maps of dead zone expansion, measurements of Force density decline, calculations of the rate at which silence propagated from one system to the next.
+
+The Rakata also documented their response. They built the Star Forge, a station that drew on the Force as an energy source, intending to stabilize the crisis by channeling Force energy into production. The Star Forge worked. It also accelerated the crisis by an order of magnitude, because drawing on the Force as a power source repeated the same category error the Sith would replicate millennia later. The Rakata collapsed. The dead zones sealed. The Force spent twenty thousand years recovering.
+
+Now, with two galactic wars feeding death and trauma into the Force web at a scale unseen since the Rakatan era, the same process is beginning again.
+
+This is Revan's scar tissue theory. The dead zones are not damage. They are the Force's immune response, sealing off regions where use has concentrated enough to threaten the system's integrity. Every Jedi who draws on the Force, every Sith who channels it, every battle meditation linking thirty ships through the Force web, every Force-enhanced interrogation the OFA conducts adds to the cumulative load. The Force is not dying. It is quarantining. Force users are the pathogen.
+
+Revan cannot prove this without the Rakatan data he brought back, which is incomplete, stored on datacrons requiring translation protocols he is still developing, and organized in a system that makes sense to him during lucid periods and to no one else at any time. He has explained the theory to Kaeranth, who understood the strategic implications and filed them. He has explained it to Bastila, who understood the Force implications and could not sleep for two days. He has explained it to Dorak, who understood the historical implications and began cross-referencing the Rakatan timeline with Republic records, finding correlations that made him close his archive for the afternoon.
+
+The theory carries a political conclusion Revan states during his clear moments and that the Remnant leadership does not discuss: if the scar tissue theory is correct, every faction's goal should be to produce fewer Force users, not more. The Concordat's monitoring keeps sensitives in proximity to the state's Force-using apparatus. The Council's training concentrates practice in enclaves, accelerating local degradation. The Remnant's integrated Jedi units flood the Force web with the concentrated use that triggers the immune response. Meetra Surik, teaching unarmed combat on an agricultural world, may be the only person in the Remnant acting in accordance with what the Force requires.
+
+Revan has said this to Kaeranth. Kaeranth thanked him and changed the subject. The Remnant's survival depends on its Jedi military capacity. The theory that their survival strategy accelerates the crisis it exists to oppose is not something their leadership can afford to examine.
+
+{{descriptive
+**Kaeranth's Private Log, Entry 7:**
+Revan spoke with clarity for two hours yesterday. I brought the Serroco intelligence reports because I had nothing to lose, and he sat at the desk and read them like a flag officer. He corrected three assumptions in our threat assessment, identified a Concordat supply depot relocation we had missed, and then said: "Saul, I need to tell you about Kreia." I said I was listening. He said: "She taught me to question the Force. She was right about the questions and wrong about the answer. She believes the Force is a cage and wants to break it. I believe the Force is a living system and we are making it sick. The distinction matters because her approach ends with everyone dead and mine ends with most of us alive but different. She is building something and I cannot see it well enough to stop it." I asked who Kreia was building with. He said: "One of them eats. One of them refuses to die. Find them before they find us." Then his voice changed and he began talking about grain schedules and I knew I had lost him. I have forwarded the descriptions to Onasi's intelligence staff, framed as a general query about Sith-affiliated persons of interest. I have not told Onasi the source.
+}}
+
+{{footnote Chapter 9: The Revanchist Remnant}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### The Return
+
+He left as the finest military strategist of his generation. He returned two years later, alone, gaunt, carrying crates of Rakatan datacrons and speaking in fragments about patterns older than Republic history. His crew did not return. He has not explained what happened to them. Kaeranth extracted him from an unmarked shuttle at the edge of Remnant space, operating on a coded signal Revan had established before departure. Three battle groups jumped to the rendezvous coordinates. Revan walked off the shuttle, handed Kaeranth a datacron, and said: "We are running out of time, and I cannot remember why." Kaeranth took him aboard the *Vigil* and has kept him there since.
+
+His mind fractures along a seam that no Remnant physician or Jedi healer has identified. For periods lasting minutes to days, he is lucid: strategic, precise, tracking multiple levels of a problem with the facility that won the Mandalorian Wars. In these windows, he reviews intelligence reports, corrects Kaeranth's threat assessments, and articulates the scar tissue theory with a clarity that makes everyone forget he spent the previous week addressing datacrons like pets. Then the window closes. He loses track of conversations. He draws the same star charts over and over, routes ending at coordinates in uncharted space. He confuses past and present, addressing Kaeranth as if they are still planning the Onderon campaign. He sometimes speaks in languages the Remnant's linguistic analysts identify as Rakatan dialects separated by thousands of years of evolution.
+
+Revan gave his authority away, which is the thing he did not calculate for. He handed Alek the Republic's military and legitimacy. He left the negotiation to Vynt. He left the Remnant to Kaeranth. He returned to find each of them had made something he did not intend, and he watches from close enough to understand and too far to reshape. The Remnant carries his name and runs on someone else's decisions. The government he helped build has become a surveillance state. The war he fought to protect a Republic has become that Republic's obituary. In his clearest hours, Revan knows this. In those hours, he does not seem destroyed by it so much as interested, as if the failure is a datum in a calculation he is still running.
+
+The Remnant's rank and file have sorted themselves by what they make of him. Some treat him as a returned prophet. Some fear what the Jedi Council warned about: the Force user who chased forbidden knowledge and came back changed. Some are loyal to Kaeranth and regard Revan as an interesting problem the Admiral has under management. The Admiral keeps them operational, which is more than Revan has managed in two years.
+
+## The Remnant's Allied Jedi
+
+Approximately two hundred Jedi serve the Remnant, making it the largest concentration of Force users outside the Jedi Council's enclaves. These Jedi followed Revan or Malak during the Mandalorian Wars and, when the Concordat formed, chose exile over service to a government that surveilled Force users. They maintain Revanchist military ranks (Jedi Commander, Jedi Captain) and operate as integrated military-Force units within Kaeranth's fleet structure. Their Force abilities have degraded along the same curve as every other practitioner's, which means the Remnant's greatest military advantage is eroding in real time.
+
+Three figures shape the culture of the Remnant's Jedi contingent:
+
+##### Bastila Shan
+
+Bastila Shan is thirty years old, the Remnant's most capable battle meditation practitioner, and the person who carries the largest share of the Remnant's military burden with the smallest share of its authority.
+
+**Origins and Training.** She was born on Talravin, a provincial world in the Core Rim that she has not visited since the Jedi watchman who identified her took her to Coruscant at age five. Her parents agreed to the Order's request. Bastila does not know whether they agreed willingly or under social pressure, because she has never asked, and the Order's records classify parental consent interviews as confidential. She trained at the Coruscant Temple under Master Zhar, the same instructor who trained Revan, though the two students overlapped by only a year before Revan graduated to Knight status. Zhar noted in his assessment that Bastila's Force sensitivity was concentrated rather than broad: modest telekinetic ability, limited precognition, but an extraordinary aptitude for Force-mediated mental coordination. She could hold multiple streams of sensory information in her awareness at once without confusion. By age twelve, she could maintain awareness of every person in a crowded dining hall. By sixteen, she could track the emotional states and physical positions of a hundred individuals across a building. The Temple classified this ability as battle meditation and transferred her to the military coordination track.
+
+Battle meditation is rare. The Jedi Order's records contain fewer than thirty documented practitioners across its full history, and most of those operated at limited range or could maintain coordination for only brief periods. Bastila's capacity exceeds every living practitioner's in both range and duration. She can coordinate a fleet engagement across thirty vessels, holding each captain's tactical awareness in her mind while feeding them real-time threat analysis through the Force. During the Mandalorian Wars, Republic fleet command used her abilities to coordinate four major engagements. She was twenty-two and responsible for the survival of eight thousand crew. Nobody asked whether she wanted this responsibility. The Order identified an aptitude and assigned her to it, the way institutions assign people to the roles their abilities fill.
+
+**The Ethics of Battle Meditation.** A battle meditation practitioner overrides the individual decision-making of every person in their coordination field. "Override" is the Jedi Council's word. Bastila uses "inform." The distinction matters. In theory, battle meditation enhances the tactical awareness of everyone in the field, allowing each individual to make better decisions with better information. In practice, during a fleet engagement where thirty captains must act in concert and the coordination cycle is measured in fractions of a second, the line between informing and commanding dissolves. Bastila's mind becomes the operational center. The captains execute her assessments because her assessments arrive faster than their own and carry the conviction the Force gives them. She has reviewed the after-action reports and knows that her "informed" captains made choices they would not have made independently.
+
+The Council views battle meditation as the most ethically compromised of all Jedi military techniques. Bastila is aware of this critique. She has spent three years in the Remnant developing meditation protocols that minimize override, attempting to inform without commanding. The work is slow. The results are inconclusive. Kaeranth asks her to coordinate fleet actions, and she does, because the Remnant cannot afford to lose engagements over ethical refinements that may take a decade to resolve. She knows she is making the same compromise the weapon-makers of every civilization have made: refining the instrument because the war demands it, deferring the moral question because the moral question does not have a deadline and the war does.
+
+She never went on the adventure the KOTOR games describe. There was no Endar Spire, no Star Map quest, no confrontation aboard the Star Forge. She spent the Mandalorian Wars assigned to fleet operations, rotating between battle groups as a tactical asset. Her relationship with Revan was professional and intermittent: he requested her assignment to critical operations, she provided battle meditation support, they exchanged mission briefings. She admired his strategic clarity. She did not know him as a person.
+
+**Bastila's Position.** She commands a training program for Force-sensitive Remnant recruits: five students who range from promising to dangerous, learning coordination techniques that Bastila is developing as she teaches them. One student, a sixteen-year-old with raw sensitivity that exceeds Bastila's at the same age, has started manifesting coordination effects in her sleep, linking the dreams of nearby Force users. Bastila has not reported this to Kaeranth because she does not know whether the ability is a training success or a warning sign. She reports to Kaeranth for military operations and to Dorak for administrative purposes. She does not report to Revan.
+
+She has met the post-return Revan once. Revan was incoherent for the first two minutes and then, without transition, said: "Your student dreams because the connections she forms during meditation persist after she stops. The Force does not distinguish between coordination and bonding. Ask Meetra." She left and talked to Dorak. Dorak recorded the conversation and classified it.
+
+Bastila senses something through the Force she has not been able to name. During her last three battle meditation sessions, she has felt a presence at the edge of her coordination field: something vast, hungry, and aware. The feeling passes when she withdraws from meditation. She has correlated the timing with Onasi's intelligence reports on Sith-pattern incidents and found no geographic match. The presence does not correspond to a location. It corresponds to the act of reaching through the Force itself. Bastila has not told Kaeranth about this because she cannot describe it in operational terms. She has told Meetra, in the three-hour conversation that Bastila will not discuss with anyone else. Meetra told her to stop meditating at maximum range. Bastila has not followed this advice. The Remnant needs her at maximum range. She knows the cost of this choice and is paying it.
+
+She is serious, disciplined, and accustomed to being used as an instrument. She has not figured out how to be something else. The Remnant has not given her the space to try.
+
+{{footnote Chapter 9: The Revanchist Remnant}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### Meetra Surik
+
+Meetra Surik is thirty-three years old and lives on a Remnant agricultural world where she teaches unarmed combat to local militia volunteers. She holds no military rank. She attends no governing council sessions. She grows vegetables. She teaches people to fight without weapons and without the Force. This is either the most radical political statement anyone in the Remnant is making or the quiet collapse of a person who cannot face what she was, depending on who you ask and which version of Meetra Surik you believe in.
+
+**The General.** She followed Revan to the Mandalorian Wars at nineteen. She was a Jedi Knight from the combat corps, trained in lightsaber technique and small-unit tactics at the Dantooine enclave. Before the wars, she was competent, respected, and unremarkable. Her instructors noted physical discipline, strong Force sensitivity, and an unusual capacity for empathy that they classified as a personality trait rather than a Force ability. The classification was wrong. It was a Force ability. They did not recognize it because the Order's taxonomy did not include a category for what Meetra Surik did unconsciously: she formed bonds.
+
+During the wars, she rose to field commander, leading a mixed company of Jedi and Republic soldiers through fourteen engagements in the Outer Rim. Her company performed above statistical expectation in every action, not because Surik was a tactical prodigy but because the soldiers around her fought better, recovered faster, and maintained cohesion under conditions that shattered comparable units. Her Force bonding operated beneath conscious awareness. She did not coordinate like Bastila, overriding individual decision-making with a centralized tactical feed. She connected. The soldiers near her felt each other's confidence, each other's training, each other's commitment to the person beside them. Unit morale in Surik's company was measured at levels the Republic's psych evaluators described as anomalous. They attributed it to leadership quality. They were half right.
+
+**The Wound.** During the final months of the war, Surik's company was stationed on a world targeted for an Ashen Campaign strike. The strike collapsed the local Force ecology. Every Force-sensitive organism within the strike radius died or suffered permanent degradation. Surik's company was in the radius. Her Jedi died. Her soldiers, the ones she had bonded with through the Force, died. She felt every death through the connections she had formed, a cascade of severed bonds that should have killed her the way a cascading power failure kills every system on the grid.
+
+Her mind did something unprecedented. It severed its own connection to the Force as a survival mechanism, cutting every bond at once. The result was not a clean disconnection. Surik became a wound in the Force, a void where connection should exist. Her presence destabilizes nearby Force users because the void pulls at their connections the way empty space pulls at atmosphere through a hull breach. People near Surik feel their emotions amplified, their Force connections destabilized, their sense of self blurred at the edges. The effect is unconscious, automatic, and inversely proportional to distance: the closer you stand to Meetra Surik, the more your connection to the Force bends toward her.
+
+After the wars, she returned to the Jedi Council on Coruscant. The Council examined her and found what she already suspected: the bonds she formed were not a personality trait. They were a Force phenomenon, and the wound had transformed them from a connective capacity into a consuming one. The Council asked her to submit to long-term observation. She agreed, spent eight months in a monitored enclave on Dantooine, and left without telling anyone where she was going. The eight months taught the Council nothing they could use. They taught Surik that institutions study phenomena they cannot control, and that being studied is not the same as being helped.
+
+She resurfaced in Remnant space two years ago. Kaeranth knows where she is and has not asked her to serve. The decision is deliberate. Surik served under Revan during the wars. She carries Revanchist loyalty. She also carries a condition that makes her dangerous to every Force user in proximity, and Kaeranth's military depends on Force-user integration.
+
+**Exile.** She teaches unarmed combat because she believes the Remnant's people should know how to defend themselves without relying on abilities that may not be available tomorrow. She teaches without the Force because she may not have it, or because she has chosen not to use it, or because the wound has transformed her relationship with the Force into something no one has seen before. The GM should decide which version serves the campaign. The setting provides the framework. The specifics belong to the table.
+
+Surik's proximity to Force-sensitive children in the agricultural settlement has produced effects the local medical officer has flagged. Children near Surik show accelerated Force sensitivity development. Surik is aware of this. She has not changed her behavior. She has started keeping a journal, written in the Mandalorian alphabet she learned during the wars, documenting the children's development and her own observations about the Force ecology of the settlement. The journal is the only record of what may be the most significant Force phenomenon occurring in Remnant space.
+
+If players encounter Surik, she will be quiet, direct, and uninterested in factional politics. She fought in the wars and does not discuss them. She will teach anyone who asks to fight with their hands. She will cook dinner. She will not explain herself, and players who press for answers about her connection to the Force will find that the question matters less than the fact that Meetra Surik has found a way to live in the galaxy without the thing the galaxy keeps fighting over.
+
+\page
+
+{{Ch2,tab}}
+
+##### Jolee Bindo
+
+Jolee Bindo is old. He is at least sixty-five, possibly older. He has lived on Kashyyyk for twenty years, in a hut in the Shadowlands that he built with Wookiee help and maintains with the stubbornness of a man who considers home improvement a philosophical position. He did not join the Remnant. The Remnant formed around him when its territory expanded to include Kashyyyk, and Bindo woke up one morning to find that his home address was now inside a government-in-exile he had not voted for.
+
+**The Old Man.** Bindo trained as a Jedi during the years before the Great Hyperspace War, in a Temple culture that predates the current crisis by a generation. He served as a Jedi Knight. He married a woman named Naylia, which the Order forbade. He trained Naylia in the Force, which the Order also forbade. Naylia fell to the dark side during a conflict Bindo does not name. He fought her. He could not kill her. She disappeared. The Order gave him a choice between expulsion and a review board. He walked out of the Temple on Coruscant and kept walking until he reached a planet where the trees were tall enough to hide in.
+
+He has lived on Kashyyyk since. He maintains a garden. He cooks. He talks to the Wookiees, who tolerate him because he learned Shyriiwook and because he once killed a kinrath that was threatening a Wookiee child with a fallen branch and a Force push that he described afterward as "mostly gravity." He has no official connection to the Jedi Order, the Remnant, the Concordat, or any faction. He has opinions about all of them.
+
+**Jolee's Perspective.** Remnant Jedi seek him out because he represents a version of the Jedi tradition that predates the current factional fracture. He trained before the Great Hyperspace War, served before the Mandalorian Wars, and left the Order before either conflict reshaped it. He carries perspective that living Council Masters do not, because he was not present for the decisions they are defending.
+
+He will tell visitors that the Jedi Council is frightened and governing out of fear, which produces the same results as governing out of malice but with better intentions. He will tell them that Revan was the most gifted student the Order produced in a century, and that the Order failed him the way institutions fail exceptional people: by trying to make him ordinary and then being surprised when he refused. He will tell them that Kaeranth is the most competent officer in the galaxy running the least viable military operation, and that the Remnant survives on momentum and Kaeranth's refusal to do the arithmetic that shows it cannot last. He will cook dinner while delivering these assessments. He will complain that the supply shipments do not include the spices he has been requesting for six months.
+
+His relationship with the Force is stable. At campaign start, this makes him anomalous among Force users of any faction. Every other practitioner reports degradation: contracted range, intermittent abilities, techniques that used to be reliable failing under stress. Bindo reports none of this. His telekinesis works. His Force sensitivity functions at the levels it always has. His precognition, which was never exceptional, remains at its baseline.
+
+He attributes this to the Shadowlands. The Kashyyyk forest canopy filters sunlight through hundreds of meters of vegetation, creating an enclosed ecosystem that operates by its own rules. The Shadowlands' Force ecology is dense, stable, and largely untouched by the wars that have scarred the rest of the galaxy. Bindo has lived inside that ecology for twenty years. He breathes it. His theory, stated with the confidence of a man who has had two decades to test it against experience, is that the Force crisis is a problem of disruption: wars, weapons, concentrated institutional use, the accumulated trauma of a galaxy that has spent the last twelve years destroying itself. The Shadowlands have avoided the disruption. Bindo has avoided the disruption by sitting inside them.
+
+Whether this theory is correct, or whether Bindo's stability comes from something else, is a question the GM can answer. The implications for Revan's scar tissue theory are significant: if Bindo is right, the Force recovers when left alone, and the crisis ends when the galaxy stops fighting. If Bindo is wrong, his stability may indicate something more unusual, and more dangerous, about the Kashyyyk Shadowlands' relationship to the Force.
+
+He has heard Revan's scar tissue theory secondhand, from a Remnant Jedi who visited six months ago. His response, delivered while stirring a pot of Kashyyyk root stew: "The boy spent two years in the Unknown Regions and came back saying the Force is sick. I've spent twenty years in a forest and the Force works fine. One of us went to the wrong place."
+
+\page
+
+{{Ch2,tab}}
+
+## The Remnant's Operations
+
+The Remnant fights a guerrilla war. It cannot match the Concordat in fleet strength, industrial capacity, or controlled territory. It compensates through mobility, intelligence, and the political cost it imposes on Concordat leadership every time a raid succeeds.
+
+##### Supply and Survival
+
+The Remnant's twenty-three worlds produce enough food for local populations but not enough to sustain a military fleet. Kaeranth's supply chain depends on three sources: agricultural surplus from allied worlds, purchased goods from Hutt intermediaries at marked-up prices, and captured Concordat supply convoys. The third source provides the best materiel and the highest risk. A failed convoy raid means lost ships and captured crew. The Concordat does not treat captured Remnant personnel as prisoners of war. It classifies them as mutineers under the Concordat Military Code, a distinction that allows indefinite detention without diplomatic negotiation.
+
+Onasi runs a parallel supply network through civilian channels: sympathetic merchants, neutral-system traders, and a handful of Czerka Corporation employees who sell surplus reconstruction materials at a discount because they have their own grievances with Czerka management. This network is fragile and penetrated. OFA field agents have identified at least two of Onasi's supply contacts. Onasi knows the network is compromised. He uses it anyway, because the alternative is starvation.
+
+##### Information Warfare
+
+**Lynira Saal**, a former HoloNet investigative journalist, runs the Remnant's propaganda operations from a converted cargo freighter called the *Open Signal*. Before the Concordat, Saal reported on corporate corruption in the Outer Rim for the Republic HoloNet News Service. When Concordat press restrictions classified Outer Rim military governor operations as state secrets, she published anyway. Her arrest, trial, and eighteen-month detention became a cause among press freedom advocates on the Core Worlds. A Remnant intelligence team extracted her during a prisoner transfer.
+
+Saal produces a regular HoloNet broadcast called *The Republic Endures*, which documents Concordat abuses using leaked OFA reports, refugee testimony, and footage from military governor systems. The broadcast reaches an estimated forty million viewers across Concordat and neutral space. The Concordat's Communications Authority jams it. Saal's technicians reroute it. The jamming-and-rerouting cycle has become routine.
+
+Saal is good at her job and honest about its contradictions. She broadcasts the Remnant's message: democratic restoration, civil liberties, the rule of law. She also lives in the Remnant, which conducts supply raids that kill Concordat crew, operates intelligence networks that compromise civilian lives, and maintains Revan as a figurehead whose mental state would undermine the movement's credibility if broadcast on the same channel. Saal has not reported on Revan's condition. She tells herself this is operational security. She knows it is the same kind of editorial compromise she left the Concordat to escape.
+
+Her team consists of eight journalists, three holocam operators, and a Sullustan slicer named Neb Suun who can penetrate Concordat encryption protocols faster than the Communications Authority can update them. Suun has started asking questions about Revan that Saal does not want to answer.
+
+{{footnote Chapter 9: The Revanchist Remnant}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### The Mandalorian Defector
+
+**Bralor Vizsla** left the Concordat because Ka'halar bound his clan to a government, not a fight. He is a veteran of the Mandalorian Wars who served under Mandalore the Vindicated and watched the signing of the Concordat from the ranks with his teeth clenched.
+
+Mandalorian tradition accepts defeat. Mandalore lost. That is the outcome of the duel, and Bralor does not dispute it. His objection is to what came after: Mandalorian warriors garrisoning worlds they did not conquer, standing guard over Republic reconstruction projects, serving as a police force for a government that won its war by killing their leader. He told his clan captain this. His clan captain told him to follow orders. Bralor took his armor, his weapons, and a shuttle, and left Mandalorian space.
+
+He fights for the Remnant because the Remnant fights. The ideological justifications, democratic restoration, civil liberties, mean less to him than the fact that Kaeranth's fleet operations require soldiers who can board a supply convoy, disable its crew, and strip its cargo in under twenty minutes. Bralor can do this. He has trained forty Remnant marines in Mandalorian boarding tactics, and his teams run the most effective supply raids in Kaeranth's operational inventory.
+
+His problem is status. The Remnant's leadership values him as a military asset and a propaganda symbol: a Mandalorian who rejected the Concordat validates the Remnant's claim that the Concordat fails even its own allies. Bralor has given two interviews to Lynira Saal for *The Republic Endures* and hated both. He is a soldier, not a spokesperson. He has started declining media requests, which creates friction with Onasi's diplomatic operations. Onasi needs Bralor's story. Bralor needs Onasi to stop asking.
+
+His deeper problem: he is starting to respect the Remnant's cause on its own terms. He joined because they offered combat. He stays because he has watched Dorak build a judicial system for twenty-three worlds with six legal scholars and a converted freighter bay, and because Onasi's seven-year-old son calls Bralor *ba'vodu* (uncle) without knowing what the word costs a Mandalorian who has no clan. Bralor did not come to the Remnant for a family. He is getting one, and it scares him more than any boarding action.
+
+##### Commander Ren Akaavi
+
+Akaavi is thirty-one years old and commands the Remnant's Second Battle Group: twelve capital ships, thirty-six fighter squadrons, and the Remnant's most aggressive operational tempo. She was a child during the wars, too young to serve, old enough to lose a father at the Burning of Duro and a mother to the refugee camps on Telos.
+
+She joined the Concordat military at seventeen because it was the only institution offering structure and purpose to war orphans. She excelled through the officer academy, graduated with tactical honors, and served two years as a patrol lieutenant in the Outer Rim. Her defection to the Remnant was not ideological. Her commanding officer ordered her patrol group to intercept a civilian medical transport carrying kolto to a Remnant-sympathetic world. The transport carried twelve crew and four hundred liters of kolto bound for a children's hospital. Akaavi refused the order, was relieved of command, and was facing court-martial when Kaeranth's intelligence network contacted her. She took her patrol corvette and its willing crew to Remnant space.
+
+That was three years ago. Kaeranth promoted her twice: once for competence, once because her second-in-command was killed in a convoy raid and no one else could hold the battle group together. She leads through precision, preparation, and an operational doctrine that prioritizes crew survival over strategic gain. Her battle group has the lowest casualty rate in the Remnant fleet and the highest operational completion rate. Kaeranth considers her the Remnant's best tactical officer. Revan, during a lucid period, told her she reminded him of Malak before the wars. She has not decided whether that was a compliment.
+
+Akaavi's problem is Revan. She has never met the Revan of the Mandalorian Wars, the strategist and visionary. She has met the Revan of the *Vigil*, and she thinks Kaeranth's loyalty to him is the Remnant's single greatest vulnerability. She has said this in private to Onasi, who agreed, and to Kaeranth, who told her to focus on her battle group. She focuses on her battle group. She also maintains an independent comm channel with Onasi and Bastila Shan, and the three of them have discussed, in careful language, what happens to the Remnant if Revan's condition deteriorates past the point of useful fiction.
+
+\page
+
+{{Ch2,tab}}
+
+## Internal Tensions
+
+The Remnant presents itself as the legitimate Republic restored. The gaps between that claim and daily operations are where the Remnant's people live.
+
+**Command vs. Council.** Kaeranth runs the military. Dorak runs civilian governance. Onasi runs diplomacy and intelligence. The three agree on objectives and disagree on methods. Kaeranth prioritizes military survival: fleet readiness, supply security, base concealment. Dorak prioritizes institutional legitimacy: legal records, governance standards, the principle that the Remnant must govern its twenty-three worlds by Republic law or forfeit its claim to be the Republic. Onasi prioritizes recruitment: every diplomatic contact, every intelligence operation, every propaganda broadcast serves the goal of growing the Remnant's support base fast enough to survive a Concordat offensive.
+
+These priorities conflict daily. Kaeranth's supply raids violate the trade laws Dorak insists on maintaining. Dorak's governance standards consume administrative resources Kaeranth needs for fleet operations. Onasi's back-channel contacts with Concordat officials create security risks that Kaeranth considers unacceptable. The governing council meets weekly. The meetings last between two hours and six hours. Dorak takes minutes. The minutes are diplomatic.
+
+**The Revan Problem.** Revan is the Remnant's figurehead, its greatest recruitment asset, and its most destabilizing element. His name draws defectors, sympathizers, and resources. His condition repels anyone who spends time near him. Kaeranth, Onasi, and Akaavi manage this through information control: Revan's public communications are edited by Kaeranth's staff. His strategic directives are interpreted by Kaeranth before distribution. His medical status is classified. The rank and file believe their leader is engaged in vital research. The senior staff know their leader may be losing his mind. Both beliefs contain truth.
+
+**Remnant Governance.** The Remnant governs twenty-three worlds. Some of those worlds chose the Remnant. Some were outside Concordat control when the Remnant formed and were absorbed by proximity. The citizens of those worlds experience Remnant governance as a mix of idealistic legal standards and material privation. Dorak's administration provides fair courts, elected local councils, and civil liberties protections that exceed Concordat standards. It also provides rationing, military conscription quotas for defense volunteers, and a permanent sense of impermanence: everyone in the Remnant knows they are one successful Concordat offensive away from annexation.
+
+**The Moral Question.** The Remnant claims to fight for democracy. It is governed by three unelected leaders. It claims to oppose authoritarian surveillance. Its intelligence operations monitor Concordat defectors for loyalty. It claims to represent the Republic. Its military conducts raids that kill Concordat citizens who are, by the Remnant's own legal theory, fellow Republicans. Every member of the Remnant lives with these contradictions. Some resolve them through ideology: wartime necessity. Some resolve them through compartmentalization: my job is my job. Some do not resolve them at all and drink too much and pick fights in the mess hall. A player character in the Remnant will encounter all three coping strategies within their first week.
+
+**The Shadow.** Kaeranth, Onasi, and Bastila have each, through separate channels, encountered evidence of a threat none of them can name. Kaeranth holds Revan's warning about "one who eats" and "one who refuses to die." Onasi's analysts have flagged twenty-seven incidents matching a pattern they cannot explain: targeted deaths of Force users, stolen Rakatan research, communications from relay stations crewed by corpses. Bastila has felt something at the edge of her meditation field, vast and hungry, reaching through the Force itself. None of them have shared their full picture with each other. Kaeranth has not told Onasi that his intelligence query originates from Revan. Onasi has not told Kaeranth that the pattern matches Concordat Intelligence reports he obtained through back channels. Bastila has told Meetra but no one else. The Sith Triumvirate is consolidating in the shadows, and the Remnant's leadership is assembling the pieces of a puzzle they do not know they share.
 
 {{note
 ##### Remnant Character Hooks
-- A guerrilla pilot who's flown supply runs through Concordat patrols for three years and is running out of luck
-- A Jedi Commander who followed Revan out of the Temple and now isn't sure what she's following
-- A defector from the Concordat military who chose the Remnant because the alternative was complicity
-- An intelligence operative who's seen Revan's research notes and can't decide whether they're revelation or psychosis
+- A guerrilla pilot who has flown supply runs through Concordat patrols for three years and has learned that the patrol schedules she relies on may have been fed to the Remnant as disinformation
+- A Jedi Commander who followed Revan out of the Temple and has started having Force visions that match Revan's diagrams in ways she cannot explain
+- A defector from the Concordat military whose family is still on a Concordat world and who has learned the OFA reclassified her brother as a Tier 3 security risk
+- An intelligence operative who has seen Revan's research notes and recognized a reference to something she found independently in a Sith holocron
+- One of Bralor's marine trainees who discovered an aptitude for Mandalorian boarding tactics and is now questioning what that says about her
+- A medical officer on a Remnant agricultural world who has noticed that Force-sensitive children near Meetra Surik's settlement show anomalous development patterns
+- A journalist on Saal's team who was assigned to interview Revan and came back with footage that Saal ordered destroyed
+- An elected local councillor on a Remnant world who believes the Remnant's legal standards are better than the Concordat's and has started wondering whether twenty-three worlds might be enough
+- One of Bastila's five students who has started dreaming about a presence that consumes everything it touches, and whose dreams have begun bleeding into the sleep of other Force users on the same ship
+- A Remnant intelligence analyst assigned to Onasi's Sith-pattern investigation who has traced the twenty-seven incidents to a single set of coordinates that correspond to nothing on any navigational chart
 }}
 
 {{footnote Chapter 9: The Revanchist Remnant}}
@@ -1164,70 +1686,277 @@ The Remnant's rank and file are split. Some worship Revan as a returned savior. 
 {{Ch2,tab}}
 
 # Chapter 10
-### The Neo-Mandalorians
+### The Mandalorians
 
-**What they claim:** The Concordat is dishonor. Mandalore lost in single combat and accepted servitude rather than death, violating the deepest tenets of Mandalorian tradition. The Neo-Mandalorians will demonstrate true Mandalorian values through combat.
+The Mandalorian people are the Concordat's second pillar and its most volatile. Forty million Mandalorians live across Concordat space, the Neo-Mandalorian Coalition, and the gaps between. They share an armor tradition, a language, and a set of cultural tenets called the Resol'nare. They agree on almost nothing else.
 
-**What they do:** The Coalition operates as a nomadic military force. Mobile bases on uninhabited moons and asteroid installations. A raiding fleet that hits Concordat and Remnant shipping. Canderous Ordo leads through personal combat prowess. He has killed seven challengers to his authority in four years. He is growing tired of killing subordinates and has not figured out how to lead without it.
+Four years after the Concordat's signing, Mandalorian culture is fracturing along lines the wars exposed and the peace widened. Clans that fought side by side at Onderon and Taris garrison opposite sides of the same hyperspace lanes. Families split between Concordat and Coalition trade messages through intermediaries or do not trade messages at all. The question that unites and divides them is the same question that has defined Mandalorian identity for thirty thousand years: what does it cost to be Mandalorian, and who decides?
 
-The Neo-Mandalorians are not a unified faction. They are a coalition of:
-- **Traditionalist clans** (Ordo loyalists, fragments of Clan Jendri, Clan Cadera's orthodox wing) who believe the Concordat violated Mandalorian honor
-- **Mercenary companies** who see the Coalition as an employment opportunity
-- **Ideological purists** who argue the Doctrine of Necessary Strength demands Mandalorian independence from all outsider governance
-- **Refugees and outcasts** who ended up with the Coalition because no one else would take them
+## The Resol'nare
 
-The Neo-Mandalorians are not villains. They are people committed to an ideal that the galaxy may have outgrown, and they have not yet decided what they're willing to sacrifice to preserve it.
+Six tenets. Every Mandalorian knows them before they can write their own name.
 
-## Canderous Ordo
+Wear the armor. Speak the language. Defend yourself and your clan. Raise your children as Mandalorians. Contribute to the clan's welfare. Answer the call of Mandalore.
 
-Canderous fought on Onderon in Year Two. He was twenty-three years old, and the beast-riders broke his collarbone in three places before he broke their defensive line. He called it the best day of his life. He meant it. Mandalorians measure themselves against the best fight they've ever had, and Onderon was his.
+The Resol'nare are older than recorded Mandalorian history. They predate spaceflight, the Taung migrations, the first contact with the Republic. Mandalorian scholars debate whether the tenets were codified by a single lawgiver or crystallized from clan practice over centuries. The debate is academic. The tenets function as constitutional law, religious obligation, and personal identity marker at once.
 
-He watched those same beast-riders die at the Second Siege, their bonded animals turning on them as the Ashen strike ripped the Force from the jungle. He did not call that day anything. He stopped talking about Onderon.
+Interpretation varies. The first tenet, *wear the armor*, is straightforward for a warrior. A Mandalorian farmer on Dxun wears beskar-composite work armor in the kkanmur grain fields because the humidity corrodes unprotected skin and because the armor marks her as Mandalorian to anyone who sees her. A Mandalorian merchant on Coruscant wears a breastplate under civilian clothes and hopes Republic customs agents do not search too carefully. A Neo-Mandalorian in Canderous Ordo's Coalition wears full beskar plate because she cannot afford the political consequences of being seen without it.
 
-Canderous rejected the Concordat for reasons that are ideological and personal in ways he can no longer separate. The Doctrine of Necessary Strength says strength is self-forged. Mandalore accepted mercy from Malak. Mercy is dependency. Dependency is the thing the Doctrine was created to destroy. Canderous can follow the logic from premise to conclusion without flinching. He flinches at the part he doesn't say aloud: that Mandalore, the man he followed into the Expansion, the man who gave the Doctrine its authority, broke the Doctrine's central promise by accepting life on Malak's terms.
+The sixth tenet, *answer the call of Mandalore*, is the fracture point. Mandalore the Vindicated sits on Coruscant as Second Consul. Canderous Ordo claims the title from a mobile base in the Outer Rim. A Concordat Mandalorian obeys the Vindicated and considers Canderous a deserter. A Neo-Mandalorian obeys Canderous and considers the Vindicated a prisoner performing loyalty for his captor. Both cite the Resol'nare as authority for their position.
 
-He leads the Coalition through combat prowess and personal conviction. Seven challengers in four years. Each one forced him to kill a subordinate to retain command. Mandalorian law permits this. Mandalorian culture respects it. Canderous does not sleep well after any of them. He has begun to suspect that a leader who must kill his own people to maintain authority is not leading but surviving, and that the distinction matters.
+## Clan Structure
 
-His sister Veera chose the Concordat. They have not spoken since the split. Canderous keeps a holographic message she sent him, three sentences asking him to come home, in a compartment in his vambrace. He has never played it. He has never deleted it.
+A Mandalorian clan is a political unit, an economic cooperative, and an extended family. Some clans trace bloodlines back thousands of years. Others formed last month when a dozen warriors swore *gai bal manda* and chose a name.
 
-## A Culture Divided
+The **aliit'alor** leads the clan. Selection methods vary: some clans elect, some follow hereditary succession, some use combat trials, and most use a combination depending on circumstances. An aliit'alor holds authority over clan resources, internal disputes, marriage contracts, and military deployments. In peacetime, the role resembles a village mayor with a weapons rack. In wartime, the aliit'alor commands.
 
-Before the wars, Mandalorian life was defined by three things: the clan, the Resol'nare, and the frontier.
+Below the aliit'alor, clan organization follows function rather than rigid hierarchy. A clan needs fighters, smiths, farmers, medics, quartermasters, scouts, and teachers. Rank comes from competence in a needed role, not from birth. The Mandalorian phrase *gar taldin ni jaonyc; gar sa buir, ori'wadaas'la* ("nobody cares who your father was, only the father you'll be") is a proverb, a legal principle, and a recruitment pitch.
 
-The **Resol'nare** — the six core tenets of Mandalorian identity — required every Mandalorian to wear armor, speak Mando'a, defend their clan, raise their children as Mandalorians, contribute to the clan's welfare, and answer the call of Mandalore. These were not abstractions. They structured daily life the way religious law structures an observant community.
+**Adoption** through *gai bal manda* makes this literal. A Twi'lek, a Wookiee, a Cathar, a Sith Pureblood: any being of any species who swears the Resol'nare and earns a clan's acceptance is Mandalorian. Mandalorian demographics are more diverse than outsiders assume. Roughly forty percent of Mandalorians in the current generation are non-human, a number that has increased since the wars as conquered populations integrated and refugees sought the protection of clan structure.
 
-A Mandalorian farmer on **Dxun** woke before dawn, worked the kkanmur grain fields (a hardy Dxun cereal crop that grows in the moon's dense humidity) in beskar-composite work armor (functional, not ceremonial — the climate on Dxun required it), spoke Mando'a at home and Basic for trade, trained with weapons for an hour each evening, and taught their children to do the same. The rhythm was agricultural and martial at once.
-
-Mandalorian society before the wars was not wealthy. The clans controlled resource-rich worlds in the Outer Rim, but their economy was extractive rather than industrial. They mined cortosis and beskar. They hunted. They raided when times were lean. They traded with whoever offered fair terms and fought whoever offered unfair ones.
-
-Women and men held equivalent social status in most clans (warriors were warriors, farmers were farmers, and gender was less relevant than competence). The Mandalorian adoption tradition — *gai bal manda*, taking a child of any species into a clan — meant that Mandalorian demographics were more diverse than outsiders assumed. A Twi'lek raised Mandalorian was Mandalorian. A human born on Coruscant who never wore armor was not.
-
-The Concordat split this culture along a fault line that was already present.
-
-**Concordat Mandalorians** maintain their warrior culture, their armor, their training traditions, and their clan structures. They also answer to Republic administrative authority on matters of civilian governance, taxation, and interstellar law. A Concordat Mandalorian warrior trains with her clan, serves in a joint military unit with Republic regulars, answers to a Mandalorian chieftain for matters of honor and to a Republic officer for matters of strategy, and goes home to a settlement where the grain distribution is managed by a Republic bureaucrat instead of a Mandalorian quartermaster.
-
-Some find this livable. The grain arrives on time. The settlements have medical facilities. The children learn in schools that teach both Mando'a and Basic. Veera Ordo's vision of a functioning hybrid society is becoming real in some places.
+Gender carries no formal distinction in Mandalorian law or military custom. Warriors are warriors. Farmers are farmers. Competence determines role. The Mandalorian language does not mark gender in its pronouns.
 
 \page
 
 {{Ch2,tab}}
 
-Others find it suffocating. The armor is the same, but the meaning has changed. A Mandalorian warrior serving the Concordat is an employee, not a free warrior. The Resol'nare says to answer Mandalore's call — but Mandalore answers to Malak, so whose call are you answering?
+## Justice and Governance
 
-**Neo-Mandalorian** life is harder and freer. Canderous Ordo's Coalition operates as a nomadic military force: mobile bases, raiding fleets, and temporary settlements on uninhabited moons and asteroids. Resources are scarce. Discipline is maintained through combat challenges. The Resol'nare is observed with fierce orthodoxy because it's the only structure they have left.
+Mandalorian justice operates through the *kyr'am gaanader*, a system of clan-level arbitration that predates contact with Republic legal traditions.
 
-A Neo-Mandalorian warrior wakes in a barracks carved into an asteroid, trains with whatever weapons are available, raids a supply convoy if the fleet commanders have identified a target, and spends the evening maintaining armor that is harder to repair each month without access to Mandalorian forges that the Concordat now controls.
+Disputes between individuals within a clan go to the aliit'alor. The aliit'alor hears both sides, consults with senior clan members, and renders a verdict. Penalties range from restitution payments to exile, with combat trial available as a last resort when both parties demand it. Murder carries a mandatory penalty: the killer's possessions transfer to the victim's family, and the killer serves the family for a period determined by the aliit'alor. If the family refuses the killer's service, the killer is exiled.
 
-Children born into the Coalition know nothing but this life. They are raised hard, trained young, and told that they are the true inheritors of Mandalorian tradition. Whether this is liberation or deprivation depends on who you ask.
+Disputes between clans go to a *ver'alor*, a mediator chosen by both clans from a third clan with no stake in the outcome. If mediation fails, the dispute escalates to a gathering where multiple clan leaders hear the case. If the gathering fails, the dispute resolves through combat between champions. This system works when clans respect the process. It breaks down when they do not, and the wars gave clans reasons not to.
+
+Under the Concordat, Mandalorian justice collides with Republic law. A Mandalorian warrior who kills a Republic citizen in a combat trial has committed murder under Republic statute and exercised a legal right under Mandalorian custom. Fieldmarshal Kelborn's staff spends a quarter of their administrative time resolving jurisdictional conflicts between Republic courts and clan arbitration. The Concordat charter grants Mandalorian cultural legal autonomy for internal clan matters, but "internal" is a flexible word when Mandalorian garrisons police twenty-seven Republic worlds.
+
+## The Clans
+
+Eight major clans and dozens of minor ones. Each has a territory, a reputation, and a set of problems that players can walk into.
+
+##### Clan Ordo
+
+The Ordo name carries more weight than any other clan's. Mandalore the Vindicated was born Ordo. Canderous Ordo leads the Neo-Mandalorian Coalition. The clan that produced both leaders split down the middle when the Concordat was signed, and neither half has recovered.
+
+**Veera Ordo** holds the Concordat side. She commands the largest single contingent of Concordat Mandalorian forces: six thousand warriors spread across twelve garrison worlds, with Dxun as the clan seat. Veera argued for Republic partnership years before the Concordat made it policy. She runs Dxun's garrison as a proof of concept: Mandalorian warriors and Republic administrators sharing governance, Mandalorian children learning Basic alongside Mando'a in schools that Veera's staff built, local non-Mandalorian populations offered auxiliary training and, after three years, *gai bal manda* adoption into Ordo if they earn it.
+
+Her problem is economic. Dxun's kkanmur grain harvest feeds four garrison worlds, but the Concordat's central taxation system siphons forty percent of clan agricultural revenue to Core World reconstruction. Veera's farmers grow food that feeds Telos, a world most of them have never seen. The Senate calls this shared sacrifice. Veera's quartermasters call it extraction. She has filed formal revenue protests through Eres Vynt's civil governance office. The protests are pending from nine months ago.
+
+Her other problem is political. Cassus Fett's clan operates on Dxun as well, and Fett's people have been recruiting local Onderonian populations into Fett auxiliary units, not Ordo ones. Fett is building a parallel power base on Ordo territory. Veera knows it. She has not confronted Fett because a public clan dispute on Dxun would give the Senate Restorationists evidence that Mandalorian self-governance is failing.
+
+Her brother Canderous sends recruiter envoys to Dxun twice a year. They arrive with Coalition propaganda and leave with Ordo warriors who decided the Concordat version of Mandalorian life is not Mandalorian enough. Veera loses between forty and sixty warriors each cycle. She does not discuss Canderous in public.
+
+A player character on Dxun operates in Veera's house without necessarily working for it. Her garrison is a living integration experiment: Republic administrators, Mandalorian warriors, Onderonian civilians, and *gai bal manda* adoptees navigating the same streets with different legal standing and accumulated grievances. Players will find work here regardless of faction affiliation — what Veera needs are people who can move across those community lines without requiring her to declare which one they represent. She will not tell players what she cannot say publicly. She will tell them plainly what she needs and what she can offer. The gap between those two things is where most of the actual work lives.
+
+{{footnote Chapter 10: The Mandalorians}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### Clan Fett
+
+Cassus Fett was the first to read the Concordat's terms and see the opportunity. His clan joined the Concordat before the ink dried, because Cassus Fett does not make decisions based on honor. He makes them based on leverage.
+
+Clan Fett fields the largest Mandalorian contingent in the Concordat military: nine thousand warriors in integrated units across the Outer Rim. Fett holds the rank of Rally Master and reports to Fieldmarshal Kelborn in theory, to Malak's Security Council in practice. His warriors garrison Dxun, Onderon, three Outer Rim mining stations, and the approaches to Mandalorian space along the Hydian Way.
+
+Fett's position is unusual among Mandalorian leaders. He is loyal to the Concordat as an institution, not to Mandalore as a person. If Mandalore challenged the Concordat's authority, Fett would side with Malak and bring half the integrated clans with him.
+
+His current project is institutional. Fett is building a Mandalorian officer corps within the Concordat military: Mandalorian warriors trained in Republic command doctrine, qualified for Republic staff positions, embedded in Republic planning structures. His argument is practical. Mandalorian warriors who hold Republic commissions have legal protections that auxiliary troops do not. They draw Republic pay. They accumulate Republic pensions. They gain access to Republic military intelligence. In ten years, Fett expects to have placed Mandalorian officers in every sector command in the Concordat fleet.
+
+Kelborn sees what Fett is doing and has not stopped it because the officers Fett trains are competent. Blocking Fett would require a political fight Kelborn prefers to avoid. Mandalore considers it a slow betrayal of Mandalorian independence. Veera Ordo recognizes this as her own integration vision executed without her consent and without cultural safeguards that she considers essential.
+
+Fett maintains private correspondence with Senator Lorso of Telos. The content of their communication is unknown to the Security Council. Kelborn suspects a mutual intelligence exchange. Valio's OFA has intercepted fragments but not enough to act on.
+
+##### Clan Kryze
+
+Kryze argued against the wars. When Mandalore the Vindicated called the clans to Dxun and proposed the Doctrine of Necessary Strength, Aliit'alor Satine Kryze stood and said the Doctrine could be fulfilled through demonstration of Mandalorian diplomatic and economic capability. The clans listened, weighed her argument, and chose war.
+
+Kryze fought in the wars because the Resol'nare demanded it. They served with distinction at Taris and in the Mid Rim campaigns. Satine's brother Dorgo commanded Kryze infantry at the Serroco expedition and lost his right arm to a Republic ambush. The clan paid its blood price without reservation and without pretending the war had been wise.
+
+After the Concordat, Kryze occupied a position no other clan wanted: the faction that had been right. Satine Kryze sits on the Concordat's Mandalorian Affairs Advisory Board, a civilian body with no enforcement authority and considerable moral weight. She advocates for demilitarization of Mandalorian garrison worlds, transition to civilian Mandalorian governance, and formal diplomatic engagement with the Remnant. Her proposals are popular with Concordat Senatorial Integrationists and unpopular with Mandalorian military commanders who consider demilitarization surrender by another name.
+
+Kryze controls Kalevala, a manufacturing world producing civilian goods, agricultural equipment, and medical supplies. Their economy does not depend on military contracts, which gives Satine leverage that purely military clans lack: she can oppose Concordat military policy without threatening her clan's income. The Mandalorian garrison commanders dismiss Kryze as soft. Kryze quartermasters point out that their clan is the only one not dependent on Concordat military subsidies.
+
+Satine's daughter Korkie trains at the Kalevala academy. He is fifteen, committed to his mother's diplomatic vision, and scheduled for a diplomatic apprenticeship on Coruscant next year. Whether he arrives will depend on whether the Security Council approves Kryze's request for civilian transit credentials, a request that has been delayed for four months by the OFA's background review process.
+
+A player character in Satine Kryze's diplomatic orbit will find a politician who says what she means and expects the same from everyone she works with. Her operations on Coruscant need people who can move between Mandalorian and Republic institutional spaces without triggering either community's baseline suspicion: someone who can be in a room with a Security Council staffer and a Mandalorian clan captain simultaneously, and not become the problem. She asks more of people who earn her trust than most principals would. She also provides accurate information, which is rarer in Coruscant politics than any credential.
+
+\page
+
+{{Ch2,tab}}
+
+##### Clan Skirata
+
+Jarar the Elder gave the Doctrine of Necessary Strength its canonical language. His grandson, Rav Skirata, leads the clan now, and the irony weighs on him.
+
+Clan Skirata occupies Mandalorian space's agricultural heartland: three temperate worlds along the Outer Rim's trailing edge, producing grain, livestock, and processed protein for distribution across Concordat Mandalorian territory. Before the wars, Skirata was a farming clan with a warrior tradition. After the wars, Skirata became a logistics operation with a farming tradition. The distinction erodes Rav's patience.
+
+The Concordat's taxation and distribution system treats Skirata's agricultural output as a shared Mandalorian resource. Skirata grain feeds garrisons on twelve worlds. Rav's farmers do the planting, harvesting, processing, and shipping. Republic administrators set the prices. Rav has petitioned for agricultural autonomy three times. Each petition has been referred to Fieldmarshal Kelborn's office, where it sits behind garrison supply contracts and military procurement disputes.
+
+Rav's frustration makes him a natural ally for Canderous Ordo's Coalition recruiters, who arrive every season with promises of Mandalorian independence. He has refused them each time, because Rav understands something the Coalition does not: three agricultural worlds cannot defend themselves against Concordat military reprisal, and the Coalition cannot project enough force to protect them. He stays with the Concordat because the alternative is starvation.
+
+His wife, Tera Skirata, runs the clan's medical program. She trained as a field medic during the wars and now manages eighteen rural clinics across Skirata territory. The clinics serve Mandalorian and non-Mandalorian populations alike, which makes Tera popular with local communities and problematic for Concordat administrators who prefer clear jurisdictional lines. Tera's clinics operate under Mandalorian medical custom, which does not require patient identity registration. The OFA considers this a compliance gap. Tera considers it medicine.
+
+A player character who needs treatment without OFA registration, without Concordat documentation, at the wrong hours — Tera Skirata's clinics are the right place, if they know to look. She will treat what arrived and will not ask for a name. She will also ask, over the course of treatment, whether the patient is sleeping correctly, whether the same scenarios keep replaying, whether anyone nearby has noticed changes. This is not interrogation. Players who pass through her clinics may leave with more than the presenting wound treated.
+
+##### Clan Cadera
+
+Cadera is the conscience that nobody wants at the table.
+
+Before the wars, Clan Cadera produced Mandalorian philosophers, historians, and keepers of oral tradition. Their warriors served competently, but the clan's reputation rested on its scholars: the Cadera archives on Concord Dawn contained the oldest continuous records of Mandalorian custom, legal precedent, and doctrinal interpretation in existence.
+
+The Concordat split Cadera three ways. The orthodox wing, led by Aliit'alor Jicoln Cadera, rejected the Concordat as a violation of the sixth tenet: Mandalore answered Malak's terms, which meant answering a non-Mandalorian's authority, which meant Mandalore had ceased to be Mandalore. Jicoln took his followers to the Coalition, where he serves as Canderous Ordo's closest advisor and the Coalition's principal ideological authority. He drafts the rhetoric that Neo-Mandalorian recruiters carry to Concordat settlements and believes every word of it.
+
+A second faction stayed with the Concordat under the leadership of Jicoln's sister, Maraelle Cadera. Maraelle argues that the Resol'nare's sixth tenet means answering Mandalore's call, and Mandalore called his people to the Concordat. Obedience to Mandalore is the tenet. The Concordat is the call. Her reading is sound in law and unpopular in practice. She maintains the Cadera archives on Concord Dawn, which she opened to Republic scholars over Jicoln's furious objection. The archives are now the primary source for Republic academic study of Mandalorian culture, which Jicoln considers a desecration and Maraelle considers proof that Mandalorian civilization is worth studying rather than fighting about.
+
+A third faction left both the Concordat and the Coalition. Eleven Cadera scholars scattered to neutral worlds: Manaan, Nar Shaddaa, the Mid Rim free ports. They maintain a correspondence network, copying and distributing Mandalorian texts to anyone who asks. They hold no political position and no military capacity, but they have the texts, and the texts are older than any faction.
+
+A player character dealing with Clan Cadera navigates a split running through the same family. Jicoln in the Coalition provides ideological clarity and zero flexibility. Maraelle on Concord Dawn provides institutional access and will work with almost anyone whose goals are compatible with Mandalorian cultural preservation. The eleven scholars on neutral worlds are harder to find and more willing to discuss what neither Jicoln nor Maraelle will address in public — including why three archive texts were altered after the Republic scholars arrived, and by whom. All three Cadera factions are useful. A player working with one will be watched by the others from the first meeting.
+
+{{footnote Chapter 10: The Mandalorians}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+##### Clan Jendri
+
+Jendri is steeped in the blood of the Ves'kaan genocide.
+
+Fourteen thousand Cathar civilians died at the Ves'kaan concentration zone under Jendri command. The chieftain's children had been killed in insurgent ambushes over three months of occupation duty, and the response was a two-day massacre that Cassus Fett classified as "collateral pacification." Fett did not punish the perpetrators. Mandalore did not punish Fett.
+
+Clan Jendri fractured after the Concordat. The main body, roughly two thousand warriors and their families, followed Canderous Ordo into the Coalition. They carry the clan name and the clan's reputation, and both follow them into every negotiation, every gathering, every room where a Cathar is present. Jendri warriors in the Coalition are competent fighters. They are also the clan that other clans reference when they want to argue that Mandalorian honor has limits.
+
+A smaller Jendri remnant, three hundred or so, stayed in Concordat space under a new aliit'alor named Droga Jendri. Droga was fourteen during Ves'kaan. She did not participate. She inherited a name she cannot shed and a debt she did not incur. She has petitioned the Concordat Senate for formal reparations to Cathar refugee communities, citing Mandalorian custom that holds a clan responsible for the actions of its warriors. The petition has been in committee for two years. Senator Rhin Thul of Alderaan supports it. The Mandalorian Affairs Advisory Board has not taken a position, because supporting Jendri reparations implies that Mandalorian military conduct during the wars was criminal, and that implication threatens the legal foundation of the Concordat's integrated military.
+
+Droga Jendri and Satine Kryze correspond. They share a conviction that Mandalorian culture must account for what the wars did, not only to the galaxy, but to the Mandalorians who fought them.
+
+A player character who works with Droga Jendri steps into the most legally fraught space in Mandalorian politics. She needs evidence, not sympathy: documentation of the Ves'kaan chain of command, records that assign specific orders to specific names. The Cadera archives on Concord Dawn are the most likely source. The Concordat military records system is the other. Neither is accessible without work. Players who retrieve that evidence change what her petition can argue — and what it can threaten.
+
+##### Clan Vizla
+
+Vizla's loyalty follows power. The clan joined the Concordat alongside Fett's faction, and their three thousand warriors serve in Concordat military units across the Mid Rim. Aliit'alor Tarre Vizla (namesake of the ancient Mandalorian Jedi, though official Vizla genealogies are vague about whether the connection is blood or aspiration) runs the clan from a garrison base on Althir III.
+
+Vizla's military record is clean. Their warriors serve competently, integrate smoothly with Republic units, and file their reports on time. Tarre attends Mandalorian clan councils, votes with whichever faction appears strongest, and maintains relationships with Fett, Ordo, and Kryze without committing to any of them.
+
+The deeper story is economic. Vizla controls three beskar mining operations in the Outer Rim: small deposits, not enough to rival the main Mandalorian forges, but enough to produce limited quantities of beskar alloy for armor repair and new fabrication. Beskar is the most valuable metal in Mandalorian culture. A functioning beskar forge is a strategic asset that gives Tarre leverage disproportionate to his clan's military size.
+
+The Concordat has requested that Vizla's beskar production be integrated into the centralized military supply chain. Tarre has delayed compliance for eighteen months by filing production audits, safety reviews, and environmental impact assessments, all of which are legitimate under Concordat industrial regulation and all of which are designed to keep Republic administrators away from his forges. Kelborn knows what Tarre is doing. He has not intervened because Kelborn's own maintenance teams depend on Vizla beskar allocations.
+
+Bralor Vizsla, who serves with the Remnant, left Clan Vizla before the Concordat. Tarre considers Bralor a deserter. Bralor considers Tarre a profiteer. They have not spoken in four years.
+
+A player character working with Tarre Vizla will find a man playing a slow game he expects to win. He sets prices, delivers materials, and meets Concordat compliance requirements at the minimum rate necessary to avoid attention. The forge operations are the thing he will not discuss directly. A player who wants access to Vizla beskar outside Concordat supply channels will need to approach him through the commercial relationships he maintains with parties who ask fewer questions than Republic administrators. What Tarre does not advertise: those relationships already exist, and he has been waiting to be asked.
+
+\page
+
+{{Ch2,tab}}
+
+## Mandalorian Economy
+
+Mandalorian economic life before the wars was extractive: mining, hunting, raiding when necessary, trading when profitable. The wars expanded Mandalorian territory from a handful of Outer Rim systems to sixty occupied worlds, and the economic demands of occupation forced the clans into administrative roles they were not prepared for.
+
+The Concordat inherited this accidental economy. Mandalorian territory produces beskar ore, cortosis fragments, kkanmur grain, processed protein, and military hardware. The Concordat's centralized distribution system routes these goods through Republic commercial networks, setting prices through Senate-approved trade commissions. Mandalorian clan leaders who controlled their own trade routes before the wars now submit production quotas to Republic administrators.
+
+**Beskar** is the critical resource. Mandalorian armor is cultural identity made physical, and beskar is the material that makes it possible. The main Mandalorian forges on Concordalore produce enough beskar alloy for armor maintenance across Concordat Mandalorian forces. They do not produce enough for the Coalition, which is one of Canderous Ordo's most pressing logistical problems: Neo-Mandalorian armor degrades without access to proper forging facilities, and degraded armor means degraded identity.
+
+The economic tension runs in two directions. Concordat Mandalorians resent Republic taxation of Mandalorian agricultural and mineral production. Neo-Mandalorians resent being cut off from the forges, the grain, and the supply networks that sustain Mandalorian life. Both sides resent the other for the situation, and neither side has a solution that does not require the other's cooperation.
+
+## The Gathering
+
+Mandalorian political life revolves around the gathering. When a matter affects more than one clan, Mandalore calls a gathering: a multi-day assembly where aliit'alors present their cases, debate, negotiate, and, when necessary, settle disputes through champion combat. Gatherings have ratified treaties, deposed leaders, redistributed territory, and authorized wars.
+
+The Concordat has complicated the tradition. Mandalore the Vindicated cannot call a gathering from Coruscant without Concordat Security Council approval, which requires submitting an agenda and accepting Republic observers. He has called one gathering in four years: a logistics coordination session on Dxun that the Security Council approved because it involved supply chain optimization and posed no political risk. The matters Mandalore needed to discuss, clan grievances, jurisdictional conflicts, the growing rift between Fett's faction and the traditional clan leadership, were handled in private conversations between sessions. Republic observers noted a productive and orderly conference. They did not notice the arguments.
+
+Canderous Ordo calls gatherings when he chooses. The Coalition has held three since its founding. Each one draws more attendees than the last, including representatives from Concordat clans who make the trip in secret and deny it afterward. The next Coalition gathering is scheduled for Dxun's southern continent in six months. Concordat intelligence is aware of the gathering. Kelborn has recommended ignoring it. Valio's OFA has recommended infiltrating it. The Security Council has not decided.
+
+## The Mandalorian Wars' Legacy
+
+Four years is not long enough to process what the wars did.
+
+Mandalorian warriors who served at Taris, at Onderon, at Serroco, at Ves'kaan carry memories that Mandalorian culture does not have a framework for processing. The Resol'nare instructs Mandalorians to defend their clan, to contribute to clan welfare, to raise children in the Mandalorian way. It does not instruct them on what to do when the things they did in service of the Resol'nare haunt them.
+
+{{footnote Chapter 10: The Mandalorians}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+Combat trauma among Mandalorian veterans is widespread and unacknowledged. Mandalorian medical tradition treats physical injuries with sophisticated field surgery and post-combat rehabilitation. It does not treat psychological injury, because Mandalorian cultural vocabulary lacks a category for it. A warrior who cannot sleep is tired. A warrior who cannot stop thinking about a battle is remembering. A warrior who flinches at sudden noise needs more training. The absence of language for the problem makes the problem invisible, which makes it worse.
+
+Tera Skirata's rural clinics on Skirata territory are among the few places where Mandalorian veterans can describe what they are experiencing to a medic who will listen. Tera does not call it treatment, because naming it would mark her patients as something Mandalorian culture says they should not be. She calls it "maintenance." The waiting lists at her clinics are growing.
+
+The wars also created a generation gap. Mandalorians under twenty-five grew up during the wars or in their immediate aftermath. They trained for a conflict that ended before most of them could serve. They inherited the Resol'nare, the armor, the language, and a cultural identity built around a war they did not fight. Older Mandalorians tell war stories. Younger Mandalorians listen and wonder whether the stories are meant as instruction or warning.
+
+In the Coalition, this gap is acute. Young Neo-Mandalorians are the most ideologically committed faction in Canderous Ordo's force. They believe in the Doctrine of Necessary Strength with the intensity reserved for people who have never tested it. Canderous, who has tested it, finds their certainty unsettling.
+
+## Current Conflicts
+
+Four active conflicts define Mandalorian political life in the Concordat Era.
+
+**The Succession Question.** Mandalore the Vindicated is aging. He is fifty-three, healthy, and shows no sign of diminished capacity. Mandalorian tradition does not provide for peaceful succession: a Mandalore rules until defeated in combat or until death. If the Vindicated dies on Coruscant, the title passes through combat trial at a gathering. Fett expects to win that trial. Veera Ordo expects to contest it. Canderous Ordo will claim the title from the Coalition and denounce whichever Concordat leader takes it. Kelborn has war-gamed the succession crisis three times. None of his scenarios end cleanly.
+
+**The Garrison Permanence Crisis.** Mandalorian garrisons on twenty-seven Republic worlds were authorized as temporary security measures. They are now permanent installations with local economies, infrastructure, and relationships that removal would disrupt. Senate Restorationists want the garrisons withdrawn. Mandalorian commanders argue withdrawal invites instability. Local populations are divided: some want the garrisons gone, others depend on Mandalorian security because the Republic has not provided an alternative. Fett is using the garrisons to build his officer corps. Veera is using them to demonstrate integration. Canderous is using their existence to argue that the Concordat is a Mandalorian occupation with Republic paperwork.
+
+**The Forge Access Dispute.** The Coalition's armor degrades without access to Concordat-controlled beskar forges. Canderous has proposed a neutral forge arrangement: a shared facility on unclaimed territory where any Mandalorian, regardless of faction, could repair and fabricate armor. Mandalore supports the proposal because armor maintenance is a Resol'nare obligation. Fett opposes it because cutting the Coalition off from beskar is strategic leverage he does not intend to surrender. Kryze supports it because she considers beskar access a humanitarian issue. The proposal has not reached the Concordat Senate because Kelborn killed it at the Security Council level.
+
+**The Jendri Reparations.** Droga Jendri's petition for formal reparations to Cathar communities has become a proxy fight for the larger question of Mandalorian war accountability. If the Senate endorses clan-level reparations, the legal precedent could extend to every world the Mandalorians occupied. If the Senate rejects them, the Mandalorians avoid legal liability and lose whatever moral credibility the Concordat has tried to build. Jicoln Cadera, from the Coalition, denounced the petition in a broadcast as "paying outsiders for the privilege of Mandalorian shame." Droga has not responded.
+
+{{footnote Chapter 10: The Mandalorians}}
+{{pageNumber,auto}}
+
+\page
+
+{{Ch2,tab}}
+
+## The Neo-Mandalorian Coalition
+
+Canderous Ordo's Coalition is a government in exile and an argument about what Mandalorian identity requires.
+
+The Coalition operates from mobile bases on uninhabited moons and asteroid installations across the Outer Rim. A raiding fleet of thirty-seven vessels hits Concordat and Remnant shipping. Temporary settlements on Tracyn, Zanbar, and three unnamed asteroids in the Gordian Reach house roughly twelve thousand warriors and their families. Resources are scarce. Discipline is maintained through combat challenges. The Resol'nare is observed with fierce orthodoxy because it is the only institutional structure the Coalition retains.
+
+The Coalition is not unified. It holds together through Canderous's personal authority and splits along four seams:
+
+**Traditionalist clans** form the core: Ordo loyalists, the main body of Clan Jendri, Clan Cadera's orthodox wing. They rejected the Concordat on doctrinal grounds and fight to restore Mandalorian independence.
+
+**Mercenary companies** serve the Coalition because it pays, when it can. Three independent companies operate under Coalition contracts, raiding Concordat shipping and selling captured goods through Hutt Space intermediaries. Their commitment to Mandalorian ideology is flexible.
+
+**Ideological purists**, led by Jicoln Cadera, argue that the Doctrine of Necessary Strength demands total separation from outsider governance. They are the Coalition's intellectual wing: writers, rhetoricians, recruiters. They produce the propaganda that Cadera envoys carry to Concordat settlements.
+
+**Refugees and outcasts** ended up with the Coalition because no other faction would take them. Deserters from Concordat garrisons, exiles from clans that expelled them, non-Mandalorians who swore the Resol'nare in Coalition territory and now belong to a nation that may not survive the decade. They are the Coalition's most vulnerable population and its least represented in leadership.
+
+##### Canderous Ordo
+
+Canderous fought on Onderon in Year Two. He was twenty-three, and the beast-riders broke his collarbone in three places before he broke their defensive line. He called it the best day of his life. Mandalorians measure themselves against the best fight they have had, and Onderon was his.
+
+He watched those same beast-riders die at the Second Siege, their bonded drexl turning on them as the Ashen strike ripped the Force from the jungle. He stopped talking about Onderon after that.
+
+Canderous rejected the Concordat for reasons that are ideological and personal in ways he can no longer separate. The Doctrine of Necessary Strength says strength is self-forged. Mandalore accepted mercy from Malak. Mercy is dependency. Dependency is the thing the Doctrine exists to prevent. Canderous can follow the logic from premise to conclusion without flinching. He flinches at the part he does not say: that Mandalore, the man who gave the Doctrine its authority, broke the Doctrine's central promise by accepting life on Malak's terms.
+
+He leads through combat prowess and personal conviction. Seven challengers in four years. Each one forced him to kill a subordinate to retain command. Mandalorian law permits this. Mandalorian culture respects it. Canderous does not sleep well after any of them. He has begun to suspect that a leader who kills his own people to hold power has stopped leading.
+
+His sister Veera chose the Concordat. They have not spoken since the split. Canderous keeps a holographic message she sent him, three sentences asking him to come home, in a compartment in his vambrace. He has not played it. He has not deleted it.
+
+His relationship with Jicoln Cadera is the Coalition's most important internal alliance and its most fragile. Jicoln provides the Coalition's ideological framework. Canderous provides its military authority. They agree on Mandalorian independence. They disagree on method: Canderous favors negotiation from a position of military strength, Jicoln favors total separation with no negotiation at all. If the disagreement becomes public, the Coalition fractures.
+
+A player character seeking access to Canderous Ordo will wait. The Coalition's mobile bases run tight communication protocols, and introduction requires either a trusted contact or a demonstration of capability that makes introductions unnecessary. He speaks plainly about what the Coalition needs and plainly about what it cannot offer. A player who listens before claiming loyalty will hold his attention longer than one who arrives with ideology. What he will not discuss at a first meeting — or a third — is what he believes will happen when Mandalore the Vindicated dies on Coruscant without his armor on. That conversation takes months to earn.
 
 {{note
-##### Neo-Mandalorian Character Hooks
-- A warrior who's watched the Coalition's resources shrink and wonders if honor can sustain a people
-- A non-Mandalorian recruit who adopted the armor and the code because the Mandalorians were the only faction that treated strength as its own justification
-- A child of Concordat Mandalorians who defected because the Concordat's version of Mandalorian culture felt like a costume
+##### Mandalorian Character Hooks
+- A young Ordo warrior on Dxun who has been approached by both Fett's recruiters and Canderous's Coalition envoys in the same week, and whose family is split between the factions
+- A Skirata field medic running an unauthorized clinic for Mandalorian veterans who cannot name what is wrong with them, accepting patients in violation of OFA registration requirements
+- A Cadera archivist on Concord Dawn who discovered that three texts in the archives have been altered since the Republic scholars arrived, and does not know who changed them or why
+- A Kryze diplomatic apprentice on Coruscant who overheard a Security Council conversation about the next Coalition gathering that she was not supposed to hear
+- A Jendri warrior in the Coalition whose Cathar bunkmate knows the name of the Jendri chieftain who ordered the Ves'kaan massacre, and the name belongs to the warrior's grandfather
+- A Vizla forge-master who has been supplying small beskar shipments in secret to Coalition intermediaries, charging triple price and donating half the proceeds to Tera Skirata's clinics
+- A Concordat Mandalorian garrison commander on an Outer Rim world where the local population wants the garrison gone, the Republic administrator wants it to stay, and the garrison's own warriors are divided
+- A non-Mandalorian adopted into a clan through *gai bal manda* who has been assigned to a joint unit where the Republic officers treat Mandalorian legal customs as primitive and the Mandalorian officers treat Republic regulations as cowardice
 }}
 
-{{footnote Chapter 10: The Neo-Mandalorian Coalition}}
+{{footnote Chapter 10: The Mandalorians}}
 {{pageNumber,auto}}
 
 \page
@@ -2245,7 +2974,7 @@ For a player character, Onderon is a wound. The dead zone is present: you can wa
 
 **Control:** Independent (Selkath sovereignty). **Security:** High.
 
-The galaxy's most important neutral world and the sole source of kolto (see Chapter 10 for Selkath politics and the kolto monopoly's mechanics).
+The galaxy's most important neutral world and the sole source of kolto (see Chapter 14 for Selkath politics and the kolto monopoly's mechanics).
 
 Beneath the surface, the Selkath maintain a relationship with their ocean that outsiders do not understand. The kolto deposits lie deep, near the Hrakert Rift, a geological formation of immense significance to Selkath religion and science. The connection between kolto, the Rift, and the Force crisis is not a coincidence.
 
@@ -2377,7 +3106,7 @@ The Revanchist Remnant's twenty-three systems are scattered across the Outer Rim
 
 **Ralos Station** serves as Kaeranth's mobile headquarters — a decommissioned Republic fleet tender converted into a command ship that relocates every forty days on a schedule known only to Kaeranth's inner circle. The station's crew of eight hundred includes military personnel, intelligence analysts, Jedi advisors, and a civilian support staff who haven't set foot on solid ground in three years. Morale is maintained by Kaeranth's competence and eroded by Revan's increasingly erratic transmissions from wherever he's holed up.
 
-**Deralia** is a former Jedi enclave world where the local Jedi chapter defected to the Remnant rather than follow the Council's non-intervention directive. Forty Jedi and their support staff operate from the enclave, running training programs for Remnant volunteers and providing Force-healing services that draw patients from across the Remnant's territory. The enclave's senior Jedi, Master Nayama Voss, has adapted her teaching to the Force crisis: students spend as much time learning conventional medicine as Force technique, and every healing session begins with a kolto backup standing ready.
+**Deralia** is a former Jedi enclave world where the local Jedi chapter defected to the Remnant rather than follow the Council's non-intervention directive. Forty Jedi and their support staff operate from the enclave, running training programs for Remnant volunteers and providing Force-healing services that draw patients from across the Remnant's territory. The enclave's senior Jedi, Master Heraia Solix, has adapted her teaching to the Force crisis: students spend as much time learning conventional medicine as Force technique, and every healing session begins with a kolto backup standing ready.
 
 
 {{footnote Chapter 21: Worlds and Frontiers}}
@@ -2425,7 +3154,7 @@ These questions matter more than the armor.
 
 **What is true:** The Sith are a people, not a philosophy. The species called Sith existed on Korriban for tens of thousands of years before the Dark Jedi Exiles arrived and conquered them. The word "Sith" was stolen from them by their conquerors.
 
-The old caste system — **Kissai** (priests and scholars), **Massassi** (warriors), **Zuguruk** (engineers and builders), and **Grotthu** (the enslaved lower caste) — fractured when the Empire fell. Its ghost shapes Pureblood identity. (See Chapter 9 for the full diaspora picture and the Deep Sith traditions.)
+The old caste system — **Kissai** (priests and scholars), **Massassi** (warriors), **Zuguruk** (engineers and builders), and **Grotthu** (the enslaved lower caste) — fractured when the Empire fell. Its ghost shapes Pureblood identity. (See Chapter 12 for the full diaspora picture and the Deep Sith traditions.)
 
 The Keepers of Adas maintain pre-Exile cultural practices through oral tradition. They hold that the "true Sith" are the people, not the ideology, and that the Force traditions of the original Sith predated and were corrupted by the Dark Jedi Exiles' light-side/dark-side framework.
 
@@ -2589,24 +3318,27 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Asking, The** | Most dangerous Keeper divination: opening one's unshielded mind to a dead Sith lord's presence inside their tomb. Success brings visions; failure means possession, madness, or death. | 40 |
 | **Atris** | Jedi scholar and Council member. Designed the Sentinel Program. Runs a private academy on Telos with the Echani Handmaidens. Collecting Sith holocrons. | 18, 29, 30, 52, 55 |
 | **Baran Do Sages** | Kel Dor Force tradition on Dorin. Focused on precognition and weather reading. Issued their first incorrect forecast in 1 CE. | 12, 15, 46 |
+| **Bastila Shan** | Remnant Jedi and battle meditation practitioner, born on Talravin. Fewer than thirty documented practitioners in Order history. Coordinates fleet engagements for Kaeranth and trains five Force-sensitive students. Senses an unknown presence at the edge of her meditation field. Thirty years old. | 10, 32, 34-36, 39, 40 |
 | **Battle Meditation** | Rare Force ability to coordinate fleets and allies telepathically at scale. Used by Jedi Commanders and in Kissai channeling variants. | 8, 10, 15, 28, 42 |
 | **Beast-riders** | Onderon warriors bonded to beasts through the Force. Mandalorian auxiliaries devastated at the Second Siege when Ashen strikes severed their bonds. | 19, 21, 47, 50 |
+| **Bralor Vizsla** | Mandalorian defector serving the Remnant. Trains marines in boarding tactics. Rejected Ka'halar as binding his clan to a government instead of a fight. | 35 |
 | **Beskar** | Mandalorian iron. Rare metal resistant to lightsaber strikes, used in armor and weapons. | 26, 44 |
 | **Beskad** | Traditional Mandalorian saber. The weapon used in the Dhas'kara against Malak. | 14, 22 |
 | **Blood ideology** | Belief that Sith Pureblood heritage carries inherent Force sensitivity and spiritual significance. Weaponized by multiple factions for surveillance or discrimination. | 31, 32, 53 |
 | **Breath of the Whills** | Oldest Jedi meditation form. Seated, feeling the Force move in and out with breath. Foundation of contemplative practice. | 34 |
 | **Burning of Duro** | Ashen Campaign strike on Mandalorian shipyards (3957 BBY). Created the galaxy's largest dead zone in Duro's upper atmosphere. Birthplace of Nihilus's transformation. | 21, 23, 32, 51 |
-| **Canderous Ordo** | Leader of the Neo-Mandalorian Coalition. Fought at Onderon in Year Two. Rejected the Concordat as a betrayal of Mandalorian honor. Has killed seven challengers. | 4, 10, 22, 26, 27, 45, 56 |
-| **Carth Onasi** | Republic captain who defected after the Senate ratification vote. Serves as the Remnant's diplomatic liaison and intelligence coordinator. | 10, 25 |
-| **Cassus Fett** | Mandalorian strategist. Commanded the Cathar operation. Cold-eyed logistician who saw the Concordat's economic logic first. Now a Concordat Integrationist. | 19, 20, 22, 23 |
+| **Canderous Ordo** | Leader of the Neo-Mandalorian Coalition. Fought at Onderon in Year Two. Rejected the Concordat as a betrayal of Mandalorian honor. Has killed seven challengers. | 4, 10, 22, 26, 27, 44-45, 56 |
+| **Carth Onasi** | Republic captain who defected after the OFA detention directive and Czerka's demolition of his family estate on Telos. Remnant intelligence coordinator running six analysts and a parallel supply network. Wife Morgana and son Dustil on a Remnant agricultural world. Tracking twenty-seven Sith-pattern incidents across the Outer Rim. | 10, 31, 32 |
+| **Nyxra Tann, Admiral** | Commander of the Concordat Home Fleet. Apolitical career naval officer. Diverts maintenance funds to keep the active fleet operational. | 26 |
+| **Cassus Fett** | Mandalorian Rally Master. Commanded the Cathar operation. Calculating strategist who saw the Concordat's economic logic first. Building a Mandalorian officer corps within the Concordat military. | 19, 20, 22, 23, 39 |
 | **Cathar** | Feline species with matrilineal clan society. Subjected to the Razing and the Ves'kaan massacre. Diaspora across the Mid and Outer Rim. | 7, 20, 47, 50, 53, 54 |
 | **Chaining, The** | Keeper ritual binding spirits to locations using tuk'ata markers carved from Korriban stone, inscribed with the dead's true names in Old Sith. | 40 |
-| **Clan Cadera** | Mandalorian clan. Orthodox wing joined the Neo-Mandalorians. | 19, 26 |
-| **Clan Fett** | Cassus Fett's Mandalorian clan. Calculating pragmatists who joined the Concordat first for economic logic. | 19, 22 |
-| **Clan Jendri** | Mandalorian clan responsible for the Ves'kaan massacre. Fragments now in Neo-Mandalorian Coalition. | 20, 26 |
-| **Clan Kryze** | Mandalorian clan that argued for diplomacy over siege during the Doctrine debates. | 19 |
-| **Clan Ordo** | Canderous and Veera Ordo's clan. Led the Onderon assault. Split between Concordat and Coalition. | 19, 26, 27 |
-| **Clan Skirata** | Mandalorian clan. Jaden the Elder provided the Doctrine of Necessary Strength its canonical language. | 19 |
+| **Clan Cadera** | Mandalorian scholars and keepers of oral tradition. Split three ways: orthodox wing (Jicoln) to Coalition, Concordat wing (Maraelle) on Concord Dawn, independent scholars scattered to neutral worlds. | 19, 26, 41 |
+| **Clan Fett** | Cassus Fett's Mandalorian clan. Largest Mandalorian contingent in the Concordat military (9,000 warriors). Calculating pragmatists building institutional power. | 19, 22, 39 |
+| **Clan Jendri** | Mandalorian clan responsible for the Ves'kaan massacre. Main body in Coalition; smaller remnant under Droga Jendri pursuing reparations in Concordat space. | 20, 26, 41 |
+| **Clan Kryze** | Mandalorian clan that argued for diplomacy over siege during the Doctrine debates. Controls Kalevala manufacturing world. Satine Kryze leads. | 19, 40 |
+| **Clan Ordo** | Canderous and Veera Ordo's clan. Led the Onderon assault. Split between Concordat (Veera, Dxun) and Coalition (Canderous). | 19, 26, 27, 38-39 |
+| **Clan Skirata** | Mandalorian farming clan. Agricultural heartland of Mandalorian space. Led by Rav Skirata. Tera Skirata runs 18 rural medical clinics. | 19, 40 |
 | **Clan Veshok** | Small Neo-Mandalorian clan in the Proving scenario. Lost aliit'alor Korath Veshok to counterfeit kolto. Ship: *Tra'cysur*. | 56 |
 }}
 
@@ -2620,12 +3352,13 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
-| **Clan Vizla** | Mandalorian clan that joined the Concordat alongside Cassus Fett's faction. | 22 |
+| **Clan Vizla** | Mandalorian clan controlling beskar mining operations. Joined Concordat with Fett. Aliit'alor Tarre Vizla delays integration of forges into Concordat supply chain. | 22, 42 |
 | **Commercialists (Selkath)** | Selkath faction led by Trade Minister Jhosa favoring expanded exports and building Manaan into a galactic financial center. | 33, 50 |
-| **Concordat, the** | Government merging Republic administration with Mandalorian military strength, led by Supreme Chancellor-General Malak (founded 3955 BBY / 1 CE). | 3, 4, 22, 23, 24 |
+| **Concordat, the** | Government merging Republic administration with Mandalorian military strength, governed by a three-consul executive (Malak, Mandalore, Vynt). Founded 3955 BBY / 1 CE. | 3, 4, 22, 23-29 |
+| **Consulate, the** | Three-consul executive of the Concordat: First Consul Alek (Malak), Second Consul Mandalore the Vindicated, Third Consul Eres Vynt. | 23-24 |
 | **Concordat Advisors** | ~80 Jedi serving Malak's government as advisors, healers, and administrators. Tolerated and surveilled in equal measure. | 29, 35 |
 | **Concordat Era (CE) / Before Concordat (BC)** | In-world calendar system. Events before the Concordat: 9 BC → 1 BC. Events after: 1 CE onward. Campaign begins 4 CE (3952 BBY). | 3, 18 |
-| **Concordat Security Council** | Military advisory body chaired by General Tagren Voss. Pushed for expanded surveillance of Force-sensitives. | 23, 24 |
+| **Concordat Security Council** | Military advisory body chaired by General Verex Zeval. Pushed for expanded surveillance of Force-sensitives. | 23, 24 |
 | **Core Worlds** | Wealthy galactic center: Coruscant, Alderaan, Corellia. Republic-standard governance plus Concordat security apparatus. | 4, 23, 46, 48 |
 | **Corellia** | Core World under Concordat control. Site of the Corellia Trade Accords negotiated by Zez-Kai Ell. | 4, 29, 48 |
 | **Corellia Trade Accords** | Diplomatic achievement negotiated by Master Zez-Kai Ell. Stabilized Core World trade in the Concordat's early years. | 29 |
@@ -2643,11 +3376,12 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Darth Nihilus** | Born a Force-sensitive civilian on Duro during the Burning. Became a living void that feeds on Force energy from living things. Kreia gave him a Sith artifact mask to contain his hunger. Destroyed the Miraluka colony on Katarr. | 10, 11, 32 |
 | **Darth Sion** | Former Revanchist Jedi shattered at the Second Siege of Onderon. Body held together by dark-side rage and pain. Kreia's enforcer. Refuses to die. | 10, 11, 32 |
 | **Dead Zone** | Region where the Force is absent or distorted. Three severity tiers: partial (intermittent), significant (sluggish), total (absent). | 4, 8, 12, 15, 16, 21, 48, 49, 50, 51, 54 |
-| **Deralia** | Former Jedi enclave world. Local Jedi defected to the Remnant under Master Nayama Voss. Forty Jedi operate training and healing services. | 52 |
+| **Deralia** | Former Jedi enclave world. Local Jedi defected to the Remnant under Master Heraia Solix. Forty Jedi operate training and healing services. | 52 |
 | **Dhas'kara** | Mandalorian single-combat challenge. Resolves disputes between clans or challenges Mandalore's authority. Malak invoked it to end the wars (3955 BBY). | 22, 44 |
 | **Doctrine of Necessary Strength** | Mandalorian philosophy: strength must be self-generated; reliance on the Force produces civilizational fragility. Adopted after Mandalore showed the clans a Jedi's death at Ossus. | 7, 18, 19, 21, 26, 44 |
-| **Dorak, Master** | Jedi historian who left the Council. Manages Remnant civilian administration from the government-in-exile. | 25 |
-| **Doris Fennel, Master** | Former Consular serving as Malak's primary Force advisor in the Concordat. Detests the position. | 29 |
+| **Dorak, Master** | Jedi historian who left the Council. Manages Remnant civilian administration. Maintains legal records and governance archives for the government-in-exile. | 30 |
+| **Droga Jendri** | Aliit'alor of the Concordat Jendri remnant. Was fourteen during Ves'kaan. Petitioning the Senate for formal reparations to Cathar refugee communities. | 41 |
+| **Maraina Valyn, Master** | Former Consular serving as Malak's primary Force advisor in the Concordat. Detests the position. | 29 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2668,6 +3402,7 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Echani** | Near-human species and culture from Eshan. Treat physical combat as communication and language. Read opponents through fighting style. | 29, 52, 55 |
 | **Echani Handmaidens** | Thirty elite warriors trained by Atris to fight and subdue Force users. An anti-Jedi strike team created by a Jedi. Stationed on Telos. | 29, 30, 52, 55 |
 | **Eshan** | Inner Rim homeworld of the Echani. | 55 |
+| **Eres Vynt** | Third Consul and Minister of Civil Order. Twi'lek constitutional scholar from Ryloth who drafted the Concordat's legal framework. Architect of 17 sunset provisions limiting emergency powers. | 23-24, 28-29 |
 | **Exchange, The** | Criminal syndicate operating across the Mid and Outer Rim. Largest kolto black-market distribution network. | 9, 33, 47, 48, 49, 52 |
 | **Force Crisis** | Central crisis of the Concordat Era: the Force failing, dead zones expanding, abilities growing unreliable. No faction has identified the cause. | 4, 12, 15, 16, 25, 28, 33, 34, 36 |
 | **Free Sith Captains** | Independent former Sith naval officers operating 1-3 vessels as raiders, smugglers, or mercenaries across the Outer Rim. | 32 |
@@ -2679,17 +3414,6 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Haruun Kal** | World where the Korunnai jungle-seers have stopped receiving visions for the first time in recorded memory due to the Force crisis. | 15 |
 | **Hrakert Rift** | Deep-sea geological formation on Manaan near kolto deposits. Connected to Rakatan ruins of unknown age. The Selkath know more than they share. | 17, 50 |
 | **Hundred-Year Darkness** | Ancient conflict after which the Dark Jedi Exiles were banished from the Jedi Order, eventually reaching Korriban. | 31, 39 |
-| **Echani** | Near-human species and culture from Eshan. Treat physical combat as communication and language. Read opponents through fighting style. | 29, 52, 55 |
-| **Echani Handmaidens** | Thirty elite warriors trained by Atris to fight and subdue Force users. An anti-Jedi strike team created by a Jedi. Stationed on Telos. | 29, 30, 52, 55 |
-| **Eshan** | Inner Rim homeworld of the Echani. | 55 |
-| **Exchange, The** | Criminal syndicate operating across the Mid and Outer Rim. Largest kolto black-market distribution network. | 9, 33, 47, 48, 49, 52 |
-| **Force Crisis** | Central crisis of the Concordat Era: the Force failing, dead zones expanding, abilities growing unreliable. No faction has identified the cause. | 4, 12, 15, 16, 25, 28, 33, 34, 36 |
-| **Free Sith Captains** | Independent former Sith naval officers operating 1-3 vessels as raiders, smugglers, or mercenaries across the Outer Rim. | 32 |
-| **Freighter Incident, the** | Starting scenario (4 CE): four ships stranded at the edge of a dead zone with multi-faction complications. | 56 |
-| **Gai bal manda** | Mandalorian adoption tradition. Taking any being of any species into a clan as Mandalorian. A Twi'lek raised Mandalorian is Mandalorian. | 26, 44, 53, 56 |
-| **Galactic Republic** | Democratic federation governing most of known space for thousands of years from Coruscant. Fractured by the wars; succeeded by competing governments. | 3, 4, 18 |
-| **Great Hyperspace War (GHW)** | War between the Republic and Sith Empire under Naga Sadow, ending 3964 BBY (9 BC). Caused catastrophic Force damage. Living memory in the Concordat Era. | 3, 4, 10, 15, 18, 31 |
-| **Grotthu** | Enslaved lower caste of Sith Pureblood society. Freed by the Empire's collapse. Descendants carry Sith features and no memory of why. | 31, 53 |
 }}
 
 {{footnote Appendix A: Glossary & Index}}
@@ -2714,9 +3438,10 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Iridonia** | Zabrak homeworld. Source of the rite-of-passage tattoo and combat traditions. Iridonians run neutral trading posts. | 55 |
 | **Isolationists (Selkath)** | Selkath faction led by Speaker Shelkar favoring reduced kolto exports and national self-sufficiency. | 33, 50 |
 | **Iziz** | Capital city of Onderon. Surviving beast-riders settled in the lower quarters after the Second Siege. | 50 |
-| **Jaden the Elder** | Clan Skirata elder who gave the Doctrine of Necessary Strength its canonical language at the Dxun gathering. | 18, 19 |
+| **Jarar the Elder** | Clan Skirata elder who gave the Doctrine of Necessary Strength its canonical language at the Dxun gathering. | 18, 19 |
 | **Jebble** | Cold Outer Rim industrial world. Malak's first major independent victory (3958 BBY). Now a Concordat orbital shipyard and logistics hub. | 21, 52 |
 | **Jedi Code** | Five-tenet core teaching: "There is no emotion, there is peace; there is no ignorance, there is knowledge; there is no passion, there is serenity; there is no chaos, there is harmony; there is no death, there is the Force." | 34, 35, 37, 38 |
+| **Jicoln Cadera** | Aliit'alor of the orthodox Cadera wing. Coalition's principal ideological authority and Canderous Ordo's closest advisor. Drafts Neo-Mandalorian recruitment rhetoric. | 41, 44 |
 | **Jedi Consulars** | Jedi path: diplomacy, scholarship, and Force study. Dominated the Council and the Order's intellectual life. | 28, 34 |
 | **Jedi Council** | Governing body of the Jedi Order. Four surviving active members in the Concordat Era: Vrook, Vandar, Zez-Kai Ell, Lonna Vash. | 4, 14, 15, 19, 20, 28, 29, 37, 38 |
 | **Jedi Enclave** | Training facility on Dantooine. Operational but diminished. Predates Republic colonial expansion. Located near a partially degraded Rakatan Star Map. | 15, 17, 50 |
@@ -2725,24 +3450,15 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Jedi Sentinels** | Jedi path: blending Force training with practical non-Force skills (investigation, intelligence, medicine, field survival). Operated in small teams. | 28, 34, 36 |
 | **Jedi Temple** | Jedi headquarters on Coruscant. Population thinned after the wars. Revan walked out with four hundred Jedi. | 20, 28, 50 |
 | **Jen'jidai tsiss** | Sith Pureblood term: "blood before the Exiles." Denotes pre-Dark Jedi Exile Sith lineages, a mark of ancestral purity. | 31, 39 |
+| **Jolee Bindo** | Former Jedi, at least sixty-five. Spent twenty years in the Kashyyyk Shadowlands after his wife Naylia fell to the dark side. Stable Force connection in the dead zone. Believes the Force crisis is a disruption problem, not a systemic failure. No official Remnant role. | 10, 37 |
 | **Ka'halar** | Mandalorian life-debt binding a defeated warrior to the victor who spares them. Mandalore is bound to Malak by Ka'halar after the Dhas'kara. | 22, 23, 44 |
 | **Kachirho-naa** | Wookiee: "the place where the forest forgot itself." Dead zone site in the Kashyyyk Shadowlands where Revan destroyed the Star Map. | 51 |
-| **Kaeranth, Admiral (Saul)** | Commander of the Revanchist Remnant's military forces. Career naval officer who served under both Revan and Malak. Extracted Revan from the Unknown Regions. Runs the Remnant's actual operations. | 4, 22, 25, 52 |
+| **Kaeranth, Admiral (Saul)** | Commander of the Remnant's three battle groups. GHW veteran who coordinated the Koros Major withdrawal. Entered fleet service at nineteen, served under Revan during the Mandalorian Wars. Extracted Revan from the Unknown Regions. Maintains a classified file of Revan's predictions. Planning a secret operation against a Concordat supply depot. Fifty-three years old. | 4, 22, 31-40, 72, 75 |
+| **Maraelle Cadera** | Jicoln's sister. Leads Concordat Cadera faction on Concord Dawn. Maintains and opened the Cadera archives to Republic scholars. | 41 |
 | **Kashyyyk** | Wookiee homeworld. Vertical wroshyr-tree civilization, Shadowlands. Dead zone where Revan's forces destroyed the Star Map. Under Czerka corporate occupation. | 10, 17, 51 |
 | **Katarr** | Miraluka colony destroyed by Darth Nihilus, who consumed the entire world's Force energy. Killed the population. | 9, 11, 32 |
-}}
-
-{{footnote Appendix A: Glossary & Index}}
-{{pageNumber,auto}}
-
-\page
-
-{{app,tab}}
-
-{{DHTable,wide
-| **Term** | **Definition** | **Pg** |
-|:--|:--|:--|
 | **Kavar, Master** | Jedi Council Guardian and decorated combat veteran. Runs the Sentinel Program's field operations. Hates every moment of it. | 18, 29 |
+| **Kelborn, Fieldmarshal** | Commands integrated Mandalorian ground forces within the Concordat military. Loyal to Mandalore, not Malak. Security Council member. | 26 |
 | **Keepers of Adas** | Sith Pureblood tradition maintaining pre-Exile practices and the memory of King Adas. Believe the light/dark binary is a category error imposed by outsiders. | 13, 17, 32, 39, 40, 53 |
 | **Kel Dor** | Species native to Dorin. Home to the Baran Do Sages contemplative Force tradition. | 15, 46 |
 | **King Adas** | Ancient Sith ruler who united the Sith species and repelled the Rakata ~27,000 years ago. Subject of Keeper oral tradition and Asking rituals. | 17, 32, 39 |
@@ -2761,7 +3477,9 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Lonna Vash, Master** | Jedi Council member, Sentinel-trained. Maintains a network of Outer Rim field contacts the other Council members do not know about. | 29 |
 | **Lorso, Senator** | Senator of Telos. Restorationist faction leader. Despises Malak personally but recognizes removing him would create a power vacuum. | 23, 52 |
 | **Malachor V** | Site of the final battle of the Mandalorian Wars in the original KOTOR games. In this setting, the war ended through the Dhas'kara instead. Referenced in character backstories. | 5, 7, 11 |
-| **Malak** | Supreme Chancellor-General of the Concordat. Defeated Mandalore in the Dhas'kara. Lost jaw and sword arm to a beskad strike. Authorized all forty-one Ashen Campaign strikes. Governs from Coruscant with emergency powers and no expiration date. | 3, 4, 5, 10, 11, 14, 21, 22, 23, 25, 29, 44, 47, 50, 52 |
+| **Malak (Alek Squinquargesimus)** | First Consul and Chancellor-General of the Concordat. Born on Quelii. Defeated Mandalore in the Dhas'kara. Lost jaw and sword arm to a beskad strike. Authorized all forty-one Ashen Campaign strikes. Governs from Coruscant with emergency powers and no expiration date. | 3, 4, 5, 10, 11, 14, 21, 22, 23-29, 44, 47, 50, 52 |
+| **Meetra Surik** | Former Jedi field commander whose Force bonding ability let her form unconscious connections with nearby soldiers. Severed her own Force connection during the Ashen Campaign. Lives in Remnant exile teaching unarmed combat. Children near her settlement show accelerated Force sensitivity development. Thirty-three years old. | 33-36, 40 |
+| **Lynira Saal** | Former HoloNet journalist. Runs Remnant propaganda operations and the broadcast *The Republic Endures* from the converted cargo freighter *Open Signal*. | 34 |
 | **Manaan** | Ocean world. Sole source of kolto. Maintains independence through monopoly leverage. Governed by Selkath Ahto City Council. Harbors Rakatan ruins in the deep ocean. | 4, 12, 17, 33, 47, 50, 54 |
 | **Mandalore the Vindicated** | Leader of the Mandalorian clans who launched the Expansion. Defeated by Malak. Now Lord Marshal of the Concordat, bound by Ka'halar. A hostage dressed as a partner. | 4, 18, 19, 22, 23 |
 | **Mandalorian Wars** | Multi-year conflict (3963–3955 BBY / 8 BC–1 CE). Ended via the Dhas'kara and the founding of the Concordat. | 3, 4, 10, 19, 20, 21, 22, 28, 35, 37 |
@@ -2783,12 +3501,12 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Massassi** | Warrior caste of Sith Pureblood society. Suffered worst during the Republic counter-invasion. Survivors scattered, traumatized, angry. | 31, 53 |
 | **Meditation of Erosion** | Keeper practice: sustained exposure to concentrated dark-side energy over years or decades, deepening Force connection at the cost of physical deterioration. | 40 |
 | **Mid Rim** | Galactic middle band between Core Worlds and Outer Rim. Governed through Concordat military governors with broad discretionary authority. | 4, 19, 47 |
-| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Tagren Voss. | 23 |
+| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Verex Zeval. | 23 |
 | **Miraluka** | Near-human species perceiving the world through the Force rather than eyes. The Force crisis threatens species-wide blindness and survival. | 4, 8, 12, 15, 46, 54 |
 | **Naga Sadow** | Dark Lord of the Sith who launched the Great Hyperspace War's invasion of the Republic. His mastery of ritual warfare caused catastrophic Force damage. | 18 |
 | **Nar Shaddaa** | Smuggler's Moon in Hutt Space. Largest Sith Pureblood diaspora community (~15,000), major Cathar population, Exchange base of operations, and Duros Navigation Compact headquarters. | 5, 9, 30, 32, 47, 48, 50, 55 |
-| **Nayama Voss, Master** | Senior Jedi at the Deralia enclave. Adapted training so students learn conventional medicine alongside Force technique. | 52 |
-| **Neo-Mandalorian Coalition** | Faction led by Canderous Ordo, rejecting the Concordat. Nomadic raiding force across the Outer Rim and Wild Space. Not unified: traditionalists, mercenaries, ideological purists, and refugees. | 4, 22, 26, 27, 45, 56 |
+| **Heraia Solix, Master** | Senior Jedi at the Deralia enclave. Adapted training so students learn conventional medicine alongside Force technique. | 52 |
+| **Neo-Mandalorian Coalition** | Faction led by Canderous Ordo, rejecting the Concordat. Nomadic force of ~12,000 across the Outer Rim. Traditionalist clans, mercenary companies, ideological purists, and refugees. | 4, 22, 26, 27, 44-45, 56 |
 | **Office of Force Affairs** | Concordat agency registering and monitoring Force-sensitive citizens. Stated purpose: public safety. Unstated purpose: political control. | 23, 24, 30, 50 |
 | **Office of Sentient Rights** | Concordat bureau combating Twi'lek trafficking. Underfunded, understaffed, politically inconvenient. | 54 |
 | **Old Sith** | Ancient Sith language. Quarter-tone harmonic scale. Used in Keeper rituals, tomb inscriptions, tomb singing, and the ancient Sith Code. | 39, 40, 42 |
@@ -2804,7 +3522,7 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Ralos Station** | Kaeranth's mobile headquarters. Decommissioned Republic fleet tender that relocates every forty days. Crew of 800. Orbiting Vardos at campaign start. | 52 |
 | **Rapid Force triage** | Wartime healing technique: sending perception through a medical bay to assess dozens of patients simultaneously, choosing who lives. A skill born of desperation. | 34, 35 |
 | **Razing of Cathar** | Systematic Mandalorian campaign culminating in the Ves'kaan massacre (3959 BBY / 4 BC). ~14,000 civilians killed. Sparked the Revanchist movement. | 20, 48, 54, 56 |
-| **Rell Odar** | Twi'lek Jedi Master and duelist killed at Ossus when Sith ritual severed his Force connection mid-fight. Mandalore showed his death hologram to the clans to justify the Doctrine. | 18 |
+| **Tal Esicore** | Twi'lek Jedi Master and duelist killed at Ossus when Sith ritual severed his Force connection mid-fight. Mandalore showed his death hologram to the clans to justify the Doctrine. | 18 |
 | **Remnant Jedi** | ~200 Jedi serving Revan's government-in-exile. Maintain the Revanchist military rank structure. | 29, 35 |
 | **Resol'nare** | Six core tenets of Mandalorian identity: wear armor, speak Mando'a, defend your clan, raise children as Mandalorians, contribute to clan welfare, answer Mandalore's call. | 26, 27, 44, 53, 54, 56 |
 }}
@@ -2820,12 +3538,15 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
 | **Restorationists** | Concordat faction wanting to restore full democratic Republic governance. Led by Senator Lorso. Accepted Malak's authority as a wartime necessity with an expiration date. | 23 |
-| **Revan** | Former Jedi, Revanchist founder, and Remnant figurehead. Studied Sith holocrons, decoded the Ashfall techniques, then spent two years in the Unknown Regions. Returned diminished and obsessed with "the pattern beneath the Force." | 3, 4, 5, 10, 11, 14, 17, 20, 21, 22, 25, 28, 35, 37, 43, 51 |
+| **Rav Skirata** | Aliit'alor of Clan Skirata. Grandson of Jarar the Elder. Runs Mandalorian space's agricultural heartland under Concordat taxation he resents but cannot escape. | 40 |
+| **Ren Akaavi, Commander** | Thirty-one-year-old commander of the Remnant's Second Battle Group. War orphan. Defected from the Concordat after refusing to intercept a medical transport. | 35 |
+| **Revan** | Former Jedi, Revanchist founder, Remnant figurehead. Identified at four, trained by Master Kreia. Strategic precognition and Force persuasion at scale. Led three hundred Jedi out of the Temple. Authorized the Ashen Campaign. Spent two years in the Unknown Regions and returned with a fracturing mind. Believes the Force operates as an ecosystem and that dead zones are an immune response. Thirty-seven years old. | 2-5, 7, 9-11, 14, 20-22, 24, 25, 31-40, 49, 50, 54, 55, 57, 60, 61, 65, 70, 74, 75 |
 | **Revanchist Remnant** | Government-in-exile claiming to be the legitimate Republic. Holds twenty-three Outer Rim systems. Three battlegroups under Admiral Kaeranth. | 4, 17, 22, 25, 29, 52 |
 | **Revanchists** | Jedi and military volunteers who followed Revan to fight the Mandalorians after the Council refused to act. Four hundred Jedi walked out of the Temple. | 20, 21, 28, 37 |
 | **Right of Challenge** | Mandalorian principle: anyone can challenge Mandalorian authority by proving superior individual strength. Refusing a properly invoked challenge destroys the authority of the one who refuses. Basis for the Dhas'kara. | 22, 44 |
 | **Ryloth** | Twi'lek homeworld. Maintains its own Concordat-recognized government. Has demanded galactic enforcement against trafficking for decades with little result. | 53, 54 |
 | **Scratch, The** | Cathar district on Taris's mid-levels. Largest urban Cathar community outside the homeworld (~12,000 Cathar). | 50, 54 |
+| **Satine Kryze** | Aliit'alor of Clan Kryze. Sits on Mandalorian Affairs Advisory Board. Advocates demilitarization, civilian governance, and diplomatic engagement with the Remnant. Controls Kalevala. | 40 |
 | **Selkath** | Amphibious species native to Manaan. Matriarchal society. Communicate underwater via vocalization, bioluminescence, and Force empathy. Kolto producers. | 12, 17, 33, 47, 54 |
 | **Sentinel Program** | Accelerated Force-sensitive training program. Designed by Atris, run by Master Kavar. ~300 operatives. Recruits include non-traditional candidates and some Sith Purebloods. Officially secret, practically public knowledge. | 18, 29, 32 |
 | **Serroco** | Cortosis mining world. Native Stereb population subjected to orbital bombardment of twelve cities. Cortosis mines operate on mass graves. Czerka subcontract labor. | 19, 20, 51 |
@@ -2857,12 +3578,14 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
 | **Sylvar Juhani** | Cathar teenager who recorded the Ves'kaan massacre aftermath with a stolen Mandalorian recorder, sparking galactic outrage and accelerating the Revanchist movement. | 20 |
-| **Tagren Voss, General** | Career Republic officer who commanded the rearguard at the Burning of Duro. Chairs the Concordat Security Council. Militarist faction leader. Pushes for expanded surveillance and mandatory military service. | 23 |
+| **Verex Zeval, General** | Career Republic officer who commanded the rearguard at the Burning of Duro. Chairs the Concordat Security Council. Militarist faction leader. Pushes for expanded surveillance and mandatory military service. | 23 |
 | **Taris** | City-world. First Mandalorian conquest. Upper City / mid-levels / Undercity class divide. Home to The Scratch, the largest urban Cathar community. Concordat-administered under Mandalorian governance. | 10, 15, 19, 48, 50, 53, 54 |
+| **Tarre Vizla** | Aliit'alor of Clan Vizla. Controls beskar mining operations. Delays Concordat integration of forges through bureaucratic maneuvering. | 42 |
 | **Tatooine** | Desert world. Site of one of five Rakatan Star Maps, destroyed by Malak as a strategic decision to prevent anyone from using the Star Forge. | 10, 17 |
 | **Taung** | Ancient Mandalorian warrior species. Their warrior-poetry predates the Doctrine of Necessary Strength by millennia. | 18, 44 |
 | **Telos** | Concordat restoration zone on the Hydian Way. Showcase terraforming project. Home to Atris's polar academy and the Echani Handmaidens. Senator Lorso's constituency. | 29, 30, 36, 48, 52, 55 |
 | **Telos Restoration Project** | Concordat showcase terraforming initiative rebuilding Telos's biosphere from wartime devastation. Czerka engineering contracts. | 52 |
+| **Tera Skirata** | Rav Skirata's wife. Former field medic. Runs 18 rural clinics across Skirata territory serving Mandalorian veterans without OFA registration requirements. | 40, 43 |
 | **Terentatek** | Corrupted creatures created by Zuguruk alchemy ~3,000 years ago. Force-resistant hunters that feed on Force-sensitive beings. Still predatory in the present. | 42, 43 |
 | **Tomb Singing** | Keeper collective vocal ritual chanted in Old Sith quarter-tone harmonic scale at solstice points. Feeds dormant spirits and prevents hostility. Payment and conversation with the dead. | 40 |
 | **Tra'cysur** | Mando'a: "Star-Grave." Clan Veshok's converted cargo hauler in the Proving scenario. | 56 |
@@ -2874,15 +3597,16 @@ Korath is dead. The gathering won't wait. Your clan has a ship, weapons, supplie
 | **Unknown Regions** | Largely unexplored space beyond the Outer Rim. Revan spent two years chasing Rakatan technology here. Sith survivors fled here after the Great Hyperspace War. | 4, 16, 25, 31 |
 | **Valley of the Dark Lords** | Tomb complex on Korriban. Saturated with dark-side energy accumulated over millennia of ritual practice. Contains a Star Map. Geological formations channel dark-side energy like arteries. | 17, 32, 40, 50 |
 | **Vandar, Master** | Oldest Jedi Council member. Diminutive green-skinned species. Favors cautious engagement with the Force crisis over Vrook's strict non-intervention. | 9, 15, 29 |
+| **Korius Valio** | Director of the Office of Force Affairs. Former Republic SIS officer. Not Force-sensitive. Runs Force-user registration, monitoring, and threat classification for the Concordat. Investigating a Security Council intelligence leak. | 27-28 |
 | **Vardos** | Remnant's breadbasket. Temperate agricultural world providing grain for Remnant military and civilian populations. Ralos Station orbits nearby. | 52 |
 | **Varik, Lt. Commander** | Concordat transport officer in the Freighter Incident scenario. His Force-sensitive daughter is dying from dead-zone exposure. | 56 |
-| **Veera Ordo** | Canderous's sister. Concordat Integrationist leader. Advocates Mandalorian-Republic partnership. Has not spoken to Canderous since the split. | 19, 22, 23, 27, 44 |
+| **Veera Ordo** | Canderous's sister. Concordat Integrationist leader. Commands 6,000 warriors across 12 garrison worlds from Dxun. Runs integration as proof of concept. Has not spoken to Canderous since the split. | 19, 22, 23, 27, 38-39 |
 | **Veld Arannis** | Miraluka Jedi who lost Force sight permanently during the Second Siege of Onderon Ashen strike. Spent the rest of the war blind. | 21 |
 | **Ves'kaan** | Site of the Cathar massacre. ~14,000 civilians killed in a concentration zone by Clan Jendri forces over two days. | 20, 54 |
 | **Viith** | Miraluka term for the quality of a person's Force presence, reflecting who they are. Not telepathy. The distinction matters to Miraluka. | 54 |
 | **Vossk** | Dying Selkath foreman in the Windfall Protocol starting scenario. | 56 |
 | **Vrook, Master** | Senior Jedi Council member. Human Guardian-turned-administrator. Argues for strict non-intervention in galactic politics. Conservative voice. | 15, 29 |
-| **Vynn Telos, Lt. Commander** | Malak's personal aide. Describes his caf as "weaponized." | 23 |
+| **Vynn Valix, Lt. Commander** | Malak's personal aide. Describes his caf as "weaponized." | 23 |
 | **Walking Meditation of Telos** | Jedi meditation walking outdoors at dawn, treating the ecosystem as an extension of the body. Develops ecological and large-scale Force perception. | 34, 35 |
 }}
 

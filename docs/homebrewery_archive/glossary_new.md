@@ -44,14 +44,14 @@
 | **Clan Jendri** | Mandalorian clan responsible for the Ves'kaan massacre. Fragments now in Neo-Mandalorian Coalition. | 20, 26 |
 | **Clan Kryze** | Mandalorian clan that argued for diplomacy over siege during the Doctrine debates. | 19 |
 | **Clan Ordo** | Canderous and Veera Ordo's clan. Led the Onderon assault. Split between Concordat and Coalition. | 19, 26, 27 |
-| **Clan Skirata** | Mandalorian clan. Jaden the Elder provided the Doctrine of Necessary Strength its canonical language. | 19 |
+| **Clan Skirata** | Mandalorian clan. Jarar the Elder provided the Doctrine of Necessary Strength its canonical language. | 19 |
 | **Clan Veshok** | Small Neo-Mandalorian clan in the Proving scenario. Lost aliit'alor Korath Veshok to counterfeit kolto. Ship: *Tra'cysur*. | 56 |
 | **Clan Vizla** | Mandalorian clan that joined the Concordat alongside Cassus Fett's faction. | 22 |
 | **Commercialists (Selkath)** | Selkath faction led by Trade Minister Jhosa favoring expanded exports and building Manaan into a galactic financial center. | 33, 50 |
 | **Concordat, the** | Government merging Republic administration with Mandalorian military strength, led by Supreme Chancellor-General Malak (founded 3955 BBY / 1 CE). | 3, 4, 22, 23, 24 |
 | **Concordat Advisors** | ~80 Jedi serving Malak's government as advisors, healers, and administrators. Tolerated and surveilled in equal measure. | 29, 35 |
 | **Concordat Era (CE) / Before Concordat (BC)** | In-world calendar system. Events before the Concordat: 9 BC → 1 BC. Events after: 1 CE onward. Campaign begins 4 CE (3952 BBY). | 3, 18 |
-| **Concordat Security Council** | Military advisory body chaired by General Tagren Voss. Pushed for expanded surveillance of Force-sensitives. | 23, 24 |
+| **Concordat Security Council** | Military advisory body chaired by General Verex Zeval. Pushed for expanded surveillance of Force-sensitives. | 23, 24 |
 | **Core Worlds** | Wealthy galactic center: Coruscant, Alderaan, Corellia. Republic-standard governance plus Concordat security apparatus. | 4, 23, 46, 48 |
 | **Corellia** | Core World under Concordat control. Site of the Corellia Trade Accords negotiated by Zez-Kai Ell. | 4, 29, 48 |
 | **Corellia Trade Accords** | Diplomatic achievement negotiated by Master Zez-Kai Ell. Stabilized Core World trade in the Concordat's early years. | 29 |
@@ -81,11 +81,11 @@
 | **Darth Nihilus** | Born a Force-sensitive civilian on Duro during the Burning. Became a living void that feeds on Force energy from living things. Kreia gave him a Sith artifact mask to contain his hunger. Destroyed the Miraluka colony on Katarr. | 10, 11, 32 |
 | **Darth Sion** | Former Revanchist Jedi shattered at the Second Siege of Onderon. Body held together by dark-side rage and pain. Kreia's enforcer. Refuses to die. | 10, 11, 32 |
 | **Dead Zone** | Region where the Force is absent or distorted. Three severity tiers: partial (intermittent), significant (sluggish), total (absent). | 4, 8, 12, 15, 16, 21, 48, 49, 50, 51, 54 |
-| **Deralia** | Former Jedi enclave world. Local Jedi defected to the Remnant under Master Nayama Voss. Forty Jedi operate training and healing services. | 52 |
+| **Deralia** | Former Jedi enclave world. Local Jedi defected to the Remnant under Master Heraia Solix. Forty Jedi operate training and healing services. | 52 |
 | **Dhas'kara** | Mandalorian single-combat challenge. Resolves disputes between clans or challenges Mandalore's authority. Malak invoked it to end the wars (3955 BBY). | 22, 44 |
 | **Doctrine of Necessary Strength** | Mandalorian philosophy: strength must be self-generated; reliance on the Force produces civilizational fragility. Adopted after Mandalore showed the clans a Jedi's death at Ossus. | 7, 18, 19, 21, 26, 44 |
 | **Dorak, Master** | Jedi historian who left the Council. Manages Remnant civilian administration from the government-in-exile. | 25 |
-| **Doris Fennel, Master** | Former Consular serving as Malak's primary Force advisor in the Concordat. Detests the position. | 29 |
+| **Maraina Valyn, Master** | Former Consular serving as Malak's primary Force advisor in the Concordat. Detests the position. | 29 |
 | **Dreshdae Compact** | Three Sith remnant commanders holding a garrison on Korriban, claiming custodial authority over the tomb world. | 32 |
 | **Drexl** | Beast-rider mounts on Onderon. Bonded to their riders through the Force; went mad during the Second Siege when the Ashen strike severed the connection. | 19, 21, 50 |
 | **Duro** | Industrial world. Site of the galaxy's largest confirmed dead zone after the Burning. Salvage economy. | 21, 23, 51 |
@@ -139,7 +139,7 @@
 {{DHTable,wide
 | **Term** | **Definition** | **Pg** |
 |:--|:--|:--|
-| **Jaden the Elder** | Clan Skirata elder who gave the Doctrine of Necessary Strength its canonical language at the Dxun gathering. | 18, 19 |
+| **Jarar the Elder** | Clan Skirata elder who gave the Doctrine of Necessary Strength its canonical language at the Dxun gathering. | 18, 19 |
 | **Jebble** | Cold Outer Rim industrial world. Malak's first major independent victory (3958 BBY). Now a Concordat orbital shipyard and logistics hub. | 21, 52 |
 | **Jedi Code** | Five-tenet core teaching: "There is no emotion, there is peace; there is no ignorance, there is knowledge; there is no passion, there is serenity; there is no chaos, there is harmony; there is no death, there is the Force." | 34, 35, 37, 38 |
 | **Jedi Consulars** | Jedi path: diplomacy, scholarship, and Force study. Dominated the Council and the Order's intellectual life. | 28, 34 |
@@ -196,7 +196,7 @@
 | **Massassi** | Warrior caste of Sith Pureblood society. Suffered worst during the Republic counter-invasion. Survivors scattered, traumatized, angry. | 31, 53 |
 | **Meditation of Erosion** | Keeper practice: sustained exposure to concentrated dark-side energy over years or decades, deepening Force connection at the cost of physical deterioration. | 40 |
 | **Mid Rim** | Galactic middle band between Core Worlds and Outer Rim. Governed through Concordat military governors with broad discretionary authority. | 4, 19, 47 |
-| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Tagren Voss. | 23 |
+| **Militarists** | Concordat faction supporting permanent centralized military authority. Led by General Verex Zeval. | 23 |
 | **Miraluka** | Near-human species perceiving the world through the Force rather than eyes. The Force crisis threatens species-wide blindness and survival. | 4, 8, 12, 15, 46, 54 |
 }}
 
@@ -212,7 +212,7 @@
 |:--|:--|:--|
 | **Naga Sadow** | Dark Lord of the Sith who launched the Great Hyperspace War's invasion of the Republic. His mastery of ritual warfare caused catastrophic Force damage. | 18 |
 | **Nar Shaddaa** | Smuggler's Moon in Hutt Space. Largest Sith Pureblood diaspora community (~15,000), major Cathar population, Exchange base of operations, and Duros Navigation Compact headquarters. | 5, 9, 30, 32, 47, 48, 50, 55 |
-| **Nayama Voss, Master** | Senior Jedi at the Deralia enclave. Adapted training so students learn conventional medicine alongside Force technique. | 52 |
+| **Heraia Solix, Master** | Senior Jedi at the Deralia enclave. Adapted training so students learn conventional medicine alongside Force technique. | 52 |
 | **Neo-Mandalorian Coalition** | Faction led by Canderous Ordo, rejecting the Concordat. Nomadic raiding force across the Outer Rim and Wild Space. Not unified: traditionalists, mercenaries, ideological purists, and refugees. | 4, 22, 26, 27, 45, 56 |
 | **Office of Force Affairs** | Concordat agency registering and monitoring Force-sensitive citizens. Stated purpose: public safety. Unstated purpose: political control. | 23, 24, 30, 50 |
 | **Office of Sentient Rights** | Concordat bureau combating Twi'lek trafficking. Underfunded, understaffed, politically inconvenient. | 54 |
@@ -229,7 +229,7 @@
 | **Ralos Station** | Kaeranth's mobile headquarters. Decommissioned Republic fleet tender that relocates every forty days. Crew of 800. Orbiting Vardos at campaign start. | 52 |
 | **Rapid Force triage** | Wartime healing technique: sending perception through a medical bay to assess dozens of patients simultaneously, choosing who lives. A skill born of desperation. | 34, 35 |
 | **Razing of Cathar** | Systematic Mandalorian campaign culminating in the Ves'kaan massacre (3959 BBY / 4 BC). ~14,000 civilians killed. Sparked the Revanchist movement. | 20, 48, 54, 56 |
-| **Rell Odar** | Twi'lek Jedi Master and duelist killed at Ossus when Sith ritual severed his Force connection mid-fight. Mandalore showed his death hologram to the clans to justify the Doctrine. | 18 |
+| **Tal Esicore** | Twi'lek Jedi Master and duelist killed at Ossus when Sith ritual severed his Force connection mid-fight. Mandalore showed his death hologram to the clans to justify the Doctrine. | 18 |
 | **Remnant Jedi** | ~200 Jedi serving Revan's government-in-exile. Maintain the Revanchist military rank structure. | 29, 35 |
 | **Resol'nare** | Six core tenets of Mandalorian identity: wear armor, speak Mando'a, defend your clan, raise children as Mandalorians, contribute to clan welfare, answer Mandalore's call. | 26, 27, 44, 53, 54, 56 |
 }}
@@ -282,7 +282,7 @@
 | **Stereb** | Native population of Serroco. Twelve cities orbitally bombarded; fewer than two million survivors of an original eight million. Oral culture tied to geographical features that no longer exist. | 19, 20, 51 |
 | **Stygian Caldera** | Nebula surrounding Sith space. Contains Rakatan ruins interpreted through Sith theology, including structures King Adas's followers studied. | 16, 31 |
 | **Sylvar Juhani** | Cathar teenager who recorded the Ves'kaan massacre aftermath with a stolen Mandalorian recorder, sparking galactic outrage and accelerating the Revanchist movement. | 20 |
-| **Tagren Voss, General** | Career Republic officer who commanded the rearguard at the Burning of Duro. Chairs the Concordat Security Council. Militarist faction leader. Pushes for expanded surveillance and mandatory military service. | 23 |
+| **Verex Zeval, General** | Career Republic officer who commanded the rearguard at the Burning of Duro. Chairs the Concordat Security Council. Militarist faction leader. Pushes for expanded surveillance and mandatory military service. | 23 |
 | **Taris** | City-world. First Mandalorian conquest. Upper City / mid-levels / Undercity class divide. Home to The Scratch, the largest urban Cathar community. Concordat-administered under Mandalorian governance. | 10, 15, 19, 48, 50, 53, 54 |
 | **Tatooine** | Desert world. Site of one of five Rakatan Star Maps, destroyed by Malak as a strategic decision to prevent anyone from using the Star Forge. | 10, 17 |
 | **Taung** | Ancient Mandalorian warrior species. Their warrior-poetry predates the Doctrine of Necessary Strength by millennia. | 18, 44 |
@@ -319,7 +319,7 @@
 | **Viith** | Miraluka term for the quality of a person's Force presence, reflecting who they are. Not telepathy. The distinction matters to Miraluka. | 54 |
 | **Vossk** | Dying Selkath foreman in the Windfall Protocol starting scenario. | 56 |
 | **Vrook, Master** | Senior Jedi Council member. Human Guardian-turned-administrator. Argues for strict non-intervention in galactic politics. Conservative voice. | 15, 29 |
-| **Vynn Telos, Lt. Commander** | Malak's personal aide. Describes his caf as "weaponized." | 23 |
+| **Vynn Valix, Lt. Commander** | Malak's personal aide. Describes his caf as "weaponized." | 23 |
 | **Walking Meditation of Telos** | Jedi meditation walking outdoors at dawn, treating the ecosystem as an extension of the body. Develops ecological and large-scale Force perception. | 34, 35 |
 | **Wild Space** | Ungoverned space beyond the frontier. Sith remnants fled here after the Great Hyperspace War. Neo-Mandalorian raiding territory. | 4, 31, 49 |
 | **Windfall Protocol, the** | Starting scenario: Sith-aligned operatives awaken in kolto tanks in a blacked-out seafloor refining station on Manaan. | 56 |

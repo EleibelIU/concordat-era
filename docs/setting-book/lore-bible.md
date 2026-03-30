@@ -70,7 +70,7 @@ Three months after the Treaty of Coruscant ended the Great Hyperspace War, Manda
 
 He showed them a Jedi dying.
 
-The hologram was a battlefield recording from Ossus. A Twi'lek Jedi Master named Rell Odar, one of the finest duelists of his generation, fighting Sith warriors with extraordinary skill. Then the Sith ritual hit. His lightsaber flickered. His enhanced speed vanished. His precognition evaporated. He stood there, confused, and blaster bolts cut him down.
+The hologram was a battlefield recording from Ossus. A Twi'lek Jedi Master named Tal Esicore, one of the finest duelists of his generation, fighting Sith warriors with extraordinary skill. Then the Sith ritual hit. His lightsaber flickered. His enhanced speed vanished. His precognition evaporated. He stood there, confused, and blaster bolts cut him down.
 
 Mandalore replayed it three times.
 
@@ -78,7 +78,7 @@ The argument: for ten thousand years, the galaxy had built its civilization on t
 
 The Mandalorians, who had never relied on the Force, who fought with iron and will and discipline, were the only people who could teach the galaxy to survive without supernatural crutches.
 
-Jaden the Elder of Clan Skirata gave it language: *Strength is not given. Strength is forged. Those who rely on gifts from the cosmos will be weak when those gifts are taken away. Only those who forge their own strength can survive in a galaxy without mercy.*
+Jarar the Elder of Clan Skirata gave it language: *Strength is not given. Strength is forged. Those who rely on gifts from the cosmos will be weak when those gifts are taken away. Only those who forge their own strength can survive in a galaxy without mercy.*
 
 The Doctrine of Necessary Strength was not a declaration of war. It was a philosophy of intervention. The Mandalorians would demonstrate self-reliance by testing the galaxy's ability to defend itself, and offer their methods to those who proved willing to learn.
 
@@ -302,7 +302,7 @@ In practice, the Concordat functions as a military-administrative hybrid. The Co
 
 Malak wears prosthetics for his jaw and arm. In Mandalorian culture, prosthetics mark a warrior who paid the price for victory. In Republic culture, they mark a man who is no longer whole. Malak exists in both readings simultaneously, and the ambiguity is useful.
 
-He governs from Coruscant, from the same Senate chambers where Republic Chancellors governed before him. He holds audiences. He meets with senators. He reviews military reports. He sleeps four hours a night and drinks caf that his aide, Lieutenant Commander Vynn Telos, describes as "weaponized."
+He governs from Coruscant, from the same Senate chambers where Republic Chancellors governed before him. He holds audiences. He meets with senators. He reviews military reports. He sleeps four hours a night and drinks caf that his aide, Lieutenant Commander Vynn Valix, describes as "weaponized."
 
 He is not a monster. He is a man who made a series of decisions that each seemed necessary at the time and that, taken together, have built something that looks increasingly like an authoritarian state. He monitored Force-sensitive individuals because unreliable Force users were a genuine security risk. He expanded military governor authority because contested territories needed rapid decision-making. He curtailed press freedoms because wartime propaganda was destabilizing newly integrated Mandalorian worlds.
 
