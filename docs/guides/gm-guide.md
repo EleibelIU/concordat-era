@@ -54,9 +54,9 @@ I love Star Wars. I love KOTOR. But affection is not a design reason. I could ha
 
 **Player assumptions generate content.** A player says "my character is a smuggler." The table pictures Han Solo. The player acts on that image. Then the Concordat Era's version hits: running kolto past blockades, moving Force-sensitive refugees off-grid, bribing port officials who answer to a military governor. The player arrived with Han Solo and discovered someone darker, more necessary, and more politically exposed. That gap between assumption and reality generates scenes the GM did not plan. The audience watches a real person revise their expectations in real time.
 
-**Subversion requires something to subvert.** Your players know the Jedi are supposed to be wise. When they meet Jedi who police Force-sensitive registration for a surveillance state, the dissonance hits because the players arrived with expectations. An original setting's religious order carries no baggage. The Jedi carry decades of it. The correct assumption pulls the player in. The unexpected context gives them something to wrestle with.
+**Subversion requires something to subvert.** Your players know the Jedi are supposed to be wise. Jedi who police Force-sensitive registration for a surveillance state hit harder because the players arrived with expectations. An original setting's religious order carries no baggage. The Jedi carry decades of it.
 
-Subversion has a shelf life. By session five, "the Jedi aren't what you expected" is spent. Subversion gets players through the door. The genre architecture keeps them in the room. A political intrigue campaign sustains itself on faction clocks and competing agendas. A frontier survival campaign sustains itself on kolto costs and communities that need practical help. Part III covers ten genres, and the faction density supports more: horror, heist, courtroom drama, theological debate. None depend on the Jedi being surprising. They depend on the political landscape being dense enough that new problems keep surfacing from the same structural tensions.
+Subversion has a shelf life. By session five, "the Jedi aren't what you expected" is spent. The genre architecture keeps players after subversion gets them through the door. Part III covers ten genres. None depend on the Jedi being surprising. They depend on the political landscape surfacing new problems from the same structural tensions.
 
 ---
 
@@ -70,7 +70,7 @@ The Concordat provides stability through authoritarianism. The Remnant fights fo
 
 Present every faction's best case with conviction. Present every faction's worst actions without apology. The moment you signal that one faction is "the good guys," you collapse the setting into a quest with a right answer.
 
-Tony Soprano runs a criminal empire and loves his children. Walter White poisons a child and funds his family's future. The audience cannot resolve these characters into a single moral verdict, and that irresolution keeps them watching. An actual play pushes further: the people making these impossible choices are reacting without a script. When the players meet a Concordat governor who restricts Force-sensitive movement and has the casualty reports to justify it, the audience hears real people argue about whether he is right. The argument does not resolve. If you hand the players a villain, the audience gets a fight scene. If you hand them a defensible position doing indefensible things, the audience gets a conversation that carries across episodes.
+An actual play amplifies this. The people making impossible choices react without a script. Hand the players a villain, the audience gets a fight scene. Hand them a defensible position doing indefensible things, the audience gets a conversation that carries across episodes.
 
 In practice: make NPCs believe what they are saying. The Concordat governor who restricts Force-sensitive movement believes he is protecting civilians from people whose abilities fail without warning. He has casualty reports. He is a bureaucrat doing his job in a galaxy where the rules keep changing. The party should leave the scene arguing about whether he is right.
 
@@ -78,13 +78,9 @@ In practice: make NPCs believe what they are saying. The Concordat governor who 
 
 The Force is dying. This is the setting's material condition, not a plot device that resolves when the party finds the right artifact or defeats the right villain. The Force crisis is to the Concordat Era what climate change is to the 21st century: a slow-motion catastrophe that shapes every other problem in the setting.
 
-Do not resolve it cheaply. Do not present a cure. The Force crisis is the setting's skeleton. Remove it, and everything else collapses.
+Do not resolve it. You can reveal its causes, let the party stabilize a dead zone, discover a principle that suggests the Force might be changing rather than dying. The crisis persists.
 
-You can reveal its causes. You can let the party understand it better than anyone in the galaxy. You can let them stabilize a dead zone, protect a community, discover a principle that suggests the Force might be changing rather than dying. The crisis itself persists.
-
-Heroic design gives the party a solvable problem: the dragon threatens the kingdom, the party kills the dragon, the kingdom is saved. Heroic stories resolve. The audience watches a problem appear, escalate, and disappear. The show manufactures the next threat, and the audience learns to expect the cycle. The West Wing ran seven seasons on the same structural tensions. The Wire ran five. The problems persisted. The characters changed within them, and the audience stayed to watch the change. The Force crisis gives the Concordat Era that engine. It can be understood, managed, contested, exploited, feared, studied, denied. The party's response to the crisis defines who their characters are across sessions.
-
-The players find their agency in the response, not the solution. They decide who gets the kolto, which faction's theory gains traction, whether a dead zone becomes a quarantine or a research site. The crisis is the weather. The players decide what their community builds in it.
+The West Wing ran seven seasons on structural tensions that never resolved. The Wire ran five. The characters changed within the problems, and audiences stayed to watch. The Force crisis is the Concordat Era's engine. The players find their agency in the response: who gets the kolto, which theory gains traction, whether a dead zone becomes a quarantine or a research site.
 
 In practice: compel Force instability in every session. Not in every scene. Not as punishment. Enough that the players never forget their galaxy's operating system is unreliable.
 
@@ -92,7 +88,7 @@ In practice: compel Force instability in every session. Not in every scene. Not 
 
 The galaxy remembers what the players did. If the party negotiates a ceasefire between a Concordat garrison and a Remnant cell, that ceasefire holds until someone breaks it. If the party exposes a Triumvirate agent in the Senate, that region's Sith operations are disrupted for months. If the party delivers kolto to a frontier community, that community becomes an ally with expectations. None of these outcomes reset between sessions.
 
-This is the rule that separates a living setting from a theme park. A theme park resets: the quest giver offers the same quest, the villain rebuilds, the status quo restores itself between adventures. A living setting compounds: every action the party takes changes the landscape, and the changed landscape produces new problems the GM did not plan. The party's session-four ceasefire becomes session-twelve's political crisis when the Concordat governor who agreed to the terms faces a loyalty inquiry from Coruscant.
+A theme park resets between adventures. A living setting compounds: the party's session-four ceasefire becomes session-twelve's political crisis when the governor who agreed faces a loyalty inquiry from Coruscant.
 
 Example: the party accuses a Concordat military governor of corruption in front of the Senate press gallery. The accusation lands. The governor faces an inquiry. His intelligence staff opens a file on the party. The Restorationist faction pressures the party to testify under oath. The OFA reclassifies the party's transit permits. Three sessions later, the governor is removed, his replacement is worse, the Restorationists call in the favor the party owes them, and the OFA file has made the party's smuggler contact too nervous to answer comms. One action, five consequences, three sessions of content the GM built from a single player decision. No one scripted any of it. The audience watched it compound in real time.
 
@@ -102,11 +98,7 @@ In practice: after every session, spend five minutes updating your faction clock
 
 The party cannot fix the Force crisis. They cannot reform the Concordat. They cannot reunify the galaxy. They can get the kolto shipment to the frontier clinic before the medic runs out. They can convince the governor to delay a registration sweep by three weeks, and a family uses that window to disappear. They can broker a ceasefire in one sector that holds for six months, and during those months, a school reopens.
 
-Those victories matter more here than in a heroic setting, not less. In a heroic campaign, saving the village is a stepping stone to saving the kingdom. In the Concordat Era, saving the village IS the victory. The system will not produce that outcome on its own. The party is the only reason it happened.
-
-The Wire runs five seasons on institutional failure. Baltimore does not get better. Bubbles gets clean. Cutty opens a gym. Those moments land harder because the system around them refuses to improve. The audience needs catharsis inside the complexity. Pure political chess loses people. The moments where someone is saved, where trust is earned, where something fragile survives in a hostile galaxy: those are the emotional payoffs that carry an audience through twenty episodes of faction politics.
-
-A party that secures a kolto supply for a frontier community has given fifty families another year of functioning medicine. A party that hides a Force-sensitive child from OFA registration has saved one kid. The galaxy stays complicated. The kid is safe. The audience remembers the kid.
+In a heroic campaign, saving the village is a stepping stone to saving the kingdom. Here, saving the village IS the victory. The system will not produce that outcome on its own. Baltimore never improves across five seasons of The Wire. Bubbles gets clean. Cutty opens a gym. Those moments land harder because the system refuses to improve. The audience needs catharsis inside the complexity, and human-scale victories carry them through faction politics.
 
 In practice: every arc needs at least one moment where the party's effort produces a concrete, human-scale good. Not a systemic fix. A person helped, a community protected, a promise kept. Give the players something to defend, and they will fight harder for it than for any political abstraction.
 
@@ -116,7 +108,7 @@ The moral complexity is the context. A lightsaber fight in a hangar bay is still
 
 The political density makes those moments land harder. The smuggler is running kolto to a community that dies without it, and the patrol captain chasing her has orders she believes are justified. The lightsaber draw costs the Jedi her cover with the OFA. The single combat decides which clan controls a vote that shifts Coalition policy for a decade. The stakes make the spectacle mean something. The spectacle has to be there.
 
-A session that is all people arguing in rooms loses players by session three, no matter how good the arguments are. Balance the political tension with moments where the characters get to be competent, dramatic, and cool. Let the Jedi feel the Force surge through her in a moment of clarity, even if it fails her next session. Let the soldier hold the corridor. Let the pilot thread the needle. The setting gives you reasons why those moments matter. Your job is to make sure the moments still happen.
+A session of people arguing in rooms loses players by session three. Balance political tension with moments where the characters are competent, dramatic, and cool. The setting gives you reasons those moments matter. Your job is to make sure they happen.
 
 In practice: every session needs at least one scene where a character gets to be good at what they do. Competence is fun. Spectacle is fun. Star Wars is fun. The political weight makes the fun feel earned. Without the fun, the political weight is homework.
 
