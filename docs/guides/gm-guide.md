@@ -154,43 +154,44 @@ Run a Session Zero with your full party before the campaign starts. This session
 
 ### Character Creation at the Table
 
-Build characters together, not in isolation. Fate Condensed's six narrative questions drive character creation, and those questions produce better characters when the whole table hears the answers.
-
-**Aspects as contracts.** When a player writes "The Concordat Took Everything From Me," that player has told the GM and the other players what scenes they want. Session Zero is where the table reads these contracts aloud. The GM confirms: "I will give you scenes where the Concordat's cost is personal." The other players confirm: "I will engage with your character's pain when it surfaces." Aspects written in private miss this step. Aspects written at the table create a shared understanding of what the campaign is about.
-
-**Party composition.** The Concordat Era does not require faction alignment. A mixed-faction party (one Concordat veteran, one Remnant sympathizer, one frontier independent, one Mandalorian exile) produces more internal tension and better sessions than a party that agrees on everything. Session Zero is where the players negotiate these relationships. "My character served under your character during the Ashen Campaigns. She hasn't forgiven you for Serroco." That negotiation takes five minutes in Session Zero. It fuels thirty sessions of play.
-
-**Force-sensitive decisions.** The Force-Sensitive Extra costs one stunt slot. Players who take it accept the Force Instability standing compel: the GM can compel their Force-related aspects at any time, and the Force fails roughly one-third of the time in normal space. Session Zero is where Force-sensitive players understand this cost. A player who expects reliable Jedi powers will be frustrated. A player who sees Force Instability as a source of dramatic tension will produce the best scenes in the campaign.
-
-### Building the Party
+Build characters together, not in isolation. Fate Condensed's six narrative questions drive character creation, and those questions produce better characters when the whole table hears the answers. A mixed-faction party (one Concordat veteran, one Remnant sympathizer, one frontier independent, one Mandalorian exile) produces more internal tension and better sessions than a party that agrees on everything. Session Zero is where players negotiate those relationships face to face.
 
 A good actual play cannot be divorced from its system. The moments audiences remember are dice hits, compels accepted, consequences taken. Session Zero is where you build the party that generates those moments. Not four good characters. One good crew.
 
-**Step 1: Aspects that split.** Go around the table. Each player drafts their high concept and trouble. Read them aloud. An aspect that only helps is dead weight. "Experienced Soldier" gives a bonus and nothing else. "I Signed the Orders at Onderon" gives a bonus in military contexts, compels when the party meets Onderon survivors, and creates a scene every time someone recognizes the unit insignia. Push every aspect toward a help side and a hurt side. The hurt side is where the drama lives.
+**Step 1: Aspects that split.** Go around the table. Each player drafts their high concept and trouble. Read them aloud. When a player writes "The Concordat Took Everything From Me," that player has told the GM and the table what scenes they want. The GM confirms: "I will give you scenes where the Concordat's cost is personal." The other players confirm: "I will engage with your character's pain when it surfaces." Push every aspect toward a help side and a hurt side. "Experienced Soldier" gives a bonus and nothing else. "I Signed the Orders at Onderon" gives a bonus in military contexts, compels when the party meets Onderon survivors, and creates a scene every time someone recognizes the unit insignia. The hurt side is where the drama lives.
 
-**Step 2: Cross-wire the party.** After high concepts and troubles are on the table, connect them. Ask: "Which two characters have a reason to distrust each other?" and "Which two characters owe each other something?" Build at least one aspect per character that references another PC or a shared event. "She Left Me on Serroco" and "I Had No Choice at Serroco" on two different character sheets guarantee scenes the GM does not have to manufacture. A party with no internal tension produces a group that agrees on everything. A group that agrees on everything produces boring sessions.
+**Step 2: Cross-wire the party.** After high concepts and troubles are on the table, connect them. Ask: "Which two characters have a reason to distrust each other?" and "Which two characters owe each other something?" Build at least one aspect per character that references another PC or a shared event. "She Left Me on Serroco" and "I Had No Choice at Serroco" on two different character sheets guarantee scenes the GM does not have to manufacture. "My character served under your character during the Ashen Campaigns. She hasn't forgiven you for Serroco." That negotiation takes five minutes in Session Zero. It fuels thirty sessions of play.
 
 **Step 3: Cover the skill spread.** Lay out the party's skill pyramids side by side. The party needs coverage across three domains: social (Rapport, Deceive, Contacts, Empathy), action (Fight, Shoot, Pilot, Athletics), and investigation (Investigate, Notice, Lore, Stealth). No single PC covers all three. If two players both put Fight at +4, ask one to shift. The gaps between characters create dependency: the smuggler cannot talk their way out, so the diplomat has to. The diplomat cannot fly the ship, so the smuggler has to. Dependency produces scenes where characters need each other under pressure.
 
 **Step 4: Build skill pyramids for friction.** Inside each character, the gaps matter as much as the peaks. A Jedi with Fight +4 and Will +1 wins a lightsaber duel and crumbles under a Force crisis compel. A smuggler with Pilot +4 and Rapport +1 outruns a patrol and fumbles the negotiation that would have made the chase unnecessary. Ask each player: "What is your character bad at that will get them in trouble?" Build that answer into the pyramid at +1 or leave it off entirely.
 
-**Step 5: Stunts as scene requests.** Each PC gets two free stunts (one fewer if Force-sensitive). A stunt is a mechanical commitment to a character's identity. "Because I ran kolto for three years, I get +2 to Contacts when finding black-market medical supplies" tells you this character's past involves smuggling, medical communities, and illegal networks. Go around the table. Each player reads their stunt aloud and names the type of scene it creates. If a player cannot name the scene, rewrite the stunt together before leaving Session Zero.
+**Step 5: Stunts as scene requests.** Each PC gets two free stunts (one fewer if Force-sensitive). The Force-Sensitive Extra costs one stunt slot and accepts the Force Instability standing compel: the GM can compel Force-related aspects at any time, and the Force fails roughly one-third of the time in normal space. A player who expects reliable Jedi powers will be frustrated. A player who sees Force Instability as dramatic tension will produce the best scenes in the campaign. For all stunts, go around the table. Each player reads their stunt aloud and names the type of scene it creates. "Because I ran kolto for three years, I get +2 to Contacts when finding black-market medical supplies" tells you this character's past involves smuggling, medical communities, and illegal networks. If a player cannot name the scene, rewrite the stunt together before leaving Session Zero.
 
 **Step 6: Stress-test the troubles.** The trouble aspect is your standing invitation to complicate each character's life. "OFA Has My Biometric Profile" produces scenes in any Concordat-controlled spaceport. "My Clan Thinks I'm Dead" produces scenes the moment the party enters Mandalorian space. For each trouble, name three compels it generates in the first five sessions. If you cannot reach three, the trouble is too vague. Sharpen it at the table.
 
-**Step 7: Set the party's shared question.** Before Session Zero ends, name the question the party will spend the campaign answering. Not a plot question. A moral one. "Can the Concordat be reformed from inside, or does it have to be torn down?" "Is the Force worth saving if saving it means people like us keep dying?" The question does not need an answer. The party's disagreement about the answer is the campaign.
+**Step 7: Set combat expectations.** Fights last two to four exchanges. Consequences reshape characters for sessions. Concessions let a player choose what losing looks like: the Mandalorian drops her weapon and yields rather than die in front of her clan. The Jedi lets the OFA agents take her into custody rather than ignite her lightsaber in a crowded market. Force abilities fail mid-combat. Players who know this build characters that survive it.
 
-### What Combat Feels Like
+**Step 8: Name the people around you.** Ask the party to name two NPCs they knew before the campaign starts. Give each NPC one aspect. "Mandalorian Scout Who Hums While Cleaning His Blaster." Those NPCs are now people the party will fight to protect, and their loss will land because the table gave them a name before session one.
 
-Tell the players this during Session Zero so they build characters with the right expectations.
+**Step 9: Set the party's shared question.** Name the question the party will spend the campaign answering. Not a plot question. A moral one. "Can the Concordat be reformed from inside, or does it have to be torn down?" "Is the Force worth saving if saving it means people like us keep dying?" The question does not need an answer. The party's disagreement about the answer is the campaign.
 
-**Fights are fast.** Two to four exchanges. A blaster wound is a mild consequence that clears in a scene. A lightsaber strike through the shoulder is a severe consequence that reshapes how a character operates for an arc. Characters who enter combat accept that something about them will change when they leave it.
+### Before You Leave the Table
 
-**Concessions produce the best scenes.** A character concedes before being taken out and negotiates what losing looks like. The Mandalorian drops her weapon and yields rather than die in front of her clan. The Jedi lets the OFA agents take her into custody rather than ignite her lightsaber in a crowded market. Defeat with terms produces better drama than victory. Tell players during Session Zero that concession exists and that it is not losing. It is choosing what losing looks like.
+Confirm these exist before Session Zero ends:
 
-**The Force will fail mid-fight.** A Jedi who invokes "Trained by the Dantooine Enclave" to boost a lightsaber attack can be compelled on that same aspect the next exchange: the Force stutters, precognition cuts out, the Jedi fights blind. Build encounters so the party survives that compel. The audience remembers the exchange where the Force failed more than the exchange where it worked. Force-sensitive players need to hear this before they build their characters, not after.
+1. Each PC has five aspects, a skill pyramid, and two stunts (or one stunt and the Force-Sensitive Extra).
+2. At least two PC aspects reference another PC or a shared event.
+3. The party covers social, action, and investigation skill domains. No critical gap.
+4. Every trouble generates at least three compels in the first five sessions.
+5. Combat expectations are set: fast fights, lasting consequences, concessions, Force failure.
+6. Safety tools are documented. Lines and veils are recorded.
+7. The party has a shared moral question.
+8. Two named NPCs exist with aspects before session one.
 
-**Name the people who fight beside you.** NPC allies carry one aspect each. "Mandalorian Scout Who Hums While Cleaning His Blaster." When that NPC gets taken out, the aspect makes the loss specific. An unnamed soldier dying is set dressing. A named NPC dying is a scene the audience carries forward. During Session Zero, ask the party to name two NPCs they know from before the campaign starts. Give each one an aspect. Those NPCs are now people the party will fight to protect.
+If anything is missing, finish it now. The first session should open with characters the table built together, not homework the players completed alone.
+
+The Setting Book's Chapter 23 contains three starting scenarios (The Freighter Incident, The Windfall Protocol, The Proving of Clan Veshok). Pick one, or build your own using the genre frameworks in Part III.
 
 ---
 
