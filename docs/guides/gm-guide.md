@@ -64,6 +64,8 @@ Subversion has a shelf life. By session five, "the Jedi aren't what you expected
 
 Five rules keep the show coherent across sessions, genres, and the unpredictable decisions your players will make. The first three define what the setting refuses to simplify. The last two protect what makes it worth playing.
 
+Fun belongs at the end, not the beginning. A lightsaber fight is fun in any Star Wars game. A lightsaber fight where the draw costs the Jedi her cover, shifts a faction's intelligence posture, and forces the party to abandon a safe house is fun that players talk about for months. Laws 1 through 4 build the structure that makes Law 5's fun mean something. Skip to 5 and you get a fine Star Wars game. Run all five and you get one players do not forget.
+
 ### Law 1: Every Faction Is Defensible
 
 The Concordat provides stability through authoritarianism. The Remnant fights for democratic principles while its leader loses his mind. The Neo-Mandalorians defend warrior honor while their people starve. The Jedi Council advocates restraint while the galaxy burns. Kreia may understand the Force better than anyone alive, and her solution might kill millions.
@@ -126,17 +128,11 @@ The largest audience is the player who came for Star Wars and stays because they
 
 ## A Note on "Yes, And"
 
-"Yes, and" is improv's first principle. Accept what your scene partner offers and build on it. Tabletop RPGs borrowed the concept because it prevents blocking: the GM who says "no, you can't do that" shuts down creative play. The principle solves a real problem. It also creates one.
+"Yes, and" prevents blocking. A GM who says "no, you can't do that" shuts down creative play. The principle solves a real problem. It also creates one: a table that treats "yes, and" as dogma softens consequences, avoids character confrontation, and routes around friction. The galaxy stops pushing back. Campaigns drift toward comfort.
 
-A table that internalizes "yes, and" as dogma starts softening consequences, avoiding confrontation between characters, and routing around the moments where a character's choices should produce resistance. The GM says yes, and the galaxy stops pushing back. Sessions drift toward comfortable resolution. Campaigns lose the friction that makes political thrillers work.
+The Concordat Era needs hostile architecture. Malak's surveillance state monitors Force-sensitives whether the party rolled well or not. Kaeranth's supply crisis worsens on a calendar. The Dxun gathering happens in six months regardless of the dice. Complications flow from political reality, and political reality does not negotiate.
 
-Daggerheart's Hope and Fear system codifies this tendency. Good rolls add Hope tokens. Bad rolls add Fear tokens. The GM spends Fear tokens to trigger complications. The design looks self-balancing. Players learn that complications follow failure, not the fiction's internal logic. A Concordat patrol searches the party's ship because the story demands it, not because someone rolled badly. The moment complications require a resource expenditure from the GM, the GM starts rationing difficulty. Hostile architecture becomes an expense rather than a given. The table drifts toward comfort.
-
-The Concordat Era needs hostile architecture. Malak's surveillance state monitors Force-sensitives whether the party rolled well or not. Kaeranth's supply crisis worsens on a calendar. The Dxun gathering happens in six months regardless of any token economy. Complications flow from the setting's political reality, and that reality does not negotiate with the dice.
-
-The alternative to "yes, and" is not "no." Affirm the player's choice as valid. Then deliver the fiction's response at full force. The player decides to steal Czerka's Telos restoration billing records from a corporate office on Citadel Station. Yes, the heist succeeds. The party has the files. Czerka's station security chief locks down the docking ring and runs facial recognition on yesterday's visitor logs. Senator Lorso's staff contacts the party within hours because someone leaked that the files exist. The Exchange offers to buy the records for twice what any legitimate outlet would pay. The player got what they wanted. Three factions now want something from them that they did not plan on carrying.
-
-This approach preserves "yes, and" where it works (creative action, character expression, narrative contribution) and rejects it where it fails (consequence mitigation, difficulty avoidance, friction elimination). The Concordat Era's three-faction landscape generates friction by design. Your job is to channel that friction through scenes and aim it at the characters.
+The alternative is not "no." Affirm the player's choice. Deliver the fiction's response at full force. The party steals Czerka's Telos billing records from Citadel Station. The heist succeeds. Czerka's security chief locks down the docking ring and runs facial recognition on yesterday's visitor logs. Senator Lorso's staff contacts the party within hours. The Exchange offers to buy the records for twice what any legitimate outlet would pay. The player got what they wanted. Three factions now want something from them that they did not plan on carrying.
 
 ---
 
