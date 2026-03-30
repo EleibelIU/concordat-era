@@ -33,35 +33,33 @@ Formatted source files live in [Homebrewery/](Homebrewery/). Layout uses [KOTOR_
 
 Writing ongoing. Core documents complete; structural revisions and content expansion in progress.
 
-### Art to Add
-- [ ] Galaxy Map next to "Galaxy at a Glance"
-
-### Revisions
-
-#### (Pg. 33) The Deep Sith
-- [ ] Clarify who Ajunta Pall is, who the Sith were before the Great Hyperspace War, and provide a yearly timeline (or fill in a few thousand years of history to maintain the mystique)
-- [ ] Clarify who the Dark Jedi Exiles are and what differentiates a Dark Jedi from the Jedi Order or the Sith (readers will assume Jedi defectors; the text implies otherwise)
-- [ ] Restructure section order: either introduce the Sith as an ideology first (parallel to the Jedi Order, what they are *now*) then go into history, OR start with history (Exar Kun, Ajunta Pall, Marka Ragnos, the Empire) and lead into what caused the Great Hyperspace War
-- [ ] Beef up the Great Hyperspace War coverage (currently underserved now that Revan's war is de-emphasized)
-- [ ] Remove the "Ancient Survivors" section and find a better place to integrate it
-- [ ] Rename "The Shadow" section (consider: Cults, another faction name, or move under Chapter 13 which is brief and lacking)
-
-### The Sith and Jedi
-- [ ] Find room for both Sith and Jedi codes
-- [ ] Expand the ideological side of both orders
+### GM Guide
+- Format GM Book for Homebrewery
+- Elevate the GM Book to the current standards of the powers that be
+- Expand a Bible/ Rule sof hte setting to be more like the BSG Writer's bible etc. 
 
 ### Art to Commission
-- [ ] Galaxy Map depicting the new Mandalorian Wars and Malak's conquest
+- Galaxy Map depicting the new Mandalorian Wars and Malak's conquest
+- Decide where to put additional Art of People etc. 
+- Utilize SWTOR art for pivotal Mandalorian Wars Events
+
 
 ### Races
-- [ ] Expand the Twi'lek writeup (and other species entries)
+- Expand the Twi'lek writeup (and other species entries)
 
 ### Other Factions
-- [ ] Expand Czerka, the Exchange, the Hutt Cartels, and regional powers (all grossly underexplored)
-- [ ] Move Rakata sections and mentions into their own chapter (under Powers or another appropriate section)
+- Expand Czerka, the Exchange, the Hutt Cartels, and regional powers (all grossly underexplored)
+
+### Systems and Planets
+- Provide a list of external resources/interactive maps outside the book 
+- Add additional planets
+
+### Scenarios and Campaign Frames
+- Add additional Mini Campaign Starting Scenarios like the ones currently listed
+- Add entire Campaigns/Module Outlines to the GM guide
 
 ### Policy for Homebrew / Introducing Legends Subjects
-- [ ] Define policy for integrating Legends material into the setting
+- Define policy for integrating Legends material into the setting
 
 ---
 
