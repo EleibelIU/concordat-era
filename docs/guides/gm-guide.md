@@ -1,11 +1,5 @@
 # THE CONCORDAT ERA — GM GUIDE
 
-## Before You Begin, Session Zero, Genres, Scope, Fate Mechanics, Game-Running, Alternate Frames, Evil Campaigns, and Actual Play
-
-This is a GM-facing document. Players should not read it. Not because it contains spoilers (though it does), but because the advice here works best when the GM has internalized it and the players experience its effects without seeing the machinery.
-
----
-
 # PART I: BEFORE YOU BEGIN
 
 ## How to Use This Guide
