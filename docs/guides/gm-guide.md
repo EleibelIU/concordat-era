@@ -22,11 +22,13 @@ This is an experiment. It might fail. I plan to enjoy it regardless. Take what w
 
 **Part IV** solves the scope problem: how to run a one-shot that feels complete, an arc that builds, or a long campaign where faction clocks keep the galaxy moving between sessions.
 
-**Part V** turns Fate Condensed mechanics into political tools. Aspects become public positions. Compels become faction pressure. Challenges become institutional confrontations.
+**Part V** gives you twelve campaign pitches sorted by length, each with named NPCs, act-by-act plot outlines, and Fate mechanical spines. Run them as written or strip them for parts.
 
-**Part VI** gives you NPC construction, scene framing, pacing, and information control for a setting where the players can reshape the political landscape without breaking it.
+**Part VI** turns Fate Condensed mechanics into political tools. Aspects become public positions. Compels become faction pressure. Challenges become institutional confrontations.
 
-**Parts VII and VIII** open campaign frames you cannot run without this guide: Concordat loyalists enforcing a surveillance state, deep-cover Sith operatives, characters who believe the Force should die. These frames require GM tools the Setting Book does not provide.
+**Part VII** gives you NPC construction, scene framing, pacing, and information control for a setting where the players can reshape the political landscape without breaking it.
+
+**Part VIII** opens campaign frames you cannot run without this guide: Concordat loyalists enforcing a surveillance state, frontier settlements, disaster response, and characters building something new in a galaxy that has not decided what it is.
 
 **Part IX** covers actual play production. Recording, editing, audience engagement, and how to build a show that respects both the game at the table and the listeners who were not there.
 
@@ -50,7 +52,7 @@ I love Star Wars. I love KOTOR. But affection is not a design reason. I could ha
 
 **Subversion requires something to subvert.** Your players know the Jedi are supposed to be wise. Jedi who police Force-sensitive registration for a surveillance state hit harder because the players arrived with expectations. An original setting's religious order carries no baggage. The Jedi carry decades of it.
 
-Subversion has a shelf life. By session five, "the Jedi aren't what you expected" is spent. The genre architecture keeps players after subversion gets them through the door. Part III covers ten genres. None depend on the Jedi being surprising. They depend on the political landscape surfacing new problems from the same structural tensions.
+Subversion has a shelf life. By session five, "the Jedi aren't what you expected" is spent. The genre architecture keeps players after subversion gets them through the door. Part III covers fourteen genres. None depend on the Jedi being surprising. They depend on the political landscape surfacing new problems from the same structural tensions.
 
 ---
 
@@ -809,7 +811,7 @@ Before session 1, answer these questions:
 
 1. **Scope tier:** Personal, Regional, or Galactic?
 2. **Campaign length:** Mini (3-6), Standard (7-12), or Long (13-20)?
-3. **Primary genre:** Which of the 10 genres drives the campaign?
+3. **Primary genre:** Which of the 14 genres drives the campaign?
 4. **Secondary genre:** Which genre provides variety?
 5. **Central question:** One sentence. "Can the [party] achieve [goal] before [threat] makes it impossible?"
 6. **Starting world:** Where does session 1 open?
@@ -820,7 +822,309 @@ Before session 1, answer these questions:
 
 ---
 
-# PART V: FATE AT THE TABLE
+# PART V: CAMPAIGN PITCHES
+
+The genres tell you what kind of story to run. The scope tiers tell you how big to make it. The twelve pitches below combine both into campaigns a GM can prep in an afternoon.
+
+Each pitch provides a premise, named NPCs with two wants (one public, one hidden), an act-by-act plot outline with actual story beats, and the Fate mechanical frameworks that drive each act. The pitches assume nothing about the party's composition. The BBEGs and key NPCs are yours regardless of who the players bring.
+
+Pitches are organized by campaign length: mini (3-6 sessions), standard (7-12), and long (13-20). A mini-campaign works as a one-season actual play or a convention series. A standard campaign fills a season. A long campaign spans multiple arcs.
+
+---
+
+## Mini-Campaigns (3-6 Sessions)
+
+### Pitch 1: The Korriban Dig
+**Horror + Archaeology | 4 sessions | Personal scope**
+
+**Premise.** Czerka Archaeological Division hires the party to recover artifacts from a newly opened tomb in the Valley of the Dark Lords. The Keepers of Korriban opposed the excavation and Czerka's corporate charter overruled them. The tomb's seals weakened six months ago. Three previous teams entered. Two returned. The third filed a preliminary report mentioning a voice speaking Old Sith from a solid stone wall, then requested transfers. All three transfers cleared within a week.
+
+**Key Characters.**
+- **Director Yun Taalo** (BBEG), Czerka's site manager. Wants the artifacts catalogued and shipped to Czerka's Telos research division. Also wants to destroy the audio recordings his team captured inside the tomb, because what they recorded does not match any known Sith language, and Yun has heard enough to suspect the voice is addressing him by name.
+- **Keeper Shasaa Ren** (ally), the Valley's senior Keeper. Wants the tomb resealed using traditional Sith funerary rites. Also wants to study the audio recordings herself, because the voice matches a burial inscription she translated twenty years ago for a tomb that was supposed to be empty.
+- **Jael Morrit** (wildcard), a surviving member of Czerka's third team. Wants to go home and never return to Korriban. Also wants someone to explain why she can feel the Force now when she tested negative for sensitivity her entire life.
+
+**Act One (Session 1): The Approach.** The party arrives at Dreshdae settlement, meets Yun Taalo and Keeper Shasaa. Czerka's base camp sits two kilometers from the tomb entrance. The party reviews the third team's preliminary report, interviews Jael, and preps equipment. Session ends at the tomb entrance. Situation aspect: "The Dark Side Concentrates Here — Notice Checks at -1."
+
+**Act Two (Sessions 2-3): The Tomb.** Five-room archaeology framework. Approach (rockslide navigation, Crafts + Athletics). Guardian (Sith illusion system projects memories of the tomb's occupant — Will checks to distinguish real from projection). Puzzle (burial chamber inscriptions require Lore to translate, but the inscriptions change between readings — Investigate to document the changes). Complication: Yun Taalo's backup team arrives at the tomb entrance with orders to extract everything, including the party if necessary. The party is caught between Yun's corporate authority and the tomb's deepening strangeness.
+
+**Act Three (Session 4): The Voice.** The inner chamber. The voice is real, present, and aware. It is not a recording. The party confronts the chamber's occupant not physically (the occupant has no body) but conversationally. The occupant is a Sith Lord who died before the Great Hyperspace War and has been aware, sealed in stone, for seven thousand years. The Lord wants release. Yun wants containment (terrified now, reversed from his original position). Keeper Shasaa wants to complete the funerary rite she believes will grant the spirit rest. Jael's new Force sensitivity reacts to the chamber. The party decides: seal the tomb (Keeper Shasaa's rite), extract the spirit into a containable artifact (Yun's revised plan), or destroy the chamber (Jael's preference, backed by enough demolition charges to collapse the tomb).
+
+**The Climax.** The party chooses among three NPCs' plans, each carrying consequences: the sealed tomb remains a problem for future generations, the extracted spirit becomes a weapon in someone's hands, the collapsed tomb buries artifacts that three factions wanted. No option is clean.
+
+**Mechanical Spine.** Session 1: social scenes (Rapport, Empathy, Investigate). Sessions 2-3: archaeology challenge (five-room framework, Will stress for dark-side pressure). Session 4: social conflict (the three NPCs argue their cases, the party mediates or chooses).
+
+---
+
+### Pitch 2: The Taris Job
+**Heist + Dirty Hands | 4 sessions | Personal scope**
+
+**Premise.** The Exchange hires the party to break into an OFA substation in Taris's Upper City and steal the detention file of Nala Fenn, a fourteen-year-old Cathar girl held without charges for six months. The Exchange wants the file to leverage OFA Director Valio. The file, once read, reveals that Nala tested positive for Force sensitivity at age twelve and has been in protective custody since — not because she committed a crime, but because the OFA's predictive model flagged her as a future threat based on her mother's connection to Cathar nationalist groups.
+
+**Key Characters.**
+- **Gresk Hadon** (BBEG), OFA substation commander. Wants Nala's file secured and his facility's record spotless. Also wants a transfer off Taris because the Undercity postings are career death, and he has been submitting applications monthly for two years.
+- **Seska Venn** (ally/client), Exchange broker who hired the party. Wants the file as leverage material. Also wants Nala extracted alive — not for altruism, but because Nala's mother owes the Exchange a debt, and a rescued daughter is better leverage than a stolen file.
+- **Nala Fenn** (wildcard), the detained girl. Wants to go home. Also wants the party to understand that she has been treated well — Gresk Hadon is not cruel, his staff are not monsters, and the facility's worst feature is that nobody can tell her when she leaves.
+
+**Act One (Session 1): The Planning.** The party meets Seska, reviews the target, and gathers intelligence. Create advantage rolls build the plan as a shared aspect: "Know the Guard Rotation" (Investigate), "Forged Upper City Transit Passes" (Deceive), "Bribed the Maintenance Contractor" (Contacts). The party cases the substation from the Upper City plaza. Session ends with the plan set and one gap the party has not solved.
+
+**Act Two (Sessions 2-3): The Heist.** Five-zone execution. Zone 1: Upper City approach (Stealth past Concordat patrols, situation aspect "Class Segregation Means Cathar Faces Draw Attention in the Upper City"). Zone 2: Substation exterior (Burglary to bypass biometric entry, or Deceive to bluff past the reception desk). Zone 3: Data archive (Investigate to locate Nala's file among thousands of records — the OFA tracks 12,000 Force-sensitive profiles). Zone 4: Detention wing (Rapport to convince Nala to leave, complicated by her statement that Hadon treats her well). Zone 5: Extraction through the Lower City (Athletics and Pilot to reach the ship while the substation's lockdown protocol activates). One flashback per player to cover planning gaps.
+
+**Act Three (Session 4): The Fallout.** The party has the file and Nala. Seska reveals her real purpose: leverage over Nala's mother, not altruism. Hadon's facility breach triggers an OFA investigation that will tighten security across Taris's Undercity — the Cathar district bears the cost. Nala asks the party what happens to her now. The file contains one additional detail the Exchange did not mention: Nala's predictive threat rating is the highest the Taris substation has recorded. The OFA's model may be wrong. It may not be. The party decides what to do with the girl, the file, and the information.
+
+**The Climax.** Give Nala to Seska (the Exchange profits, Nala becomes a tool). Return Nala to the OFA (Hadon's career survives, Nala goes back to a cell). Hide Nala independently (the party takes responsibility for a child the galaxy considers dangerous). Publish the file (Lynira Saal's press network exposes OFA practices, Taris burns politically, Nala becomes a symbol).
+
+**Mechanical Spine.** Session 1: create advantage actions build the plan. Sessions 2-3: challenge framework with five zones, flashback mechanic. Session 4: social conflict + political decision.
+
+---
+
+### Pitch 3: Dead Signal
+**Horror + Investigation | 3 sessions | Personal scope**
+
+**Premise.** A Miraluka agricultural colony on the Outer Rim frontier missed its monthly supply check-in. The Remnant dispatches the party to investigate. Colony population: forty-seven Miraluka farmers and their families. The colony sits twelve hours from the nearest communications relay. The Remnant's last contact was a routine supply request with no anomalies. That was six weeks ago.
+
+**Key Characters.**
+- **Elder Visas Maraan** (antagonist — the dead zone is the BBEG). Colony matriarch. Wants the party to leave and never report what they find. Also wants someone to explain why she can still see when every other Miraluka in the colony went blind three weeks ago.
+- **Lieutenant Korin Vel** (ally), Remnant naval officer commanding the party's transport. Wants to complete the mission and report back. Also wants to land and help, but his standing orders prohibit exposing Remnant personnel to confirmed dead zones without authorization from Kaeranth's staff.
+- **Dr. Mira Sahel** (wildcard), a non-Force-sensitive human physician who joined the colony two years ago. Wants the party to evacuate the colonists. Also wants her research notes recovered from the clinic — the notes document the dead zone's expansion pattern, and the pattern is not random.
+
+**Act One (Session 1): Arrival.** The party reaches orbit. Comms silence. Sensors detect the colony's power grid running at partial capacity. Landing approach reveals the settlement intact — no damage, no fire, no attack signs. The ship's Force-sensitive crew members feel the dead zone's edge at atmospheric entry: Will check at Fair (+2). Landing. The colony is occupied. The Miraluka are alive. They sit in their homes, silent, blind, waiting. Dr. Sahel meets the party at the landing pad. She has been the colony's functional leader for three weeks because she is the only person who can see.
+
+**Act Two (Session 2): Investigation.** The party explores the colony. The dead zone appeared three weeks ago without warning — total, overnight. Forty-six Miraluka lost their Force sight simultaneously. Elder Visas did not. She refuses to explain why. Dr. Sahel's research notes show the dead zone's boundary follows a precise geometric pattern centered on a point two kilometers south of the colony: a Rakatan ruin the colonists have used as a root cellar for a decade. The ruin activated. Investigate, Lore, and Notice checks reveal the ruin is emitting a low-frequency pulse that Dr. Sahel's instruments detect but cannot identify. The pulse matches the rhythm Duro dead zone observers have reported. The party enters the ruin. Will checks at Great (+4). The ruin's interior is a single chamber with a device the party cannot identify. The device is running.
+
+**Act Three (Session 3): The Choice.** Elder Visas follows the party to the ruin. She can navigate the dead zone because she is not perceiving through the Force — she is perceiving through the device. The Rakatan machine bonded with her when it activated. She sees through it. She did not ask for this. She does not understand it. She knows that if the party deactivates the device, her sight returns to normal Force perception and the colony's Miraluka regain their sight. She also knows — because the device showed her — that the machine was placed here thirty thousand years ago to stabilize this region's Force ecology, and it reactivated because the ecology is collapsing. Deactivating it restores the colony. It also removes the last stabilizer on this section of the frontier. The next dead zone that forms here will be permanent.
+
+**The Climax.** Deactivate the device (colony saved, frontier destabilized). Leave the device running (colony blind, frontier protected). Attempt to study the device (Lore check at Superb +5, risk of catastrophic failure). Report the device to Kaeranth's researchers (the Remnant gains Rakatan technology, but Concordat intelligence learns about it within months).
+
+**Mechanical Spine.** Session 1: investigation scenes, Will stress for dead zone. Session 2: archaeology challenge (the ruin), degraded information mechanics. Session 3: social conflict (Elder Visas vs. the party) + a single high-stakes Lore/Will check.
+
+---
+
+### Pitch 4: The Kolto Corridor
+**Frontier Survival + Trade | 5 sessions | Regional scope**
+
+**Premise.** The Remnant's Outer Rim medical network needs kolto. Manaan's Selkath export council has approved a shipment — sixteen crates, enough to supply Tera Skirata's clinic network for six months. The party's job: transport the kolto from Manaan to Dantooine through three hyperspace jumps and two refueling stops. The route passes through contested space, a partial dead zone, and a system where Czerka enforces exclusive shipping contracts with patrol corvettes. The sixteen crates are worth more than the party's ship.
+
+**Key Characters.**
+- **Noval Sariss** (BBEG), Czerka's regional shipping enforcement officer. Wants the kolto seized and rerouted to Czerka's licensed distributors. Also wants the party's ship — Czerka offers bounties for independent freighters operating without corporate shipping licenses, and Noval's quarterly quota is two ships short.
+- **Tera Skirata** (ally), Mandalorian frontier medic running eighteen rural clinics. Wants the kolto delivered intact. Also wants Remnant medical credentials so her clinics gain legal protection from Concordat regulatory interference — the kolto delivery is her leverage to extract that concession from Kaeranth's civilian administration.
+- **Selkath Export Liaison Qual Ness** (wildcard), the Selkath official who approved the shipment. Wants the delivery completed to maintain Selkath neutrality credentials. Also wants the party to document Czerka's shipping enforcement practices — the Selkath export council is building a legal case to revoke Czerka's exclusive contracts, and first-hand testimony from an interdiction attempt is evidence.
+
+**Act One (Sessions 1-2): Departure and First Jump.** The party picks up the kolto on Manaan, meets Qual Ness, negotiates payment terms. First hyperspace jump is clean. The first refueling stop: a frontier station where the cheapest fuel comes from a dealer who asks too many questions about the cargo. Noval Sariss's patrol corvette drops out of hyperspace at the station. The party bluffs, runs, or negotiates. The fuel dealer sold them out.
+
+**Act Two (Sessions 3-4): The Corridor.** Second jump passes through a partial dead zone. Navigation checks at -2 (Pilot). The ship drops out of hyperspace off-course. The partial dead zone fragments the nav computer's calculations. The party is in an uncharted system with a damaged nav computer, sixteen crates of kolto, and a Czerka corvette somewhere behind them. Crafts to repair the nav computer. Resources or Contacts to find alternative fuel. The party locates a settlement: a frontier mining station that trades cortisis ore for medical supplies. The miners need kolto. The party has kolto. The exchange is obvious and costly — every crate traded to the miners is a crate Tera Skirata's clinics do not receive.
+
+**Act Three (Session 5): Delivery.** Final jump to Dantooine. Noval Sariss is waiting — he calculated the party's route and jumped ahead. The party faces a contest: their Pilot vs. Noval's Shoot, running the Dantooine approach while the corvette fires warning shots. Landing at the Remnant depot. Tera Skirata receives the delivery. The count: however many crates the party kept. Sixteen crates and she negotiates from strength. Twelve and she negotiates from need. Eight and the clinic network faces rationing. The party's choices across five sessions determine a frontier medical network's operational capacity for six months.
+
+**The Climax.** The climax is cumulative. Every crate spent, traded, or lost shaped the outcome. The final scene is Tera counting crates and the party watching her face.
+
+**Mechanical Spine.** Sessions 1-2: social scenes + contest (Noval's pursuit vs. party's evasion). Sessions 3-4: challenge (dead zone navigation, ship repair, resource management). Session 5: contest (Dantooine approach) + social resolution.
+
+---
+
+## Standard Campaigns (7-12 Sessions)
+
+### Pitch 5: The Sith Diaspora
+**Political Intrigue + Dirty Hands | 8 sessions | Regional scope**
+
+**Premise.** The party are Sith Purebloods navigating life under the Concordat. They maintain cultural identity — Kissai scholarship, Massassi martial tradition, Zuguruk engineering — in a galaxy that monitors, restricts, and fears their species. The OFA's Force-monitoring program tracks Sith Purebloods as a category. Employers require heritage disclosure. Landlords on Nar Shaddaa charge Purebloods double deposits. The party has built lives in the cracks of this system. Then the Triumvirate's recruiters arrive with an offer: resources, organization, purpose, and a path back to significance. The price is unclear.
+
+**Key Characters.**
+- **Handler Khem** (BBEG — the party will not know for six sessions), Triumvirate recruiter operating under diaspora-protection cover. Wants the party to complete missions that advance Kreia's managed severance project. Also wants the diaspora to survive — Khem is a true believer in Pureblood cultural preservation, and Kreia convinced him that a post-Force galaxy is the only one where Sith Purebloods stop being hunted.
+- **OFA Agent Talia Dresk** (antagonist), the Concordat intelligence officer assigned to the party's district. Wants to maintain her case files and meet her detention quota. Also wants to be wrong about the Purebloods in her district — Talia transferred from a Cathar-focused posting where she witnessed OFA overreach, and she processes her guilt by trying to be "one of the good ones."
+- **Elder Massassi Krenn Tor** (ally), retired Sith veteran running a diaspora community center. Wants Sith Pureblood youth to have futures that do not involve mercenary work or crime. Also wants the party to stop whatever they are doing with the Triumvirate's people, because Krenn recognizes Handler Khem's operational style from the wars and knows where it leads.
+
+**Act One (Sessions 1-3): Community.** The party lives in the diaspora. Sessions depict daily life: cultural festivals observed in private because public gatherings draw OFA attention, job interviews where heritage disclosure costs the position, a young Massassi arrested for carrying a traditional blade that Concordat law classifies as a weapon. The party helps the community through small actions. Talia Dresk appears as background presence — observing, documenting, not yet hostile. Handler Khem approaches with the first mission: redirect a supply shipment meant for an OFA substation. The mission succeeds. The community benefits.
+
+**Act Two (Sessions 4-6): Escalation.** Khem's missions intensify. Plant surveillance equipment in a Jedi outreach center. Extract a Pureblood scholar from a research facility before the OFA transfers her to Coruscant. Deliver a sealed container to a dead-drop site without opening it. Each mission produces a visible benefit for the diaspora and an invisible advancement of Kreia's project. Talia Dresk's investigation tightens — she has noticed the pattern. The party is caught between Khem's resources (which the community needs) and Talia's scrutiny (which the community cannot survive). Elder Krenn warns the party. He does not have evidence. He has experience.
+
+**Act Three (Sessions 7-8): Revelation and Choice.** The party discovers what Khem is building. The sealed containers held components for a Force-severance device. The extracted scholar works on Force ecology disruption theory. Khem's network is not protecting the diaspora — it uses the diaspora as cover for the Triumvirate's operations. If the OFA connects the dots, the entire Pureblood community in the party's district faces collective punishment: mass detention, asset seizure, deportation to monitored settlements.
+
+**The Climax.** Expose Khem to the OFA (the community is protected from the Triumvirate but exposed to Concordat reprisal — Talia's superiors will use the exposure to justify expanded surveillance). Confront Khem directly (Khem argues his case: a post-Force galaxy is the only one where Purebloods stop being hunted, and the party must refute or accept the logic). Protect the community by cutting ties with both Khem and the OFA (the party goes underground, taking the community with them, burning every legal protection they have). Help Khem complete the project (the party accepts the Triumvirate's argument and becomes active participants in Force severance).
+
+**Mechanical Spine.** Act One: social scenes, Rapport and Contacts checks, small challenges. Act Two: espionage operations (Stealth, Deceive, Burglary), faction clocks for OFA investigation and Khem's project. Act Three: social conflict (Khem's argument vs. the party's values), faction clock resolution.
+
+---
+
+### Pitch 6: The Siege After the Siege
+**Military Operations + Reconstruction | 10 sessions | Regional scope**
+
+**Premise.** Onderon, three years after the Ashen Campaign's Second Siege devastated the planet. Concordat Military Governor Dael Varik administers the reconstruction from Iziz's royal palace. The Beast Riders of the highlands have resumed raiding supply convoys. Mandalorian auxiliary veterans — Onderon natives who fought for the Mandalorians during the wars — live in displacement camps outside Iziz's walls. The Concordat Senate has appropriated reconstruction funds. Sixty percent have been disbursed. No one can account for where thirty percent of that sixty went.
+
+**Key Characters.**
+- **Governor Dael Varik** (BBEG), Concordat military governor of Onderon. Wants Onderon stable enough to justify his promotion to a Core World posting. Also wants the missing reconstruction funds left uninvestigated — Varik did not steal the money, but he approved the disbursement to Czerka's local subsidiary without auditing the contracts, and discovery ends his career.
+- **Beast Rider Chief Kira Dendup** (ally/antagonist), leader of the highland raiders. Wants the Concordat off Onderon. Also wants medical supplies for her people — the Beast Riders suffered casualties during the Second Siege that they cannot treat without kolto, and raiding supply convoys is her only procurement method.
+- **Captain Jorus Fane** (wildcard), Mandalorian auxiliary veteran running the largest displacement camp. Wants Concordat citizenship for his people — full rights, not supervised residency. Also wants revenge against the Concordat officers who ordered his unit into a kill zone during the Second Siege and then classified the operation to avoid accountability.
+
+**Act One (Sessions 1-3): Assessment.** The party arrives on Onderon and surveys the situation. Iziz is functional but scarred. The displacement camps are overcrowded. Beast Rider raids hit a supply convoy every two weeks. Governor Varik is cooperative, organized, and evasive about finances. Kira Dendup's riders attack a convoy the party is escorting — the party's first combat, and the riders retreat before casualties mount. Jorus Fane approaches the party at the displacement camp with evidence that the Second Siege kill-zone order came from Varik's predecessor. The party begins investigating the missing funds.
+
+**Act Two (Sessions 4-7): Entanglement.** The financial investigation leads to Czerka's local subsidiary. The contracts are legal but structured to overpay Czerka by thirty percent. The overpayment funded Czerka's cortisis mining operation on Serroco, not Onderon's reconstruction. Varik knew. Varik did not profit personally. Varik approved the contracts because Czerka's subsidiary provides the only functioning construction workforce on Onderon, and rejecting the contracts means reconstruction stops.
+
+Beast Rider raids escalate. Kira Dendup captures a Concordat supply depot and fortifies it. Varik orders a military response. Jorus Fane's displacement camp residents volunteer to serve as Concordat auxiliaries against the Beast Riders — trading military service for citizenship, the same deal that got them into the kill zone three years ago. The party is pulled between the investigation, the military crisis, and the displacement camp's political gambit.
+
+**Act Three (Sessions 8-10): Resolution.** The party has enough information to destroy Governor Varik's career, ally with Kira Dendup's riders, secure Jorus Fane's citizenship petition, or some combination. Each choice costs something. Exposing Varik halts reconstruction. Allying with Kira validates armed resistance and costs Concordat trust. Securing Fane's citizenship through military service sends displaced veterans back into combat. The campaign's final sessions force the party to prioritize.
+
+**The Climax.** A three-way negotiation in Iziz's royal palace. Varik, Kira, and Fane at the same table. The party mediates or picks a side. The planet's reconstruction depends on the deal. No option satisfies all three.
+
+**Mechanical Spine.** Act One: investigation (Investigate, Contacts, Rapport) and one military contest (convoy defense). Act Two: espionage (Czerka audit trail), military conflict (depot siege), political contest (Fane's citizenship petition). Act Three: extended social conflict (three-way negotiation, each NPC has stress track and consequences, the party's accumulated advantages pay off here).
+
+---
+
+### Pitch 7: The Keepers' Bargain
+**Religious Schism + Archaeology | 9 sessions | Regional scope**
+
+**Premise.** The Keepers of Korriban are losing control. Dark-side energy concentration in the Valley of the Dark Lords has increased forty percent in two years. Tomb seals that held for millennia are failing. Ancient security systems activate without triggers. The Keepers' traditional methods — ritual maintenance, meditation vigils, Force-channeled containment — fail because the Force is failing. The Keepers' Head Keeper contacts the Jedi Enclave on Dantooine through a back channel unused for four hundred years. The message: we need help. The Jedi send the party.
+
+**Key Characters.**
+- **Head Keeper Adjara Massassi** (ally), the Valley's senior authority. Wants the tombs stabilized using any method that preserves the burial traditions. Also wants to prevent the Triumvirate from accessing the tomb of Ludo Kressh, because its contents include Force-severance research that predates Kreia's project by five thousand years.
+- **The Historian** (BBEG — Triumvirate agent, unnamed, masked, operates through intermediaries). Wants Ludo Kressh's tomb opened and its contents recovered. Also wants Head Keeper Adjara eliminated because her traditional authority is the only obstacle the Triumvirate cannot buy, bribe, or circumvent.
+- **Jedi Scholar Dorak** (wildcard), a Dantooine Enclave historian sent to assist the party. Wants to study the Valley's Force ecology before it degrades further. Also wants to destroy anything referencing Force severance, because Dorak believes the concept itself is too dangerous to preserve regardless of who controls it.
+
+**Act One (Sessions 1-3): The Valley.** The party arrives on Korriban and meets Head Keeper Adjara. The Valley is beautiful and wrong — the tombs' architecture is intact, but the Force signature has shifted. Meditation produces visions that do not correspond to known Sith history. The party assists with basic tomb maintenance: resealing wards, reinforcing structural supports, cataloguing damaged inscriptions. Dorak identifies anomalous energy patterns centered around Ludo Kressh's sealed tomb. The Triumvirate's intermediaries arrive as Czerka-funded "researchers" with legitimate archaeological permits.
+
+**Act Two (Sessions 4-6): The Schism.** Head Keeper Adjara refuses to open Ludo Kressh's tomb. Dorak supports her refusal for different reasons (Adjara protects tradition; Dorak fears the contents). The Czerka researchers push for access through legal channels. The party investigates the researchers and discovers Triumvirate connections. Meanwhile, the Valley's degradation accelerates: a minor tomb collapses, releasing a dark-side burst that one of the Keepers absorbs. The Keeper survives but is changed — her Force perception has inverted, and she describes the dark side as "the only thing still working." Two younger Keepers defect to the Czerka researchers' camp, arguing that traditional methods are failing.
+
+**Act Three (Sessions 7-9): The Tomb.** Ludo Kressh's tomb opens — through the party's choice, the defecting Keepers' action, or the Historian's sabotage of the remaining seals. The tomb interior follows the five-room archaeology framework: approach (dark-side pressure, Will at Superb +5), guardian (a Sith construct testing philosophical understanding — Lore checks against Kressh's recorded challenges), puzzle (the Force-severance research requires both Sith and Jedi training to read — Adjara and Dorak must cooperate), complication (the Historian arrives with armed support), prize and price (the research itself, describing a method for severing the Force's connection to a specific geographic region).
+
+**The Climax.** The party holds Force-severance research. Adjara wants it sealed with proper funerary rites. Dorak wants it destroyed. The Historian offers the party something they want in exchange. The party decides who gets a weapon that could save or destroy the Force.
+
+**Mechanical Spine.** Act One: investigation + archaeology challenges. Act Two: social conflict (Keeper schism), espionage (Triumvirate investigation), faction clocks (Valley degradation, Triumvirate access). Act Three: five-room archaeology challenge + conflict (Triumvirate confrontation) + political decision.
+
+---
+
+### Pitch 8: The Outer Rim Run
+**Space Opera + Espionage + Trade | 10 sessions | Regional scope**
+
+**Premise.** Kaeranth assigns the party to establish a covert supply line between three Remnant-aligned worlds on the Outer Rim. The official mission: recruit sympathetic merchants, negotiate kolto contracts, and map safe hyperspace routes that avoid Concordat patrol corridors. The real mission, revealed in session 3: identify which Remnant supply officer has been selling patrol schedules to Concordat Intelligence. Someone in the Remnant's logistics chain is a mole. Kaeranth cannot investigate openly without alerting the mole.
+
+**Key Characters.**
+- **Commander Rayla Qel** (BBEG), Remnant supply officer commanding the logistics hub at Dantooine Station. Wants the supply line operational. Also wants the Remnant to negotiate a ceasefire with the Concordat, and she has been feeding patrol schedules to a Concordat intelligence contact as proof of good faith — not for money, but because she believes the war is unwinnable and Kaeranth's loyalty to Revan is going to get the fleet killed.
+- **Merchant Captain Dol Ress** (ally), an independent freighter captain running kolto between Manaan and the frontier. Wants profitable Remnant contracts. Also wants the Concordat to stop harassing her shipping lanes — she has been paying customs bribes for two years and the cost eats her margins.
+- **Carth Onasi** (wildcard), Remnant intelligence officer who checks in at act breaks. Wants the mole identified. Also wants the party to understand that the mole's motivations might be sympathetic — Carth has his own doubts about Revan's fitness for command, and he needs the party to make the call he cannot make objectively.
+
+**Act One (Sessions 1-3): The Route.** The party travels the three-world circuit: Dantooine Station, a frontier mining colony, and a Mid Rim trade post. Each world presents a trade challenge and introduces NPCs. Commander Qel is helpful, competent, and manages logistics with visible skill. Kaeranth's encrypted message arrives in session 3: the mole exists, the party is the investigation team, trust no one at Dantooine Station.
+
+**Act Two (Sessions 4-7): The Hunt.** The party runs the supply line while investigating five potential moles. Each suspect has motive: Qel (ceasefire advocate), a comm officer (gambling debts), a shuttle pilot (Concordat family), a dock supervisor (ideology), a medical officer (captured by OFA and released under suspicious conditions). Investigate, Empathy, and Deceive checks narrow the field. A supply run goes wrong: the Concordat intercepts a convoy using patrol schedule information only Dantooine Station personnel could have leaked.
+
+**Act Three (Sessions 8-10): The Confrontation.** The party identifies Commander Qel. The evidence is circumstantial but compelling. Qel does not deny it. She argues: Revan is deteriorating, the fleet shrinks monthly, the Concordat offers terms that preserve Remnant judicial autonomy, and Kaeranth refuses to negotiate because Kaeranth's loyalty is personal, not strategic. Qel's argument is rational. Qel's method is treason.
+
+**The Climax.** Report Qel to Kaeranth (military tribunal, the supply line loses its most competent officer, the ceasefire possibility dies). Help Qel defect (the Remnant loses Dantooine Station's logistics capacity, Qel's ceasefire channel might produce a real negotiation). Cover for Qel (the party becomes complicit in treason but preserves the supply line and keeps the ceasefire option alive). Confront Kaeranth with Qel's argument (force the Remnant's leadership to address the strategic question Qel raised).
+
+**Mechanical Spine.** Act One: trade contests (Rapport, Resources), navigation challenges (Pilot, Crafts). Act Two: espionage investigation (Investigate, Empathy, Deceive), military contests (patrol evasion). Act Three: social conflict (Qel's argument vs. the party's loyalty) + political decision with Kaeranth.
+
+---
+
+## Long Campaigns (13-20 Sessions)
+
+### Pitch 9: The Flotilla
+**Military Operations + Space Opera + Espionage | 16 sessions | Galactic scope**
+
+**Premise.** A Sith remnant flotilla — twelve warships, four thousand personnel, no home port — has drifted the Outer Rim for twelve years since the Great Hyperspace War's end. The flotilla's commander, Admiral Veshka Massassi, is dying. Cancer, not combat. She has six months. The flotilla needs a future. Five factions have made offers. The party are officers aboard the flagship who will shape which offer the flotilla accepts — or whether it rejects all five.
+
+**Key Characters.**
+- **Admiral Veshka Massassi** (tragic figure/patron). Wants her people to survive her death. Also wants a successor who understands that the Mandalorian future requires something besides warfare — but she cannot say this publicly without undermining the flotilla's martial identity.
+- **Concordat Ambassador Torin Valis** (antagonist). Wants the flotilla to defect and integrate into the Concordat military. Also wants the flotilla's navigational data — twelve years of Outer Rim charting has produced maps the Concordat lacks, including a route to a system the Concordat has been searching for.
+- **"The Historian"** (BBEG), a Kissai scholar embedded in the flotilla's cultural preservation office for three years. Wants the flotilla to travel to specific coordinates he claims hold a Sith temple that could restore Force connections for Purebloods. The temple does not exist. The coordinates lead to a Triumvirate facility. Kreia wants the flotilla's personnel for a mass Force-severance experiment.
+- **Carth Onasi** (wildcard), representing Kaeranth's offer. Wants the flotilla to join the Remnant. Also wants to inspect the flotilla for Triumvirate infiltration — Carth's 27-incident file includes a pattern matching the Historian's operational signature.
+
+**Act One (Sessions 1-4): The Offers.** Each faction presents its case across four sessions. The Concordat offers amnesty and integration. The Remnant offers alliance and purpose. The Neo-Mandalorian Coalition offers mercenary contracts. The Hutt Cartels offer employment and autonomy. The Historian's offer comes last and privately: a pilgrimage to restore what was lost. Faction clocks begin: Concordat patience (8 segments), Remnant trust (6 segments), Admiral Veshka's health (10 segments, one per session).
+
+**Act Two (Sessions 5-10): The Investigation.** The party investigates the five offers while managing the flotilla's daily operations. Ship combat: a pirate attack tests combat readiness. Supply crisis: kolto reserves hit critical. The Historian's cover cracks — inconsistencies in the cultural preservation records. Carth shares intelligence about the 27 incidents. The party must investigate the Historian without alerting the flotilla's crew, because the Historian has spent three years building trust among the Kissai scholars who form the flotilla's cultural backbone.
+
+**Act Three (Sessions 11-14): The Fracture.** Admiral Veshka's health deteriorates. The flotilla's officers split into factions. The party has identified the Historian as a Triumvirate agent but must decide what to do with that knowledge. The Historian argues Kreia's case: the Force has been killing Sith Purebloods for millennia by making them targets, and severing the Force is liberation.
+
+**Act Four (Sessions 15-16): The Decision.** Admiral Veshka dies or becomes incapacitated. The party chooses the flotilla's future. The final session shows immediate consequences: the integration ceremony and its cultural cost, the Remnant alliance's first joint operation, the Unknown Regions jump and what the coordinates reveal, or the flotilla's independence declaration and the vulnerability it creates.
+
+**The Climax.** The party chooses for four thousand people. The campaign's accumulated relationships, intelligence, and moral positions converge in a single decision sixteen sessions in the making.
+
+**Mechanical Spine.** Act One: social scenes, faction clock introduction. Act Two: military conflict (pirate attack), trade challenge (supply crisis), espionage investigation (the Historian). Act Three: social conflict (flotilla debate), Will checks (the Historian's argument). Act Four: faction clock resolution.
+
+---
+
+### Pitch 10: Kreia's Web
+**Espionage + Dirty Hands + Horror | 18 sessions | Galactic scope**
+
+**Premise.** The party works for Kreia. They may not know it. A handler recruited each party member separately with a cover story tailored to their motivations: the ex-Jedi received answers about the Force crisis. The Sith Pureblood received diaspora protection work. The fixer received a well-paying corporate espionage contract. The Force-sensitive civilian received someone looking out for people like him. Each cover story is partially true. None mention Kreia, the Triumvirate, or Force severance.
+
+**Key Characters.**
+- **Kreia** (BBEG — absent for twelve sessions). Wants managed severance of the Force from the galaxy. Also wants to be proven wrong — Kreia's framework depends on the premise that no one can build a healthy relationship with the Force, and the party is her test case.
+- **Handler Atton Rand** (ally/antagonist). Wants missions completed cleanly. Also wants to protect the party from the truth as long as possible, because Atton knows what happened to the last team that learned about Kreia's project and tried to leave.
+- **Darth Nihilus** (force of nature — not a character, an event). Wants to feed. Nihilus has no second want. He is the Horror genre's contribution: proof that Force severance has consequences Kreia has not calculated. The party encounters Nihilus's aftermath twice. The second time, they are close enough to feel it.
+- **Visas Marr** (wildcard), a Miraluka survivor of Nihilus's feeding. Wants Nihilus destroyed. Also wants to understand why she survived when her colony did not, and the answer connects to Kreia's project in ways Visas has not grasped.
+
+**Act One (Sessions 1-4): The Missions.** The party completes missions for the handler. Each appears benign: redirect a kolto shipment, extract a researcher, plant a listening device, deliver a sealed container. The missions use Espionage and Dirty Hands mechanics: social infiltration, create advantage for faction intelligence, small-scale heists. The party notices connections — the researcher they extracted cited the kolto shipment in her work, the listening device captured a conversation about the container. The pattern emerges but stays incomplete.
+
+**Act Two (Sessions 5-10): The Pattern.** Missions escalate. Eliminate a researcher close to mapping dead zone expansion. Sabotage a Concordat sensor array monitoring Force energy. Retrieve an artifact from a Korriban tomb the Keepers forbid outsiders from entering. Each mission carries higher moral cost. The party's covers begin to interact: the ex-Jedi's investigation finds evidence pointing toward her own handler's network.
+
+The party encounters Nihilus's aftermath: a colony of ninety Force-sensitives, dead, their Force presence consumed. Meals on tables. Ships in hangars. Ninety bodies with no visible cause of death. Atton calls it an "uncontrolled variable."
+
+**Act Three (Sessions 11-14): The Revelation.** The party pieces together the conspiracy. The missions served a single purpose: preparing infrastructure for Force-severance tests at increasing scale. Kolto shipments funded research facilities. Researchers advanced disruption theory. Artifacts provided power sources. Sensor sabotage blinded the Concordat's early warning systems. Kreia's project is further along than anyone outside the Triumvirate knows.
+
+The party encounters Nihilus's aftermath a second time. Closer. Fewer survivors. They describe the Force draining from their bodies like warmth leaving a room.
+
+**Act Four (Sessions 15-18): The Choice.** Kreia appears and makes her case directly. The conversation is the campaign's intellectual climax — Kreia's arguments tested against eighteen sessions of accumulated experience.
+
+The operational climax follows: expose the Triumvirate to the Concordat (Kreia's project dies, OFA surveillance expands). Join Kreia and manage the severance (the party becomes architects of a post-Force galaxy). Destroy Kreia's infrastructure from inside (the party sabotages the project with full knowledge of its operations). Find Nihilus (a Horror-genre final act where the party enters Nihilus's territory).
+
+**The Climax.** Kreia asks: "Was I wrong?" The party answers with eighteen sessions of evidence.
+
+**Mechanical Spine.** Act One: espionage challenges (Deceive, Stealth, Contacts). Act Two: escalating moral pressure (Dirty Hands compels), investigation (Investigate, Lore), Horror encounter (mental stress, Will at Superb +5). Act Three: revelation scenes (social, Empathy, Will). Act Four: social conflict (Kreia) + military/espionage challenge or Horror confrontation, faction clock resolution.
+
+---
+
+### Pitch 11: The Force Crisis
+**Force Mystery + Political Intrigue + Space Opera | 20 sessions | Galactic scope**
+
+**Premise.** The party investigates the Force crisis. Not as scholars in a library — as operatives crossing faction lines, entering dead zones, consulting every living expert, and assembling the truth from fragments no single faction possesses. The campaign visits every major world. The party meets Jolee Bindo, Kreia, the Baran Do Sages, the Jedi Council, Malak, and Kaeranth. Each holds a piece. None hold all of it. The party does — by the end.
+
+**Key Characters.**
+- **The Force Crisis itself** (BBEG — systemic, not personal). Dead zones expand. Force healing fails. Hyperspace navigation degrades. Miraluka go blind. The party fights entropy.
+- **Jolee Bindo** (ally), hermit in the Kashyyyk Shadowlands. Wants to be left alone. Also wants someone to investigate his observation: the Shadowlands' Force ecology is stable while the galaxy's collapses.
+- **Kreia** (antagonist/philosophical counterpoint). Wants the Force to die. Also wants the party to prove her wrong, because Kreia subjects her own conclusions to testing.
+- **Malak** (wildcard). Wants the Force crisis contained because it threatens Concordat stability. Also wants the Star Map data the party will accumulate, because the maps lead to the Star Forge, and Malak has plans for the Star Forge he has not shared with anyone.
+
+**Act One (Sessions 1-5): The Symptoms.** The party begins with a specific Force crisis incident and follows the evidence outward. Each session visits a different world and consults a different expert. Dantooine: the Jedi Enclave's Star Map and Force ecology researchers. Kashyyyk: Jolee Bindo's Shadowlands observation. Dorin: the Baran Do Sages' failed forecasts. Each provides a fragment and a referral. The party builds a research aspect: "Fragments of the Force Crisis Truth" with free invokes accumulating across sessions.
+
+**Act Two (Sessions 6-12): The Theories.** The party has enough evidence to identify four competing theories: Jedi scholars (usage accelerates damage), Sith scholars (the light/dark binary broke the relationship), Revan's scar tissue theory (the Force is an ecosystem, dead zones are an immune response), and Kreia's position (the Force enslaves, and its death is liberation). Each theory is testable. The party designs and conducts tests: enter a dead zone with instruments (Horror sessions), examine Star Map energy signatures (Archaeology sessions), negotiate Jedi-Sith scholarly cooperation (Political Intrigue sessions), consult Revan through Kaeranth (Espionage sessions). The tests support multiple theories simultaneously.
+
+**Act Three (Sessions 13-17): The Convergence.** The party's investigation draws faction attention. Malak's OFA wants their data. Kaeranth wants Star Map findings. The Triumvirate wants to recruit them. The Jedi Council wants to suppress their research if it supports Kreia. The party navigates political pressure while pursuing the final phase: the Star Forge itself. The route to Lehon. What the Star Forge does to the Force.
+
+**Act Four (Sessions 18-20): The Answer.** The party reaches the Star Forge on Lehon. Active, consuming Force energy at a rate accounting for a significant portion of the crisis. The Rakata built it to harvest the Force. It has been running for thirty thousand years. The party decides: destroy the Star Forge (stops the drain, does not reverse existing damage), redirect it (attempt to heal the Force — risky, untested), let Kreia use it (managed severance at galactic scale), or give it to Malak (the Concordat gains the most powerful weapon in the galaxy).
+
+**The Climax.** The party holds the answer to the galaxy's most important question, and the answer requires a choice no faction authorized. Twenty sessions of evidence converge in a Rakatan facility thirty thousand years old.
+
+**Mechanical Spine.** Act One: investigation challenges across worlds (Investigate, Lore, Rapport). Act Two: multi-genre rotation (Horror, Archaeology, Political Intrigue, Espionage). Act Three: faction clock pressure from all five major factions, Space Opera transit. Act Four: archaeology challenge (Star Forge), social conflict (faction representatives argue cases), final challenge or conflict.
+
+---
+
+### Pitch 12: The New Mandalore
+**Political Intrigue + Frontier Survival + Military Operations | 15 sessions | Regional scope**
+
+**Premise.** Canderous Ordo is fifty-three years old and leads the Neo-Mandalorian Coalition from hidden bases without territory, governance, or a plan beyond refusing to submit. Twelve thousand warriors follow him because he killed Mandalore the Ultimate in single combat. But Canderous has no heir, no succession protocol, and no answer to the question his own people ask: what are we fighting for? The party are Mandalorians — born, adopted, or allied — arriving at a gathering of the clans. Canderous called the gathering. He did not tell anyone that he called it because a physician told him his combat injuries have caused organ damage that will kill him within two years if he continues leading raids.
+
+**Key Characters.**
+- **Canderous Ordo** (tragic figure/patron), Mandalore the Vindicated. Wants the Coalition to survive him. Also wants a successor who understands that the Mandalorian future requires something besides warfare — but he cannot say this publicly without undermining the Coalition's martial identity.
+- **Cassus Fett** (BBEG), Clan Fett's leader and the Coalition's most accomplished strategist. Wants to succeed Canderous and transform the Coalition into a conquering force that reclaims territory from the Concordat. Also wants Veera Ordo's alliance — Cassus has proposed marriage between Clan Fett and Clan Ordo, and Veera has not yet refused.
+- **Veera Ordo** (ally), Canderous's clan steward and the Coalition's most effective administrator. Wants the Coalition to negotiate Mandalorian integration into the Concordat on Mandalorian terms. Also wants Canderous to stop fighting and accept medical treatment, but she lacks the authority to override him.
+- **Bralor Vizsla** (wildcard), a young clan chief from a minor clan. Wants a seat at the table for small clans that the Ordo-Fett rivalry has marginalized. Also wants to propose elected Mandalore with a governing council of clan chiefs — a proposal that will infuriate traditionalists and intrigue reformers.
+
+**Act One (Sessions 1-4): The Gathering.** The clans assemble at Dxun's gathering ground. Twelve clans, six thousand warriors at camp, six thousand holding garrison positions across the Outer Rim. Canderous opens the gathering with a speech that asks the question without answering it. Cassus Fett proposes a strike against a Concordat border garrison to prove the Coalition can project force. Veera Ordo proposes a diplomatic delegation to Coruscant. Bralor Vizsla proposes constitutional reform. The gathering fractures before the first day ends.
+
+**Act Two (Sessions 5-9): The Campaigns.** Each faction pursues its proposal. Cassus Fett launches a raid on the Concordat's garrison at Serroco (Military Operations: the party can join, sabotage, or warn the garrison). Veera Ordo dispatches diplomats to Coruscant (Political Intrigue: the party serves as envoys navigating Malak's staff). Bralor Vizsla campaigns among small clans (Frontier Survival: the outposts face supply crises Vizsla uses as evidence for reform).
+
+Canderous's health deteriorates visibly. He collapses during a sparring exhibition. The diagnosis becomes known to senior clan chiefs.
+
+**Act Three (Sessions 10-13): The Succession.** Cassus Fett claims his raid's result as proof of his fitness. Veera's diplomats return with (or without) Concordat terms. Vizsla's reform proposal reaches a vote among the small clans. The gathering becomes a political battlefield. The succession debate is a multi-session social conflict where every advantage the party created across the campaign pays off.
+
+**Act Four (Sessions 14-15): The New Mandalore.** The clans choose a successor. The party's accumulated influence — which chiefs trust them, which proposals they supported, which crises they resolved — determines the options. Cassus's Mandalore: military dictatorship aimed at Concordat territory. Veera's Mandalore: negotiated integration preserving cultural autonomy. Vizsla's Mandalore: a democratic experiment no Mandalorian generation has attempted. A compromise candidate (perhaps a party member) is something the setting's creators did not predict.
+
+**The Climax.** The gathering votes. Fifteen sessions of the party's choices determine the result. The new Mandalore steps forward. The Coalition's future begins.
+
+**Mechanical Spine.** Act One: social scenes (Rapport, Empathy, Provoke), faction clock introduction. Act Two: Military Operations conflict (Fett's raid), Political Intrigue contest (Ordo's diplomacy), Frontier Survival challenge (Vizsla's tour). Act Three: extended social conflict (succession debate, faction stress tracks). Act Four: faction clock resolution, final social conflict.
+
+---
+
+# PART VI: FATE AT THE TABLE
 
 ## Aspects as Campaign Architecture
 
@@ -988,7 +1292,7 @@ The GM rolls faction skills when faction-scale actions occur offscreen: the Conc
 
 ---
 
-# PART VI: RUNNING THE GAME
+# PART VII: RUNNING THE GAME
 
 ## Prep Philosophy: The Situation, Not the Story
 
@@ -1226,7 +1530,7 @@ Do not end sessions on resolution. End them on questions. "The kolto shipment is
 
 ---
 
-# PART VII: ALTERNATE CAMPAIGN FRAMES
+# PART VIII: ALTERNATE CAMPAIGN FRAMES
 
 ## Alternate Takes on the Post-Mandalorian War Galaxy
 
@@ -1281,66 +1585,6 @@ The setting book describes the Concordat Era at 3952 BBY. The GM is not obligate
 **Why run this:** Exploration and cosmic mystery. The Unknown Regions frame strips away the setting's political factions and replaces them with discovery: ancient technology, alien intelligences, and the possibility that everything the galaxy believes about the Force is incomplete. The campaign's central question: what did Revan find, and what did it cost him?
 
 **GM note:** This is the most demanding frame for the GM because it requires original worldbuilding beyond the setting book's scope. The Unknown Regions are undefined by design. The GM must populate them with civilizations, hazards, and discoveries that feel consistent with the setting's themes (the Force's fragility, the pattern of civilizations that build on the Force and collapse when it fails) without being prescribed by the source material.
-
----
-
-# PART VIII: EVIL CAMPAIGNS AND THE SITH
-
-## Running an Evil Campaign in the Concordat Era
-
-"Evil campaign" is a misnomer. The Concordat Era has factions that do evil things for reasons their members consider justified. The closest thing to a traditional evil campaign in this setting is a Sith campaign, but even that requires redefining what "Sith" means.
-
-### The Problem With "Evil"
-
-Traditional evil campaigns fail for a predictable reason: they give the players permission to act without consequences, and consequence-free action is boring. A party of cackling villains torturing innocents produces shock for about two sessions and tedium forever after. The problem is structural. Evil campaigns remove the tension that makes tabletop RPGs work: the tension between what the character wants and what the character can get away with.
-
-The Concordat Era solves this problem by refusing to offer a faction that is evil without qualification. The Sith in this setting are a people, a diaspora, a fractured military, a set of philosophical traditions, and (in the Triumvirate) a conspiracy with goals that might be correct. A Sith campaign offers a different lens on the same galaxy.
-
-### The Three Sith Campaigns
-
-#### 1. The Diaspora Campaign
-
-The party are Sith Purebloods navigating life in a galaxy that views their species as a threat. This is a campaign about identity, prejudice, survival, and the question of what "Sith" means when the Empire is ash.
-
-**Tone:** Immigrant narrative meets political thriller. The party members maintain cultural identity while navigating a galaxy that monitors, restricts, and fears them. Think The Americans crossed with a displacement narrative. The "evil" in this campaign is structural: the Concordat's Force-monitoring programs, the Republic's legacy of anti-Sith violence, the prejudice that makes a red-skinned engineer on Nar Shaddaa take a different route home when the patrol ships are out.
-
-**The party might include:** A Kissai scholar preserving traditions in a diaspora school. A Massassi veteran working as a mercenary because no one else will hire a former Sith soldier. A Zuguruk engineer whose technical skills are valued but whose heritage is hidden. A young Pureblood who's never seen Korriban and defines "Sith" through their grandmother's stories.
-
-**What drives the campaign:** The Triumvirate's agents contact the party. They offer something the diaspora desperately wants: organization, purpose, resources, and a path back to significance. The price is unclear. The party has to decide whether to accept help from people whose ultimate goals might not align with diaspora survival. Meanwhile, the Concordat's Office of Force Affairs is tightening its surveillance, and the party must navigate between compliance, resistance, and the possibility of a community that could become a target for a crackdown they didn't cause.
-
-**Why this works as a "Sith campaign":** The party's Sith identity is the source of conflict, but the conflict is political and personal rather than moral. The party isn't choosing between good and evil. They're choosing between safety and dignity, between assimilation and preservation, between accepting help from dangerous allies and going it alone.
-
-#### 2. The Remnant Military Campaign
-
-The party are officers or operatives in a Sith military remnant flotilla. They command ships, manage personnel, and pursue strategic objectives in a galaxy that considers them a defeated enemy.
-
-**Tone:** The Hunt for Red October in space. A military campaign where the party serves a command structure that has lost its state, its logistics, and its strategic context but has retained its discipline, its ships, and its institutional pride. The "evil" in this campaign is the question of what a professional military does when the cause it served no longer exists.
-
-**The party might include:** A fleet captain maintaining combat readiness with diminishing supplies. A Sith intelligence officer running operations without a government to report to. A ship's counselor (Kissai tradition) managing the spiritual health of a crew that has been in exile for twelve years. A weapons officer who was seventeen during the GHW and has spent her entire adult life aboard warships that have no home port.
-
-**What drives the campaign:** The flotilla receives an offer. From the Concordat (defect and receive amnesty). From the Remnant (join and fight a common enemy). From the Triumvirate (serve and receive a purpose). From Hutt Space (hire out as mercenaries and eat regularly). Each option has costs. The party advises their commander, executes operations, and eventually discovers that their flotilla possesses something every faction wants: intelligence, an artifact, a person, a navigational chart to something in the Unknown Regions. The campaign becomes a hunt, with the party as both predator and prey.
-
-**Why this works as a "Sith campaign":** The party's loyalties are to their ship, their crew, and the remnant of a civilization that the galaxy has written off. Their choices are driven by survival and institutional loyalty, not by dark-side philosophy. The "evil" label is something others apply to them based on species and heritage, not based on their actions.
-
-#### 3. The Triumvirate Campaign
-
-The party are Kreia's agents. They may not know it.
-
-**Tone:** Tinker Tailor Soldier Spy meets cosmic horror. An espionage campaign where the party operates within the Triumvirate's network, executing missions whose true purpose is hidden. The "evil" in this campaign is Kreia's endgame: the managed severance of the Force from the galaxy, a project that might save civilization or destroy it, depending on variables that Kreia herself hasn't fully calculated.
-
-**The party might include:** A former Jedi recruited by a Triumvirate contact who offered answers about the Force crisis. A Sith Pureblood intelligence operative who believes she's working for a diaspora protection network. A non-Force-sensitive fixer who was hired for a job and hasn't been told who's paying. A Force-sensitive civilian who was identified by Kreia's network as having a specific, rare relationship with the Force that makes them useful for reasons they don't understand.
-
-**What drives the campaign:** The party receives missions through handlers. Each mission advances Kreia's plan without revealing the plan. Redirect a kolto shipment. Eliminate a researcher who's close to understanding the Force crisis. Plant intelligence that will provoke a specific faction response. Deliver an artifact to a location the party isn't told about. Over time, the party pieces together the shape of the conspiracy they're part of. The campaign's central question becomes: now that you know what you're building, do you keep building it?
-
-**Why this works as a "Sith campaign":** Kreia is the most compelling antagonist in the KOTOR tradition because she might be right. A Triumvirate campaign forces the party to reckon with her arguments on their merits. If the Force is a dependency that makes civilizations fragile, if its death is inevitable regardless of what anyone does, if the only responsible action is to prepare the galaxy for a post-Force existence, then Kreia's project is the most important work in the galaxy. If she's wrong about any of those premises, her project is a genocide of Force-sensitive peoples disguised as liberation. The party's job is to figure out which.
-
-### What Makes These Different From the Standard Campaign
-
-The standard Concordat Era campaign (the Freighter Incident opening, the mixed-faction party) asks: what kind of galaxy should this be? The Sith campaigns ask a different question: who gets to decide?
-
-A standard party argues about the Concordat's legitimacy from outside the power structures. A Sith party argues about it from underneath. The Concordat monitors them. The Remnant views them with suspicion. The Mandalorians might respect them or hunt them depending on clan. The galaxy's political debates look different when your species is the one being debated about.
-
-The GM running a Sith campaign should remember: the party's choices define their moral position, not their faction. A Sith Pureblood kolto merchant who heals people regardless of faction is morally indistinguishable from a Jedi healer. A Jedi Sentinel who assassinates a political target on Council orders is morally indistinguishable from a Sith assassin. Factions assign the labels. The characters choose the ethics.
 
 ---
 
